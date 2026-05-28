@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 701,
+    "word": "independent",
+    "meaning": "（〜から）独立している（of〜）",
+    "examples": [
+      {
+        "en": "She wants to be independent of her parents.",
+        "ja": "彼女は両親から独立したいと思っています。"
+      },
+      {
+        "en": "The country became independent after a long struggle.",
+        "ja": "その国は長い苦闘の後に独立しました。"
+      },
+      {
+        "en": "This project is independent of the main plan.",
+        "ja": "この企画は主要な計画とは独立しています。"
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "word": "rely",
+    "meaning": "（〜に）頼る、あてにする（on/upon〜）",
+    "examples": [
+      {
+        "en": "You can rely on him in an emergency.",
+        "ja": "緊急時には彼を頼ることができます。"
+      },
+      {
+        "en": "Small children rely on adults for help.",
+        "ja": "小さな子どもは助けを大人に頼ります。"
+      },
+      {
+        "en": "Do not rely only on online translation.",
+        "ja": "オンライン翻訳だけに頼ってはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 703,
+    "word": "count on",
+    "meaning": "〜をあてにする、頼りにする",
+    "examples": [
+      {
+        "en": "You can count on me to finish the work.",
+        "ja": "その仕事を終わらせることについては私を頼って大丈夫です。"
+      },
+      {
+        "en": "We counted on good weather, but it rained.",
+        "ja": "私たちはよい天気をあてにしていましたが、雨が降りました。"
+      },
+      {
+        "en": "She is the kind of friend I can count on.",
+        "ja": "彼女は私が頼りにできる友人です。"
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "word": "trust",
+    "meaning": "〜を信用する；信用",
+    "examples": [
+      {
+        "en": "I trust my teacher's advice.",
+        "ja": "私は先生の助言を信用しています。"
+      },
+      {
+        "en": "Trust is important in any team.",
+        "ja": "信用はどんなチームにおいても重要です。"
+      },
+      {
+        "en": "He trusted her with the secret.",
+        "ja": "彼はその秘密を彼女に託しました。"
+      }
+    ]
+  },
+  {
+    "id": 705,
+    "word": "compete",
+    "meaning": "競争する",
+    "examples": [
+      {
+        "en": "Many students compete for the scholarship.",
+        "ja": "多くの学生がその奨学金をめぐって競争します。"
+      },
+      {
+        "en": "Our team will compete in the final match.",
+        "ja": "私たちのチームは決勝戦で競います。"
+      },
+      {
+        "en": "Small shops must compete with large stores.",
+        "ja": "小さな店は大型店と競争しなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "word": "press",
+    "meaning": "押す；強く求める；新聞・雑誌、報道",
+    "examples": [
+      {
+        "en": "Press this button to start the machine.",
+        "ja": "機械を始動するにはこのボタンを押してください。"
+      },
+      {
+        "en": "The reporter works for the local press.",
+        "ja": "その記者は地方紙で働いています。"
+      },
+      {
+        "en": "They pressed the government for a quick answer.",
+        "ja": "彼らは政府に早急な回答を強く求めました。"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "word": "impress",
+    "meaning": "印象づける、感動させる",
+    "examples": [
+      {
+        "en": "Her presentation impressed everyone in the room.",
+        "ja": "彼女の発表は部屋にいた全員に強い印象を与えました。"
+      },
+      {
+        "en": "The beautiful view impressed the visitors.",
+        "ja": "美しい景色は訪問者たちを感動させました。"
+      },
+      {
+        "en": "He tried to impress his teacher with a clear answer.",
+        "ja": "彼は明確な答えで先生に好印象を与えようとしました。"
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "word": "express",
+    "meaning": "表に出す、表現する",
+    "examples": [
+      {
+        "en": "She expressed her opinion clearly.",
+        "ja": "彼女は自分の意見をはっきり表現しました。"
+      },
+      {
+        "en": "It is hard to express this feeling in words.",
+        "ja": "この気持ちを言葉で表すのは難しいです。"
+      },
+      {
+        "en": "He expressed thanks to his friends.",
+        "ja": "彼は友人たちに感謝を表しました。"
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "word": "oppress",
+    "meaning": "圧迫する、虐げる",
+    "examples": [
+      {
+        "en": "The old law oppressed poor workers.",
+        "ja": "その古い法律は貧しい労働者を虐げていました。"
+      },
+      {
+        "en": "People should not be oppressed because of their beliefs.",
+        "ja": "人は信念を理由に虐げられるべきではありません。"
+      },
+      {
+        "en": "The heat and noise oppressed the travelers.",
+        "ja": "暑さと騒音が旅行者たちを圧迫しました。"
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "word": "suppress",
+    "meaning": "抑える、抑圧する",
+    "examples": [
+      {
+        "en": "He tried to suppress his anger.",
+        "ja": "彼は怒りを抑えようとしました。"
+      },
+      {
+        "en": "The government suppressed the protest.",
+        "ja": "政府はその抗議活動を抑圧しました。"
+      },
+      {
+        "en": "This medicine suppresses pain for a few hours.",
+        "ja": "この薬は数時間痛みを抑えます。"
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "word": "threat",
+    "meaning": "脅し、脅威",
+    "examples": [
+      {
+        "en": "Climate change is a serious threat to many islands.",
+        "ja": "気候変動は多くの島々にとって深刻な脅威です。"
+      },
+      {
+        "en": "He received a threat by email.",
+        "ja": "彼はメールで脅しを受けました。"
+      },
+      {
+        "en": "The company sees the new rival as a threat.",
+        "ja": "その会社は新しい競争相手を脅威と見ています。"
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "word": "menace",
+    "meaning": "脅威",
+    "examples": [
+      {
+        "en": "The broken bridge was a menace to drivers.",
+        "ja": "壊れた橋は運転者にとって脅威でした。"
+      },
+      {
+        "en": "Air pollution is a menace to public health.",
+        "ja": "大気汚染は公衆衛生への脅威です。"
+      },
+      {
+        "en": "The dog looked like a menace, but it was friendly.",
+        "ja": "その犬は脅威のように見えましたが、人なつっこかったです。"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "word": "tame",
+    "meaning": "飼いならす；飼いならされた",
+    "examples": [
+      {
+        "en": "The farmer tamed the wild horse.",
+        "ja": "農夫はその野生の馬を飼いならしました。"
+      },
+      {
+        "en": "The tame bird sat on her hand.",
+        "ja": "飼いならされた鳥は彼女の手に止まりました。"
+      },
+      {
+        "en": "It takes time to tame a scared animal.",
+        "ja": "おびえた動物を飼いならすには時間がかかります。"
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "word": "superior",
+    "meaning": "〜より優れている（to〜）",
+    "examples": [
+      {
+        "en": "This camera is superior to the old model.",
+        "ja": "このカメラは古いモデルより優れています。"
+      },
+      {
+        "en": "She has superior skills in writing.",
+        "ja": "彼女は文章を書く面で優れた技能を持っています。"
+      },
+      {
+        "en": "The new material is superior in strength.",
+        "ja": "その新素材は強度の点で優れています。"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "word": "inferior",
+    "meaning": "〜より劣っている（to〜）",
+    "examples": [
+      {
+        "en": "This product is inferior to the original one.",
+        "ja": "この製品は元のものより劣っています。"
+      },
+      {
+        "en": "Do not feel inferior because of one mistake.",
+        "ja": "一つの失敗で劣っていると感じる必要はありません。"
+      },
+      {
+        "en": "The cheap paper is inferior in quality.",
+        "ja": "その安い紙は品質の点で劣っています。"
+      }
+    ]
+  },
+  {
+    "id": 716,
+    "word": "surpass",
+    "meaning": "〜より優れる、〜を越える",
+    "examples": [
+      {
+        "en": "Her score surpassed everyone's expectations.",
+        "ja": "彼女の点数はみんなの予想を超えました。"
+      },
+      {
+        "en": "The new record surpassed the old one by two seconds.",
+        "ja": "その新記録は旧記録を2秒上回りました。"
+      },
+      {
+        "en": "His kindness surpassed anything I had imagined.",
+        "ja": "彼の親切さは私の想像をはるかに超えていました。"
+      }
+    ]
+  },
+  {
+    "id": 717,
+    "word": "excel",
+    "meaning": "優れる",
+    "examples": [
+      {
+        "en": "She excels at math and science.",
+        "ja": "彼女は数学と理科が得意です。"
+      },
+      {
+        "en": "He worked hard to excel in his field.",
+        "ja": "彼は自分の分野で優れるために努力しました。"
+      },
+      {
+        "en": "The school excels in language education.",
+        "ja": "その学校は語学教育で優れています。"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "word": "perceive",
+    "meaning": "知覚する、感じ取る；認識する",
+    "examples": [
+      {
+        "en": "I perceived a change in her voice.",
+        "ja": "私は彼女の声の変化を感じ取りました。"
+      },
+      {
+        "en": "People may perceive the same event differently.",
+        "ja": "人々は同じ出来事を違って認識することがあります。"
+      },
+      {
+        "en": "He perceived a faint smell of smoke.",
+        "ja": "彼はかすかな煙のにおいを感じ取りました。"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "word": "conceive",
+    "meaning": "考えだす、考案する；心に抱く",
+    "examples": [
+      {
+        "en": "The engineer conceived a new type of robot.",
+        "ja": "その技術者は新しい種類のロボットを考案しました。"
+      },
+      {
+        "en": "It is hard to conceive of life without the Internet.",
+        "ja": "インターネットのない生活を想像するのは難しいです。"
+      },
+      {
+        "en": "She conceived the idea during a train ride.",
+        "ja": "彼女は電車に乗っている間にその考えを思いつきました。"
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "word": "deceive",
+    "meaning": "だます",
+    "examples": [
+      {
+        "en": "The fake message deceived many users.",
+        "ja": "その偽のメッセージは多くの利用者をだましました。"
+      },
+      {
+        "en": "Do not deceive people to make money.",
+        "ja": "お金を得るために人をだましてはいけません。"
+      },
+      {
+        "en": "His calm face deceived us about his fear.",
+        "ja": "彼の落ち着いた顔つきのせいで、私たちは彼の恐怖に気づきませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 721,
+    "word": "sense",
+    "meaning": "感覚；判断力、思慮；意味；〜に感づく",
+    "examples": [
+      {
+        "en": "Dogs have a strong sense of smell.",
+        "ja": "犬は鋭い嗅覚を持っています。"
+      },
+      {
+        "en": "Her words made no sense to me.",
+        "ja": "彼女の言葉は私には意味が分かりませんでした。"
+      },
+      {
+        "en": "I sensed that something was wrong.",
+        "ja": "私は何かがおかしいと感じ取りました。"
+      }
+    ]
+  },
+  {
+    "id": 722,
+    "word": "sensitive",
+    "meaning": "敏感な（to〜）",
+    "examples": [
+      {
+        "en": "My skin is sensitive to sunlight.",
+        "ja": "私の肌は日光に敏感です。"
+      },
+      {
+        "en": "Be sensitive to other people's feelings.",
+        "ja": "他人の気持ちに敏感でありなさい。"
+      },
+      {
+        "en": "This sensor is sensitive to small changes in temperature.",
+        "ja": "このセンサーは温度の小さな変化に敏感です。"
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "word": "sensible",
+    "meaning": "分別のある、賢明な",
+    "examples": [
+      {
+        "en": "It was sensible to bring an umbrella.",
+        "ja": "傘を持ってきたのは賢明でした。"
+      },
+      {
+        "en": "She gave me sensible advice.",
+        "ja": "彼女は私に分別のある助言をくれました。"
+      },
+      {
+        "en": "A sensible person checks the facts first.",
+        "ja": "分別のある人はまず事実を確認します。"
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "word": "sensation",
+    "meaning": "感覚；物議、騒動",
+    "examples": [
+      {
+        "en": "I felt a strange sensation in my hand.",
+        "ja": "私は手に奇妙な感覚を覚えました。"
+      },
+      {
+        "en": "The news caused a sensation online.",
+        "ja": "そのニュースはネット上で大きな話題を呼びました。"
+      },
+      {
+        "en": "Cold water gives a sharp sensation on the skin.",
+        "ja": "冷たい水は肌に鋭い感覚を与えます。"
+      }
+    ]
+  },
+  {
+    "id": 725,
+    "word": "visual",
+    "meaning": "視覚の",
+    "examples": [
+      {
+        "en": "The chart gives a visual explanation of the data.",
+        "ja": "そのグラフはデータを視覚的に説明しています。"
+      },
+      {
+        "en": "Visual information is easy to remember.",
+        "ja": "視覚情報は覚えやすいです。"
+      },
+      {
+        "en": "The movie has amazing visual effects.",
+        "ja": "その映画にはすばらしい視覚効果があります。"
+      }
+    ]
+  },
+  {
+    "id": 726,
+    "word": "visible",
+    "meaning": "目に見える",
+    "examples": [
+      {
+        "en": "The mountain is visible from my window.",
+        "ja": "その山は私の窓から見えます。"
+      },
+      {
+        "en": "There was no visible damage to the car.",
+        "ja": "その車には目に見える損傷はありませんでした。"
+      },
+      {
+        "en": "The stars were clearly visible tonight.",
+        "ja": "今夜は星がはっきり見えました。"
+      }
+    ]
+  },
+  {
+    "id": 727,
+    "word": "revise",
+    "meaning": "改訂する、修正する",
+    "examples": [
+      {
+        "en": "I revised my essay before submitting it.",
+        "ja": "私は提出する前に作文を修正しました。"
+      },
+      {
+        "en": "The company revised its safety rules.",
+        "ja": "その会社は安全規則を改訂しました。"
+      },
+      {
+        "en": "Please revise this sentence to make it clearer.",
+        "ja": "この文をより分かりやすくするために修正してください。"
+      }
+    ]
+  },
+  {
+    "id": 728,
+    "word": "devise",
+    "meaning": "考案する",
+    "examples": [
+      {
+        "en": "The students devised a simple experiment.",
+        "ja": "学生たちは簡単な実験を考案しました。"
+      },
+      {
+        "en": "We need to devise a better plan.",
+        "ja": "私たちはよりよい計画を考案する必要があります。"
+      },
+      {
+        "en": "She devised a new way to memorize words.",
+        "ja": "彼女は単語を覚える新しい方法を考案しました。"
+      }
+    ]
+  },
+  {
+    "id": 729,
+    "word": "sight",
+    "meaning": "視覚、視力；光景；名所",
+    "examples": [
+      {
+        "en": "The lake was a beautiful sight at sunset.",
+        "ja": "夕暮れ時の湖は美しい光景でした。"
+      },
+      {
+        "en": "He lost sight of his friend in the crowd.",
+        "ja": "彼は人混みの中で友人を見失いました。"
+      },
+      {
+        "en": "Kyoto has many famous sights.",
+        "ja": "京都には有名な名所がたくさんあります。"
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "word": "stare",
+    "meaning": "（じろじろ）見つめる（at〜）",
+    "examples": [
+      {
+        "en": "Do not stare at people on the train.",
+        "ja": "電車の中で人をじろじろ見つめてはいけません。"
+      },
+      {
+        "en": "He stared at the screen for a long time.",
+        "ja": "彼は長い間画面を見つめていました。"
+      },
+      {
+        "en": "The child stared at the strange animal.",
+        "ja": "その子どもは奇妙な動物をじっと見つめました。"
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "word": "gaze",
+    "meaning": "（うっとりして・ぼーっと）見つめる（at〜）",
+    "examples": [
+      {
+        "en": "She gazed at the stars in silence.",
+        "ja": "彼女は黙って星を見つめました。"
+      },
+      {
+        "en": "He gazed out of the window during class.",
+        "ja": "彼は授業中に窓の外をぼんやり見つめていました。"
+      },
+      {
+        "en": "The tourists gazed at the old temple.",
+        "ja": "観光客たちはその古い寺をじっと眺めました。"
+      }
+    ]
+  },
+  {
+    "id": 732,
+    "word": "glance",
+    "meaning": "（意識的に）ちらりと見る（at〜）",
+    "examples": [
+      {
+        "en": "She glanced at her watch.",
+        "ja": "彼女は腕時計をちらりと見ました。"
+      },
+      {
+        "en": "He glanced around the room before speaking.",
+        "ja": "彼は話す前に部屋をさっと見回しました。"
+      },
+      {
+        "en": "I took a quick glance at the message.",
+        "ja": "私はそのメッセージをちらっと見ました。"
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "word": "glimpse",
+    "meaning": "（偶然）ちらりと見る、垣間見る",
+    "examples": [
+      {
+        "en": "I caught a glimpse of the actor at the station.",
+        "ja": "私は駅でその俳優をちらりと見かけました。"
+      },
+      {
+        "en": "We glimpsed the sea between the trees.",
+        "ja": "私たちは木々の間から海をちらりと見ました。"
+      },
+      {
+        "en": "The photo gave us a glimpse of his daily life.",
+        "ja": "その写真は彼の日常生活を垣間見せてくれました。"
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "word": "audible",
+    "meaning": "聞こえる",
+    "examples": [
+      {
+        "en": "Her voice was barely audible in the noisy room.",
+        "ja": "騒がしい部屋では彼女の声はかろうじて聞こえる程度でした。"
+      },
+      {
+        "en": "The sound was audible from outside the building.",
+        "ja": "その音は建物の外から聞こえました。"
+      },
+      {
+        "en": "Please speak in an audible voice.",
+        "ja": "聞こえる声で話してください。"
+      }
+    ]
+  },
+  {
+    "id": 735,
+    "word": "audience",
+    "meaning": "聴衆、観客",
+    "examples": [
+      {
+        "en": "The audience applauded after the speech.",
+        "ja": "聴衆はスピーチの後で拍手しました。"
+      },
+      {
+        "en": "The movie attracted a young audience.",
+        "ja": "その映画は若い観客を引きつけました。"
+      },
+      {
+        "en": "He was nervous in front of a large audience.",
+        "ja": "彼は大勢の観客の前で緊張していました。"
+      }
+    ]
+  },
+  {
+    "id": 736,
+    "word": "scent",
+    "meaning": "香り",
+    "examples": [
+      {
+        "en": "The scent of flowers filled the room.",
+        "ja": "花の香りが部屋いっぱいに広がりました。"
+      },
+      {
+        "en": "Dogs can follow a person's scent.",
+        "ja": "犬は人のにおいをたどることができます。"
+      },
+      {
+        "en": "This soap has a fresh lemon scent.",
+        "ja": "この石けんにはさわやかなレモンの香りがあります。"
+      }
+    ]
+  },
+  {
+    "id": 737,
+    "word": "odor",
+    "meaning": "におい",
+    "examples": [
+      {
+        "en": "A strange odor came from the kitchen.",
+        "ja": "台所から変なにおいがしました。"
+      },
+      {
+        "en": "The odor of smoke remained in the room.",
+        "ja": "煙のにおいが部屋に残っていました。"
+      },
+      {
+        "en": "This spray removes bad odors.",
+        "ja": "このスプレーは悪臭を取り除きます。"
+      }
+    ]
+  },
+  {
+    "id": 738,
+    "word": "flavor",
+    "meaning": "味",
+    "examples": [
+      {
+        "en": "This ice cream has a rich chocolate flavor.",
+        "ja": "このアイスクリームは濃厚なチョコレート味です。"
+      },
+      {
+        "en": "Garlic adds flavor to the soup.",
+        "ja": "にんにくはスープに風味を加えます。"
+      },
+      {
+        "en": "I prefer the lemon flavor.",
+        "ja": "私はレモン味の方が好きです。"
+      }
+    ]
+  },
+  {
+    "id": 739,
+    "word": "arouse",
+    "meaning": "〜（感情など）を呼び起こす、刺激する",
+    "examples": [
+      {
+        "en": "The story aroused my curiosity.",
+        "ja": "その話は私の好奇心をかき立てました。"
+      },
+      {
+        "en": "His rude words aroused anger in the crowd.",
+        "ja": "彼の失礼な言葉は群衆の怒りを呼び起こしました。"
+      },
+      {
+        "en": "The smell of bread aroused my appetite.",
+        "ja": "パンのにおいが私の食欲を刺激しました。"
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "word": "evoke",
+    "meaning": "〜（感情など）を呼び起こす、呼び覚ます",
+    "examples": [
+      {
+        "en": "This song evokes memories of my childhood.",
+        "ja": "この歌は私の子どもの頃の記憶を呼び起こします。"
+      },
+      {
+        "en": "The old photo evoked a feeling of sadness.",
+        "ja": "その古い写真は悲しみの感情を呼び起こしました。"
+      },
+      {
+        "en": "The smell of the sea evoked summer holidays.",
+        "ja": "海のにおいは夏休みを思い出させました。"
+      }
+    ]
+  },
+  {
+    "id": 741,
+    "word": "provoke",
+    "meaning": "〜（反応など）を引き起こす",
+    "examples": [
+      {
+        "en": "His comment provoked a strong reaction.",
+        "ja": "彼の発言は強い反応を引き起こしました。"
+      },
+      {
+        "en": "The decision provoked public anger.",
+        "ja": "その決定は世間の怒りを引き起こしました。"
+      },
+      {
+        "en": "Do not provoke the dog by shouting.",
+        "ja": "叫んで犬を刺激してはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 742,
+    "word": "stimulate",
+    "meaning": "〜を刺激する；促進する",
+    "examples": [
+      {
+        "en": "Exercise stimulates blood flow.",
+        "ja": "運動は血流を刺激します。"
+      },
+      {
+        "en": "The teacher asked questions to stimulate discussion.",
+        "ja": "先生は議論を促進するために質問をしました。"
+      },
+      {
+        "en": "Reading can stimulate a child's imagination.",
+        "ja": "読書は子どもの想像力を刺激することがあります。"
+      }
+    ]
+  },
+  {
+    "id": 743,
+    "word": "instinct",
+    "meaning": "本能",
+    "examples": [
+      {
+        "en": "Birds fly south by instinct.",
+        "ja": "鳥は本能によって南へ飛びます。"
+      },
+      {
+        "en": "My first instinct was to run away.",
+        "ja": "私の最初の本能的反応は逃げることでした。"
+      },
+      {
+        "en": "Parents often protect their children by instinct.",
+        "ja": "親はしばしば本能的に子どもを守ります。"
+      }
+    ]
+  },
+  {
+    "id": 744,
+    "word": "impulse",
+    "meaning": "衝動（to do）",
+    "examples": [
+      {
+        "en": "I had an impulse to buy the jacket.",
+        "ja": "私はその上着を買いたい衝動にかられました。"
+      },
+      {
+        "en": "Do not act on impulse when you are angry.",
+        "ja": "怒っているときに衝動で行動してはいけません。"
+      },
+      {
+        "en": "She felt a sudden impulse to call her friend.",
+        "ja": "彼女は突然友人に電話したい衝動を感じました。"
+      }
+    ]
+  },
+  {
+    "id": 745,
+    "word": "embarrass",
+    "meaning": "恥ずかしい思いをさせる、当惑させる",
+    "examples": [
+      {
+        "en": "His question embarrassed me.",
+        "ja": "彼の質問は私を当惑させました。"
+      },
+      {
+        "en": "Do not embarrass your friend in public.",
+        "ja": "人前で友人に恥ずかしい思いをさせてはいけません。"
+      },
+      {
+        "en": "I was embarrassed by my mistake.",
+        "ja": "私は自分の間違いで恥ずかしくなりました。"
+      }
+    ]
+  },
+  {
+    "id": 746,
+    "word": "shame",
+    "meaning": "恥；残念なこと",
+    "examples": [
+      {
+        "en": "He felt shame after telling a lie.",
+        "ja": "彼は嘘をついた後で恥を感じました。"
+      },
+      {
+        "en": "It is a shame that you cannot join us.",
+        "ja": "あなたが参加できないのは残念です。"
+      },
+      {
+        "en": "She lowered her eyes in shame.",
+        "ja": "彼女は恥ずかしさで目を伏せました。"
+      }
+    ]
+  },
+  {
+    "id": 747,
+    "word": "nerve",
+    "meaning": "神経",
+    "examples": [
+      {
+        "en": "The dentist checked the nerve in my tooth.",
+        "ja": "歯医者は私の歯の神経を調べました。"
+      },
+      {
+        "en": "Loud noises get on my nerves.",
+        "ja": "大きな音は私の神経にさわります。"
+      },
+      {
+        "en": "He had the nerve to ask for more money.",
+        "ja": "彼はずうずうしくもさらにお金を要求しました。"
+      }
+    ]
+  },
+  {
+    "id": 748,
+    "word": "emotion",
+    "meaning": "感情",
+    "examples": [
+      {
+        "en": "Music can express deep emotion.",
+        "ja": "音楽は深い感情を表現できます。"
+      },
+      {
+        "en": "She tried to hide her emotions.",
+        "ja": "彼女は感情を隠そうとしました。"
+      },
+      {
+        "en": "Anger is a natural emotion.",
+        "ja": "怒りは自然な感情です。"
+      }
+    ]
+  },
+  {
+    "id": 749,
+    "word": "passion",
+    "meaning": "情熱",
+    "examples": [
+      {
+        "en": "He has a passion for programming.",
+        "ja": "彼はプログラミングに情熱を持っています。"
+      },
+      {
+        "en": "Her passion for music began in childhood.",
+        "ja": "彼女の音楽への情熱は子どもの頃に始まりました。"
+      },
+      {
+        "en": "Passion alone is not enough to succeed.",
+        "ja": "成功するには情熱だけでは十分ではありません。"
+      }
+    ]
+  },
+  {
+    "id": 750,
+    "word": "compassion",
+    "meaning": "同情、あわれみ",
+    "examples": [
+      {
+        "en": "She showed compassion for the injured animal.",
+        "ja": "彼女はけがをした動物に同情を示しました。"
+      },
+      {
+        "en": "A good doctor needs both skill and compassion.",
+        "ja": "よい医者には技術と同情心の両方が必要です。"
+      },
+      {
+        "en": "His compassion moved many people.",
+        "ja": "彼の思いやりは多くの人を感動させました。"
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "word": "passive",
+    "meaning": "受け身の、受動的な",
+    "examples": [
+      {
+        "en": "Do not be passive in class; ask questions.",
+        "ja": "授業では受け身にならず、質問しなさい。"
+      },
+      {
+        "en": "The sentence is written in the passive voice.",
+        "ja": "その文は受動態で書かれています。"
+      },
+      {
+        "en": "He took a passive role in the meeting.",
+        "ja": "彼は会議で受動的な役割を取りました。"
+      }
+    ]
+  },
+  {
+    "id": 752,
+    "word": "temper",
+    "meaning": "機嫌；平常心",
+    "examples": [
+      {
+        "en": "He lost his temper and shouted.",
+        "ja": "彼は平常心を失って叫びました。"
+      },
+      {
+        "en": "She has a gentle temper.",
+        "ja": "彼女は穏やかな気質です。"
+      },
+      {
+        "en": "Try to control your temper during an argument.",
+        "ja": "口論の間は怒りを抑えるようにしなさい。"
+      }
+    ]
+  },
+  {
+    "id": 753,
+    "word": "delight",
+    "meaning": "喜び、楽しみ",
+    "examples": [
+      {
+        "en": "The children screamed with delight.",
+        "ja": "子どもたちは喜びで叫びました。"
+      },
+      {
+        "en": "It was a delight to meet your family.",
+        "ja": "あなたの家族に会えてうれしかったです。"
+      },
+      {
+        "en": "The gift brought delight to her face.",
+        "ja": "その贈り物で彼女の顔に喜びが浮かびました。"
+      }
+    ]
+  },
+  {
+    "id": 754,
+    "word": "rejoice",
+    "meaning": "喜ぶ",
+    "examples": [
+      {
+        "en": "We rejoiced at the good news.",
+        "ja": "私たちはそのよい知らせを喜びました。"
+      },
+      {
+        "en": "The fans rejoiced when their team won.",
+        "ja": "ファンは自分たちのチームが勝ったとき喜びました。"
+      },
+      {
+        "en": "She rejoiced to see her brother again.",
+        "ja": "彼女は兄に再会して喜びました。"
+      }
+    ]
+  },
+  {
+    "id": 755,
+    "word": "gratify",
+    "meaning": "喜ばせる",
+    "examples": [
+      {
+        "en": "His success gratified his parents.",
+        "ja": "彼の成功は両親を喜ばせました。"
+      },
+      {
+        "en": "It gratified me to hear your kind words.",
+        "ja": "あなたの親切な言葉を聞いて私はうれしくなりました。"
+      },
+      {
+        "en": "The result gratified everyone on the team.",
+        "ja": "その結果はチーム全員を喜ばせました。"
+      }
+    ]
+  },
+  {
+    "id": 756,
+    "word": "anger",
+    "meaning": "怒り",
+    "examples": [
+      {
+        "en": "His face turned red with anger.",
+        "ja": "彼の顔は怒りで赤くなりました。"
+      },
+      {
+        "en": "She tried to hide her anger.",
+        "ja": "彼女は怒りを隠そうとしました。"
+      },
+      {
+        "en": "The decision caused public anger.",
+        "ja": "その決定は世間の怒りを招きました。"
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "word": "rage",
+    "meaning": "怒り、熱狂",
+    "examples": [
+      {
+        "en": "He was shaking with rage.",
+        "ja": "彼は怒りで震えていました。"
+      },
+      {
+        "en": "The fire raged through the forest.",
+        "ja": "火は森の中で激しく燃え広がりました。"
+      },
+      {
+        "en": "The new game became a rage among students.",
+        "ja": "その新しいゲームは学生の間で大流行しました。"
+      }
+    ]
+  },
+  {
+    "id": 758,
+    "word": "fury",
+    "meaning": "怒り",
+    "examples": [
+      {
+        "en": "She shouted in fury.",
+        "ja": "彼女は激怒して叫びました。"
+      },
+      {
+        "en": "His lies filled me with fury.",
+        "ja": "彼の嘘で私は激しい怒りを感じました。"
+      },
+      {
+        "en": "The storm struck the town with great fury.",
+        "ja": "嵐は激しい勢いで町を襲いました。"
+      }
+    ]
+  },
+  {
+    "id": 759,
+    "word": "resent",
+    "meaning": "憤慨する、腹を立てる",
+    "examples": [
+      {
+        "en": "She resented his rude comment.",
+        "ja": "彼女は彼の失礼な発言に腹を立てました。"
+      },
+      {
+        "en": "Many workers resented the unfair rule.",
+        "ja": "多くの労働者がその不公平な規則に憤慨しました。"
+      },
+      {
+        "en": "He resents being treated like a child.",
+        "ja": "彼は子ども扱いされることに腹を立てています。"
+      }
+    ]
+  },
+  {
+    "id": 760,
+    "word": "annoy",
+    "meaning": "怒らせる、むっとさせる",
+    "examples": [
+      {
+        "en": "The loud music annoyed the neighbors.",
+        "ja": "大音量の音楽は近所の人たちをいらだたせました。"
+      },
+      {
+        "en": "It annoys me when people are late.",
+        "ja": "人が遅れると私はむっとします。"
+      },
+      {
+        "en": "Do not annoy your sister while she is studying.",
+        "ja": "妹が勉強している間に邪魔して怒らせてはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 761,
+    "word": "irritate",
+    "meaning": "苛立たせる",
+    "examples": [
+      {
+        "en": "The noise irritated me all night.",
+        "ja": "その騒音は一晩中私を苛立たせました。"
+      },
+      {
+        "en": "This soap irritates my skin.",
+        "ja": "この石けんは私の肌を刺激します。"
+      },
+      {
+        "en": "His careless attitude irritated the teacher.",
+        "ja": "彼のいい加減な態度は先生を苛立たせました。"
+      }
+    ]
+  },
+  {
+    "id": 762,
+    "word": "frustrate",
+    "meaning": "イライラさせる、失望させる",
+    "examples": [
+      {
+        "en": "The slow computer frustrated me.",
+        "ja": "遅いコンピュータに私はイライラしました。"
+      },
+      {
+        "en": "Bad weather frustrated our travel plans.",
+        "ja": "悪天候で私たちの旅行計画はだめになりました。"
+      },
+      {
+        "en": "She was frustrated by the difficult problem.",
+        "ja": "彼女はその難しい問題にいら立っていました。"
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "word": "sorrow",
+    "meaning": "悲しみ",
+    "examples": [
+      {
+        "en": "He felt deep sorrow after the accident.",
+        "ja": "彼はその事故の後、深い悲しみを感じました。"
+      },
+      {
+        "en": "Her eyes were full of sorrow.",
+        "ja": "彼女の目は悲しみに満ちていました。"
+      },
+      {
+        "en": "The song expresses sorrow and hope.",
+        "ja": "その歌は悲しみと希望を表しています。"
+      }
+    ]
+  },
+  {
+    "id": 764,
+    "word": "grief",
+    "meaning": "悲しみ",
+    "examples": [
+      {
+        "en": "She could not speak because of grief.",
+        "ja": "彼女は悲しみのために話せませんでした。"
+      },
+      {
+        "en": "His family shared their grief with friends.",
+        "ja": "彼の家族は友人たちと悲しみを分かち合いました。"
+      },
+      {
+        "en": "Time helped him recover from grief.",
+        "ja": "時間が彼を悲しみから立ち直らせました。"
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "word": "lament",
+    "meaning": "悲しみ嘆く",
+    "examples": [
+      {
+        "en": "Many people lamented the loss of the old building.",
+        "ja": "多くの人がその古い建物が失われたことを嘆きました。"
+      },
+      {
+        "en": "She lamented that she had missed the chance.",
+        "ja": "彼女はその機会を逃したことを嘆きました。"
+      },
+      {
+        "en": "The poem laments the death of a young soldier.",
+        "ja": "その詩は若い兵士の死を悲しみ嘆いています。"
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "word": "mourn",
+    "meaning": "悲しみ嘆く",
+    "examples": [
+      {
+        "en": "The whole town mourned the mayor's death.",
+        "ja": "町全体が市長の死を悼みました。"
+      },
+      {
+        "en": "She mourned for her lost friend.",
+        "ja": "彼女は亡くなった友人を悲しみました。"
+      },
+      {
+        "en": "People gathered to mourn the victims.",
+        "ja": "人々は犠牲者を悼むために集まりました。"
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "word": "despair",
+    "meaning": "絶望",
+    "examples": [
+      {
+        "en": "He fell into despair after failing the exam.",
+        "ja": "彼は試験に失敗した後、絶望しました。"
+      },
+      {
+        "en": "Do not despair; there is still a chance.",
+        "ja": "絶望しないでください。まだチャンスはあります。"
+      },
+      {
+        "en": "Her voice was full of despair.",
+        "ja": "彼女の声は絶望に満ちていました。"
+      }
+    ]
+  },
+  {
+    "id": 768,
+    "word": "devastate",
+    "meaning": "打ちのめす",
+    "examples": [
+      {
+        "en": "The news devastated his family.",
+        "ja": "その知らせは彼の家族を打ちのめしました。"
+      },
+      {
+        "en": "The earthquake devastated the small town.",
+        "ja": "地震はその小さな町を壊滅させました。"
+      },
+      {
+        "en": "She was devastated by the sudden loss.",
+        "ja": "彼女は突然の喪失に打ちのめされました。"
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "word": "entertain",
+    "meaning": "楽しませる；心に抱く、考慮する",
+    "examples": [
+      {
+        "en": "The singer entertained the audience for two hours.",
+        "ja": "その歌手は2時間にわたって観客を楽しませました。"
+      },
+      {
+        "en": "We entertained guests at our house.",
+        "ja": "私たちは家で客をもてなしました。"
+      },
+      {
+        "en": "I cannot entertain such a risky idea.",
+        "ja": "私はそのような危険な考えを考慮することはできません。"
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "word": "amuse",
+    "meaning": "面白がらせる",
+    "examples": [
+      {
+        "en": "The cartoon amused the children.",
+        "ja": "その漫画は子どもたちを楽しませました。"
+      },
+      {
+        "en": "His joke amused everyone at the table.",
+        "ja": "彼の冗談はテーブルにいた全員を面白がらせました。"
+      },
+      {
+        "en": "I was amused by her funny story.",
+        "ja": "私は彼女のおもしろい話を楽しみました。"
+      }
+    ]
+  },
+  {
+    "id": 771,
+    "word": "virtue",
+    "meaning": "美徳、長所",
+    "examples": [
+      {
+        "en": "Honesty is an important virtue.",
+        "ja": "正直さは重要な美徳です。"
+      },
+      {
+        "en": "Patience is one of his virtues.",
+        "ja": "忍耐力は彼の長所の一つです。"
+      },
+      {
+        "en": "The virtue of this method is its simplicity.",
+        "ja": "この方法の長所はその簡単さです。"
+      }
+    ]
+  },
+  {
+    "id": 772,
+    "word": "virtual",
+    "meaning": "仮想の；事実上の",
+    "examples": [
+      {
+        "en": "We held a virtual meeting online.",
+        "ja": "私たちはオンラインで仮想会議を開きました。"
+      },
+      {
+        "en": "The game creates a virtual world.",
+        "ja": "そのゲームは仮想世界を作り出します。"
+      },
+      {
+        "en": "He became the virtual leader of the group.",
+        "ja": "彼はそのグループの事実上のリーダーになりました。"
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "word": "vice",
+    "meaning": "悪、悪徳；副〜、代理の",
+    "examples": [
+      {
+        "en": "Greed is often seen as a vice.",
+        "ja": "貪欲はしばしば悪徳と見なされます。"
+      },
+      {
+        "en": "He was chosen as vice president.",
+        "ja": "彼は副会長に選ばれました。"
+      },
+      {
+        "en": "The story shows the danger of human vice.",
+        "ja": "その物語は人間の悪徳の危険性を示しています。"
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "word": "evil",
+    "meaning": "邪悪な",
+    "examples": [
+      {
+        "en": "The hero fought against an evil king.",
+        "ja": "英雄は邪悪な王と戦いました。"
+      },
+      {
+        "en": "Some people believe money is the root of evil.",
+        "ja": "お金は悪の根源だと考える人もいます。"
+      },
+      {
+        "en": "The movie has an evil character with strange powers.",
+        "ja": "その映画には奇妙な力を持つ邪悪な人物が登場します。"
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "word": "sin",
+    "meaning": "罪",
+    "examples": [
+      {
+        "en": "Lying was considered a serious sin.",
+        "ja": "嘘をつくことは重大な罪と考えられていました。"
+      },
+      {
+        "en": "He confessed his sins to the priest.",
+        "ja": "彼は司祭に自分の罪を告白しました。"
+      },
+      {
+        "en": "In the story, pride is treated as a sin.",
+        "ja": "その物語では、傲慢は罪として扱われています。"
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "word": "crime",
+    "meaning": "犯罪",
+    "examples": [
+      {
+        "en": "Stealing is a crime.",
+        "ja": "盗みは犯罪です。"
+      },
+      {
+        "en": "The police are investigating the crime.",
+        "ja": "警察はその犯罪を捜査しています。"
+      },
+      {
+        "en": "Crime has decreased in this area.",
+        "ja": "この地域では犯罪が減少しました。"
+      }
+    ]
+  },
+  {
+    "id": 777,
+    "word": "ethics",
+    "meaning": "倫理",
+    "examples": [
+      {
+        "en": "Medical ethics are important for doctors.",
+        "ja": "医療倫理は医師にとって重要です。"
+      },
+      {
+        "en": "The class discussed the ethics of artificial intelligence.",
+        "ja": "その授業では人工知能の倫理について議論しました。"
+      },
+      {
+        "en": "Business ethics should not be ignored.",
+        "ja": "企業倫理は無視されるべきではありません。"
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "word": "moral",
+    "meaning": "道徳上の、精神的な",
+    "examples": [
+      {
+        "en": "He faced a difficult moral choice.",
+        "ja": "彼は難しい道徳上の選択に直面しました。"
+      },
+      {
+        "en": "The story teaches a moral lesson.",
+        "ja": "その物語は道徳的な教訓を教えています。"
+      },
+      {
+        "en": "She gave him moral support during the hard time.",
+        "ja": "彼女はつらい時期に彼を精神的に支えました。"
+      }
+    ]
+  },
+  {
+    "id": 779,
+    "word": "confess",
+    "meaning": "告白する、認める",
+    "examples": [
+      {
+        "en": "He confessed that he had broken the window.",
+        "ja": "彼は窓を割ったことを認めました。"
+      },
+      {
+        "en": "She confessed her love to him.",
+        "ja": "彼女は彼に愛を告白しました。"
+      },
+      {
+        "en": "The suspect confessed to the crime.",
+        "ja": "容疑者はその犯罪を自白しました。"
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "word": "punish",
+    "meaning": "罰する（for…）",
+    "examples": [
+      {
+        "en": "The teacher punished him for cheating.",
+        "ja": "先生はカンニングをしたことで彼を罰しました。"
+      },
+      {
+        "en": "The law punishes dangerous driving.",
+        "ja": "法律は危険運転を罰します。"
+      },
+      {
+        "en": "Parents should not punish children too harshly.",
+        "ja": "親は子どもをあまり厳しく罰するべきではありません。"
+      }
+    ]
+  },
+  {
+    "id": 781,
+    "word": "penalty",
+    "meaning": "刑罰、罰",
+    "examples": [
+      {
+        "en": "There is a penalty for late payment.",
+        "ja": "支払いが遅れると罰金があります。"
+      },
+      {
+        "en": "The player received a penalty for rough play.",
+        "ja": "その選手は乱暴なプレーでペナルティを受けました。"
+      },
+      {
+        "en": "The penalty for the crime was severe.",
+        "ja": "その犯罪に対する刑罰は厳しいものでした。"
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "word": "murder",
+    "meaning": "殺人；殺害する",
+    "examples": [
+      {
+        "en": "The police arrested him for murder.",
+        "ja": "警察は殺人の容疑で彼を逮捕しました。"
+      },
+      {
+        "en": "The novel begins with a mysterious murder.",
+        "ja": "その小説は謎の殺人から始まります。"
+      },
+      {
+        "en": "He was accused of murdering a local businessman.",
+        "ja": "彼は地元の実業家を殺害したとして告発されました。"
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "word": "victim",
+    "meaning": "犠牲者、被害者",
+    "examples": [
+      {
+        "en": "The victims of the accident were taken to a hospital.",
+        "ja": "事故の被害者たちは病院へ運ばれました。"
+      },
+      {
+        "en": "She became a victim of online fraud.",
+        "ja": "彼女はオンライン詐欺の被害者になりました。"
+      },
+      {
+        "en": "The charity helps victims of natural disasters.",
+        "ja": "その慈善団体は自然災害の被災者を助けています。"
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "word": "offend",
+    "meaning": "怒らせる、感情を害する",
+    "examples": [
+      {
+        "en": "I did not mean to offend you.",
+        "ja": "あなたを怒らせるつもりはありませんでした。"
+      },
+      {
+        "en": "His joke offended some people.",
+        "ja": "彼の冗談は一部の人の感情を害しました。"
+      },
+      {
+        "en": "Be careful not to offend local customs.",
+        "ja": "現地の習慣に反しないよう注意しなさい。"
+      }
+    ]
+  },
+  {
+    "id": 785,
+    "word": "defend",
+    "meaning": "防御する、弁護する",
+    "examples": [
+      {
+        "en": "The soldiers defended the town.",
+        "ja": "兵士たちは町を守りました。"
+      },
+      {
+        "en": "She defended her opinion with clear reasons.",
+        "ja": "彼女は明確な理由で自分の意見を弁護しました。"
+      },
+      {
+        "en": "A lawyer defended him in court.",
+        "ja": "弁護士が法廷で彼を弁護しました。"
+      }
+    ]
+  },
+  {
+    "id": 786,
+    "word": "motive",
+    "meaning": "動機",
+    "examples": [
+      {
+        "en": "The police tried to find the motive for the crime.",
+        "ja": "警察はその犯罪の動機を見つけようとしました。"
+      },
+      {
+        "en": "His motive was not money but revenge.",
+        "ja": "彼の動機はお金ではなく復讐でした。"
+      },
+      {
+        "en": "What was your motive for helping him?",
+        "ja": "彼を助けた動機は何でしたか。"
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "word": "witness",
+    "meaning": "証人、目撃者；目撃する",
+    "examples": [
+      {
+        "en": "The witness described the accident clearly.",
+        "ja": "目撃者はその事故をはっきり説明しました。"
+      },
+      {
+        "en": "I witnessed a car crash on my way home.",
+        "ja": "私は帰宅途中に車の衝突事故を目撃しました。"
+      },
+      {
+        "en": "The lawyer questioned the witness in court.",
+        "ja": "弁護士は法廷で証人に質問しました。"
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "word": "arrest",
+    "meaning": "逮捕する；逮捕",
+    "examples": [
+      {
+        "en": "The police arrested the thief near the station.",
+        "ja": "警察は駅の近くでその泥棒を逮捕しました。"
+      },
+      {
+        "en": "His arrest surprised his neighbors.",
+        "ja": "彼の逮捕は近所の人々を驚かせました。"
+      },
+      {
+        "en": "She was arrested for dangerous driving.",
+        "ja": "彼女は危険運転で逮捕されました。"
+      }
+    ]
+  },
+  {
+    "id": 789,
+    "word": "detain",
+    "meaning": "拘留する、引き留める",
+    "examples": [
+      {
+        "en": "The police detained the suspect for questioning.",
+        "ja": "警察は取り調べのために容疑者を拘留しました。"
+      },
+      {
+        "en": "He was detained at the airport for two hours.",
+        "ja": "彼は空港で2時間引き留められました。"
+      },
+      {
+        "en": "The guard detained the man until the police arrived.",
+        "ja": "警備員は警察が来るまでその男性を引き留めました。"
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "word": "accuse",
+    "meaning": "非難する、告訴する",
+    "examples": [
+      {
+        "en": "She accused him of lying.",
+        "ja": "彼女は彼が嘘をついたと非難しました。"
+      },
+      {
+        "en": "The company was accused of breaking the law.",
+        "ja": "その会社は法律に違反したとして告発されました。"
+      },
+      {
+        "en": "Do not accuse someone without evidence.",
+        "ja": "証拠なしに人を非難してはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "word": "blame",
+    "meaning": "責任があるとする；〜のせいにする",
+    "examples": [
+      {
+        "en": "He blamed me for the mistake.",
+        "ja": "彼はそのミスを私のせいにしました。"
+      },
+      {
+        "en": "Do not blame others for your failure.",
+        "ja": "自分の失敗を他人のせいにしてはいけません。"
+      },
+      {
+        "en": "The report blamed the accident on human error.",
+        "ja": "その報告書は事故の原因を人為的ミスだとしました。"
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "word": "fault",
+    "meaning": "過失、責任；欠陥",
+    "examples": [
+      {
+        "en": "It was not your fault.",
+        "ja": "それはあなたのせいではありません。"
+      },
+      {
+        "en": "The machine stopped because of a small fault.",
+        "ja": "その機械は小さな欠陥のために止まりました。"
+      },
+      {
+        "en": "She always finds fault with my work.",
+        "ja": "彼女はいつも私の仕事にけちをつけます。"
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "word": "condemn",
+    "meaning": "責める、刑を宣告する",
+    "examples": [
+      {
+        "en": "Many people condemned the violent attack.",
+        "ja": "多くの人がその暴力的な攻撃を非難しました。"
+      },
+      {
+        "en": "The judge condemned him to ten years in prison.",
+        "ja": "裁判官は彼に10年の懲役を宣告しました。"
+      },
+      {
+        "en": "The article condemned corruption in politics.",
+        "ja": "その記事は政治の腐敗を非難しました。"
+      }
+    ]
+  },
+  {
+    "id": 794,
+    "word": "court",
+    "meaning": "法廷、裁判所；宮廷",
+    "examples": [
+      {
+        "en": "The case will go to court next month.",
+        "ja": "その事件は来月裁判にかけられます。"
+      },
+      {
+        "en": "He appeared in court as a witness.",
+        "ja": "彼は証人として法廷に出ました。"
+      },
+      {
+        "en": "The king lived in a beautiful court.",
+        "ja": "王は美しい宮廷で暮らしていました。"
+      }
+    ]
+  },
+  {
+    "id": 795,
+    "word": "courtesy",
+    "meaning": "礼儀、作法",
+    "examples": [
+      {
+        "en": "He opened the door as a courtesy.",
+        "ja": "彼は礼儀としてドアを開けました。"
+      },
+      {
+        "en": "Please show courtesy to older passengers.",
+        "ja": "年配の乗客に礼儀を示してください。"
+      },
+      {
+        "en": "A simple thank-you is a matter of courtesy.",
+        "ja": "簡単なお礼は礼儀の問題です。"
+      }
+    ]
+  },
+  {
+    "id": 796,
+    "word": "trial",
+    "meaning": "裁判、公判；試み",
+    "examples": [
+      {
+        "en": "The trial lasted for three weeks.",
+        "ja": "その裁判は3週間続きました。"
+      },
+      {
+        "en": "He is on trial for theft.",
+        "ja": "彼は窃盗の罪で裁判にかけられています。"
+      },
+      {
+        "en": "We used the app for a free trial.",
+        "ja": "私たちは無料体験でそのアプリを使いました。"
+      }
+    ]
+  },
+  {
+    "id": 797,
+    "word": "justice",
+    "meaning": "公正、正義；裁判",
+    "examples": [
+      {
+        "en": "The victims demanded justice.",
+        "ja": "被害者たちは正義を求めました。"
+      },
+      {
+        "en": "A fair trial is necessary for justice.",
+        "ja": "正義のためには公正な裁判が必要です。"
+      },
+      {
+        "en": "She believes in social justice.",
+        "ja": "彼女は社会正義を信じています。"
+      }
+    ]
+  },
+  {
+    "id": 798,
+    "word": "judge",
+    "meaning": "判断する；裁判官",
+    "examples": [
+      {
+        "en": "Do not judge people by their appearance.",
+        "ja": "外見で人を判断してはいけません。"
+      },
+      {
+        "en": "The judge listened carefully to both sides.",
+        "ja": "裁判官は双方の話を注意深く聞きました。"
+      },
+      {
+        "en": "It is hard to judge which answer is better.",
+        "ja": "どちらの答えがよいか判断するのは難しいです。"
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "word": "jury",
+    "meaning": "陪審員団",
+    "examples": [
+      {
+        "en": "The jury found him guilty.",
+        "ja": "陪審員団は彼を有罪としました。"
+      },
+      {
+        "en": "Members of the jury listened to the evidence.",
+        "ja": "陪審員団のメンバーは証拠を聞きました。"
+      },
+      {
+        "en": "The jury discussed the case for hours.",
+        "ja": "陪審員団はその事件について何時間も話し合いました。"
+      }
+    ]
+  },
+  {
+    "id": 800,
+    "word": "testify",
+    "meaning": "証言する",
+    "examples": [
+      {
+        "en": "She agreed to testify in court.",
+        "ja": "彼女は法廷で証言することに同意しました。"
+      },
+      {
+        "en": "The witness testified that he saw the accident.",
+        "ja": "その証人は事故を見たと証言しました。"
+      },
+      {
+        "en": "Experts testified about the safety of the product.",
+        "ja": "専門家たちはその製品の安全性について証言しました。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1,
+    "word": "vital",
+    "meaning": "非常に重要な；生命の",
+    "examples": [
+      {
+        "en": "Sleep is vital for good health.",
+        "ja": "睡眠は健康にとって非常に重要です。"
+      },
+      {
+        "en": "Water is vital to every living thing.",
+        "ja": "水はすべての生き物にとって不可欠です。"
+      },
+      {
+        "en": "The nurse checked his vital signs.",
+        "ja": "看護師は彼の生命徴候を確認しました。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "word": "vivid",
+    "meaning": "生き生きとした；鮮やかな",
+    "examples": [
+      {
+        "en": "I still have a vivid memory of that day.",
+        "ja": "私は今でもその日のことを鮮明に覚えています。"
+      },
+      {
+        "en": "She used vivid colors in her painting.",
+        "ja": "彼女は絵に鮮やかな色を使いました。"
+      },
+      {
+        "en": "The teacher gave a vivid description of the scene.",
+        "ja": "先生はその場面を生き生きと説明しました。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "word": "revive",
+    "meaning": "生き返らせる；復活する",
+    "examples": [
+      {
+        "en": "The rain revived the dry plants.",
+        "ja": "雨が乾いた植物を生き返らせました。"
+      },
+      {
+        "en": "The old tradition was revived by the town.",
+        "ja": "その古い伝統は町によって復活しました。"
+      },
+      {
+        "en": "A short break revived my energy.",
+        "ja": "短い休憩で私は元気を取り戻しました。"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "word": "essential",
+    "meaning": "重要な；必要不可欠な；本質的な",
+    "examples": [
+      {
+        "en": "Practice is essential for learning a language.",
+        "ja": "練習は言語を学ぶ上で不可欠です。"
+      },
+      {
+        "en": "Food and water are essential to life.",
+        "ja": "食べ物と水は生命に不可欠です。"
+      },
+      {
+        "en": "The essential problem is lack of time.",
+        "ja": "本質的な問題は時間不足です。"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "word": "indispensable",
+    "meaning": "必要不可欠な",
+    "examples": [
+      {
+        "en": "A dictionary is indispensable for beginners.",
+        "ja": "初心者にとって辞書は不可欠です。"
+      },
+      {
+        "en": "Her help was indispensable to the project.",
+        "ja": "彼女の助けはその計画に不可欠でした。"
+      },
+      {
+        "en": "Electricity is indispensable in modern life.",
+        "ja": "電気は現代生活に不可欠です。"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "word": "crucial",
+    "meaning": "極めて重要な；決定的な",
+    "examples": [
+      {
+        "en": "This test is crucial for my grade.",
+        "ja": "このテストは私の成績にとって極めて重要です。"
+      },
+      {
+        "en": "It is crucial to check the data carefully.",
+        "ja": "データを注意深く確認することが極めて重要です。"
+      },
+      {
+        "en": "His decision played a crucial role.",
+        "ja": "彼の決定は決定的な役割を果たしました。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "word": "significance",
+    "meaning": "重要性；意味",
+    "examples": [
+      {
+        "en": "I did not understand the significance of the result.",
+        "ja": "私はその結果の重要性を理解していませんでした。"
+      },
+      {
+        "en": "This date has special significance for our family.",
+        "ja": "この日は私たちの家族にとって特別な意味があります。"
+      },
+      {
+        "en": "The teacher explained the significance of the discovery.",
+        "ja": "先生はその発見の重要性を説明しました。"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "word": "consequence",
+    "meaning": "結果；重要さ",
+    "examples": [
+      {
+        "en": "Every action has a consequence.",
+        "ja": "すべての行動には結果があります。"
+      },
+      {
+        "en": "He ignored the consequence of his mistake.",
+        "ja": "彼は自分のミスの結果を無視しました。"
+      },
+      {
+        "en": "This is a matter of great consequence.",
+        "ja": "これは非常に重要な問題です。"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "word": "matter",
+    "meaning": "事柄；問題；重要である",
+    "examples": [
+      {
+        "en": "This matter is too important to ignore.",
+        "ja": "この問題は無視するには重要すぎます。"
+      },
+      {
+        "en": "Money matters, but health matters more.",
+        "ja": "お金は重要ですが、健康はもっと重要です。"
+      },
+      {
+        "en": "What matters most is your attitude.",
+        "ja": "最も大切なのはあなたの態度です。"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "word": "count",
+    "meaning": "数える；重要である",
+    "examples": [
+      {
+        "en": "Please count the number of students.",
+        "ja": "生徒の数を数えてください。"
+      },
+      {
+        "en": "Every minute counts before the exam.",
+        "ja": "試験前は一分一分が重要です。"
+      },
+      {
+        "en": "Your opinion really counts here.",
+        "ja": "ここではあなたの意見が本当に重要です。"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "word": "make a difference",
+    "meaning": "重要である；違いを生む",
+    "examples": [
+      {
+        "en": "Small efforts can make a difference.",
+        "ja": "小さな努力が違いを生むことがあります。"
+      },
+      {
+        "en": "Your support made a difference to me.",
+        "ja": "あなたの支援は私にとって大きな意味がありました。"
+      },
+      {
+        "en": "One good idea can make a big difference.",
+        "ja": "一つの良い考えが大きな違いを生むことがあります。"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "word": "trivial",
+    "meaning": "ささいな；取るに足らない",
+    "examples": [
+      {
+        "en": "Do not worry about trivial mistakes.",
+        "ja": "ささいなミスを心配しないでください。"
+      },
+      {
+        "en": "The problem seemed trivial at first.",
+        "ja": "その問題は最初は取るに足らないように見えました。"
+      },
+      {
+        "en": "They argued over a trivial matter.",
+        "ja": "彼らはささいなことで口論しました。"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "word": "trifle",
+    "meaning": "ささいな事；くだらない事",
+    "examples": [
+      {
+        "en": "It is only a trifle, so do not worry.",
+        "ja": "それはほんのささいなことなので心配しないでください。"
+      },
+      {
+        "en": "He became angry over a trifle.",
+        "ja": "彼はくだらないことで怒りました。"
+      },
+      {
+        "en": "A trifle can become serious if ignored.",
+        "ja": "ささいなことも無視すると深刻になることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "word": "common",
+    "meaning": "共通の；よくある；一般的な",
+    "examples": [
+      {
+        "en": "We have a common goal.",
+        "ja": "私たちには共通の目標があります。"
+      },
+      {
+        "en": "This is a common mistake among beginners.",
+        "ja": "これは初心者によくある間違いです。"
+      },
+      {
+        "en": "Rice is a common food in Japan.",
+        "ja": "米は日本で一般的な食べ物です。"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "word": "ordinary",
+    "meaning": "普通の；通常の",
+    "examples": [
+      {
+        "en": "It was just an ordinary day.",
+        "ja": "それはただの普通の日でした。"
+      },
+      {
+        "en": "She wore ordinary clothes.",
+        "ja": "彼女は普通の服を着ていました。"
+      },
+      {
+        "en": "The ordinary rules do not apply here.",
+        "ja": "ここでは通常の規則は当てはまりません。"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "word": "familiar",
+    "meaning": "よく知られた；精通している；親しい",
+    "examples": [
+      {
+        "en": "This song is familiar to many people.",
+        "ja": "この歌は多くの人によく知られています。"
+      },
+      {
+        "en": "I am familiar with this software.",
+        "ja": "私はこのソフトに精通しています。"
+      },
+      {
+        "en": "He spoke to me in a familiar way.",
+        "ja": "彼は親しげに私に話しかけました。"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "word": "emphasize",
+    "meaning": "強調する",
+    "examples": [
+      {
+        "en": "The teacher emphasized the key point.",
+        "ja": "先生は重要な点を強調しました。"
+      },
+      {
+        "en": "I want to emphasize the importance of sleep.",
+        "ja": "私は睡眠の重要性を強調したいです。"
+      },
+      {
+        "en": "The report emphasizes safety.",
+        "ja": "その報告書は安全性を強調しています。"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "word": "stress",
+    "meaning": "強調する；ストレス；重点",
+    "examples": [
+      {
+        "en": "She stressed the need for careful planning.",
+        "ja": "彼女は慎重な計画の必要性を強調しました。"
+      },
+      {
+        "en": "Too much stress can harm your health.",
+        "ja": "過度のストレスは健康を害することがあります。"
+      },
+      {
+        "en": "The stress is on the first syllable.",
+        "ja": "強勢は最初の音節にあります。"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "word": "neglect",
+    "meaning": "怠る；無視する",
+    "examples": [
+      {
+        "en": "Do not neglect your homework.",
+        "ja": "宿題を怠らないでください。"
+      },
+      {
+        "en": "The old building was neglected for years.",
+        "ja": "その古い建物は何年も放置されました。"
+      },
+      {
+        "en": "He neglected to lock the door.",
+        "ja": "彼はドアに鍵をかけるのを怠りました。"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "word": "ignore",
+    "meaning": "無視する；知らないふりをする",
+    "examples": [
+      {
+        "en": "He ignored my question.",
+        "ja": "彼は私の質問を無視しました。"
+      },
+      {
+        "en": "You should not ignore small warning signs.",
+        "ja": "小さな警告の兆候を無視すべきではありません。"
+      },
+      {
+        "en": "She ignored the noise and kept studying.",
+        "ja": "彼女は騒音を無視して勉強を続けました。"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "word": "eminent",
+    "meaning": "著名な",
+    "examples": [
+      {
+        "en": "He is an eminent scientist.",
+        "ja": "彼は著名な科学者です。"
+      },
+      {
+        "en": "The university invited an eminent scholar.",
+        "ja": "その大学は著名な学者を招きました。"
+      },
+      {
+        "en": "Her work is respected by eminent researchers.",
+        "ja": "彼女の研究は著名な研究者たちに尊敬されています。"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "word": "prominent",
+    "meaning": "目立った；有名な",
+    "examples": [
+      {
+        "en": "The tower is a prominent landmark.",
+        "ja": "その塔は目立つ目印です。"
+      },
+      {
+        "en": "She became a prominent politician.",
+        "ja": "彼女は有名な政治家になりました。"
+      },
+      {
+        "en": "The issue played a prominent role in the debate.",
+        "ja": "その問題は討論で目立った役割を果たしました。"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "word": "primary",
+    "meaning": "第1の；主要な",
+    "examples": [
+      {
+        "en": "My primary goal is to pass the exam.",
+        "ja": "私の第一の目標は試験に合格することです。"
+      },
+      {
+        "en": "Education is a primary concern.",
+        "ja": "教育は主要な関心事です。"
+      },
+      {
+        "en": "The primary cause was human error.",
+        "ja": "主な原因は人的ミスでした。"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "word": "tiny",
+    "meaning": "ちっぽけな；とても小さい",
+    "examples": [
+      {
+        "en": "A tiny bird sat on the branch.",
+        "ja": "とても小さな鳥が枝にとまりました。"
+      },
+      {
+        "en": "There is a tiny crack in the glass.",
+        "ja": "ガラスに小さなひびがあります。"
+      },
+      {
+        "en": "She lives in a tiny apartment.",
+        "ja": "彼女は小さなアパートに住んでいます。"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "word": "slight",
+    "meaning": "わずかな；取るに足らない",
+    "examples": [
+      {
+        "en": "There is a slight difference between them.",
+        "ja": "それらの間にはわずかな違いがあります。"
+      },
+      {
+        "en": "He gave a slight smile.",
+        "ja": "彼はかすかに笑いました。"
+      },
+      {
+        "en": "I felt a slight pain in my arm.",
+        "ja": "私は腕にわずかな痛みを感じました。"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "word": "character",
+    "meaning": "性格；特徴；登場人物；文字",
+    "examples": [
+      {
+        "en": "He has a kind character.",
+        "ja": "彼は優しい性格です。"
+      },
+      {
+        "en": "This town has a unique character.",
+        "ja": "この町には独特の特徴があります。"
+      },
+      {
+        "en": "The main character is a young student.",
+        "ja": "主人公は若い学生です。"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "word": "feature",
+    "meaning": "特徴；顔立ち；特集する",
+    "examples": [
+      {
+        "en": "A useful feature of this app is the timer.",
+        "ja": "このアプリの便利な特徴はタイマーです。"
+      },
+      {
+        "en": "The magazine featured a famous singer.",
+        "ja": "その雑誌は有名な歌手を特集しました。"
+      },
+      {
+        "en": "Her eyes are her most striking feature.",
+        "ja": "彼女の目は最も印象的な顔立ちです。"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "word": "trait",
+    "meaning": "特徴；特色",
+    "examples": [
+      {
+        "en": "Patience is an important trait for teachers.",
+        "ja": "忍耐は教師にとって重要な特徴です。"
+      },
+      {
+        "en": "This trait is common in that species.",
+        "ja": "この特徴はその種によく見られます。"
+      },
+      {
+        "en": "He inherited a musical trait from his mother.",
+        "ja": "彼は母親から音楽的な特徴を受け継ぎました。"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "word": "typical",
+    "meaning": "典型的な；らしい",
+    "examples": [
+      {
+        "en": "This is a typical example.",
+        "ja": "これは典型的な例です。"
+      },
+      {
+        "en": "It is typical of him to be late.",
+        "ja": "遅刻するのはいかにも彼らしいです。"
+      },
+      {
+        "en": "The weather is typical for this season.",
+        "ja": "その天気はこの季節に典型的です。"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "word": "unique",
+    "meaning": "特有の；独自の；唯一の",
+    "examples": [
+      {
+        "en": "Each student has a unique idea.",
+        "ja": "それぞれの学生が独自の考えを持っています。"
+      },
+      {
+        "en": "This custom is unique to the region.",
+        "ja": "この習慣はその地域に特有です。"
+      },
+      {
+        "en": "The museum has a unique collection.",
+        "ja": "その博物館には唯一無二のコレクションがあります。"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "word": "peculiar",
+    "meaning": "特有の；風変わりな",
+    "examples": [
+      {
+        "en": "This smell is peculiar to the plant.",
+        "ja": "このにおいはその植物に特有です。"
+      },
+      {
+        "en": "He has a peculiar way of speaking.",
+        "ja": "彼には風変わりな話し方があります。"
+      },
+      {
+        "en": "I noticed a peculiar sound.",
+        "ja": "私は奇妙な音に気づきました。"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "word": "particular",
+    "meaning": "特定の；特別の",
+    "examples": [
+      {
+        "en": "I am looking for a particular book.",
+        "ja": "私は特定の本を探しています。"
+      },
+      {
+        "en": "She paid particular attention to grammar.",
+        "ja": "彼女は文法に特別な注意を払いました。"
+      },
+      {
+        "en": "There is no particular reason.",
+        "ja": "特に理由はありません。"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "word": "general",
+    "meaning": "全般的な；一般的な",
+    "examples": [
+      {
+        "en": "This is a general rule.",
+        "ja": "これは一般的な規則です。"
+      },
+      {
+        "en": "The book gives a general introduction to physics.",
+        "ja": "その本は物理の全般的な導入をしています。"
+      },
+      {
+        "en": "In general, exercise is good for health.",
+        "ja": "一般的に、運動は健康に良いです。"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "word": "specify",
+    "meaning": "特定する；明記する",
+    "examples": [
+      {
+        "en": "Please specify the date and time.",
+        "ja": "日時を明記してください。"
+      },
+      {
+        "en": "The instructions specify the required size.",
+        "ja": "説明書は必要なサイズを明記しています。"
+      },
+      {
+        "en": "Can you specify the problem?",
+        "ja": "問題を特定できますか。"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "word": "distinguish",
+    "meaning": "区別する；見分ける",
+    "examples": [
+      {
+        "en": "It is hard to distinguish A from B.",
+        "ja": "AとBを区別するのは難しいです。"
+      },
+      {
+        "en": "Children learn to distinguish colors.",
+        "ja": "子どもは色を見分けることを学びます。"
+      },
+      {
+        "en": "This feature distinguishes the model from others.",
+        "ja": "この特徴がそのモデルを他のものと区別します。"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "word": "define",
+    "meaning": "定義する；明確にする",
+    "examples": [
+      {
+        "en": "How do you define success?",
+        "ja": "あなたは成功をどのように定義しますか。"
+      },
+      {
+        "en": "The law defines the rights of citizens.",
+        "ja": "その法律は市民の権利を定義しています。"
+      },
+      {
+        "en": "We need to define our goal clearly.",
+        "ja": "私たちは目標を明確にする必要があります。"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "word": "vague",
+    "meaning": "曖昧な；漠然とした",
+    "examples": [
+      {
+        "en": "His answer was vague.",
+        "ja": "彼の答えは曖昧でした。"
+      },
+      {
+        "en": "I have only a vague memory of the event.",
+        "ja": "私はその出来事について漠然とした記憶しかありません。"
+      },
+      {
+        "en": "The plan is still vague.",
+        "ja": "その計画はまだ曖昧です。"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "word": "obscure",
+    "meaning": "不明瞭な；世に知られていない",
+    "examples": [
+      {
+        "en": "The meaning of the sentence is obscure.",
+        "ja": "その文の意味は不明瞭です。"
+      },
+      {
+        "en": "He wrote about an obscure poet.",
+        "ja": "彼はあまり知られていない詩人について書きました。"
+      },
+      {
+        "en": "The reason remains obscure.",
+        "ja": "理由は依然として不明瞭です。"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "word": "ambiguous",
+    "meaning": "曖昧な；どちらとも取れる",
+    "examples": [
+      {
+        "en": "The word has an ambiguous meaning.",
+        "ja": "その単語には曖昧な意味があります。"
+      },
+      {
+        "en": "His message was ambiguous.",
+        "ja": "彼のメッセージはどちらとも取れるものでした。"
+      },
+      {
+        "en": "Avoid ambiguous expressions in reports.",
+        "ja": "レポートでは曖昧な表現を避けなさい。"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "word": "obvious",
+    "meaning": "明白な",
+    "examples": [
+      {
+        "en": "The answer is obvious.",
+        "ja": "答えは明白です。"
+      },
+      {
+        "en": "It was obvious that he was tired.",
+        "ja": "彼が疲れていることは明らかでした。"
+      },
+      {
+        "en": "She made an obvious mistake.",
+        "ja": "彼女は明らかなミスをしました。"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "word": "evident",
+    "meaning": "明白な",
+    "examples": [
+      {
+        "en": "It is evident that the plan failed.",
+        "ja": "その計画が失敗したことは明白です。"
+      },
+      {
+        "en": "Her talent was evident from childhood.",
+        "ja": "彼女の才能は子どもの頃から明らかでした。"
+      },
+      {
+        "en": "The effect became evident after a week.",
+        "ja": "その効果は1週間後に明らかになりました。"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "word": "apparent",
+    "meaning": "見たところの；明白な",
+    "examples": [
+      {
+        "en": "His calmness was only apparent.",
+        "ja": "彼の落ち着きは見せかけだけでした。"
+      },
+      {
+        "en": "It became apparent that we needed help.",
+        "ja": "私たちに助けが必要だということが明らかになりました。"
+      },
+      {
+        "en": "There was no apparent reason for the delay.",
+        "ja": "遅れに明らかな理由はありませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "word": "respect",
+    "meaning": "尊敬；尊重；点；尊敬する",
+    "examples": [
+      {
+        "en": "I respect my teacher.",
+        "ja": "私は先生を尊敬しています。"
+      },
+      {
+        "en": "We should respect different opinions.",
+        "ja": "私たちは異なる意見を尊重すべきです。"
+      },
+      {
+        "en": "In this respect, your idea is useful.",
+        "ja": "この点で、あなたの考えは役に立ちます。"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "word": "aspect",
+    "meaning": "側面；様相；点",
+    "examples": [
+      {
+        "en": "We discussed every aspect of the problem.",
+        "ja": "私たちはその問題のあらゆる側面を議論しました。"
+      },
+      {
+        "en": "This is an important aspect of culture.",
+        "ja": "これは文化の重要な側面です。"
+      },
+      {
+        "en": "The city has a modern aspect.",
+        "ja": "その都市には近代的な様相があります。"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "word": "detail",
+    "meaning": "詳細",
+    "examples": [
+      {
+        "en": "Please explain the plan in detail.",
+        "ja": "その計画を詳しく説明してください。"
+      },
+      {
+        "en": "He remembered every detail.",
+        "ja": "彼はすべての詳細を覚えていました。"
+      },
+      {
+        "en": "The report lacks important details.",
+        "ja": "その報告書には重要な詳細が欠けています。"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "word": "precise",
+    "meaning": "正確な；精密な",
+    "examples": [
+      {
+        "en": "Give me a precise answer.",
+        "ja": "正確な答えをください。"
+      },
+      {
+        "en": "The machine needs precise control.",
+        "ja": "その機械には精密な制御が必要です。"
+      },
+      {
+        "en": "She arrived at the precise time.",
+        "ja": "彼女はちょうど正確な時刻に到着しました。"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "word": "accurate",
+    "meaning": "正確な",
+    "examples": [
+      {
+        "en": "The data must be accurate.",
+        "ja": "データは正確でなければなりません。"
+      },
+      {
+        "en": "This watch is very accurate.",
+        "ja": "この時計はとても正確です。"
+      },
+      {
+        "en": "He gave an accurate description of the accident.",
+        "ja": "彼は事故について正確に説明しました。"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "word": "structure",
+    "meaning": "構造；構成；骨格",
+    "examples": [
+      {
+        "en": "The structure of the bridge is strong.",
+        "ja": "その橋の構造は頑丈です。"
+      },
+      {
+        "en": "We studied the structure of English sentences.",
+        "ja": "私たちは英文の構造を学びました。"
+      },
+      {
+        "en": "The organization has a simple structure.",
+        "ja": "その組織は単純な構成です。"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "word": "construct",
+    "meaning": "建設する；組み立てる",
+    "examples": [
+      {
+        "en": "Workers constructed a new school.",
+        "ja": "作業員たちは新しい学校を建設しました。"
+      },
+      {
+        "en": "We constructed a model with plastic parts.",
+        "ja": "私たちはプラスチック部品で模型を組み立てました。"
+      },
+      {
+        "en": "He constructed a clear argument.",
+        "ja": "彼は明確な議論を組み立てました。"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "word": "destroy",
+    "meaning": "破壊する；滅ぼす",
+    "examples": [
+      {
+        "en": "The fire destroyed the old house.",
+        "ja": "火事がその古い家を破壊しました。"
+      },
+      {
+        "en": "War can destroy many lives.",
+        "ja": "戦争は多くの命を奪うことがあります。"
+      },
+      {
+        "en": "Do not destroy the evidence.",
+        "ja": "証拠を破壊してはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "word": "architecture",
+    "meaning": "建築；建築学",
+    "examples": [
+      {
+        "en": "I am interested in modern architecture.",
+        "ja": "私は現代建築に興味があります。"
+      },
+      {
+        "en": "The city is famous for its old architecture.",
+        "ja": "その都市は古い建築で有名です。"
+      },
+      {
+        "en": "She studies architecture at university.",
+        "ja": "彼女は大学で建築学を学んでいます。"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "word": "constitute",
+    "meaning": "構成する；占める；設立する",
+    "examples": [
+      {
+        "en": "Women constitute half of the team.",
+        "ja": "女性がそのチームの半分を占めています。"
+      },
+      {
+        "en": "These parts constitute the whole system.",
+        "ja": "これらの部品が全体のシステムを構成しています。"
+      },
+      {
+        "en": "The new rules constitute a major change.",
+        "ja": "新しい規則は大きな変化を成しています。"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "word": "institute",
+    "meaning": "制定する；協会；研究所",
+    "examples": [
+      {
+        "en": "The government instituted a new policy.",
+        "ja": "政府は新しい政策を制定しました。"
+      },
+      {
+        "en": "He works at a medical institute.",
+        "ja": "彼は医学研究所で働いています。"
+      },
+      {
+        "en": "The institute supports young researchers.",
+        "ja": "その研究所は若い研究者を支援しています。"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "word": "substitute",
+    "meaning": "代用する；代用品；代理人",
+    "examples": [
+      {
+        "en": "You can substitute honey for sugar.",
+        "ja": "砂糖の代わりに蜂蜜を使えます。"
+      },
+      {
+        "en": "There is no substitute for hard work.",
+        "ja": "努力に代わるものはありません。"
+      },
+      {
+        "en": "A substitute teacher came to our class.",
+        "ja": "代理の先生が私たちのクラスに来ました。"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "word": "stable",
+    "meaning": "安定した",
+    "examples": [
+      {
+        "en": "The patient is in stable condition.",
+        "ja": "その患者は安定した状態です。"
+      },
+      {
+        "en": "We need a stable internet connection.",
+        "ja": "私たちは安定したインターネット接続が必要です。"
+      },
+      {
+        "en": "The economy became more stable.",
+        "ja": "経済はより安定しました。"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "word": "establish",
+    "meaning": "設立する；確立する",
+    "examples": [
+      {
+        "en": "They established a new company.",
+        "ja": "彼らは新しい会社を設立しました。"
+      },
+      {
+        "en": "The experiment established the theory.",
+        "ja": "その実験はその理論を確立しました。"
+      },
+      {
+        "en": "We must establish clear rules.",
+        "ja": "私たちは明確な規則を確立しなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "word": "subject",
+    "meaning": "科目；主題；被験者；従属している",
+    "examples": [
+      {
+        "en": "Math is my favorite subject.",
+        "ja": "数学は私の好きな科目です。"
+      },
+      {
+        "en": "The subject of the speech was peace.",
+        "ja": "その演説の主題は平和でした。"
+      },
+      {
+        "en": "The plan is subject to change.",
+        "ja": "その計画は変更される可能性があります。"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "word": "subdue",
+    "meaning": "征服する；支配する；抑える",
+    "examples": [
+      {
+        "en": "The army subdued the rebels.",
+        "ja": "軍は反乱軍を征服しました。"
+      },
+      {
+        "en": "He tried to subdue his anger.",
+        "ja": "彼は怒りを抑えようとしました。"
+      },
+      {
+        "en": "The police subdued the crowd.",
+        "ja": "警察は群衆を抑えました。"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "word": "submit",
+    "meaning": "提出する；服従する",
+    "examples": [
+      {
+        "en": "Please submit your report by Friday.",
+        "ja": "金曜日までにレポートを提出してください。"
+      },
+      {
+        "en": "He submitted to the decision.",
+        "ja": "彼はその決定に従いました。"
+      },
+      {
+        "en": "Students must submit the form online.",
+        "ja": "学生はその書類をオンラインで提出しなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "word": "substance",
+    "meaning": "物質；実体",
+    "examples": [
+      {
+        "en": "Water is a common substance.",
+        "ja": "水は一般的な物質です。"
+      },
+      {
+        "en": "The police found a dangerous substance.",
+        "ja": "警察は危険な物質を発見しました。"
+      },
+      {
+        "en": "There is little substance in his argument.",
+        "ja": "彼の議論には中身がほとんどありません。"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "word": "fundamental",
+    "meaning": "根本的な；基礎的な；重要な",
+    "examples": [
+      {
+        "en": "This is a fundamental rule of grammar.",
+        "ja": "これは文法の基本的な規則です。"
+      },
+      {
+        "en": "Trust is fundamental to friendship.",
+        "ja": "信頼は友情にとって根本的に重要です。"
+      },
+      {
+        "en": "We discussed fundamental problems.",
+        "ja": "私たちは根本的な問題を議論しました。"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "word": "fund",
+    "meaning": "資金；基金",
+    "examples": [
+      {
+        "en": "The school needs more funds.",
+        "ja": "その学校はもっと資金を必要としています。"
+      },
+      {
+        "en": "They created a fund for children.",
+        "ja": "彼らは子どものための基金を作りました。"
+      },
+      {
+        "en": "The project was supported by public funds.",
+        "ja": "その計画は公的資金で支えられました。"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "word": "found",
+    "meaning": "設立する",
+    "examples": [
+      {
+        "en": "They founded the club in 1990.",
+        "ja": "彼らは1990年にそのクラブを設立しました。"
+      },
+      {
+        "en": "The university was founded by a doctor.",
+        "ja": "その大学は医師によって設立されました。"
+      },
+      {
+        "en": "She wants to found her own company.",
+        "ja": "彼女は自分の会社を設立したいと思っています。"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "word": "foundation",
+    "meaning": "基盤；基礎；土台",
+    "examples": [
+      {
+        "en": "Education is the foundation of society.",
+        "ja": "教育は社会の基盤です。"
+      },
+      {
+        "en": "The builders laid the foundation.",
+        "ja": "建設作業員は土台を作りました。"
+      },
+      {
+        "en": "This course gives a foundation in programming.",
+        "ja": "この授業はプログラミングの基礎を与えます。"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "word": "profound",
+    "meaning": "深い；深遠な",
+    "examples": [
+      {
+        "en": "The book had a profound effect on me.",
+        "ja": "その本は私に深い影響を与えました。"
+      },
+      {
+        "en": "He made a profound observation.",
+        "ja": "彼は深遠な考察をしました。"
+      },
+      {
+        "en": "She felt profound sadness.",
+        "ja": "彼女は深い悲しみを感じました。"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "word": "base",
+    "meaning": "土台；基礎；基づかせる",
+    "examples": [
+      {
+        "en": "The statue has a stone base.",
+        "ja": "その像には石の土台があります。"
+      },
+      {
+        "en": "This theory is based on observation.",
+        "ja": "この理論は観察に基づいています。"
+      },
+      {
+        "en": "The team returned to base.",
+        "ja": "そのチームは基地に戻りました。"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "word": "basis",
+    "meaning": "基礎；根拠",
+    "examples": [
+      {
+        "en": "The decision was made on the basis of data.",
+        "ja": "その決定はデータに基づいて行われました。"
+      },
+      {
+        "en": "Trust is the basis of good teamwork.",
+        "ja": "信頼は良いチームワークの基礎です。"
+      },
+      {
+        "en": "We meet on a regular basis.",
+        "ja": "私たちは定期的に会います。"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "word": "ground",
+    "meaning": "地面；根拠；理由",
+    "examples": [
+      {
+        "en": "The ball fell to the ground.",
+        "ja": "ボールは地面に落ちました。"
+      },
+      {
+        "en": "There are strong grounds for doubt.",
+        "ja": "疑う十分な根拠があります。"
+      },
+      {
+        "en": "He lost his balance on wet ground.",
+        "ja": "彼は濡れた地面でバランスを崩しました。"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "word": "superficial",
+    "meaning": "うわべの；表面的な",
+    "examples": [
+      {
+        "en": "His knowledge is superficial.",
+        "ja": "彼の知識は表面的です。"
+      },
+      {
+        "en": "Do not judge people by superficial features.",
+        "ja": "人をうわべの特徴で判断してはいけません。"
+      },
+      {
+        "en": "The wound was only superficial.",
+        "ja": "その傷は表面的なものにすぎませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "word": "shallow",
+    "meaning": "浅い；浅はかな；うわべの",
+    "examples": [
+      {
+        "en": "The river is shallow here.",
+        "ja": "この川はここでは浅いです。"
+      },
+      {
+        "en": "That is a shallow idea.",
+        "ja": "それは浅はかな考えです。"
+      },
+      {
+        "en": "He gave a shallow explanation.",
+        "ja": "彼はうわべだけの説明をしました。"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "word": "superb",
+    "meaning": "すばらしい；見事な",
+    "examples": [
+      {
+        "en": "The view from the mountain was superb.",
+        "ja": "山からの景色はすばらしかったです。"
+      },
+      {
+        "en": "She gave a superb performance.",
+        "ja": "彼女は見事な演技をしました。"
+      },
+      {
+        "en": "The food was superb.",
+        "ja": "料理はすばらしかったです。"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "word": "supervise",
+    "meaning": "監視する；指揮する",
+    "examples": [
+      {
+        "en": "A teacher supervised the exam.",
+        "ja": "先生が試験を監督しました。"
+      },
+      {
+        "en": "She supervises new employees.",
+        "ja": "彼女は新入社員を指導しています。"
+      },
+      {
+        "en": "The engineer supervised the construction.",
+        "ja": "その技術者は建設を監督しました。"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "word": "superstition",
+    "meaning": "迷信",
+    "examples": [
+      {
+        "en": "Some people still believe that superstition.",
+        "ja": "今でもその迷信を信じている人がいます。"
+      },
+      {
+        "en": "Breaking a mirror is an old superstition.",
+        "ja": "鏡を割ることに関する古い迷信があります。"
+      },
+      {
+        "en": "Science can reduce superstition.",
+        "ja": "科学は迷信を減らすことができます。"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "word": "core",
+    "meaning": "中心；核心；芯",
+    "examples": [
+      {
+        "en": "The core of the problem is money.",
+        "ja": "その問題の核心はお金です。"
+      },
+      {
+        "en": "The earth has a hot core.",
+        "ja": "地球には熱い核があります。"
+      },
+      {
+        "en": "She removed the core from the apple.",
+        "ja": "彼女はリンゴの芯を取りました。"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "word": "surface",
+    "meaning": "表面；表層",
+    "examples": [
+      {
+        "en": "The surface of the table is smooth.",
+        "ja": "テーブルの表面は滑らかです。"
+      },
+      {
+        "en": "The submarine rose to the surface.",
+        "ja": "潜水艦は水面に浮上しました。"
+      },
+      {
+        "en": "The problem is hidden below the surface.",
+        "ja": "その問題は表面の下に隠れています。"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "word": "internal",
+    "meaning": "内面の；内側の",
+    "examples": [
+      {
+        "en": "The computer has internal memory.",
+        "ja": "そのコンピュータには内部メモリがあります。"
+      },
+      {
+        "en": "The company has internal problems.",
+        "ja": "その会社には内部の問題があります。"
+      },
+      {
+        "en": "He suffered internal injuries.",
+        "ja": "彼は内臓にけがを負いました。"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "word": "external",
+    "meaning": "外側の；外部の",
+    "examples": [
+      {
+        "en": "The phone has an external battery.",
+        "ja": "その携帯電話には外部バッテリーがあります。"
+      },
+      {
+        "en": "External factors affected the result.",
+        "ja": "外部要因が結果に影響しました。"
+      },
+      {
+        "en": "The external wall was painted white.",
+        "ja": "外壁は白く塗られました。"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "word": "concentrate",
+    "meaning": "集中する；集中させる",
+    "examples": [
+      {
+        "en": "I cannot concentrate on my homework.",
+        "ja": "私は宿題に集中できません。"
+      },
+      {
+        "en": "Please concentrate your attention on this point.",
+        "ja": "この点に注意を集中してください。"
+      },
+      {
+        "en": "The company concentrated its efforts on safety.",
+        "ja": "その会社は安全に努力を集中させました。"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "word": "focus",
+    "meaning": "集中する；重点を置く；焦点",
+    "examples": [
+      {
+        "en": "Focus on one task at a time.",
+        "ja": "一度に一つの作業に集中しなさい。"
+      },
+      {
+        "en": "The lesson focused on pronunciation.",
+        "ja": "その授業は発音に重点を置きました。"
+      },
+      {
+        "en": "The camera is out of focus.",
+        "ja": "カメラの焦点が合っていません。"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "word": "compose",
+    "meaning": "構成する；作曲する；作文する",
+    "examples": [
+      {
+        "en": "Water is composed of hydrogen and oxygen.",
+        "ja": "水は水素と酸素で構成されています。"
+      },
+      {
+        "en": "She composed a short song.",
+        "ja": "彼女は短い曲を作曲しました。"
+      },
+      {
+        "en": "He composed an email in English.",
+        "ja": "彼は英語でメールを書きました。"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "word": "consist",
+    "meaning": "成る；存在する",
+    "examples": [
+      {
+        "en": "The team consists of ten members.",
+        "ja": "そのチームは10人のメンバーから成ります。"
+      },
+      {
+        "en": "Happiness does not consist in money alone.",
+        "ja": "幸せはお金だけにあるわけではありません。"
+      },
+      {
+        "en": "The meal consisted of rice and fish.",
+        "ja": "その食事は米と魚から成っていました。"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "word": "organize",
+    "meaning": "組織する；整理する",
+    "examples": [
+      {
+        "en": "We organized a school festival.",
+        "ja": "私たちは学園祭を企画しました。"
+      },
+      {
+        "en": "Please organize your files.",
+        "ja": "ファイルを整理してください。"
+      },
+      {
+        "en": "The students organized a volunteer group.",
+        "ja": "学生たちはボランティア団体を組織しました。"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "word": "element",
+    "meaning": "要素；元素",
+    "examples": [
+      {
+        "en": "Trust is an important element of friendship.",
+        "ja": "信頼は友情の重要な要素です。"
+      },
+      {
+        "en": "Oxygen is a chemical element.",
+        "ja": "酸素は化学元素です。"
+      },
+      {
+        "en": "The story has an element of mystery.",
+        "ja": "その物語にはミステリーの要素があります。"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "word": "component",
+    "meaning": "構成要素；部品",
+    "examples": [
+      {
+        "en": "This chip is a key component of the device.",
+        "ja": "このチップはその装置の主要な部品です。"
+      },
+      {
+        "en": "Each component has a different role.",
+        "ja": "各構成要素には異なる役割があります。"
+      },
+      {
+        "en": "The program has several components.",
+        "ja": "そのプログラムにはいくつかの構成要素があります。"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "word": "complex",
+    "meaning": "複雑な；複合の",
+    "examples": [
+      {
+        "en": "The problem is complex.",
+        "ja": "その問題は複雑です。"
+      },
+      {
+        "en": "The human brain is a complex system.",
+        "ja": "人間の脳は複雑なシステムです。"
+      },
+      {
+        "en": "They built a sports complex.",
+        "ja": "彼らは総合運動施設を建設しました。"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "word": "complicated",
+    "meaning": "複雑な",
+    "examples": [
+      {
+        "en": "The instructions are complicated.",
+        "ja": "説明書は複雑です。"
+      },
+      {
+        "en": "This machine looks complicated.",
+        "ja": "この機械は複雑に見えます。"
+      },
+      {
+        "en": "The situation became more complicated.",
+        "ja": "状況はさらに複雑になりました。"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "word": "reveal",
+    "meaning": "明らかにする；暴露する",
+    "examples": [
+      {
+        "en": "The test revealed a serious problem.",
+        "ja": "その検査は深刻な問題を明らかにしました。"
+      },
+      {
+        "en": "She revealed the secret to her friend.",
+        "ja": "彼女は友人に秘密を明かしました。"
+      },
+      {
+        "en": "The data reveal a clear trend.",
+        "ja": "そのデータは明確な傾向を示しています。"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "word": "conceal",
+    "meaning": "隠す",
+    "examples": [
+      {
+        "en": "He tried to conceal his feelings.",
+        "ja": "彼は感情を隠そうとしました。"
+      },
+      {
+        "en": "The trees concealed the house.",
+        "ja": "木々がその家を隠していました。"
+      },
+      {
+        "en": "She concealed the truth from her parents.",
+        "ja": "彼女は両親に真実を隠しました。"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "word": "expose",
+    "meaning": "さらす；暴露する",
+    "examples": [
+      {
+        "en": "The skin was exposed to sunlight.",
+        "ja": "皮膚は日光にさらされました。"
+      },
+      {
+        "en": "The article exposed the scandal.",
+        "ja": "その記事はスキャンダルを暴露しました。"
+      },
+      {
+        "en": "Travel exposes you to different cultures.",
+        "ja": "旅行はあなたを異文化に触れさせます。"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "word": "impose",
+    "meaning": "課す；押しつける",
+    "examples": [
+      {
+        "en": "The government imposed a new tax.",
+        "ja": "政府は新しい税を課しました。"
+      },
+      {
+        "en": "Do not impose your opinion on others.",
+        "ja": "自分の意見を他人に押しつけてはいけません。"
+      },
+      {
+        "en": "The teacher imposed a strict rule.",
+        "ja": "先生は厳しい規則を課しました。"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "word": "divide",
+    "meaning": "分割する；分ける",
+    "examples": [
+      {
+        "en": "Divide the cake into six pieces.",
+        "ja": "ケーキを6つに分けなさい。"
+      },
+      {
+        "en": "The river divides the city.",
+        "ja": "その川が街を分けています。"
+      },
+      {
+        "en": "We divided the work among the members.",
+        "ja": "私たちはメンバーで仕事を分担しました。"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "word": "diffuse",
+    "meaning": "まき散らす；分散する；拡散する",
+    "examples": [
+      {
+        "en": "The smell diffused through the room.",
+        "ja": "そのにおいは部屋中に広がりました。"
+      },
+      {
+        "en": "The lamp diffuses soft light.",
+        "ja": "そのランプは柔らかい光を拡散します。"
+      },
+      {
+        "en": "The idea diffused quickly online.",
+        "ja": "その考えはネット上で急速に広まりました。"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "word": "scatter",
+    "meaning": "まき散らす；散らばる",
+    "examples": [
+      {
+        "en": "The wind scattered the leaves.",
+        "ja": "風が葉をまき散らしました。"
+      },
+      {
+        "en": "The students scattered after class.",
+        "ja": "授業後、学生たちは散らばりました。"
+      },
+      {
+        "en": "She scattered seeds in the garden.",
+        "ja": "彼女は庭に種をまきました。"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "word": "spread",
+    "meaning": "広がる；普及する；広げる",
+    "examples": [
+      {
+        "en": "The news spread quickly.",
+        "ja": "その知らせはすぐに広まりました。"
+      },
+      {
+        "en": "Please spread the map on the table.",
+        "ja": "地図をテーブルの上に広げてください。"
+      },
+      {
+        "en": "The disease spread through the town.",
+        "ja": "その病気は町中に広がりました。"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "word": "bend",
+    "meaning": "曲げる；曲がる",
+    "examples": [
+      {
+        "en": "Bend your knees slowly.",
+        "ja": "ゆっくり膝を曲げなさい。"
+      },
+      {
+        "en": "The road bends to the left.",
+        "ja": "道は左に曲がっています。"
+      },
+      {
+        "en": "Do not bend the metal too much.",
+        "ja": "金属を曲げすぎないでください。"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "word": "incline",
+    "meaning": "傾ける；〜したい気持ちにさせる",
+    "examples": [
+      {
+        "en": "Incline your head slightly.",
+        "ja": "頭を少し傾けなさい。"
+      },
+      {
+        "en": "The road inclines gently upward.",
+        "ja": "その道はゆるやかに上り坂になっています。"
+      },
+      {
+        "en": "I am inclined to agree with you.",
+        "ja": "私はあなたに賛成したい気持ちです。"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "word": "lean",
+    "meaning": "寄りかかる；もたれる",
+    "examples": [
+      {
+        "en": "Do not lean against the wall.",
+        "ja": "壁にもたれかからないでください。"
+      },
+      {
+        "en": "She leaned forward to hear him.",
+        "ja": "彼女は彼の声を聞くために前に身を乗り出しました。"
+      },
+      {
+        "en": "The old tree leans to one side.",
+        "ja": "その古い木は片側に傾いています。"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "word": "erect",
+    "meaning": "直立させる；建てる；直立した",
+    "examples": [
+      {
+        "en": "They erected a statue in the park.",
+        "ja": "彼らは公園に像を建てました。"
+      },
+      {
+        "en": "The soldiers stood erect.",
+        "ja": "兵士たちは直立して立っていました。"
+      },
+      {
+        "en": "The workers erected a fence.",
+        "ja": "作業員たちは柵を立てました。"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "word": "emit",
+    "meaning": "放出する；排出する",
+    "examples": [
+      {
+        "en": "The lamp emits a soft light.",
+        "ja": "そのランプは柔らかい光を放ちます。"
+      },
+      {
+        "en": "Cars emit carbon dioxide.",
+        "ja": "車は二酸化炭素を排出します。"
+      },
+      {
+        "en": "The device emits a warning sound.",
+        "ja": "その装置は警告音を発します。"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "word": "absorb",
+    "meaning": "吸収する",
+    "examples": [
+      {
+        "en": "Plants absorb water from the soil.",
+        "ja": "植物は土から水を吸収します。"
+      },
+      {
+        "en": "This material absorbs sound.",
+        "ja": "この素材は音を吸収します。"
+      },
+      {
+        "en": "Children absorb new words quickly.",
+        "ja": "子どもは新しい単語をすぐに吸収します。"
+      }
+    ]
+  }
+]

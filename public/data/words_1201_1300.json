@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1201,
+    "word": "Christianity",
+    "meaning": "キリスト教",
+    "examples": [
+      {
+        "en": "Christianity has influenced many works of art.",
+        "ja": "キリスト教は多くの芸術作品に影響を与えてきました。"
+      },
+      {
+        "en": "He studied Christianity in a world history class.",
+        "ja": "彼は世界史の授業でキリスト教を学びました。"
+      },
+      {
+        "en": "Christianity spread to many parts of Europe.",
+        "ja": "キリスト教はヨーロッパの多くの地域に広まりました。"
+      }
+    ]
+  },
+  {
+    "id": 1202,
+    "word": "Catholic",
+    "meaning": "カトリックの；カトリック教徒",
+    "examples": [
+      {
+        "en": "She went to a Catholic school.",
+        "ja": "彼女はカトリック系の学校に通っていました。"
+      },
+      {
+        "en": "The town has an old Catholic church.",
+        "ja": "その町には古いカトリック教会があります。"
+      },
+      {
+        "en": "He is Catholic, but his best friend is not.",
+        "ja": "彼はカトリック教徒ですが、親友はそうではありません。"
+      }
+    ]
+  },
+  {
+    "id": 1203,
+    "word": "Protestant",
+    "meaning": "プロテスタントの；新教徒",
+    "examples": [
+      {
+        "en": "The book explains Protestant history.",
+        "ja": "その本はプロテスタントの歴史を説明しています。"
+      },
+      {
+        "en": "They visited a Protestant church in the city.",
+        "ja": "彼らは市内のプロテスタント教会を訪れました。"
+      },
+      {
+        "en": "Some Protestant groups valued reading the Bible in local languages.",
+        "ja": "一部のプロテスタントの集団は、聖書を現地語で読むことを重視しました。"
+      }
+    ]
+  },
+  {
+    "id": 1204,
+    "word": "priest",
+    "meaning": "牧師；司祭",
+    "examples": [
+      {
+        "en": "The priest spoke quietly to the visitors.",
+        "ja": "司祭は訪問者たちに静かに話しました。"
+      },
+      {
+        "en": "A priest led the ceremony.",
+        "ja": "司祭がその儀式を進めました。"
+      },
+      {
+        "en": "The village priest helped people in need.",
+        "ja": "村の司祭は困っている人々を助けました。"
+      }
+    ]
+  },
+  {
+    "id": 1205,
+    "word": "clergy",
+    "meaning": "聖職者",
+    "examples": [
+      {
+        "en": "Members of the clergy gathered for the meeting.",
+        "ja": "聖職者たちが会議のために集まりました。"
+      },
+      {
+        "en": "The clergy played an important role in the town.",
+        "ja": "聖職者たちはその町で重要な役割を果たしました。"
+      },
+      {
+        "en": "The museum has old clothes worn by the clergy.",
+        "ja": "その博物館には聖職者が着ていた古い服があります。"
+      }
+    ]
+  },
+  {
+    "id": 1206,
+    "word": "preach",
+    "meaning": "説く；説教する",
+    "examples": [
+      {
+        "en": "The minister preached about kindness.",
+        "ja": "牧師は親切について説教しました。"
+      },
+      {
+        "en": "My teacher always preaches the importance of practice.",
+        "ja": "先生はいつも練習の大切さを説きます。"
+      },
+      {
+        "en": "It is easy to preach, but hard to act.",
+        "ja": "説くのは簡単ですが、行動するのは難しいです。"
+      }
+    ]
+  },
+  {
+    "id": 1207,
+    "word": "pilgrim",
+    "meaning": "巡礼者",
+    "examples": [
+      {
+        "en": "Many pilgrims walked to the sacred mountain.",
+        "ja": "多くの巡礼者がその神聖な山まで歩きました。"
+      },
+      {
+        "en": "The pilgrim carried a small bag and a map.",
+        "ja": "その巡礼者は小さなバッグと地図を持っていました。"
+      },
+      {
+        "en": "A local family gave food to the pilgrims.",
+        "ja": "地元の家族が巡礼者たちに食べ物を与えました。"
+      }
+    ]
+  },
+  {
+    "id": 1208,
+    "word": "divine",
+    "meaning": "神の；神々しい",
+    "examples": [
+      {
+        "en": "They believed the king had divine power.",
+        "ja": "彼らは王に神の力があると信じていました。"
+      },
+      {
+        "en": "The sunlight gave the scene a divine beauty.",
+        "ja": "日光がその景色に神々しい美しさを与えました。"
+      },
+      {
+        "en": "The poem speaks of divine love.",
+        "ja": "その詩は神聖な愛について語っています。"
+      }
+    ]
+  },
+  {
+    "id": 1209,
+    "word": "sacred",
+    "meaning": "神聖な",
+    "examples": [
+      {
+        "en": "This forest is sacred to the local people.",
+        "ja": "この森は地元の人々にとって神聖なものです。"
+      },
+      {
+        "en": "Visitors must be quiet in the sacred place.",
+        "ja": "訪問者は神聖な場所では静かにしなければなりません。"
+      },
+      {
+        "en": "The temple keeps many sacred objects.",
+        "ja": "その寺院は多くの神聖な品を保管しています。"
+      }
+    ]
+  },
+  {
+    "id": 1210,
+    "word": "sacrifice",
+    "meaning": "犠牲にする；犠牲；生け贄",
+    "examples": [
+      {
+        "en": "She sacrificed her free time to help her brother.",
+        "ja": "彼女は弟を助けるために自由時間を犠牲にしました。"
+      },
+      {
+        "en": "Success often requires some sacrifice.",
+        "ja": "成功にはしばしば何らかの犠牲が必要です。"
+      },
+      {
+        "en": "Ancient people sometimes offered animals as sacrifices.",
+        "ja": "古代の人々は時に動物を生け贄として捧げました。"
+      }
+    ]
+  },
+  {
+    "id": 1211,
+    "word": "saint",
+    "meaning": "聖人；聖人のような人",
+    "examples": [
+      {
+        "en": "The church was named after a saint.",
+        "ja": "その教会は聖人にちなんで名付けられました。"
+      },
+      {
+        "en": "She is not a saint, but she is very kind.",
+        "ja": "彼女は聖人ではありませんが、とても親切です。"
+      },
+      {
+        "en": "Many stories describe the life of the saint.",
+        "ja": "多くの物語がその聖人の生涯を描いています。"
+      }
+    ]
+  },
+  {
+    "id": 1212,
+    "word": "holy",
+    "meaning": "神聖な",
+    "examples": [
+      {
+        "en": "They visited a holy city.",
+        "ja": "彼らは神聖な都市を訪れました。"
+      },
+      {
+        "en": "The river is considered holy by many people.",
+        "ja": "その川は多くの人に神聖なものと考えられています。"
+      },
+      {
+        "en": "Please show respect in this holy place.",
+        "ja": "この神聖な場所では敬意を示してください。"
+      }
+    ]
+  },
+  {
+    "id": 1213,
+    "word": "shrine",
+    "meaning": "神社",
+    "examples": [
+      {
+        "en": "We visited a small shrine on New Year's Day.",
+        "ja": "私たちは元日に小さな神社を訪れました。"
+      },
+      {
+        "en": "The shrine stands at the top of the hill.",
+        "ja": "その神社は丘の頂上にあります。"
+      },
+      {
+        "en": "People left wishes at the shrine.",
+        "ja": "人々は神社に願い事を残しました。"
+      }
+    ]
+  },
+  {
+    "id": 1214,
+    "word": "temple",
+    "meaning": "寺院；神殿",
+    "examples": [
+      {
+        "en": "The temple is famous for its beautiful garden.",
+        "ja": "その寺院は美しい庭で有名です。"
+      },
+      {
+        "en": "We took off our shoes before entering the temple.",
+        "ja": "私たちは寺院に入る前に靴を脱ぎました。"
+      },
+      {
+        "en": "An ancient temple was found under the sand.",
+        "ja": "古代の神殿が砂の下から見つかりました。"
+      }
+    ]
+  },
+  {
+    "id": 1215,
+    "word": "ritual",
+    "meaning": "儀式",
+    "examples": [
+      {
+        "en": "The morning ritual helped him start the day calmly.",
+        "ja": "朝の習慣的な儀式が、彼が一日を落ち着いて始める助けになりました。"
+      },
+      {
+        "en": "The tribe performed a traditional ritual.",
+        "ja": "その部族は伝統的な儀式を行いました。"
+      },
+      {
+        "en": "Washing hands is part of the ritual before the meal.",
+        "ja": "手を洗うことは食事前の儀式の一部です。"
+      }
+    ]
+  },
+  {
+    "id": 1216,
+    "word": "ceremony",
+    "meaning": "儀式；式典",
+    "examples": [
+      {
+        "en": "The graduation ceremony began at ten.",
+        "ja": "卒業式は10時に始まりました。"
+      },
+      {
+        "en": "They held a ceremony to welcome the new students.",
+        "ja": "彼らは新入生を迎える式典を開きました。"
+      },
+      {
+        "en": "The ceremony was short but moving.",
+        "ja": "その式典は短かったですが感動的でした。"
+      }
+    ]
+  },
+  {
+    "id": 1217,
+    "word": "swear",
+    "meaning": "誓う；ののしる",
+    "examples": [
+      {
+        "en": "I swear I will tell the truth.",
+        "ja": "私は真実を話すと誓います。"
+      },
+      {
+        "en": "He swore never to make the same mistake again.",
+        "ja": "彼は二度と同じ失敗をしないと誓いました。"
+      },
+      {
+        "en": "Do not swear at other people.",
+        "ja": "他人をののしってはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 1218,
+    "word": "bless",
+    "meaning": "祝福する",
+    "examples": [
+      {
+        "en": "The priest blessed the child.",
+        "ja": "司祭はその子どもを祝福しました。"
+      },
+      {
+        "en": "They felt blessed to have good friends.",
+        "ja": "彼らは良い友人に恵まれていると感じました。"
+      },
+      {
+        "en": "May this year bless you with happiness.",
+        "ja": "今年があなたに幸せをもたらしますように。"
+      }
+    ]
+  },
+  {
+    "id": 1219,
+    "word": "enchant",
+    "meaning": "魔法をかける；魅了する",
+    "examples": [
+      {
+        "en": "The fairy enchanted the old castle.",
+        "ja": "妖精は古い城に魔法をかけました。"
+      },
+      {
+        "en": "The singer's voice enchanted the audience.",
+        "ja": "その歌手の声は観客を魅了しました。"
+      },
+      {
+        "en": "The children were enchanted by the story.",
+        "ja": "子どもたちはその物語に魅了されました。"
+      }
+    ]
+  },
+  {
+    "id": 1220,
+    "word": "witch",
+    "meaning": "魔女",
+    "examples": [
+      {
+        "en": "The story is about a kind witch.",
+        "ja": "その物語は親切な魔女についてのものです。"
+      },
+      {
+        "en": "Children dressed as witches for Halloween.",
+        "ja": "子どもたちはハロウィーンに魔女の格好をしました。"
+      },
+      {
+        "en": "The witch lived deep in the forest.",
+        "ja": "その魔女は森の奥深くに住んでいました。"
+      }
+    ]
+  },
+  {
+    "id": 1221,
+    "word": "spell",
+    "meaning": "呪文",
+    "examples": [
+      {
+        "en": "The wizard used a magic spell.",
+        "ja": "魔法使いは魔法の呪文を使いました。"
+      },
+      {
+        "en": "She whispered a spell in the dark room.",
+        "ja": "彼女は暗い部屋で呪文をささやきました。"
+      },
+      {
+        "en": "The spell turned the prince into a frog.",
+        "ja": "その呪文は王子をカエルに変えました。"
+      }
+    ]
+  },
+  {
+    "id": 1222,
+    "word": "haunt",
+    "meaning": "出没する",
+    "examples": [
+      {
+        "en": "People say a ghost haunts the old house.",
+        "ja": "人々は幽霊がその古い家に出没すると言います。"
+      },
+      {
+        "en": "The memory haunted him for years.",
+        "ja": "その記憶は何年も彼につきまといました。"
+      },
+      {
+        "en": "Strange sounds haunt the empty hotel at night.",
+        "ja": "夜になると奇妙な音が空のホテルに出没します。"
+      }
+    ]
+  },
+  {
+    "id": 1223,
+    "word": "race",
+    "meaning": "人種；競争",
+    "examples": [
+      {
+        "en": "We should not judge people by race.",
+        "ja": "人を人種で判断すべきではありません。"
+      },
+      {
+        "en": "She won the race by a few seconds.",
+        "ja": "彼女は数秒差で競走に勝ちました。"
+      },
+      {
+        "en": "The movie discusses race and identity.",
+        "ja": "その映画は人種とアイデンティティについて扱っています。"
+      }
+    ]
+  },
+  {
+    "id": 1224,
+    "word": "discriminate",
+    "meaning": "差別する；区別する",
+    "examples": [
+      {
+        "en": "The law says employers must not discriminate by age.",
+        "ja": "法律は雇用主が年齢で差別してはならないと定めています。"
+      },
+      {
+        "en": "Young children can discriminate between different colors.",
+        "ja": "幼い子どもは異なる色を区別できます。"
+      },
+      {
+        "en": "It is wrong to discriminate against people because of their background.",
+        "ja": "出身を理由に人を差別するのは間違っています。"
+      }
+    ]
+  },
+  {
+    "id": 1225,
+    "word": "tribe",
+    "meaning": "部族",
+    "examples": [
+      {
+        "en": "The tribe has its own language and customs.",
+        "ja": "その部族には独自の言語と慣習があります。"
+      },
+      {
+        "en": "Researchers learned songs from the tribe.",
+        "ja": "研究者たちはその部族から歌を学びました。"
+      },
+      {
+        "en": "The tribe moved with the seasons.",
+        "ja": "その部族は季節に合わせて移動しました。"
+      }
+    ]
+  },
+  {
+    "id": 1226,
+    "word": "ethnic",
+    "meaning": "民族的な",
+    "examples": [
+      {
+        "en": "The city has many ethnic restaurants.",
+        "ja": "その都市には多くの民族料理店があります。"
+      },
+      {
+        "en": "They studied ethnic differences in traditional clothing.",
+        "ja": "彼らは伝統衣装における民族的な違いを研究しました。"
+      },
+      {
+        "en": "The festival celebrates ethnic diversity.",
+        "ja": "その祭りは民族的多様性を祝います。"
+      }
+    ]
+  },
+  {
+    "id": 1227,
+    "word": "nationality",
+    "meaning": "国籍",
+    "examples": [
+      {
+        "en": "Please write your nationality on the form.",
+        "ja": "用紙に国籍を書いてください。"
+      },
+      {
+        "en": "The team includes players of many nationalities.",
+        "ja": "そのチームには多くの国籍の選手がいます。"
+      },
+      {
+        "en": "Nationality does not decide a person's character.",
+        "ja": "国籍が人の性格を決めるわけではありません。"
+      }
+    ]
+  },
+  {
+    "id": 1228,
+    "word": "native",
+    "meaning": "出生地の；原住民の；生まれつきの人",
+    "examples": [
+      {
+        "en": "English is her native language.",
+        "ja": "英語は彼女の母語です。"
+      },
+      {
+        "en": "The plant is native to Japan.",
+        "ja": "その植物は日本原産です。"
+      },
+      {
+        "en": "Native people protected the forest for generations.",
+        "ja": "先住民の人々は何世代にもわたって森を守りました。"
+      }
+    ]
+  },
+  {
+    "id": 1229,
+    "word": "tradition",
+    "meaning": "伝統",
+    "examples": [
+      {
+        "en": "This festival is an old tradition in our town.",
+        "ja": "この祭りは私たちの町の古い伝統です。"
+      },
+      {
+        "en": "Families pass traditions from parents to children.",
+        "ja": "家族は伝統を親から子へ受け継ぎます。"
+      },
+      {
+        "en": "He wants to protect local traditions.",
+        "ja": "彼は地元の伝統を守りたいと思っています。"
+      }
+    ]
+  },
+  {
+    "id": 1230,
+    "word": "custom",
+    "meaning": "慣習；習慣",
+    "examples": [
+      {
+        "en": "It is a custom to bow in Japan.",
+        "ja": "日本ではおじぎをするのが慣習です。"
+      },
+      {
+        "en": "Every country has its own customs.",
+        "ja": "どの国にも独自の慣習があります。"
+      },
+      {
+        "en": "I did not know the local custom.",
+        "ja": "私はその地域の慣習を知りませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 1231,
+    "word": "accustomed",
+    "meaning": "慣れている",
+    "examples": [
+      {
+        "en": "I am accustomed to getting up early.",
+        "ja": "私は早起きに慣れています。"
+      },
+      {
+        "en": "She is not accustomed to cold weather.",
+        "ja": "彼女は寒い天気に慣れていません。"
+      },
+      {
+        "en": "Students soon became accustomed to the new system.",
+        "ja": "学生たちはすぐに新しい制度に慣れました。"
+      }
+    ]
+  },
+  {
+    "id": 1232,
+    "word": "convention",
+    "meaning": "慣習；因習；大会",
+    "examples": [
+      {
+        "en": "Shaking hands is a common social convention.",
+        "ja": "握手は一般的な社会的慣習です。"
+      },
+      {
+        "en": "The science convention attracted many students.",
+        "ja": "その科学大会は多くの学生を引きつけました。"
+      },
+      {
+        "en": "The novel challenges old conventions.",
+        "ja": "その小説は古い因習に挑戦しています。"
+      }
+    ]
+  },
+  {
+    "id": 1233,
+    "word": "hierarchy",
+    "meaning": "階級制；上下関係",
+    "examples": [
+      {
+        "en": "The company has a strict hierarchy.",
+        "ja": "その会社には厳しい上下関係があります。"
+      },
+      {
+        "en": "In the army, hierarchy is very clear.",
+        "ja": "軍隊では階級制がとても明確です。"
+      },
+      {
+        "en": "The project reduced the hierarchy between teachers and students.",
+        "ja": "その企画は教師と学生の間の上下関係を弱めました。"
+      }
+    ]
+  },
+  {
+    "id": 1234,
+    "word": "folk",
+    "meaning": "民衆；民族",
+    "examples": [
+      {
+        "en": "She enjoys folk music.",
+        "ja": "彼女は民謡を楽しんでいます。"
+      },
+      {
+        "en": "The story comes from old folk tales.",
+        "ja": "その話は古い民間伝承に由来します。"
+      },
+      {
+        "en": "Local folk gathered in the square.",
+        "ja": "地元の人々が広場に集まりました。"
+      }
+    ]
+  },
+  {
+    "id": 1235,
+    "word": "myth",
+    "meaning": "神話；俗説",
+    "examples": [
+      {
+        "en": "Greek myths are still read around the world.",
+        "ja": "ギリシャ神話は今でも世界中で読まれています。"
+      },
+      {
+        "en": "It is a myth that humans use only ten percent of the brain.",
+        "ja": "人間は脳の10パーセントしか使わないというのは俗説です。"
+      },
+      {
+        "en": "The movie is based on an ancient myth.",
+        "ja": "その映画は古代神話に基づいています。"
+      }
+    ]
+  },
+  {
+    "id": 1236,
+    "word": "legend",
+    "meaning": "伝説",
+    "examples": [
+      {
+        "en": "The legend says a dragon lived in the lake.",
+        "ja": "その伝説では湖に竜が住んでいたと言われています。"
+      },
+      {
+        "en": "He became a legend in the world of baseball.",
+        "ja": "彼は野球界の伝説になりました。"
+      },
+      {
+        "en": "Children in the village know the old legend.",
+        "ja": "その村の子どもたちは古い伝説を知っています。"
+      }
+    ]
+  },
+  {
+    "id": 1237,
+    "word": "tragedy",
+    "meaning": "悲劇；惨劇",
+    "examples": [
+      {
+        "en": "The accident was a terrible tragedy.",
+        "ja": "その事故はひどい悲劇でした。"
+      },
+      {
+        "en": "Shakespeare wrote many famous tragedies.",
+        "ja": "シェイクスピアは多くの有名な悲劇を書きました。"
+      },
+      {
+        "en": "The town never forgot the tragedy.",
+        "ja": "その町はその惨劇を決して忘れませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 1238,
+    "word": "environment",
+    "meaning": "環境",
+    "examples": [
+      {
+        "en": "We must protect the natural environment.",
+        "ja": "私たちは自然環境を守らなければなりません。"
+      },
+      {
+        "en": "A quiet environment helps me study.",
+        "ja": "静かな環境は勉強の助けになります。"
+      },
+      {
+        "en": "Children need a safe environment to grow.",
+        "ja": "子どもには成長するための安全な環境が必要です。"
+      }
+    ]
+  },
+  {
+    "id": 1239,
+    "word": "species",
+    "meaning": "生物の種；人類",
+    "examples": [
+      {
+        "en": "This island has many rare species.",
+        "ja": "この島には多くの珍しい種がいます。"
+      },
+      {
+        "en": "Some species cannot live in polluted water.",
+        "ja": "汚れた水では生きられない種もあります。"
+      },
+      {
+        "en": "Humans are one species among many on Earth.",
+        "ja": "人間は地球上の多くの種の一つです。"
+      }
+    ]
+  },
+  {
+    "id": 1240,
+    "word": "evolve",
+    "meaning": "進化する；発展する",
+    "examples": [
+      {
+        "en": "Animals evolve over a long time.",
+        "ja": "動物は長い時間をかけて進化します。"
+      },
+      {
+        "en": "Languages evolve as people use them.",
+        "ja": "言語は人々が使うにつれて発展します。"
+      },
+      {
+        "en": "The small idea evolved into a big project.",
+        "ja": "その小さな考えは大きな企画へと発展しました。"
+      }
+    ]
+  },
+  {
+    "id": 1241,
+    "word": "ecology",
+    "meaning": "生態系；自然環境；環境保護",
+    "examples": [
+      {
+        "en": "Ecology studies relationships among living things.",
+        "ja": "生態学は生物同士の関係を研究します。"
+      },
+      {
+        "en": "The local ecology changed after the river was polluted.",
+        "ja": "川が汚染された後、地域の生態系は変化しました。"
+      },
+      {
+        "en": "She is interested in ecology and conservation.",
+        "ja": "彼女は生態系と保護活動に関心があります。"
+      }
+    ]
+  },
+  {
+    "id": 1242,
+    "word": "nature",
+    "meaning": "自然；本質；性質",
+    "examples": [
+      {
+        "en": "I like walking in nature.",
+        "ja": "私は自然の中を歩くのが好きです。"
+      },
+      {
+        "en": "It is human nature to make mistakes.",
+        "ja": "間違いを犯すのは人間の性質です。"
+      },
+      {
+        "en": "We discussed the nature of happiness.",
+        "ja": "私たちは幸福の本質について話し合いました。"
+      }
+    ]
+  },
+  {
+    "id": 1243,
+    "word": "inherent",
+    "meaning": "本来備わっている",
+    "examples": [
+      {
+        "en": "Every job has inherent risks.",
+        "ja": "どんな仕事にも本来備わったリスクがあります。"
+      },
+      {
+        "en": "The plan has an inherent weakness.",
+        "ja": "その計画には本質的な弱点があります。"
+      },
+      {
+        "en": "Curiosity is inherent in many children.",
+        "ja": "好奇心は多くの子どもに本来備わっています。"
+      }
+    ]
+  },
+  {
+    "id": 1244,
+    "word": "artificial",
+    "meaning": "人工の",
+    "examples": [
+      {
+        "en": "The lake is artificial, not natural.",
+        "ja": "その湖は自然のものではなく人工のものです。"
+      },
+      {
+        "en": "Artificial light can affect sleep.",
+        "ja": "人工の光は睡眠に影響を与えることがあります。"
+      },
+      {
+        "en": "The robot uses artificial intelligence.",
+        "ja": "そのロボットは人工知能を使っています。"
+      }
+    ]
+  },
+  {
+    "id": 1245,
+    "word": "preserve",
+    "meaning": "保護する；保存する",
+    "examples": [
+      {
+        "en": "We should preserve old buildings.",
+        "ja": "私たちは古い建物を保存すべきです。"
+      },
+      {
+        "en": "Salt helps preserve food.",
+        "ja": "塩は食べ物を保存する助けになります。"
+      },
+      {
+        "en": "The park was created to preserve wildlife.",
+        "ja": "その公園は野生生物を保護するために作られました。"
+      }
+    ]
+  },
+  {
+    "id": 1246,
+    "word": "develop",
+    "meaning": "発達する；開発する；発症する",
+    "examples": [
+      {
+        "en": "Children develop language skills quickly.",
+        "ja": "子どもは言語能力を素早く発達させます。"
+      },
+      {
+        "en": "The company developed a new app.",
+        "ja": "その会社は新しいアプリを開発しました。"
+      },
+      {
+        "en": "He developed a fever during the night.",
+        "ja": "彼は夜の間に熱を出しました。"
+      }
+    ]
+  },
+  {
+    "id": 1247,
+    "word": "sustain",
+    "meaning": "支える；維持する",
+    "examples": [
+      {
+        "en": "Water is needed to sustain life.",
+        "ja": "生命を維持するには水が必要です。"
+      },
+      {
+        "en": "The bridge can sustain heavy traffic.",
+        "ja": "その橋は激しい交通量を支えられます。"
+      },
+      {
+        "en": "It is hard to sustain motivation for a long time.",
+        "ja": "長い間やる気を維持するのは難しいです。"
+      }
+    ]
+  },
+  {
+    "id": 1248,
+    "word": "atmosphere",
+    "meaning": "大気；雰囲気",
+    "examples": [
+      {
+        "en": "The atmosphere protects Earth from some radiation.",
+        "ja": "大気は地球を一部の放射線から守っています。"
+      },
+      {
+        "en": "The cafe has a warm atmosphere.",
+        "ja": "そのカフェには温かい雰囲気があります。"
+      },
+      {
+        "en": "Smoke filled the atmosphere around the factory.",
+        "ja": "煙が工場周辺の大気を満たしました。"
+      }
+    ]
+  },
+  {
+    "id": 1249,
+    "word": "pollute",
+    "meaning": "汚染する",
+    "examples": [
+      {
+        "en": "Factories can pollute rivers if they are not controlled.",
+        "ja": "管理されていなければ、工場は川を汚染することがあります。"
+      },
+      {
+        "en": "Plastic waste pollutes the ocean.",
+        "ja": "プラスチックごみは海を汚染します。"
+      },
+      {
+        "en": "We should avoid polluting the air.",
+        "ja": "私たちは空気を汚染しないようにすべきです。"
+      }
+    ]
+  },
+  {
+    "id": 1250,
+    "word": "waste",
+    "meaning": "無駄；浪費；廃棄物；浪費する",
+    "examples": [
+      {
+        "en": "Do not waste water.",
+        "ja": "水を無駄にしてはいけません。"
+      },
+      {
+        "en": "The factory produces a lot of waste.",
+        "ja": "その工場は多くの廃棄物を出します。"
+      },
+      {
+        "en": "It was a waste of time to wait there.",
+        "ja": "そこで待つのは時間の無駄でした。"
+      }
+    ]
+  },
+  {
+    "id": 1251,
+    "word": "garbage",
+    "meaning": "ゴミ",
+    "examples": [
+      {
+        "en": "Please take out the garbage tonight.",
+        "ja": "今夜ゴミを出してください。"
+      },
+      {
+        "en": "Garbage covered the beach after the festival.",
+        "ja": "祭りの後、浜辺はゴミで覆われていました。"
+      },
+      {
+        "en": "The city collects garbage every morning.",
+        "ja": "その市は毎朝ゴミを回収します。"
+      }
+    ]
+  },
+  {
+    "id": 1252,
+    "word": "trash",
+    "meaning": "ゴミ；捨てる",
+    "examples": [
+      {
+        "en": "Put the trash in this bag.",
+        "ja": "ゴミをこの袋に入れてください。"
+      },
+      {
+        "en": "She trashed the old files.",
+        "ja": "彼女は古いファイルを捨てました。"
+      },
+      {
+        "en": "There was trash on the street.",
+        "ja": "通りにゴミがありました。"
+      }
+    ]
+  },
+  {
+    "id": 1253,
+    "word": "rubbish",
+    "meaning": "ゴミ；くだらないこと",
+    "examples": [
+      {
+        "en": "The park was full of rubbish.",
+        "ja": "公園はゴミだらけでした。"
+      },
+      {
+        "en": "He said the rumor was rubbish.",
+        "ja": "彼はそのうわさはくだらないと言いました。"
+      },
+      {
+        "en": "We picked up rubbish after the event.",
+        "ja": "私たちはイベントの後でゴミを拾いました。"
+      }
+    ]
+  },
+  {
+    "id": 1254,
+    "word": "litter",
+    "meaning": "散らかす；ゴミ",
+    "examples": [
+      {
+        "en": "Do not litter in the park.",
+        "ja": "公園でゴミを散らかしてはいけません。"
+      },
+      {
+        "en": "There was litter near the river.",
+        "ja": "川の近くにゴミがありました。"
+      },
+      {
+        "en": "Students cleaned up litter around the school.",
+        "ja": "生徒たちは学校の周りのゴミを片付けました。"
+      }
+    ]
+  },
+  {
+    "id": 1255,
+    "word": "landscape",
+    "meaning": "風景",
+    "examples": [
+      {
+        "en": "The mountain landscape was beautiful.",
+        "ja": "山の風景は美しかったです。"
+      },
+      {
+        "en": "The artist painted a quiet landscape.",
+        "ja": "その画家は静かな風景を描きました。"
+      },
+      {
+        "en": "New buildings changed the landscape of the city.",
+        "ja": "新しい建物が都市の風景を変えました。"
+      }
+    ]
+  },
+  {
+    "id": 1256,
+    "word": "resource",
+    "meaning": "資源；財源",
+    "examples": [
+      {
+        "en": "Water is an important resource.",
+        "ja": "水は重要な資源です。"
+      },
+      {
+        "en": "The school library is a useful resource for students.",
+        "ja": "学校の図書館は学生にとって役立つ資料源です。"
+      },
+      {
+        "en": "The project needs more financial resources.",
+        "ja": "その企画にはより多くの財源が必要です。"
+      }
+    ]
+  },
+  {
+    "id": 1257,
+    "word": "fossil",
+    "meaning": "化石",
+    "examples": [
+      {
+        "en": "They found a dinosaur fossil in the rock.",
+        "ja": "彼らは岩の中に恐竜の化石を見つけました。"
+      },
+      {
+        "en": "Fossils tell us about ancient life.",
+        "ja": "化石は古代の生命について教えてくれます。"
+      },
+      {
+        "en": "The museum displays many fossils.",
+        "ja": "その博物館は多くの化石を展示しています。"
+      }
+    ]
+  },
+  {
+    "id": 1258,
+    "word": "fuel",
+    "meaning": "燃料",
+    "examples": [
+      {
+        "en": "This car uses less fuel.",
+        "ja": "この車は燃料をあまり使いません。"
+      },
+      {
+        "en": "Wood was used as fuel for the fire.",
+        "ja": "木材が火の燃料として使われました。"
+      },
+      {
+        "en": "Anger can fuel a conflict.",
+        "ja": "怒りは対立をあおることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1259,
+    "word": "petroleum",
+    "meaning": "石油",
+    "examples": [
+      {
+        "en": "Petroleum is used to make gasoline.",
+        "ja": "石油はガソリンを作るために使われます。"
+      },
+      {
+        "en": "Many countries import petroleum.",
+        "ja": "多くの国が石油を輸入しています。"
+      },
+      {
+        "en": "The price of petroleum affects transportation costs.",
+        "ja": "石油価格は輸送費に影響します。"
+      }
+    ]
+  },
+  {
+    "id": 1260,
+    "word": "exhaust",
+    "meaning": "使い果たす；疲れさせる",
+    "examples": [
+      {
+        "en": "The long test exhausted me.",
+        "ja": "長いテストで私は疲れ果てました。"
+      },
+      {
+        "en": "We must not exhaust natural resources.",
+        "ja": "私たちは天然資源を使い果たしてはいけません。"
+      },
+      {
+        "en": "The engine released exhaust into the air.",
+        "ja": "エンジンは排気ガスを空気中に出しました。"
+      }
+    ]
+  },
+  {
+    "id": 1261,
+    "word": "global warming",
+    "meaning": "地球温暖化",
+    "examples": [
+      {
+        "en": "Global warming is changing the climate.",
+        "ja": "地球温暖化は気候を変えています。"
+      },
+      {
+        "en": "Many scientists study global warming.",
+        "ja": "多くの科学者が地球温暖化を研究しています。"
+      },
+      {
+        "en": "Reducing emissions can slow global warming.",
+        "ja": "排出量を減らすことで地球温暖化を遅らせることができます。"
+      }
+    ]
+  },
+  {
+    "id": 1262,
+    "word": "greenhouse effect",
+    "meaning": "温室効果",
+    "examples": [
+      {
+        "en": "The greenhouse effect keeps Earth warm.",
+        "ja": "温室効果は地球を暖かく保ちます。"
+      },
+      {
+        "en": "Too much carbon dioxide strengthens the greenhouse effect.",
+        "ja": "二酸化炭素が多すぎると温室効果が強まります。"
+      },
+      {
+        "en": "We learned about the greenhouse effect in science class.",
+        "ja": "私たちは理科の授業で温室効果について学びました。"
+      }
+    ]
+  },
+  {
+    "id": 1263,
+    "word": "carbon dioxide",
+    "meaning": "二酸化炭素",
+    "examples": [
+      {
+        "en": "Plants take in carbon dioxide.",
+        "ja": "植物は二酸化炭素を取り込みます。"
+      },
+      {
+        "en": "Cars produce carbon dioxide when they burn fuel.",
+        "ja": "車は燃料を燃やすと二酸化炭素を出します。"
+      },
+      {
+        "en": "Carbon dioxide is a greenhouse gas.",
+        "ja": "二酸化炭素は温室効果ガスです。"
+      }
+    ]
+  },
+  {
+    "id": 1264,
+    "word": "tropical rain forest",
+    "meaning": "熱帯雨林",
+    "examples": [
+      {
+        "en": "Many animals live in tropical rain forests.",
+        "ja": "多くの動物が熱帯雨林に住んでいます。"
+      },
+      {
+        "en": "The tropical rain forest receives heavy rain.",
+        "ja": "熱帯雨林には大量の雨が降ります。"
+      },
+      {
+        "en": "Protecting tropical rain forests is important for biodiversity.",
+        "ja": "熱帯雨林を守ることは生物多様性にとって重要です。"
+      }
+    ]
+  },
+  {
+    "id": 1265,
+    "word": "acid rain",
+    "meaning": "酸性雨",
+    "examples": [
+      {
+        "en": "Acid rain can damage trees.",
+        "ja": "酸性雨は木を傷めることがあります。"
+      },
+      {
+        "en": "The lake was affected by acid rain.",
+        "ja": "その湖は酸性雨の影響を受けました。"
+      },
+      {
+        "en": "Factories reduced emissions to prevent acid rain.",
+        "ja": "工場は酸性雨を防ぐために排出物を減らしました。"
+      }
+    ]
+  },
+  {
+    "id": 1266,
+    "word": "ozone layer",
+    "meaning": "オゾン層",
+    "examples": [
+      {
+        "en": "The ozone layer protects us from ultraviolet rays.",
+        "ja": "オゾン層は私たちを紫外線から守ります。"
+      },
+      {
+        "en": "Some chemicals damaged the ozone layer.",
+        "ja": "一部の化学物質がオゾン層を傷つけました。"
+      },
+      {
+        "en": "International rules helped protect the ozone layer.",
+        "ja": "国際的な規則がオゾン層を守る助けになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1267,
+    "word": "climate",
+    "meaning": "気候",
+    "examples": [
+      {
+        "en": "The climate in this region is dry.",
+        "ja": "この地域の気候は乾燥しています。"
+      },
+      {
+        "en": "Climate affects the crops farmers can grow.",
+        "ja": "気候は農家が育てられる作物に影響します。"
+      },
+      {
+        "en": "Scientists observed changes in the climate.",
+        "ja": "科学者たちは気候の変化を観測しました。"
+      }
+    ]
+  },
+  {
+    "id": 1268,
+    "word": "temperature",
+    "meaning": "温度；気温",
+    "examples": [
+      {
+        "en": "The temperature fell below zero last night.",
+        "ja": "昨夜、気温は0度を下回りました。"
+      },
+      {
+        "en": "Please check the water temperature.",
+        "ja": "水温を確認してください。"
+      },
+      {
+        "en": "High temperatures can be dangerous for children.",
+        "ja": "高い気温は子どもにとって危険なことがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1269,
+    "word": "humid",
+    "meaning": "湿った；蒸し暑い",
+    "examples": [
+      {
+        "en": "Tokyo is very humid in summer.",
+        "ja": "東京は夏にとても蒸し暑いです。"
+      },
+      {
+        "en": "The room felt humid after the rain.",
+        "ja": "雨の後、その部屋は湿っぽく感じました。"
+      },
+      {
+        "en": "Humid air makes clothes dry slowly.",
+        "ja": "湿った空気では服が乾きにくくなります。"
+      }
+    ]
+  },
+  {
+    "id": 1270,
+    "word": "moist",
+    "meaning": "湿った",
+    "examples": [
+      {
+        "en": "The soil was moist after the rain.",
+        "ja": "雨の後、土は湿っていました。"
+      },
+      {
+        "en": "Keep the towel moist, but not too wet.",
+        "ja": "タオルは湿らせておきますが、濡れすぎないようにしてください。"
+      },
+      {
+        "en": "This cake is soft and moist.",
+        "ja": "このケーキは柔らかくてしっとりしています。"
+      }
+    ]
+  },
+  {
+    "id": 1271,
+    "word": "phenomenon",
+    "meaning": "現象",
+    "examples": [
+      {
+        "en": "Lightning is a natural phenomenon.",
+        "ja": "雷は自然現象です。"
+      },
+      {
+        "en": "The teacher explained the phenomenon with a diagram.",
+        "ja": "先生はその現象を図で説明しました。"
+      },
+      {
+        "en": "Social media changed many social phenomena.",
+        "ja": "SNSは多くの社会現象を変えました。"
+      }
+    ]
+  },
+  {
+    "id": 1272,
+    "word": "drought",
+    "meaning": "干ばつ",
+    "examples": [
+      {
+        "en": "The drought lasted for three months.",
+        "ja": "その干ばつは3か月続きました。"
+      },
+      {
+        "en": "Farmers lost many crops because of the drought.",
+        "ja": "農家は干ばつのために多くの作物を失いました。"
+      },
+      {
+        "en": "The city saved water during the drought.",
+        "ja": "その市は干ばつの間、水を節約しました。"
+      }
+    ]
+  },
+  {
+    "id": 1273,
+    "word": "disaster",
+    "meaning": "災害；惨事",
+    "examples": [
+      {
+        "en": "The earthquake was a major disaster.",
+        "ja": "その地震は大きな災害でした。"
+      },
+      {
+        "en": "We need a plan for natural disasters.",
+        "ja": "私たちは自然災害への計画が必要です。"
+      },
+      {
+        "en": "The event was a disaster because nobody came.",
+        "ja": "誰も来なかったので、そのイベントは大失敗でした。"
+      }
+    ]
+  },
+  {
+    "id": 1274,
+    "word": "hemisphere",
+    "meaning": "半球",
+    "examples": [
+      {
+        "en": "Japan is in the Northern Hemisphere.",
+        "ja": "日本は北半球にあります。"
+      },
+      {
+        "en": "Summer comes at different times in each hemisphere.",
+        "ja": "夏はそれぞれの半球で異なる時期に来ます。"
+      },
+      {
+        "en": "The brain has a left and a right hemisphere.",
+        "ja": "脳には左半球と右半球があります。"
+      }
+    ]
+  },
+  {
+    "id": 1275,
+    "word": "continent",
+    "meaning": "大陸",
+    "examples": [
+      {
+        "en": "Africa is a large continent.",
+        "ja": "アフリカは大きな大陸です。"
+      },
+      {
+        "en": "They traveled across the continent by train.",
+        "ja": "彼らは列車で大陸を横断しました。"
+      },
+      {
+        "en": "Each continent has different climates.",
+        "ja": "それぞれの大陸には異なる気候があります。"
+      }
+    ]
+  },
+  {
+    "id": 1276,
+    "word": "Arctic",
+    "meaning": "北極地方",
+    "examples": [
+      {
+        "en": "Polar bears live in the Arctic.",
+        "ja": "ホッキョクグマは北極地方に住んでいます。"
+      },
+      {
+        "en": "The Arctic is warming quickly.",
+        "ja": "北極地方は急速に温暖化しています。"
+      },
+      {
+        "en": "Scientists studied ice in the Arctic.",
+        "ja": "科学者たちは北極地方の氷を研究しました。"
+      }
+    ]
+  },
+  {
+    "id": 1277,
+    "word": "pole",
+    "meaning": "極；柱",
+    "examples": [
+      {
+        "en": "The North Pole is covered with ice.",
+        "ja": "北極は氷で覆われています。"
+      },
+      {
+        "en": "He fixed the flag to a pole.",
+        "ja": "彼は旗を柱に固定しました。"
+      },
+      {
+        "en": "The magnet has a north pole and a south pole.",
+        "ja": "磁石にはN極とS極があります。"
+      }
+    ]
+  },
+  {
+    "id": 1278,
+    "word": "latitude",
+    "meaning": "緯度",
+    "examples": [
+      {
+        "en": "Tokyo is at about 35 degrees north latitude.",
+        "ja": "東京は北緯およそ35度にあります。"
+      },
+      {
+        "en": "Latitude affects temperature.",
+        "ja": "緯度は気温に影響します。"
+      },
+      {
+        "en": "The map shows lines of latitude.",
+        "ja": "その地図には緯線が示されています。"
+      }
+    ]
+  },
+  {
+    "id": 1279,
+    "word": "longitude",
+    "meaning": "経度",
+    "examples": [
+      {
+        "en": "Longitude tells how far east or west a place is.",
+        "ja": "経度はある場所が東西にどれだけ離れているかを示します。"
+      },
+      {
+        "en": "The ship's longitude was written in the log.",
+        "ja": "船の経度は航海日誌に書かれました。"
+      },
+      {
+        "en": "Maps use latitude and longitude to locate places.",
+        "ja": "地図は場所を示すために緯度と経度を使います。"
+      }
+    ]
+  },
+  {
+    "id": 1280,
+    "word": "altitude",
+    "meaning": "高度",
+    "examples": [
+      {
+        "en": "The airplane flew at a high altitude.",
+        "ja": "飛行機は高い高度で飛びました。"
+      },
+      {
+        "en": "It is hard to breathe at high altitude.",
+        "ja": "高い高度では息をするのが大変です。"
+      },
+      {
+        "en": "The town is located at an altitude of 1,000 meters.",
+        "ja": "その町は標高1000メートルに位置しています。"
+      }
+    ]
+  },
+  {
+    "id": 1281,
+    "word": "equator",
+    "meaning": "赤道",
+    "examples": [
+      {
+        "en": "The equator divides Earth into two hemispheres.",
+        "ja": "赤道は地球を二つの半球に分けます。"
+      },
+      {
+        "en": "Countries near the equator are often warm.",
+        "ja": "赤道の近くの国々はしばしば暖かいです。"
+      },
+      {
+        "en": "The ship crossed the equator.",
+        "ja": "その船は赤道を越えました。"
+      }
+    ]
+  },
+  {
+    "id": 1282,
+    "word": "nod",
+    "meaning": "うなずく",
+    "examples": [
+      {
+        "en": "She nodded to show agreement.",
+        "ja": "彼女は同意を示すためにうなずきました。"
+      },
+      {
+        "en": "He gave me a quick nod.",
+        "ja": "彼は私に軽くうなずきました。"
+      },
+      {
+        "en": "The student nodded as the teacher explained.",
+        "ja": "先生が説明すると、生徒はうなずきました。"
+      }
+    ]
+  },
+  {
+    "id": 1283,
+    "word": "bow",
+    "meaning": "おじぎする；おじぎ",
+    "examples": [
+      {
+        "en": "People bow when they greet each other in Japan.",
+        "ja": "日本では人々は挨拶するときにおじぎをします。"
+      },
+      {
+        "en": "The actor took a bow after the play.",
+        "ja": "俳優は劇の後でおじぎをしました。"
+      },
+      {
+        "en": "She bowed politely to the guests.",
+        "ja": "彼女は客に丁寧におじぎしました。"
+      }
+    ]
+  },
+  {
+    "id": 1284,
+    "word": "sigh",
+    "meaning": "ため息をつく；ため息",
+    "examples": [
+      {
+        "en": "He sighed when he saw the long line.",
+        "ja": "彼は長い列を見てため息をつきました。"
+      },
+      {
+        "en": "She gave a sigh of relief.",
+        "ja": "彼女は安心のため息をつきました。"
+      },
+      {
+        "en": "Do not sigh before you try.",
+        "ja": "やってみる前にため息をつかないでください。"
+      }
+    ]
+  },
+  {
+    "id": 1285,
+    "word": "rub",
+    "meaning": "こする",
+    "examples": [
+      {
+        "en": "Rub your hands together to warm them.",
+        "ja": "手を温めるために両手をこすり合わせなさい。"
+      },
+      {
+        "en": "She rubbed her eyes because she was sleepy.",
+        "ja": "彼女は眠かったので目をこすりました。"
+      },
+      {
+        "en": "Rub the stain gently with a cloth.",
+        "ja": "布でその汚れを優しくこすってください。"
+      }
+    ]
+  },
+  {
+    "id": 1286,
+    "word": "yell",
+    "meaning": "叫ぶ",
+    "examples": [
+      {
+        "en": "Do not yell at your little brother.",
+        "ja": "弟に向かって叫んではいけません。"
+      },
+      {
+        "en": "The coach yelled instructions from the side.",
+        "ja": "コーチは横から指示を叫びました。"
+      },
+      {
+        "en": "She yelled for help when she fell.",
+        "ja": "彼女は転んだとき助けを求めて叫びました。"
+      }
+    ]
+  },
+  {
+    "id": 1287,
+    "word": "leap",
+    "meaning": "跳ぶ；跳躍；飛躍",
+    "examples": [
+      {
+        "en": "The cat leaped onto the table.",
+        "ja": "猫はテーブルの上に跳び乗りました。"
+      },
+      {
+        "en": "The new technology was a great leap forward.",
+        "ja": "その新技術は大きな前進でした。"
+      },
+      {
+        "en": "He made a leap across the stream.",
+        "ja": "彼は小川を跳び越えました。"
+      }
+    ]
+  },
+  {
+    "id": 1288,
+    "word": "fix",
+    "meaning": "固定する；修理する",
+    "examples": [
+      {
+        "en": "Can you fix my bicycle?",
+        "ja": "私の自転車を修理できますか。"
+      },
+      {
+        "en": "Fix the shelf to the wall.",
+        "ja": "棚を壁に固定してください。"
+      },
+      {
+        "en": "We need to fix the problem before tomorrow.",
+        "ja": "私たちは明日までにその問題を解決する必要があります。"
+      }
+    ]
+  },
+  {
+    "id": 1289,
+    "word": "pour",
+    "meaning": "注ぐ；流れ込む",
+    "examples": [
+      {
+        "en": "Please pour some tea into my cup.",
+        "ja": "私のカップにお茶を少し注いでください。"
+      },
+      {
+        "en": "Rain poured down all night.",
+        "ja": "雨が一晩中激しく降りました。"
+      },
+      {
+        "en": "People poured into the stadium.",
+        "ja": "人々がスタジアムにどっと流れ込みました。"
+      }
+    ]
+  },
+  {
+    "id": 1290,
+    "word": "dip",
+    "meaning": "軽く浸す",
+    "examples": [
+      {
+        "en": "Dip the brush in water.",
+        "ja": "筆を水に軽く浸してください。"
+      },
+      {
+        "en": "She dipped her feet into the pool.",
+        "ja": "彼女は足をプールに軽く入れました。"
+      },
+      {
+        "en": "Dip the bread in the soup.",
+        "ja": "パンをスープに浸してください。"
+      }
+    ]
+  },
+  {
+    "id": 1291,
+    "word": "soak",
+    "meaning": "浸す；びしょ濡れになる",
+    "examples": [
+      {
+        "en": "Soak the beans overnight.",
+        "ja": "豆を一晩水に浸してください。"
+      },
+      {
+        "en": "My shoes were soaked in the rain.",
+        "ja": "私の靴は雨でびしょ濡れになりました。"
+      },
+      {
+        "en": "The sponge soaked up the water.",
+        "ja": "スポンジが水を吸い込みました。"
+      }
+    ]
+  },
+  {
+    "id": 1292,
+    "word": "sip",
+    "meaning": "一口飲む",
+    "examples": [
+      {
+        "en": "She sipped her coffee slowly.",
+        "ja": "彼女はコーヒーをゆっくり一口ずつ飲みました。"
+      },
+      {
+        "en": "Take a sip of water.",
+        "ja": "水を一口飲みなさい。"
+      },
+      {
+        "en": "He sipped the hot tea carefully.",
+        "ja": "彼は熱いお茶を注意深く一口飲みました。"
+      }
+    ]
+  },
+  {
+    "id": 1293,
+    "word": "cast",
+    "meaning": "投げる；投げかける",
+    "examples": [
+      {
+        "en": "The tree cast a long shadow.",
+        "ja": "その木は長い影を投げかけました。"
+      },
+      {
+        "en": "The fisherman cast his line into the river.",
+        "ja": "釣り人は釣り糸を川に投げ入れました。"
+      },
+      {
+        "en": "The news cast doubt on his story.",
+        "ja": "そのニュースは彼の話に疑いを投げかけました。"
+      }
+    ]
+  },
+  {
+    "id": 1294,
+    "word": "shed",
+    "meaning": "流す；こぼす",
+    "examples": [
+      {
+        "en": "She shed tears of joy.",
+        "ja": "彼女は喜びの涙を流しました。"
+      },
+      {
+        "en": "Some trees shed their leaves in autumn.",
+        "ja": "秋に葉を落とす木もあります。"
+      },
+      {
+        "en": "The lamp shed soft light on the table.",
+        "ja": "ランプはテーブルに柔らかな光を投げかけました。"
+      }
+    ]
+  },
+  {
+    "id": 1295,
+    "word": "spur",
+    "meaning": "拍車をかける；駆り立てる",
+    "examples": [
+      {
+        "en": "The prize spurred him to study harder.",
+        "ja": "その賞が彼をもっと勉強するよう駆り立てました。"
+      },
+      {
+        "en": "Competition can spur innovation.",
+        "ja": "競争は革新に拍車をかけることがあります。"
+      },
+      {
+        "en": "Her words spurred the team into action.",
+        "ja": "彼女の言葉がチームを行動へと駆り立てました。"
+      }
+    ]
+  },
+  {
+    "id": 1296,
+    "word": "blur",
+    "meaning": "ぼやけさせる；ぼやける",
+    "examples": [
+      {
+        "en": "Tears blurred my vision.",
+        "ja": "涙で視界がぼやけました。"
+      },
+      {
+        "en": "The photo was blurred because the camera moved.",
+        "ja": "カメラが動いたので写真はぼやけていました。"
+      },
+      {
+        "en": "The line between work and study began to blur.",
+        "ja": "仕事と勉強の境界がぼやけ始めました。"
+      }
+    ]
+  },
+  {
+    "id": 1297,
+    "word": "cite",
+    "meaning": "引用する",
+    "examples": [
+      {
+        "en": "You must cite your sources in the report.",
+        "ja": "レポートでは出典を引用しなければなりません。"
+      },
+      {
+        "en": "The article cites several recent studies.",
+        "ja": "その記事はいくつかの最近の研究を引用しています。"
+      },
+      {
+        "en": "She cited a famous example to support her idea.",
+        "ja": "彼女は自分の考えを支えるために有名な例を引用しました。"
+      }
+    ]
+  },
+  {
+    "id": 1298,
+    "word": "rear",
+    "meaning": "育てる",
+    "examples": [
+      {
+        "en": "They rear cows on the farm.",
+        "ja": "彼らは農場で牛を育てています。"
+      },
+      {
+        "en": "It takes time to rear children.",
+        "ja": "子どもを育てるには時間がかかります。"
+      },
+      {
+        "en": "The bird reared its young in the tree.",
+        "ja": "その鳥は木の上でひなを育てました。"
+      }
+    ]
+  },
+  {
+    "id": 1299,
+    "word": "beg",
+    "meaning": "懇願する；請う",
+    "examples": [
+      {
+        "en": "He begged for help.",
+        "ja": "彼は助けを懇願しました。"
+      },
+      {
+        "en": "The child begged his mother to buy the toy.",
+        "ja": "その子どもは母親におもちゃを買ってほしいと頼み込みました。"
+      },
+      {
+        "en": "I beg you not to give up.",
+        "ja": "どうかあきらめないでください。"
+      }
+    ]
+  },
+  {
+    "id": 1300,
+    "word": "bet",
+    "meaning": "賭ける；きっと…だと思う",
+    "examples": [
+      {
+        "en": "I bet he will be late again.",
+        "ja": "彼はまた遅れるに違いないと思います。"
+      },
+      {
+        "en": "She bet ten dollars on the game.",
+        "ja": "彼女はその試合に10ドル賭けました。"
+      },
+      {
+        "en": "You bet! I would love to join you.",
+        "ja": "もちろんです。ぜひ参加したいです。"
+      }
+    ]
+  }
+]
