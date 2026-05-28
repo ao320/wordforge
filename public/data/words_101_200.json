@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 101,
+    "word": "attract",
+    "meaning": "～を引き付ける；魅了する",
+    "examples": [
+      {
+        "en": "The bright sign attracted many customers.",
+        "ja": "その明るい看板は多くの客を引き付けました。"
+      },
+      {
+        "en": "Her speech attracted a lot of attention.",
+        "ja": "彼女のスピーチは多くの注目を集めました。"
+      },
+      {
+        "en": "This park attracts visitors from all over the city.",
+        "ja": "この公園は市内各地から訪問者を引き付けます。"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "word": "extract",
+    "meaning": "～を抜き出す；抽出する",
+    "examples": [
+      {
+        "en": "The dentist extracted my bad tooth.",
+        "ja": "歯医者は私の悪い歯を抜きました。"
+      },
+      {
+        "en": "We extracted useful data from the report.",
+        "ja": "私たちはその報告書から有用なデータを抜き出しました。"
+      },
+      {
+        "en": "Oil can be extracted from these seeds.",
+        "ja": "これらの種から油を抽出できます。"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "word": "aim",
+    "meaning": "目標，目的；～を狙う，目標とする",
+    "examples": [
+      {
+        "en": "My aim is to pass the entrance exam.",
+        "ja": "私の目標は入学試験に合格することです。"
+      },
+      {
+        "en": "This lesson aims to improve your reading skills.",
+        "ja": "この授業は読解力を向上させることを目標としています。"
+      },
+      {
+        "en": "He aimed at the center of the target.",
+        "ja": "彼は的の中心を狙いました。"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "word": "penetrate",
+    "meaning": "～を貫通する；～に浸透する",
+    "examples": [
+      {
+        "en": "The arrow penetrated the wooden board.",
+        "ja": "その矢は木の板を貫通しました。"
+      },
+      {
+        "en": "The smell of coffee penetrated the room.",
+        "ja": "コーヒーの香りが部屋に広がりました。"
+      },
+      {
+        "en": "It took time for the new idea to penetrate society.",
+        "ja": "その新しい考えが社会に浸透するには時間がかかりました。"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "word": "thrust",
+    "meaning": "～をぐいっと押し付ける；突っ込む；突き刺す",
+    "examples": [
+      {
+        "en": "He thrust the key into the lock.",
+        "ja": "彼は鍵を錠にぐいっと差し込みました。"
+      },
+      {
+        "en": "She thrust the paper into my hand.",
+        "ja": "彼女はその紙を私の手に押し付けました。"
+      },
+      {
+        "en": "The soldier thrust his sword forward.",
+        "ja": "兵士は剣を前へ突き出しました。"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "word": "insert",
+    "meaning": "～を挿入する",
+    "examples": [
+      {
+        "en": "Please insert your card into the machine.",
+        "ja": "カードを機械に挿入してください。"
+      },
+      {
+        "en": "The teacher inserted a short example into the explanation.",
+        "ja": "先生は説明の中に短い例を入れました。"
+      },
+      {
+        "en": "Insert the battery before turning on the device.",
+        "ja": "装置の電源を入れる前に電池を入れてください。"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "word": "grasp",
+    "meaning": "～をつかむ，握る；理解する",
+    "examples": [
+      {
+        "en": "The child grasped his mother's hand.",
+        "ja": "その子どもは母親の手を握りました。"
+      },
+      {
+        "en": "I could not grasp the meaning of the sentence at first.",
+        "ja": "私は最初その文の意味を理解できませんでした。"
+      },
+      {
+        "en": "She quickly grasped the main point of the lecture.",
+        "ja": "彼女は講義の要点をすぐに理解しました。"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "word": "grab",
+    "meaning": "～をつかむ",
+    "examples": [
+      {
+        "en": "He grabbed his bag and ran out.",
+        "ja": "彼はかばんをつかんで走って出ていきました。"
+      },
+      {
+        "en": "I grabbed a sandwich before class.",
+        "ja": "私は授業の前に急いでサンドイッチを食べました。"
+      },
+      {
+        "en": "The advertisement grabbed my attention.",
+        "ja": "その広告は私の注意を引きました。"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "word": "seize",
+    "meaning": "～をつかむ；～を襲う；～を押収する",
+    "examples": [
+      {
+        "en": "She seized the chance to study abroad.",
+        "ja": "彼女は留学する機会をつかみました。"
+      },
+      {
+        "en": "Fear seized him when he heard the noise.",
+        "ja": "その音を聞いたとき，恐怖が彼を襲いました。"
+      },
+      {
+        "en": "The police seized the stolen goods.",
+        "ja": "警察は盗品を押収しました。"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "word": "drag",
+    "meaning": "～を引きずる",
+    "examples": [
+      {
+        "en": "He dragged the heavy box across the floor.",
+        "ja": "彼は重い箱を床の上で引きずりました。"
+      },
+      {
+        "en": "The meeting dragged on for two hours.",
+        "ja": "会議はだらだらと2時間続きました。"
+      },
+      {
+        "en": "Do not drag your feet when you walk.",
+        "ja": "歩くときに足を引きずらないでください。"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "word": "cling",
+    "meaning": "～にしがみつく；～に固執する",
+    "examples": [
+      {
+        "en": "The baby clung to his father's shirt.",
+        "ja": "赤ちゃんは父親のシャツにしがみつきました。"
+      },
+      {
+        "en": "Wet clothes clung to my skin.",
+        "ja": "濡れた服が私の肌にくっつきました。"
+      },
+      {
+        "en": "He still clings to his old beliefs.",
+        "ja": "彼は今でも古い考えに固執しています。"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "word": "stick",
+    "meaning": "棒；～にくっつく；～に固執する",
+    "examples": [
+      {
+        "en": "The label did not stick to the bottle.",
+        "ja": "そのラベルは瓶にくっつきませんでした。"
+      },
+      {
+        "en": "He picked up a stick from the ground.",
+        "ja": "彼は地面から棒を拾いました。"
+      },
+      {
+        "en": "You should stick to your plan.",
+        "ja": "あなたは自分の計画を貫くべきです。"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "word": "attach",
+    "meaning": "～をくっつける；愛着を持たせる",
+    "examples": [
+      {
+        "en": "Please attach the file to your email.",
+        "ja": "メールにファイルを添付してください。"
+      },
+      {
+        "en": "A small tag was attached to the bag.",
+        "ja": "小さなタグがそのかばんに付けられていました。"
+      },
+      {
+        "en": "She is deeply attached to her hometown.",
+        "ja": "彼女は故郷に深い愛着を持っています。"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "word": "imitate",
+    "meaning": "～をまねる",
+    "examples": [
+      {
+        "en": "Children often imitate their parents.",
+        "ja": "子どもはよく親のまねをします。"
+      },
+      {
+        "en": "He can imitate many animal sounds.",
+        "ja": "彼は多くの動物の鳴き声をまねできます。"
+      },
+      {
+        "en": "Do not simply imitate other people's answers.",
+        "ja": "他人の答えをただまねしてはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "word": "fold",
+    "meaning": "～を折り畳む",
+    "examples": [
+      {
+        "en": "Please fold the paper in half.",
+        "ja": "紙を半分に折ってください。"
+      },
+      {
+        "en": "She folded the clothes neatly.",
+        "ja": "彼女は服をきれいに畳みました。"
+      },
+      {
+        "en": "The map is easy to fold and carry.",
+        "ja": "その地図は折り畳んで持ち運びやすいです。"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "word": "tear",
+    "meaning": "～を引き裂く",
+    "examples": [
+      {
+        "en": "Be careful not to tear the page.",
+        "ja": "ページを破らないように気をつけてください。"
+      },
+      {
+        "en": "He tore the letter into small pieces.",
+        "ja": "彼はその手紙を細かく破りました。"
+      },
+      {
+        "en": "The strong wind tore the flag.",
+        "ja": "強い風が旗を引き裂きました。"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "word": "mold",
+    "meaning": "～をかたどる；形成する",
+    "examples": [
+      {
+        "en": "The artist molded clay into a small bowl.",
+        "ja": "芸術家は粘土を小さな器の形にしました。"
+      },
+      {
+        "en": "Education can mold a person's character.",
+        "ja": "教育は人の人格を形成することがあります。"
+      },
+      {
+        "en": "The plastic is molded into many different shapes.",
+        "ja": "そのプラスチックはさまざまな形に成形されます。"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "word": "distort",
+    "meaning": "～をゆがめる",
+    "examples": [
+      {
+        "en": "The mirror distorted my face.",
+        "ja": "その鏡は私の顔をゆがめて映しました。"
+      },
+      {
+        "en": "Do not distort the facts.",
+        "ja": "事実をゆがめてはいけません。"
+      },
+      {
+        "en": "Heat can distort the shape of plastic.",
+        "ja": "熱はプラスチックの形をゆがめることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "word": "expand",
+    "meaning": "～を拡大する；拡大する；膨張する",
+    "examples": [
+      {
+        "en": "The company plans to expand its business abroad.",
+        "ja": "その会社は海外に事業を拡大する予定です。"
+      },
+      {
+        "en": "Metal expands when it is heated.",
+        "ja": "金属は熱されると膨張します。"
+      },
+      {
+        "en": "Reading books can expand your knowledge.",
+        "ja": "本を読むことは知識を広げます。"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "word": "shrink",
+    "meaning": "縮む",
+    "examples": [
+      {
+        "en": "This shirt shrank in the wash.",
+        "ja": "このシャツは洗濯で縮みました。"
+      },
+      {
+        "en": "The amount of ice is shrinking every year.",
+        "ja": "氷の量は毎年減少しています。"
+      },
+      {
+        "en": "He shrank back when he saw the dog.",
+        "ja": "彼はその犬を見て後ずさりしました。"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "word": "swell",
+    "meaning": "膨らむ",
+    "examples": [
+      {
+        "en": "Her ankle swelled after the fall.",
+        "ja": "転んだ後，彼女の足首は腫れました。"
+      },
+      {
+        "en": "The river swelled after the heavy rain.",
+        "ja": "大雨の後，川は増水しました。"
+      },
+      {
+        "en": "The bread dough began to swell.",
+        "ja": "パン生地が膨らみ始めました。"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "word": "assemble",
+    "meaning": "～を集める；組み立てる",
+    "examples": [
+      {
+        "en": "We assembled in front of the school gate.",
+        "ja": "私たちは校門の前に集まりました。"
+      },
+      {
+        "en": "He assembled the chair by himself.",
+        "ja": "彼はその椅子を自分で組み立てました。"
+      },
+      {
+        "en": "The manager assembled a new team.",
+        "ja": "マネージャーは新しいチームを集めました。"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "word": "collect",
+    "meaning": "～を集める；徴収する",
+    "examples": [
+      {
+        "en": "She collects old stamps.",
+        "ja": "彼女は古い切手を集めています。"
+      },
+      {
+        "en": "The teacher collected our homework.",
+        "ja": "先生は私たちの宿題を集めました。"
+      },
+      {
+        "en": "The city collects garbage every morning.",
+        "ja": "その市は毎朝ごみを回収します。"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "word": "cram",
+    "meaning": "～を詰め込む",
+    "examples": [
+      {
+        "en": "He crammed his clothes into the suitcase.",
+        "ja": "彼は服をスーツケースに詰め込みました。"
+      },
+      {
+        "en": "Many students cram before exams.",
+        "ja": "多くの学生は試験前に詰め込み勉強をします。"
+      },
+      {
+        "en": "The small room was crammed with boxes.",
+        "ja": "その小さな部屋は箱でぎっしりでした。"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "word": "rotate",
+    "meaning": "～を回転させる；回転する",
+    "examples": [
+      {
+        "en": "The Earth rotates once a day.",
+        "ja": "地球は1日に1回自転します。"
+      },
+      {
+        "en": "Rotate the handle to open the door.",
+        "ja": "ドアを開けるために取っ手を回してください。"
+      },
+      {
+        "en": "The students rotate roles every week.",
+        "ja": "学生たちは毎週役割を交代します。"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "word": "twist",
+    "meaning": "～をひねる",
+    "examples": [
+      {
+        "en": "She twisted her ankle during practice.",
+        "ja": "彼女は練習中に足首をひねりました。"
+      },
+      {
+        "en": "Twist the cap to open the bottle.",
+        "ja": "瓶を開けるにはキャップをひねってください。"
+      },
+      {
+        "en": "He twisted the story to make himself look good.",
+        "ja": "彼は自分をよく見せるために話をねじ曲げました。"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "word": "upset",
+    "meaning": "～をひっくり返す；動揺させる；怒らせる；動揺した，怒った",
+    "examples": [
+      {
+        "en": "The news upset many people.",
+        "ja": "その知らせは多くの人を動揺させました。"
+      },
+      {
+        "en": "I was upset by his rude words.",
+        "ja": "私は彼の失礼な言葉に腹を立てました。"
+      },
+      {
+        "en": "The child upset a glass of water.",
+        "ja": "その子どもは水の入ったコップをひっくり返しました。"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "word": "stir",
+    "meaning": "～をかき回す；騒乱",
+    "examples": [
+      {
+        "en": "Stir the soup slowly.",
+        "ja": "スープをゆっくりかき混ぜてください。"
+      },
+      {
+        "en": "The speech stirred strong emotions.",
+        "ja": "その演説は強い感情を呼び起こしました。"
+      },
+      {
+        "en": "The news caused a stir in the town.",
+        "ja": "そのニュースは町で騒ぎを引き起こしました。"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "word": "explode",
+    "meaning": "爆発する",
+    "examples": [
+      {
+        "en": "The bomb exploded near the bridge.",
+        "ja": "爆弾は橋の近くで爆発しました。"
+      },
+      {
+        "en": "The population of the city has exploded.",
+        "ja": "その都市の人口は急増しました。"
+      },
+      {
+        "en": "He exploded with anger.",
+        "ja": "彼は怒りを爆発させました。"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "word": "burst",
+    "meaning": "爆発する；破裂する",
+    "examples": [
+      {
+        "en": "The balloon burst suddenly.",
+        "ja": "風船が突然破裂しました。"
+      },
+      {
+        "en": "She burst into tears.",
+        "ja": "彼女は突然泣き出しました。"
+      },
+      {
+        "en": "The door burst open.",
+        "ja": "ドアが勢いよく開きました。"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "word": "melt",
+    "meaning": "溶ける；～を溶かす",
+    "examples": [
+      {
+        "en": "The snow melted in the sun.",
+        "ja": "雪は日差しで溶けました。"
+      },
+      {
+        "en": "Heat the chocolate until it melts.",
+        "ja": "チョコレートが溶けるまで温めてください。"
+      },
+      {
+        "en": "Her kind words melted his heart.",
+        "ja": "彼女の優しい言葉は彼の心を和らげました。"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "word": "leak",
+    "meaning": "漏れる；～を漏らす",
+    "examples": [
+      {
+        "en": "Water leaked from the pipe.",
+        "ja": "水がパイプから漏れました。"
+      },
+      {
+        "en": "Do not leak this information to anyone.",
+        "ja": "この情報を誰にも漏らしてはいけません。"
+      },
+      {
+        "en": "The roof leaks when it rains.",
+        "ja": "雨が降ると屋根から水が漏れます。"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "word": "string",
+    "meaning": "ひも；糸",
+    "examples": [
+      {
+        "en": "Tie the box with a piece of string.",
+        "ja": "その箱をひもで結んでください。"
+      },
+      {
+        "en": "The guitar has six strings.",
+        "ja": "ギターには6本の弦があります。"
+      },
+      {
+        "en": "She wore a string of pearls.",
+        "ja": "彼女は真珠の首飾りを身につけていました。"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "word": "restrict",
+    "meaning": "～を制限する",
+    "examples": [
+      {
+        "en": "The rule restricts the use of phones in class.",
+        "ja": "その規則は授業中の携帯電話の使用を制限しています。"
+      },
+      {
+        "en": "Access to this area is restricted.",
+        "ja": "この区域への立ち入りは制限されています。"
+      },
+      {
+        "en": "A lack of money restricted our choices.",
+        "ja": "資金不足が私たちの選択肢を制限しました。"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "word": "strict",
+    "meaning": "厳しい；厳密な",
+    "examples": [
+      {
+        "en": "Our teacher is strict but fair.",
+        "ja": "私たちの先生は厳しいですが公平です。"
+      },
+      {
+        "en": "There are strict rules in this laboratory.",
+        "ja": "この研究室には厳しい規則があります。"
+      },
+      {
+        "en": "The word has a strict meaning in science.",
+        "ja": "その語は科学では厳密な意味を持ちます。"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "word": "distress",
+    "meaning": "苦悩；貧困",
+    "examples": [
+      {
+        "en": "The accident caused great distress to the family.",
+        "ja": "その事故は家族に大きな苦痛を与えました。"
+      },
+      {
+        "en": "She was in distress after losing her job.",
+        "ja": "彼女は仕事を失って苦しんでいました。"
+      },
+      {
+        "en": "The charity helps people in financial distress.",
+        "ja": "その慈善団体は経済的困窮にある人々を助けています。"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "word": "strain",
+    "meaning": "緊張；重圧；品種；血統",
+    "examples": [
+      {
+        "en": "The long trip put a strain on my back.",
+        "ja": "長旅は私の背中に負担をかけました。"
+      },
+      {
+        "en": "There was a strain in their relationship.",
+        "ja": "彼らの関係には緊張がありました。"
+      },
+      {
+        "en": "Scientists found a new strain of the virus.",
+        "ja": "科学者たちはそのウイルスの新しい株を発見しました。"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "word": "restrain",
+    "meaning": "～を抑制する",
+    "examples": [
+      {
+        "en": "He tried to restrain his anger.",
+        "ja": "彼は怒りを抑えようとしました。"
+      },
+      {
+        "en": "The police restrained the violent man.",
+        "ja": "警察は暴れる男を取り押さえました。"
+      },
+      {
+        "en": "Parents should restrain children from dangerous behavior.",
+        "ja": "親は子どもが危険な行動をしないよう抑えるべきです。"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "word": "tense",
+    "meaning": "緊張した；ぴんと張った",
+    "examples": [
+      {
+        "en": "She looked tense before the interview.",
+        "ja": "彼女は面接の前に緊張しているように見えました。"
+      },
+      {
+        "en": "The atmosphere in the room was tense.",
+        "ja": "部屋の雰囲気は張り詰めていました。"
+      },
+      {
+        "en": "Keep the rope tense while I tie it.",
+        "ja": "私が結ぶ間，ロープをぴんと張っておいてください。"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "word": "extend",
+    "meaning": "～を伸ばす；延長する",
+    "examples": [
+      {
+        "en": "They decided to extend the deadline.",
+        "ja": "彼らは締め切りを延長することにしました。"
+      },
+      {
+        "en": "The road extends to the coast.",
+        "ja": "その道路は海岸まで伸びています。"
+      },
+      {
+        "en": "Please extend your arm slowly.",
+        "ja": "腕をゆっくり伸ばしてください。"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "word": "intense",
+    "meaning": "激しい；強烈な",
+    "examples": [
+      {
+        "en": "The heat was intense in the afternoon.",
+        "ja": "午後の暑さは強烈でした。"
+      },
+      {
+        "en": "He felt intense pain in his shoulder.",
+        "ja": "彼は肩に激しい痛みを感じました。"
+      },
+      {
+        "en": "The team had an intense discussion.",
+        "ja": "チームは白熱した議論をしました。"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "word": "force",
+    "meaning": "力；勢力；軍事力；～に強制する",
+    "examples": [
+      {
+        "en": "The force of the wind broke the window.",
+        "ja": "風の力で窓が割れました。"
+      },
+      {
+        "en": "Nobody can force you to accept the offer.",
+        "ja": "誰もあなたにその申し出を受け入れるよう強制できません。"
+      },
+      {
+        "en": "The army used force to control the area.",
+        "ja": "軍はその地域を支配するために武力を使いました。"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "word": "compel",
+    "meaning": "～に強いる",
+    "examples": [
+      {
+        "en": "The law compels drivers to wear seat belts.",
+        "ja": "法律は運転者にシートベルトの着用を義務づけています。"
+      },
+      {
+        "en": "His illness compelled him to quit his job.",
+        "ja": "病気のために彼は仕事を辞めざるを得ませんでした。"
+      },
+      {
+        "en": "The evidence compelled us to change our opinion.",
+        "ja": "その証拠は私たちに考えを変えさせました。"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "word": "oblige",
+    "meaning": "～に義務づける；余儀なくさせる",
+    "examples": [
+      {
+        "en": "The contract obliges us to pay by Friday.",
+        "ja": "契約により，私たちは金曜日までに支払う義務があります。"
+      },
+      {
+        "en": "I was obliged to cancel the trip.",
+        "ja": "私は旅行をキャンセルせざるを得ませんでした。"
+      },
+      {
+        "en": "Parents are obliged to protect their children.",
+        "ja": "親は子どもを守る義務があります。"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "word": "voluntary",
+    "meaning": "自発的な",
+    "examples": [
+      {
+        "en": "Participation in the survey is voluntary.",
+        "ja": "その調査への参加は任意です。"
+      },
+      {
+        "en": "She does voluntary work at a hospital.",
+        "ja": "彼女は病院でボランティア活動をしています。"
+      },
+      {
+        "en": "His apology was voluntary, not forced.",
+        "ja": "彼の謝罪は強制されたものではなく自発的なものでした。"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "word": "spontaneous",
+    "meaning": "自発的な；自然発生的な",
+    "examples": [
+      {
+        "en": "The audience gave a spontaneous cheer.",
+        "ja": "観客は自然に歓声を上げました。"
+      },
+      {
+        "en": "Children often show spontaneous curiosity.",
+        "ja": "子どもはよく自然な好奇心を示します。"
+      },
+      {
+        "en": "The fire started through spontaneous heating.",
+        "ja": "その火災は自然発熱によって発生しました。"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "word": "free",
+    "meaning": "自由な；無料の；暇な",
+    "examples": [
+      {
+        "en": "You are free to choose your own topic.",
+        "ja": "あなたは自分のテーマを自由に選べます。"
+      },
+      {
+        "en": "The museum is free on Sundays.",
+        "ja": "その博物館は日曜日は無料です。"
+      },
+      {
+        "en": "Are you free after school today?",
+        "ja": "今日の放課後は暇ですか。"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "word": "liberty",
+    "meaning": "自由",
+    "examples": [
+      {
+        "en": "People fought for liberty and equality.",
+        "ja": "人々は自由と平等のために戦いました。"
+      },
+      {
+        "en": "Students have the liberty to express their opinions.",
+        "ja": "学生には自分の意見を表明する自由があります。"
+      },
+      {
+        "en": "He took the liberty of changing the plan.",
+        "ja": "彼は勝手にその計画を変更しました。"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "word": "release",
+    "meaning": "～を解放する；～を発表する",
+    "examples": [
+      {
+        "en": "The police released the man yesterday.",
+        "ja": "警察は昨日その男性を釈放しました。"
+      },
+      {
+        "en": "The company will release a new phone next month.",
+        "ja": "その会社は来月新しい携帯電話を発売します。"
+      },
+      {
+        "en": "Exercise can release stress.",
+        "ja": "運動はストレスを解放することがあります。"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "word": "capture",
+    "meaning": "～を捕らえる；～を捉える",
+    "examples": [
+      {
+        "en": "The camera captured a beautiful sunset.",
+        "ja": "カメラは美しい夕日を捉えました。"
+      },
+      {
+        "en": "The soldiers captured the enemy base.",
+        "ja": "兵士たちは敵の基地を占領しました。"
+      },
+      {
+        "en": "The story captured my imagination.",
+        "ja": "その物語は私の想像力をとらえました。"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "word": "prohibit",
+    "meaning": "～を禁じる",
+    "examples": [
+      {
+        "en": "The law prohibits smoking in this building.",
+        "ja": "法律はこの建物内での喫煙を禁じています。"
+      },
+      {
+        "en": "Students are prohibited from using phones during the test.",
+        "ja": "学生は試験中に携帯電話を使うことを禁じられています。"
+      },
+      {
+        "en": "The sign prohibits entry after 6 p.m.",
+        "ja": "その標識は午後6時以降の立ち入りを禁じています。"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "word": "forbid",
+    "meaning": "～を禁じる",
+    "examples": [
+      {
+        "en": "My parents forbid me to stay out late.",
+        "ja": "両親は私が夜遅くまで外出することを禁じています。"
+      },
+      {
+        "en": "The rules forbid cheating.",
+        "ja": "規則は不正行為を禁じています。"
+      },
+      {
+        "en": "Photography is forbidden in this room.",
+        "ja": "この部屋では写真撮影が禁止されています。"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "word": "ban",
+    "meaning": "～を公的に禁止する；禁止",
+    "examples": [
+      {
+        "en": "The city banned plastic bags.",
+        "ja": "その市はビニール袋を禁止しました。"
+      },
+      {
+        "en": "There is a ban on smoking in the park.",
+        "ja": "その公園では喫煙が禁止されています。"
+      },
+      {
+        "en": "The school banned students from using the app.",
+        "ja": "学校は生徒がそのアプリを使うことを禁止しました。"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "word": "permit",
+    "meaning": "～を許す；許可する；許可証",
+    "examples": [
+      {
+        "en": "The teacher permitted us to leave early.",
+        "ja": "先生は私たちが早く帰ることを許可しました。"
+      },
+      {
+        "en": "Visitors are not permitted to enter this area.",
+        "ja": "訪問者はこの区域に入ることを許可されていません。"
+      },
+      {
+        "en": "You need a permit to park here.",
+        "ja": "ここに駐車するには許可証が必要です。"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "word": "allow",
+    "meaning": "～を許す；許可する",
+    "examples": [
+      {
+        "en": "My parents allow me to use the computer at night.",
+        "ja": "両親は私が夜にパソコンを使うことを許しています。"
+      },
+      {
+        "en": "This ticket allows you to enter the museum.",
+        "ja": "このチケットで博物館に入ることができます。"
+      },
+      {
+        "en": "Please allow enough time to finish the work.",
+        "ja": "その仕事を終えるための十分な時間を見込んでください。"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "word": "forgive",
+    "meaning": "～を許す",
+    "examples": [
+      {
+        "en": "Please forgive me for being late.",
+        "ja": "遅れてしまったことを許してください。"
+      },
+      {
+        "en": "She forgave him for his mistake.",
+        "ja": "彼女は彼の過ちを許しました。"
+      },
+      {
+        "en": "It is not always easy to forgive others.",
+        "ja": "他人を許すことはいつも簡単とは限りません。"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "word": "overlook",
+    "meaning": "～を大目に見る；～を見落とす；～を見渡す",
+    "examples": [
+      {
+        "en": "The teacher overlooked my small mistake.",
+        "ja": "先生は私の小さなミスを大目に見てくれました。"
+      },
+      {
+        "en": "I overlooked an important detail in the question.",
+        "ja": "私は問題の重要な細部を見落としました。"
+      },
+      {
+        "en": "The hotel room overlooks the sea.",
+        "ja": "そのホテルの部屋からは海が見渡せます。"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "word": "generous",
+    "meaning": "寛容な；気前のよい",
+    "examples": [
+      {
+        "en": "She is generous with her time.",
+        "ja": "彼女は惜しみなく時間を割いてくれます。"
+      },
+      {
+        "en": "He made a generous donation to the school.",
+        "ja": "彼は学校に気前よく寄付をしました。"
+      },
+      {
+        "en": "It was generous of you to help me.",
+        "ja": "私を助けてくれて，あなたは寛大でした。"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "word": "tolerate",
+    "meaning": "～を許容する；容認する",
+    "examples": [
+      {
+        "en": "I cannot tolerate such rude behavior.",
+        "ja": "私はそのような失礼な行動を我慢できません。"
+      },
+      {
+        "en": "Some plants can tolerate dry conditions.",
+        "ja": "乾燥した環境に耐えられる植物もあります。"
+      },
+      {
+        "en": "The school does not tolerate bullying.",
+        "ja": "その学校はいじめを容認しません。"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "word": "prevent",
+    "meaning": "～を防ぐ；～を妨げる",
+    "examples": [
+      {
+        "en": "Washing your hands helps prevent illness.",
+        "ja": "手を洗うことは病気を防ぐのに役立ちます。"
+      },
+      {
+        "en": "The rain prevented us from going outside.",
+        "ja": "雨のせいで私たちは外に出られませんでした。"
+      },
+      {
+        "en": "This fence prevents children from entering the road.",
+        "ja": "この柵は子どもが道路に入るのを防ぎます。"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "word": "avoid",
+    "meaning": "～を避ける；回避する",
+    "examples": [
+      {
+        "en": "Try to avoid making the same mistake.",
+        "ja": "同じ間違いをするのを避けるようにしなさい。"
+      },
+      {
+        "en": "He avoided the crowded train.",
+        "ja": "彼は混んだ電車を避けました。"
+      },
+      {
+        "en": "We should avoid wasting food.",
+        "ja": "私たちは食べ物を無駄にすることを避けるべきです。"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "word": "hinder",
+    "meaning": "～を妨げる",
+    "examples": [
+      {
+        "en": "Heavy snow hindered the rescue work.",
+        "ja": "大雪が救助活動を妨げました。"
+      },
+      {
+        "en": "Lack of sleep can hinder learning.",
+        "ja": "睡眠不足は学習を妨げることがあります。"
+      },
+      {
+        "en": "The injury hindered him from playing well.",
+        "ja": "けがが彼の良いプレーを妨げました。"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "word": "refrain",
+    "meaning": "～するのを差し控える",
+    "examples": [
+      {
+        "en": "Please refrain from talking during the movie.",
+        "ja": "映画の間は話すのを控えてください。"
+      },
+      {
+        "en": "He refrained from making a comment.",
+        "ja": "彼はコメントするのを控えました。"
+      },
+      {
+        "en": "Visitors should refrain from touching the exhibits.",
+        "ja": "訪問者は展示物に触れるのを控えるべきです。"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "word": "interrupt",
+    "meaning": "～を中断する；邪魔する",
+    "examples": [
+      {
+        "en": "Sorry to interrupt you.",
+        "ja": "話をさえぎってすみません。"
+      },
+      {
+        "en": "The phone call interrupted our meeting.",
+        "ja": "電話が私たちの会議を中断しました。"
+      },
+      {
+        "en": "Do not interrupt someone while they are speaking.",
+        "ja": "誰かが話している間に邪魔してはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "word": "disrupt",
+    "meaning": "～を乱す；混乱させる",
+    "examples": [
+      {
+        "en": "The storm disrupted train service.",
+        "ja": "嵐が列車の運行を混乱させました。"
+      },
+      {
+        "en": "Loud noise can disrupt concentration.",
+        "ja": "大きな音は集中を乱すことがあります。"
+      },
+      {
+        "en": "The accident disrupted the morning traffic.",
+        "ja": "その事故は朝の交通を混乱させました。"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "word": "disturb",
+    "meaning": "～を妨げる；悩ませる",
+    "examples": [
+      {
+        "en": "Please do not disturb me while I am studying.",
+        "ja": "勉強している間は邪魔しないでください。"
+      },
+      {
+        "en": "The strange noise disturbed my sleep.",
+        "ja": "奇妙な音が私の睡眠を妨げました。"
+      },
+      {
+        "en": "The news disturbed many parents.",
+        "ja": "その知らせは多くの親を不安にさせました。"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "word": "interfere",
+    "meaning": "邪魔する；干渉する",
+    "examples": [
+      {
+        "en": "Do not interfere with my work.",
+        "ja": "私の仕事の邪魔をしないでください。"
+      },
+      {
+        "en": "Parents should not interfere too much in their children's choices.",
+        "ja": "親は子どもの選択に干渉しすぎるべきではありません。"
+      },
+      {
+        "en": "The noise interfered with the experiment.",
+        "ja": "その雑音が実験の妨げになりました。"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "word": "cease",
+    "meaning": "～をやめる；しなくなる",
+    "examples": [
+      {
+        "en": "The rain ceased at midnight.",
+        "ja": "雨は真夜中にやみました。"
+      },
+      {
+        "en": "The company ceased production last year.",
+        "ja": "その会社は昨年生産を停止しました。"
+      },
+      {
+        "en": "He never ceased to support his friends.",
+        "ja": "彼は友人を支え続けました。"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "word": "halt",
+    "meaning": "～を停止する；停止",
+    "examples": [
+      {
+        "en": "The train came to a halt.",
+        "ja": "列車は停止しました。"
+      },
+      {
+        "en": "The police halted the traffic.",
+        "ja": "警察は交通を止めました。"
+      },
+      {
+        "en": "The project was halted because of a lack of money.",
+        "ja": "資金不足のため，その計画は停止されました。"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "word": "deprive",
+    "meaning": "～から…を奪う",
+    "examples": [
+      {
+        "en": "The accident deprived him of his sight.",
+        "ja": "その事故は彼から視力を奪いました。"
+      },
+      {
+        "en": "Lack of sleep deprives students of energy.",
+        "ja": "睡眠不足は学生から活力を奪います。"
+      },
+      {
+        "en": "No one should be deprived of basic rights.",
+        "ja": "誰も基本的な権利を奪われるべきではありません。"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "word": "rob",
+    "meaning": "～から…を奪う；強奪する",
+    "examples": [
+      {
+        "en": "The man robbed the store of money.",
+        "ja": "その男は店から金を奪いました。"
+      },
+      {
+        "en": "The injury robbed her of the chance to play.",
+        "ja": "けがは彼女から出場の機会を奪いました。"
+      },
+      {
+        "en": "The thief tried to rob an old woman.",
+        "ja": "その泥棒は老婦人から物を奪おうとしました。"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "word": "strip",
+    "meaning": "～から…をはぎ取る；除去する",
+    "examples": [
+      {
+        "en": "They stripped the old paint from the wall.",
+        "ja": "彼らは壁から古いペンキをはがしました。"
+      },
+      {
+        "en": "The storm stripped the trees of their leaves.",
+        "ja": "嵐が木々から葉を奪いました。"
+      },
+      {
+        "en": "The title was stripped from the champion.",
+        "ja": "その王者からタイトルが剥奪されました。"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "word": "remove",
+    "meaning": "～を取り除く；除去する",
+    "examples": [
+      {
+        "en": "Please remove your shoes at the entrance.",
+        "ja": "入口で靴を脱いでください。"
+      },
+      {
+        "en": "The doctor removed the small stone from his foot.",
+        "ja": "医者は彼の足から小さな石を取り除きました。"
+      },
+      {
+        "en": "We need to remove old files from the computer.",
+        "ja": "私たちはコンピュータから古いファイルを削除する必要があります。"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "word": "eliminate",
+    "meaning": "～を取り除く；削除する",
+    "examples": [
+      {
+        "en": "We must eliminate unnecessary costs.",
+        "ja": "私たちは不要な費用を取り除かなければなりません。"
+      },
+      {
+        "en": "The team was eliminated from the tournament.",
+        "ja": "そのチームは大会から敗退しました。"
+      },
+      {
+        "en": "This medicine helps eliminate pain.",
+        "ja": "この薬は痛みを取り除くのに役立ちます。"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "word": "get rid of",
+    "meaning": "～を取り除く；処分する",
+    "examples": [
+      {
+        "en": "I want to get rid of these old clothes.",
+        "ja": "私はこれらの古い服を処分したいです。"
+      },
+      {
+        "en": "How can we get rid of this smell?",
+        "ja": "どうすればこのにおいを取り除けますか。"
+      },
+      {
+        "en": "Exercise helps me get rid of stress.",
+        "ja": "運動は私がストレスを取り除くのに役立ちます。"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "word": "dispose of",
+    "meaning": "～を処理する；取り除く",
+    "examples": [
+      {
+        "en": "Please dispose of the trash properly.",
+        "ja": "ごみを適切に処理してください。"
+      },
+      {
+        "en": "The factory must dispose of waste safely.",
+        "ja": "その工場は廃棄物を安全に処理しなければなりません。"
+      },
+      {
+        "en": "He disposed of his old bicycle.",
+        "ja": "彼は古い自転車を処分しました。"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "word": "do away with",
+    "meaning": "～を廃止する；捨てる",
+    "examples": [
+      {
+        "en": "The school decided to do away with the old rule.",
+        "ja": "学校はその古い規則を廃止することにしました。"
+      },
+      {
+        "en": "We should do away with unnecessary meetings.",
+        "ja": "私たちは不要な会議をなくすべきです。"
+      },
+      {
+        "en": "This system does away with paper forms.",
+        "ja": "このシステムは紙の書類を不要にします。"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "word": "discard",
+    "meaning": "～を捨てる",
+    "examples": [
+      {
+        "en": "Discard any food that smells bad.",
+        "ja": "悪いにおいのする食べ物は捨ててください。"
+      },
+      {
+        "en": "He discarded his old habits.",
+        "ja": "彼は古い習慣を捨てました。"
+      },
+      {
+        "en": "Do not discard batteries with regular trash.",
+        "ja": "電池を普通のごみと一緒に捨ててはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "word": "abandon",
+    "meaning": "～を捨てる；放棄する",
+    "examples": [
+      {
+        "en": "They had to abandon the plan.",
+        "ja": "彼らはその計画を放棄しなければなりませんでした。"
+      },
+      {
+        "en": "The dog was abandoned by its owner.",
+        "ja": "その犬は飼い主に捨てられました。"
+      },
+      {
+        "en": "Do not abandon hope.",
+        "ja": "希望を捨ててはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "word": "desert",
+    "meaning": "～を捨てる；見捨てる；砂漠",
+    "examples": [
+      {
+        "en": "The village was deserted after the flood.",
+        "ja": "洪水の後，その村には人がいなくなりました。"
+      },
+      {
+        "en": "He deserted his family.",
+        "ja": "彼は家族を見捨てました。"
+      },
+      {
+        "en": "Few plants can live in the desert.",
+        "ja": "砂漠で生きられる植物はほとんどありません。"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "word": "provide",
+    "meaning": "～を供給する；与える",
+    "examples": [
+      {
+        "en": "The school provides lunch for students.",
+        "ja": "学校は生徒に昼食を提供しています。"
+      },
+      {
+        "en": "This book provides useful information.",
+        "ja": "この本は有用な情報を提供しています。"
+      },
+      {
+        "en": "Parents provide their children with support.",
+        "ja": "親は子どもに支援を与えます。"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "word": "supply",
+    "meaning": "～を供給する；供給",
+    "examples": [
+      {
+        "en": "The company supplies parts to car makers.",
+        "ja": "その会社は自動車メーカーに部品を供給しています。"
+      },
+      {
+        "en": "The water supply was cut off.",
+        "ja": "水の供給が止まりました。"
+      },
+      {
+        "en": "Food was supplied to the victims.",
+        "ja": "食料が被災者に供給されました。"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "word": "offer",
+    "meaning": "～を提供する；申し出る；提供；申し出",
+    "examples": [
+      {
+        "en": "He offered me a cup of tea.",
+        "ja": "彼は私にお茶を一杯出してくれました。"
+      },
+      {
+        "en": "She offered to help with my homework.",
+        "ja": "彼女は私の宿題を手伝うと申し出ました。"
+      },
+      {
+        "en": "The company made him a good offer.",
+        "ja": "その会社は彼に良い条件を提示しました。"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "word": "furnish",
+    "meaning": "～に家具などを備え付ける；～を提供する",
+    "examples": [
+      {
+        "en": "The room is furnished with a desk and a bed.",
+        "ja": "その部屋には机とベッドが備え付けられています。"
+      },
+      {
+        "en": "They furnished the apartment simply.",
+        "ja": "彼らはそのアパートに簡素に家具を置きました。"
+      },
+      {
+        "en": "The report furnishes important evidence.",
+        "ja": "その報告書は重要な証拠を提供しています。"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "word": "equip",
+    "meaning": "～に装備する",
+    "examples": [
+      {
+        "en": "The classroom is equipped with a projector.",
+        "ja": "その教室にはプロジェクターが備え付けられています。"
+      },
+      {
+        "en": "This course equips students with basic skills.",
+        "ja": "この講座は学生に基礎的な技能を身につけさせます。"
+      },
+      {
+        "en": "The hikers were well equipped for the trip.",
+        "ja": "登山者たちはその旅行に十分な装備をしていました。"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "word": "promote",
+    "meaning": "～を促進する；昇進させる",
+    "examples": [
+      {
+        "en": "Exercise promotes good health.",
+        "ja": "運動は健康を促進します。"
+      },
+      {
+        "en": "The campaign promotes safe driving.",
+        "ja": "そのキャンペーンは安全運転を推進しています。"
+      },
+      {
+        "en": "She was promoted to manager.",
+        "ja": "彼女はマネージャーに昇進しました。"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "word": "enhance",
+    "meaning": "～を高める；強化する",
+    "examples": [
+      {
+        "en": "Practice enhances your speaking ability.",
+        "ja": "練習は話す力を高めます。"
+      },
+      {
+        "en": "The new software enhanced the image quality.",
+        "ja": "新しいソフトウェアは画質を向上させました。"
+      },
+      {
+        "en": "Good lighting can enhance the beauty of a room.",
+        "ja": "良い照明は部屋の美しさを引き立てます。"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "word": "accelerate",
+    "meaning": "～を加速する；促進する",
+    "examples": [
+      {
+        "en": "The car accelerated quickly.",
+        "ja": "その車はすばやく加速しました。"
+      },
+      {
+        "en": "The new policy may accelerate economic growth.",
+        "ja": "新しい政策は経済成長を加速させるかもしれません。"
+      },
+      {
+        "en": "Heat can accelerate the chemical reaction.",
+        "ja": "熱は化学反応を速めることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "word": "boost",
+    "meaning": "～を促進する；高める",
+    "examples": [
+      {
+        "en": "The win boosted the team's confidence.",
+        "ja": "その勝利はチームの自信を高めました。"
+      },
+      {
+        "en": "This drink may boost your energy.",
+        "ja": "この飲み物は活力を高めるかもしれません。"
+      },
+      {
+        "en": "The government tried to boost the economy.",
+        "ja": "政府は経済を活性化しようとしました。"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "word": "urge",
+    "meaning": "～に強く促す；衝動；欲望",
+    "examples": [
+      {
+        "en": "The teacher urged us to read more books.",
+        "ja": "先生は私たちにもっと本を読むよう強く促しました。"
+      },
+      {
+        "en": "I felt an urge to call my friend.",
+        "ja": "私は友人に電話したい衝動を感じました。"
+      },
+      {
+        "en": "Doctors urge people to get enough sleep.",
+        "ja": "医師たちは人々に十分な睡眠を取るよう促しています。"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "word": "encourage",
+    "meaning": "～を励ます；促進する",
+    "examples": [
+      {
+        "en": "My parents encouraged me to study abroad.",
+        "ja": "両親は私に留学するよう励ましてくれました。"
+      },
+      {
+        "en": "Teachers should encourage students to ask questions.",
+        "ja": "教師は学生が質問するよう促すべきです。"
+      },
+      {
+        "en": "The success encouraged him to try again.",
+        "ja": "その成功は彼がもう一度挑戦する励みになりました。"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "word": "project",
+    "meaning": "企画；事業；～を見積もる；投影する",
+    "examples": [
+      {
+        "en": "We started a new research project.",
+        "ja": "私たちは新しい研究プロジェクトを始めました。"
+      },
+      {
+        "en": "The company projects higher sales next year.",
+        "ja": "その会社は来年の売上増加を見込んでいます。"
+      },
+      {
+        "en": "The screen projects images onto the wall.",
+        "ja": "そのスクリーンは壁に映像を投影します。"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "word": "enterprise",
+    "meaning": "企て；事業；企業",
+    "examples": [
+      {
+        "en": "Starting a business is a difficult enterprise.",
+        "ja": "事業を始めることは難しい企てです。"
+      },
+      {
+        "en": "The enterprise employs many local people.",
+        "ja": "その企業は多くの地元の人を雇っています。"
+      },
+      {
+        "en": "Space exploration is a huge enterprise.",
+        "ja": "宇宙探査は巨大な事業です。"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "word": "scheme",
+    "meaning": "計画；枠組み；制度",
+    "examples": [
+      {
+        "en": "The city introduced a new recycling scheme.",
+        "ja": "その市は新しいリサイクル制度を導入しました。"
+      },
+      {
+        "en": "His scheme failed because it was too risky.",
+        "ja": "彼の計画は危険すぎたため失敗しました。"
+      },
+      {
+        "en": "The diagram shows the basic scheme of the system.",
+        "ja": "その図はシステムの基本的な枠組みを示しています。"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "word": "attempt",
+    "meaning": "試み；企画；～を試みる",
+    "examples": [
+      {
+        "en": "This is my first attempt at writing an essay in English.",
+        "ja": "これは英語で作文を書く私の初めての試みです。"
+      },
+      {
+        "en": "He attempted to solve the problem by himself.",
+        "ja": "彼はその問題を自分で解こうと試みました。"
+      },
+      {
+        "en": "The rescue attempt was successful.",
+        "ja": "その救助の試みは成功しました。"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "word": "purpose",
+    "meaning": "目的",
+    "examples": [
+      {
+        "en": "What is the purpose of this experiment?",
+        "ja": "この実験の目的は何ですか。"
+      },
+      {
+        "en": "I came here for a special purpose.",
+        "ja": "私は特別な目的でここに来ました。"
+      },
+      {
+        "en": "The purpose of the rule is to protect students.",
+        "ja": "その規則の目的は学生を守ることです。"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "word": "intention",
+    "meaning": "意図",
+    "examples": [
+      {
+        "en": "I had no intention of hurting you.",
+        "ja": "私はあなたを傷つける意図はありませんでした。"
+      },
+      {
+        "en": "Her intention was clear from her words.",
+        "ja": "彼女の言葉から彼女の意図は明らかでした。"
+      },
+      {
+        "en": "He announced his intention to study medicine.",
+        "ja": "彼は医学を学ぶつもりだと発表しました。"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "word": "destination",
+    "meaning": "目的地；行き先",
+    "examples": [
+      {
+        "en": "What is your final destination?",
+        "ja": "あなたの最終目的地はどこですか。"
+      },
+      {
+        "en": "Kyoto is a popular tourist destination.",
+        "ja": "京都は人気の観光地です。"
+      },
+      {
+        "en": "The train will arrive at its destination soon.",
+        "ja": "その列車はまもなく目的地に到着します。"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "word": "ideal",
+    "meaning": "理想；理想的な",
+    "examples": [
+      {
+        "en": "This room is ideal for studying.",
+        "ja": "この部屋は勉強に理想的です。"
+      },
+      {
+        "en": "Freedom and equality are important ideals.",
+        "ja": "自由と平等は重要な理想です。"
+      },
+      {
+        "en": "The weather was ideal for a picnic.",
+        "ja": "その天気はピクニックに理想的でした。"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "word": "practical",
+    "meaning": "実用的な；現実的な",
+    "examples": [
+      {
+        "en": "This book gives practical advice.",
+        "ja": "この本は実用的な助言を与えてくれます。"
+      },
+      {
+        "en": "We need a practical solution to the problem.",
+        "ja": "私たちはその問題に対する現実的な解決策が必要です。"
+      },
+      {
+        "en": "Learning English through examples is practical.",
+        "ja": "例文を通して英語を学ぶことは実用的です。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 401,
+    "word": "bribe",
+    "meaning": "賄賂",
+    "examples": [
+      {"en": "The official refused to accept a bribe.", "ja": "その役人は賄賂を受け取ることを拒んだ。"},
+      {"en": "He offered the guard a bribe to enter the building.", "ja": "彼は建物に入るために警備員に賄賂を差し出した。"},
+      {"en": "Taking a bribe is a serious crime.", "ja": "賄賂を受け取ることは重大な犯罪です。"}
+    ]
+  },
+  {
+    "id": 402,
+    "word": "fraud",
+    "meaning": "詐欺、不正行為",
+    "examples": [
+      {"en": "The company was accused of fraud.", "ja": "その会社は詐欺で告発された。"},
+      {"en": "Credit card fraud is a common online crime.", "ja": "クレジットカード詐欺はよくあるオンライン犯罪です。"},
+      {"en": "The report revealed serious fraud in the election.", "ja": "その報告書は選挙における重大な不正行為を明らかにした。"}
+    ]
+  },
+  {
+    "id": 403,
+    "word": "perish",
+    "meaning": "消滅する, 死ぬ",
+    "examples": [
+      {"en": "Many people perished in the storm.", "ja": "多くの人々がその嵐で命を落とした。"},
+      {"en": "Without water, the plants will perish.", "ja": "水がなければ、その植物は枯れてしまう。"},
+      {"en": "Old traditions may perish if no one preserves them.", "ja": "誰も守らなければ、古い伝統は消えてしまうかもしれない。"}
+    ]
+  },
+  {
+    "id": 404,
+    "word": "vanish",
+    "meaning": "消滅する, 消える",
+    "examples": [
+      {"en": "The cat vanished into the dark street.", "ja": "その猫は暗い通りへ消えていった。"},
+      {"en": "My worries vanished after I heard the good news.", "ja": "その良い知らせを聞いて、私の心配は消えた。"},
+      {"en": "The smile vanished from her face.", "ja": "彼女の顔から笑顔が消えた。"}
+    ]
+  },
+  {
+    "id": 405,
+    "word": "ruin",
+    "meaning": "破壊, 廃墟；～を破壊する, 台無しにする",
+    "examples": [
+      {"en": "Heavy rain ruined our picnic.", "ja": "大雨が私たちのピクニックを台無しにした。"},
+      {"en": "The old castle is now in ruins.", "ja": "その古い城は今では廃墟になっている。"},
+      {"en": "One careless mistake can ruin the whole plan.", "ja": "一つの不注意なミスが計画全体を台無しにすることがある。"}
+    ]
+  },
+  {
+    "id": 406,
+    "word": "collapse",
+    "meaning": "崩壊する, 崩れる",
+    "examples": [
+      {"en": "The old bridge collapsed after the flood.", "ja": "その古い橋は洪水の後で崩れた。"},
+      {"en": "He collapsed from exhaustion after the race.", "ja": "彼はレースの後、疲労で倒れた。"},
+      {"en": "The plan collapsed because of a lack of money.", "ja": "その計画は資金不足のために破綻した。"}
+    ]
+  },
+  {
+    "id": 407,
+    "word": "extinguish",
+    "meaning": "～(火)を消す；～を絶滅させる",
+    "examples": [
+      {"en": "The firefighters quickly extinguished the fire.", "ja": "消防士たちはすばやく火を消した。"},
+      {"en": "Please extinguish all candles before you leave.", "ja": "出かける前にすべてのろうそくの火を消してください。"},
+      {"en": "Human activity can extinguish rare species.", "ja": "人間の活動が希少種を絶滅させることがある。"}
+    ]
+  },
+  {
+    "id": 408,
+    "word": "catastrophe",
+    "meaning": "破滅, 大惨事",
+    "examples": [
+      {"en": "The earthquake was a terrible catastrophe.", "ja": "その地震はひどい大惨事だった。"},
+      {"en": "A small error caused a financial catastrophe.", "ja": "小さなミスが財政上の大惨事を引き起こした。"},
+      {"en": "We must prepare for natural catastrophes.", "ja": "私たちは自然災害に備えなければならない。"}
+    ]
+  },
+  {
+    "id": 409,
+    "word": "survive",
+    "meaning": "～を生き残る",
+    "examples": [
+      {"en": "Only a few trees survived the fire.", "ja": "その火事を生き残った木はほんの数本だった。"},
+      {"en": "She survived a serious illness.", "ja": "彼女は重い病気を乗り越えて生き延びた。"},
+      {"en": "Small businesses must change to survive.", "ja": "小さな会社は生き残るために変化しなければならない。"}
+    ]
+  },
+  {
+    "id": 410,
+    "word": "regard",
+    "meaning": "～を(…と)みなす(as…), ～を尊重する；尊敬, 敬意, 点",
+    "examples": [
+      {"en": "Many people regard him as a great leader.", "ja": "多くの人々は彼を偉大な指導者だとみなしている。"},
+      {"en": "We should regard safety as the top priority.", "ja": "私たちは安全を最優先事項とみなすべきだ。"},
+      {"en": "I have great regard for her honesty.", "ja": "私は彼女の誠実さに大きな敬意を持っている。"}
+    ]
+  },
+  {
+    "id": 411,
+    "word": "account",
+    "meaning": "説明, 報告, 口座, 勘定, 重要性；説明する(for～), 占める(for～)",
+    "examples": [
+      {"en": "She gave a clear account of the accident.", "ja": "彼女はその事故について明確な説明をした。"},
+      {"en": "I opened a bank account yesterday.", "ja": "私は昨日、銀行口座を開設した。"},
+      {"en": "Online sales account for half of our profit.", "ja": "オンライン販売は私たちの利益の半分を占めている。"}
+    ]
+  },
+  {
+    "id": 412,
+    "word": "concern",
+    "meaning": "～に関係する, ～を心配させる；関係, 心配, 懸念, 関心",
+    "examples": [
+      {"en": "This problem concerns everyone in the class.", "ja": "この問題はクラス全員に関係している。"},
+      {"en": "Her silence began to concern me.", "ja": "彼女の沈黙が私を心配させ始めた。"},
+      {"en": "Air pollution is a serious public concern.", "ja": "大気汚染は深刻な社会的懸念である。"}
+    ]
+  },
+  {
+    "id": 413,
+    "word": "anxious",
+    "meaning": "(～を)心配している(about～), (～を)切望している(for～, to do)",
+    "examples": [
+      {"en": "I am anxious about the exam results.", "ja": "私は試験結果を心配している。"},
+      {"en": "She was anxious to meet her old friend.", "ja": "彼女は古い友人に会いたくてたまらなかった。"},
+      {"en": "Parents often feel anxious about their children's future.", "ja": "親はしばしば子どもの将来を心配する。"}
+    ]
+  },
+  {
+    "id": 414,
+    "word": "attend",
+    "meaning": "～に出席する；注意して聞く(to～), 付き添う, 看護する(on～)",
+    "examples": [
+      {"en": "I will attend the meeting tomorrow.", "ja": "私は明日その会議に出席します。"},
+      {"en": "Please attend to what the teacher is saying.", "ja": "先生が言っていることに注意を向けてください。"},
+      {"en": "A nurse attended on the patient all night.", "ja": "看護師が一晩中その患者に付き添った。"}
+    ]
+  },
+  {
+    "id": 415,
+    "word": "apply",
+    "meaning": "～を適用する, 応用する(to…)；応募する, 志願する(for～)",
+    "examples": [
+      {"en": "You can apply this rule to many cases.", "ja": "この規則は多くの場合に適用できる。"},
+      {"en": "She applied for a job at a hospital.", "ja": "彼女は病院の仕事に応募した。"},
+      {"en": "He applied his knowledge to a real problem.", "ja": "彼は自分の知識を実際の問題に応用した。"}
+    ]
+  },
+  {
+    "id": 416,
+    "word": "reflect",
+    "meaning": "～を反射する, 反映する；熟考する(on～)",
+    "examples": [
+      {"en": "The lake reflected the mountains.", "ja": "湖は山々を映していた。"},
+      {"en": "Her words reflect her kindness.", "ja": "彼女の言葉は彼女の優しさを反映している。"},
+      {"en": "He reflected on his mistakes.", "ja": "彼は自分の過ちについて熟考した。"}
+    ]
+  },
+  {
+    "id": 417,
+    "word": "wait",
+    "meaning": "(～を)待つ(for～), (～に)仕える, 給仕する(on/upon～)",
+    "examples": [
+      {"en": "We waited for the bus for twenty minutes.", "ja": "私たちはバスを20分待った。"},
+      {"en": "A waiter waited on us at the restaurant.", "ja": "そのレストランでウェイターが私たちに給仕した。"},
+      {"en": "Good news is worth waiting for.", "ja": "良い知らせは待つ価値がある。"}
+    ]
+  },
+  {
+    "id": 418,
+    "word": "due",
+    "meaning": "しかるべき, 正当な, 期限の, 到着予定の",
+    "examples": [
+      {"en": "The report is due on Friday.", "ja": "そのレポートは金曜日が提出期限です。"},
+      {"en": "The train is due at six o'clock.", "ja": "その電車は6時に到着予定です。"},
+      {"en": "He received due respect for his work.", "ja": "彼は自分の仕事に対して当然の敬意を受けた。"}
+    ]
+  },
+  {
+    "id": 419,
+    "word": "odd",
+    "meaning": "奇妙な, 半端な, 奇数の",
+    "examples": [
+      {"en": "I heard an odd noise outside.", "ja": "外で奇妙な音を聞いた。"},
+      {"en": "Seven is an odd number.", "ja": "7は奇数です。"},
+      {"en": "There were a few odd chairs in the room.", "ja": "部屋には半端な椅子がいくつかあった。"}
+    ]
+  },
+  {
+    "id": 420,
+    "word": "odds",
+    "meaning": "見込み, 勝算",
+    "examples": [
+      {"en": "The odds of success are low.", "ja": "成功の見込みは低い。"},
+      {"en": "She won against all odds.", "ja": "彼女はあらゆる不利を乗り越えて勝った。"},
+      {"en": "What are the odds that it will rain tomorrow?", "ja": "明日雨が降る見込みはどのくらいですか。"}
+    ]
+  },
+  {
+    "id": 421,
+    "word": "issue",
+    "meaning": "問題, 号；～を発行する, 発布する",
+    "examples": [
+      {"en": "We need to discuss this issue soon.", "ja": "私たちはこの問題について早く話し合う必要がある。"},
+      {"en": "The latest issue of the magazine is popular.", "ja": "その雑誌の最新号は人気がある。"},
+      {"en": "The government issued a warning.", "ja": "政府は警告を発した。"}
+    ]
+  },
+  {
+    "id": 422,
+    "word": "term",
+    "meaning": "用語, 期間, 関係, 折り合い",
+    "examples": [
+      {"en": "This term is often used in physics.", "ja": "この用語は物理でよく使われる。"},
+      {"en": "The spring term starts in April.", "ja": "春学期は4月に始まる。"},
+      {"en": "They are on good terms with their neighbors.", "ja": "彼らは近所の人たちと良い関係にある。"}
+    ]
+  },
+  {
+    "id": 423,
+    "word": "figure",
+    "meaning": "姿, 形, 図, 人物, 数字；考える",
+    "examples": [
+      {"en": "Look at Figure 2 in the textbook.", "ja": "教科書の図2を見てください。"},
+      {"en": "The sales figures increased this year.", "ja": "今年は売上の数字が増加した。"},
+      {"en": "I figured that he was telling the truth.", "ja": "私は彼が本当のことを言っていると思った。"}
+    ]
+  },
+  {
+    "id": 424,
+    "word": "state",
+    "meaning": "州, 国家, 状態；～を述べる",
+    "examples": [
+      {"en": "California is a large state in the United States.", "ja": "カリフォルニアはアメリカの大きな州です。"},
+      {"en": "The machine is in a poor state.", "ja": "その機械は悪い状態にある。"},
+      {"en": "Please state your opinion clearly.", "ja": "あなたの意見をはっきり述べてください。"}
+    ]
+  },
+  {
+    "id": 425,
+    "word": "bear",
+    "meaning": "～を生む, ～に耐える",
+    "examples": [
+      {"en": "I cannot bear this noise any longer.", "ja": "私はこの騒音にもう耐えられない。"},
+      {"en": "This tree bears fruit every summer.", "ja": "この木は毎年夏に実をつける。"},
+      {"en": "He had to bear a heavy responsibility.", "ja": "彼は重い責任に耐えなければならなかった。"}
+    ]
+  },
+  {
+    "id": 426,
+    "word": "case",
+    "meaning": "場合, 事件, 訴訟, 実情, 事実, 症例",
+    "examples": [
+      {"en": "In that case, we should leave early.", "ja": "その場合、私たちは早く出発すべきだ。"},
+      {"en": "The police investigated the case.", "ja": "警察はその事件を捜査した。"},
+      {"en": "The doctor reported a rare case of the disease.", "ja": "医師はその病気の珍しい症例を報告した。"}
+    ]
+  },
+  {
+    "id": 427,
+    "word": "mean",
+    "meaning": "～を意味する, ～するつもりである；卑劣な, 意地悪な",
+    "examples": [
+      {"en": "What does this word mean?", "ja": "この単語は何を意味しますか。"},
+      {"en": "I didn't mean to hurt your feelings.", "ja": "私はあなたの気持ちを傷つけるつもりはなかった。"},
+      {"en": "It was mean of him to laugh at her.", "ja": "彼女を笑うなんて彼は意地悪だった。"}
+    ]
+  },
+  {
+    "id": 428,
+    "word": "means",
+    "meaning": "手段, 方法, 財産",
+    "examples": [
+      {"en": "Email is a useful means of communication.", "ja": "メールは便利なコミュニケーション手段です。"},
+      {"en": "We need a means to solve the problem.", "ja": "私たちはその問題を解決する方法が必要だ。"},
+      {"en": "He lives beyond his means.", "ja": "彼は収入以上の生活をしている。"}
+    ]
+  },
+  {
+    "id": 429,
+    "word": "represent",
+    "meaning": "～を代表する, ～を象徴する, ～を表す",
+    "examples": [
+      {"en": "She will represent our class at the meeting.", "ja": "彼女が会議で私たちのクラスを代表する。"},
+      {"en": "The dove represents peace.", "ja": "ハトは平和を象徴する。"},
+      {"en": "This graph represents the change in temperature.", "ja": "このグラフは温度の変化を表している。"}
+    ]
+  },
+  {
+    "id": 430,
+    "word": "assume",
+    "meaning": "～を想定する, 思いこむ, 責任・任務を引き受ける",
+    "examples": [
+      {"en": "We assumed that the information was correct.", "ja": "私たちはその情報が正しいと想定した。"},
+      {"en": "Don't assume that everyone agrees with you.", "ja": "全員があなたに賛成していると思い込んではいけない。"},
+      {"en": "She assumed responsibility for the project.", "ja": "彼女はそのプロジェクトの責任を引き受けた。"}
+    ]
+  },
+  {
+    "id": 431,
+    "word": "possess",
+    "meaning": "～を所有する, ～に取り憑く",
+    "examples": [
+      {"en": "He possesses a large collection of old coins.", "ja": "彼は古い硬貨の大きなコレクションを所有している。"},
+      {"en": "She possesses great talent for music.", "ja": "彼女は音楽の大きな才能を持っている。"},
+      {"en": "Fear seemed to possess him.", "ja": "恐怖が彼に取り憑いているようだった。"}
+    ]
+  },
+  {
+    "id": 432,
+    "word": "observe",
+    "meaning": "～を観察する, ～(法・規則)を守る",
+    "examples": [
+      {"en": "The students observed the stars through a telescope.", "ja": "学生たちは望遠鏡で星を観察した。"},
+      {"en": "Drivers must observe traffic rules.", "ja": "運転者は交通規則を守らなければならない。"},
+      {"en": "She observed that the room was very quiet.", "ja": "彼女はその部屋がとても静かだと気づいた。"}
+    ]
+  },
+  {
+    "id": 433,
+    "word": "swallow",
+    "meaning": "飲み込む, 鵜呑みにする, 信じる；ツバメ",
+    "examples": [
+      {"en": "He swallowed the medicine with water.", "ja": "彼は水で薬を飲み込んだ。"},
+      {"en": "Don't swallow every story you hear online.", "ja": "ネットで聞く話をすべて鵜呑みにしてはいけない。"},
+      {"en": "A swallow flew over the river.", "ja": "一羽のツバメが川の上を飛んだ。"}
+    ]
+  },
+  {
+    "id": 434,
+    "word": "company",
+    "meaning": "会社, 一緒にいること, 仲間",
+    "examples": [
+      {"en": "My brother works for a software company.", "ja": "兄はソフトウェア会社で働いている。"},
+      {"en": "I enjoyed her company during the trip.", "ja": "旅行中、私は彼女と一緒にいることを楽しんだ。"},
+      {"en": "A person is known by the company he keeps.", "ja": "人は付き合う仲間で分かる。"}
+    ]
+  },
+  {
+    "id": 435,
+    "word": "firm",
+    "meaning": "固い, 確固たる；会社, 企業",
+    "examples": [
+      {"en": "She gave me a firm handshake.", "ja": "彼女は私としっかり握手した。"},
+      {"en": "He remained firm in his decision.", "ja": "彼は自分の決定を固く守った。"},
+      {"en": "The law firm has many experienced lawyers.", "ja": "その法律事務所には多くの経験豊かな弁護士がいる。"}
+    ]
+  },
+  {
+    "id": 436,
+    "word": "enter",
+    "meaning": "～に入る",
+    "examples": [
+      {"en": "Please enter the room quietly.", "ja": "静かに部屋に入ってください。"},
+      {"en": "She entered a famous university last year.", "ja": "彼女は昨年、有名な大学に入学した。"},
+      {"en": "Enter your password to continue.", "ja": "続けるにはパスワードを入力してください。"}
+    ]
+  },
+  {
+    "id": 437,
+    "word": "receive",
+    "meaning": "～を受け取る",
+    "examples": [
+      {"en": "I received a letter from my friend.", "ja": "私は友人から手紙を受け取った。"},
+      {"en": "She received an award for her research.", "ja": "彼女は研究で賞を受けた。"},
+      {"en": "The hotel receives many guests in summer.", "ja": "そのホテルは夏に多くの客を受け入れる。"}
+    ]
+  },
+  {
+    "id": 438,
+    "word": "accept",
+    "meaning": "～を受け入れる",
+    "examples": [
+      {"en": "He accepted my invitation.", "ja": "彼は私の招待を受け入れた。"},
+      {"en": "We must accept the result of the test.", "ja": "私たちは試験の結果を受け入れなければならない。"},
+      {"en": "The store does not accept credit cards.", "ja": "その店はクレジットカードを受け付けていない。"}
+    ]
+  },
+  {
+    "id": 439,
+    "word": "refuse",
+    "meaning": "～を拒否する；～しようとしない(to do)",
+    "examples": [
+      {"en": "She refused his offer politely.", "ja": "彼女は彼の申し出を丁寧に断った。"},
+      {"en": "He refused to answer the question.", "ja": "彼はその質問に答えようとしなかった。"},
+      {"en": "The child refused to eat vegetables.", "ja": "その子どもは野菜を食べようとしなかった。"}
+    ]
+  },
+  {
+    "id": 440,
+    "word": "reject",
+    "meaning": "～を拒絶する, はねつける",
+    "examples": [
+      {"en": "The university rejected his application.", "ja": "その大学は彼の出願を拒否した。"},
+      {"en": "She rejected the idea as unrealistic.", "ja": "彼女はその考えを非現実的だとして退けた。"},
+      {"en": "The body may reject the new organ.", "ja": "体が新しい臓器を拒絶することがある。"}
+    ]
+  },
+  {
+    "id": 441,
+    "word": "deny",
+    "meaning": "～を否定する",
+    "examples": [
+      {"en": "He denied breaking the window.", "ja": "彼は窓を割ったことを否定した。"},
+      {"en": "No one can deny the importance of education.", "ja": "教育の重要性を否定できる人はいない。"},
+      {"en": "She denied that she had seen the document.", "ja": "彼女はその文書を見たことを否定した。"}
+    ]
+  },
+  {
+    "id": 442,
+    "word": "appear",
+    "meaning": "現れる, ～のように見える",
+    "examples": [
+      {"en": "A rainbow appeared after the rain.", "ja": "雨の後に虹が現れた。"},
+      {"en": "He appears tired today.", "ja": "彼は今日疲れているように見える。"},
+      {"en": "Her name appears on the list.", "ja": "彼女の名前がそのリストに載っている。"}
+    ]
+  },
+  {
+    "id": 443,
+    "word": "exist",
+    "meaning": "存在する, 生存する",
+    "examples": [
+      {"en": "Many different cultures exist in this city.", "ja": "この都市には多くの異なる文化が存在する。"},
+      {"en": "Does life exist on other planets?", "ja": "他の惑星に生命は存在するのだろうか。"},
+      {"en": "Some animals can exist in very cold places.", "ja": "いくつかの動物はとても寒い場所で生きられる。"}
+    ]
+  },
+  {
+    "id": 444,
+    "word": "expect",
+    "meaning": "～を予想する；期待する",
+    "examples": [
+      {"en": "We expect rain this afternoon.", "ja": "私たちは今日の午後に雨を予想している。"},
+      {"en": "My parents expect me to study hard.", "ja": "両親は私が一生懸命勉強することを期待している。"},
+      {"en": "I did not expect to win the prize.", "ja": "私はその賞を取るとは思っていなかった。"}
+    ]
+  },
+  {
+    "id": 445,
+    "word": "except",
+    "meaning": "～を除いて, ～以外は",
+    "examples": [
+      {"en": "Everyone except Tom came to the party.", "ja": "トム以外は全員パーティーに来た。"},
+      {"en": "The shop is open every day except Monday.", "ja": "その店は月曜日を除いて毎日開いている。"},
+      {"en": "I like all fruits except bananas.", "ja": "私はバナナ以外の果物は全部好きです。"}
+    ]
+  },
+  {
+    "id": 446,
+    "word": "improve",
+    "meaning": "～を改良する, 改善する；改善する, 良くなる",
+    "examples": [
+      {"en": "I want to improve my English.", "ja": "私は英語を上達させたい。"},
+      {"en": "The new system improved our work speed.", "ja": "新しいシステムは私たちの作業速度を改善した。"},
+      {"en": "Her health improved after a week of rest.", "ja": "一週間休んだ後、彼女の健康状態は良くなった。"}
+    ]
+  },
+  {
+    "id": 447,
+    "word": "solve",
+    "meaning": "～を解く, 解決する",
+    "examples": [
+      {"en": "Can you solve this math problem?", "ja": "この数学の問題を解けますか。"},
+      {"en": "We need to solve the traffic problem.", "ja": "私たちは交通問題を解決する必要がある。"},
+      {"en": "Talking openly helped solve the misunderstanding.", "ja": "率直に話すことが誤解を解く助けになった。"}
+    ]
+  },
+  {
+    "id": 448,
+    "word": "suppose",
+    "meaning": "～だと思う(that…)；～を想定する",
+    "examples": [
+      {"en": "I suppose he is still at school.", "ja": "彼はまだ学校にいると思う。"},
+      {"en": "Suppose you had a million yen. What would you do?", "ja": "もし100万円あったとしたら、何をしますか。"},
+      {"en": "We supposed that the train would be late.", "ja": "私たちは電車が遅れるだろうと考えた。"}
+    ]
+  },
+  {
+    "id": 449,
+    "word": "suggest",
+    "meaning": "～を提案する；暗に示す(that…)",
+    "examples": [
+      {"en": "She suggested going to the library.", "ja": "彼女は図書館に行くことを提案した。"},
+      {"en": "The data suggests that the method works.", "ja": "そのデータはその方法が有効であることを示唆している。"},
+      {"en": "I suggest that you check your answer again.", "ja": "もう一度答えを確認することを提案します。"}
+    ]
+  },
+  {
+    "id": 450,
+    "word": "propose",
+    "meaning": "～を提案する",
+    "examples": [
+      {"en": "He proposed a new plan at the meeting.", "ja": "彼は会議で新しい計画を提案した。"},
+      {"en": "The teacher proposed that we start early.", "ja": "先生は私たちが早く始めることを提案した。"},
+      {"en": "She proposed a simple solution to the problem.", "ja": "彼女はその問題に対する簡単な解決策を提案した。"}
+    ]
+  },
+  {
+    "id": 451,
+    "word": "pretend",
+    "meaning": "～するふりをする(to do)",
+    "examples": [
+      {"en": "He pretended to be asleep.", "ja": "彼は眠っているふりをした。"},
+      {"en": "Don't pretend that you don't know the truth.", "ja": "真実を知らないふりをしてはいけない。"},
+      {"en": "The children pretended to be pirates.", "ja": "子どもたちは海賊のふりをした。"}
+    ]
+  },
+  {
+    "id": 452,
+    "word": "doubt",
+    "meaning": "疑い；～を疑う",
+    "examples": [
+      {"en": "I doubt that he will come on time.", "ja": "彼が時間通りに来るか疑わしいと思う。"},
+      {"en": "There is no doubt that she is talented.", "ja": "彼女に才能があることは疑いない。"},
+      {"en": "He began to doubt his own memory.", "ja": "彼は自分の記憶を疑い始めた。"}
+    ]
+  },
+  {
+    "id": 453,
+    "word": "belong",
+    "meaning": "(～に)属する, (～の)所有である(to～)",
+    "examples": [
+      {"en": "This book belongs to me.", "ja": "この本は私のものです。"},
+      {"en": "She belongs to the tennis club.", "ja": "彼女はテニス部に所属している。"},
+      {"en": "I finally felt that I belonged in the new class.", "ja": "私はようやく新しいクラスになじめたと感じた。"}
+    ]
+  },
+  {
+    "id": 454,
+    "word": "fail",
+    "meaning": "失敗する(in～)；～しない, できない(to do)",
+    "examples": [
+      {"en": "He failed the driving test.", "ja": "彼は運転試験に落ちた。"},
+      {"en": "She failed to notice the mistake.", "ja": "彼女はその間違いに気づかなかった。"},
+      {"en": "The plan failed because of bad weather.", "ja": "その計画は悪天候のため失敗した。"}
+    ]
+  },
+  {
+    "id": 455,
+    "word": "enable",
+    "meaning": "～に(…するのを)可能にさせる(to do)",
+    "examples": [
+      {"en": "The app enables users to learn vocabulary easily.", "ja": "そのアプリは利用者が簡単に語彙を学べるようにする。"},
+      {"en": "This tool enables us to work faster.", "ja": "この道具のおかげで私たちはより速く作業できる。"},
+      {"en": "Online classes enabled him to study at home.", "ja": "オンライン授業によって彼は家で勉強できるようになった。"}
+    ]
+  },
+  {
+    "id": 456,
+    "word": "prefer",
+    "meaning": "～をより好む",
+    "examples": [
+      {"en": "I prefer tea to coffee.", "ja": "私はコーヒーよりお茶の方が好きです。"},
+      {"en": "She prefers studying in a quiet room.", "ja": "彼女は静かな部屋で勉強する方を好む。"},
+      {"en": "Which color do you prefer?", "ja": "どの色の方が好きですか。"}
+    ]
+  },
+  {
+    "id": 457,
+    "word": "marry",
+    "meaning": "～と結婚する",
+    "examples": [
+      {"en": "She married her childhood friend.", "ja": "彼女は幼なじみと結婚した。"},
+      {"en": "He wants to marry someone who shares his values.", "ja": "彼は価値観を共有できる人と結婚したいと思っている。"},
+      {"en": "They got married in a small church.", "ja": "彼らは小さな教会で結婚した。"}
+    ]
+  },
+  {
+    "id": 458,
+    "word": "regret",
+    "meaning": "～を後悔する",
+    "examples": [
+      {"en": "I regret saying such a rude thing.", "ja": "そんな失礼なことを言ったのを後悔している。"},
+      {"en": "She regretted not studying harder.", "ja": "彼女はもっと一生懸命勉強しなかったことを後悔した。"},
+      {"en": "He expressed deep regret for his mistake.", "ja": "彼は自分のミスに深い後悔を表した。"}
+    ]
+  },
+  {
+    "id": 459,
+    "word": "satisfy",
+    "meaning": "～を満足させる",
+    "examples": [
+      {"en": "The result satisfied the teacher.", "ja": "その結果は先生を満足させた。"},
+      {"en": "This meal will satisfy your hunger.", "ja": "この食事であなたの空腹は満たされるでしょう。"},
+      {"en": "The answer did not satisfy my curiosity.", "ja": "その答えは私の好奇心を満たさなかった。"}
+    ]
+  },
+  {
+    "id": 460,
+    "word": "disappoint",
+    "meaning": "～をがっかりさせる",
+    "examples": [
+      {"en": "The movie disappointed many fans.", "ja": "その映画は多くのファンをがっかりさせた。"},
+      {"en": "I don't want to disappoint my parents.", "ja": "私は両親をがっかりさせたくない。"},
+      {"en": "His careless attitude disappointed the coach.", "ja": "彼の不注意な態度はコーチを失望させた。"}
+    ]
+  },
+  {
+    "id": 461,
+    "word": "bore",
+    "meaning": "～を退屈させる",
+    "examples": [
+      {"en": "The long speech bored the audience.", "ja": "その長いスピーチは聴衆を退屈させた。"},
+      {"en": "I hope my story doesn't bore you.", "ja": "私の話があなたを退屈させないといいのですが。"},
+      {"en": "Repetitive work can bore some people.", "ja": "単調な仕事は人によっては退屈に感じさせる。"}
+    ]
+  },
+  {
+    "id": 462,
+    "word": "amaze",
+    "meaning": "～をびっくりさせる",
+    "examples": [
+      {"en": "Her skill amazed everyone in the room.", "ja": "彼女の技術は部屋にいた全員を驚かせた。"},
+      {"en": "It amazes me that he can remember every detail.", "ja": "彼が細部まですべて覚えていることに私は驚く。"},
+      {"en": "The view from the mountain amazed us.", "ja": "山からの眺めは私たちを驚かせた。"}
+    ]
+  },
+  {
+    "id": 463,
+    "word": "astonish",
+    "meaning": "～をびっくりさせる",
+    "examples": [
+      {"en": "The magician's trick astonished the children.", "ja": "その手品師の技は子どもたちをびっくりさせた。"},
+      {"en": "Her sudden decision astonished her friends.", "ja": "彼女の突然の決断は友人たちを驚かせた。"},
+      {"en": "The speed of the machine astonished me.", "ja": "その機械の速さに私はびっくりした。"}
+    ]
+  },
+  {
+    "id": 464,
+    "word": "frighten",
+    "meaning": "～を怖がらせる, おびえさせる",
+    "examples": [
+      {"en": "The loud thunder frightened the child.", "ja": "大きな雷の音がその子どもを怖がらせた。"},
+      {"en": "Don't frighten the animals.", "ja": "動物たちを怖がらせないで。"},
+      {"en": "The strange shadow frightened me.", "ja": "その奇妙な影が私を怖がらせた。"}
+    ]
+  },
+  {
+    "id": 465,
+    "word": "scare",
+    "meaning": "～を怖がらせる",
+    "examples": [
+      {"en": "The horror movie scared me.", "ja": "そのホラー映画は私を怖がらせた。"},
+      {"en": "A sudden noise scared the birds away.", "ja": "突然の音が鳥たちを怖がらせて飛び去らせた。"},
+      {"en": "He tried to scare his little brother.", "ja": "彼は弟を怖がらせようとした。"}
+    ]
+  },
+  {
+    "id": 466,
+    "word": "cause",
+    "meaning": "原因；～を引き起こす",
+    "examples": [
+      {"en": "The cause of the fire is still unknown.", "ja": "火事の原因はまだ不明です。"},
+      {"en": "Heavy rain caused a flood.", "ja": "大雨が洪水を引き起こした。"},
+      {"en": "Lack of sleep can cause mistakes.", "ja": "睡眠不足はミスを引き起こすことがある。"}
+    ]
+  },
+  {
+    "id": 467,
+    "word": "factor",
+    "meaning": "要因, 要素",
+    "examples": [
+      {"en": "Weather is an important factor in farming.", "ja": "天候は農業における重要な要因です。"},
+      {"en": "Cost was the main factor in our decision.", "ja": "費用が私たちの決定における主な要素だった。"},
+      {"en": "Many factors affect student motivation.", "ja": "多くの要因が学生のやる気に影響する。"}
+    ]
+  },
+  {
+    "id": 468,
+    "word": "result",
+    "meaning": "結果；結果として生ずる",
+    "examples": [
+      {"en": "The result of the experiment was surprising.", "ja": "その実験の結果は驚くべきものだった。"},
+      {"en": "His success resulted from hard work.", "ja": "彼の成功は努力の結果だった。"},
+      {"en": "Careless driving can result in accidents.", "ja": "不注意な運転は事故を招くことがある。"}
+    ]
+  },
+  {
+    "id": 469,
+    "word": "lead",
+    "meaning": "～を導く(to…)；～を引き起こす(to～)",
+    "examples": [
+      {"en": "The guide led us to the museum.", "ja": "ガイドは私たちを博物館へ案内した。"},
+      {"en": "Too much stress can lead to illness.", "ja": "過度のストレスは病気につながることがある。"},
+      {"en": "She led the team to victory.", "ja": "彼女はチームを勝利へ導いた。"}
+    ]
+  },
+  {
+    "id": 470,
+    "word": "favor",
+    "meaning": "好意, 親切な行為；～を好む",
+    "examples": [
+      {"en": "Could you do me a favor?", "ja": "お願いを聞いてくれませんか。"},
+      {"en": "The teacher looked at him with favor.", "ja": "先生は彼を好意的に見ていた。"},
+      {"en": "The new policy favors large companies.", "ja": "その新しい政策は大企業に有利に働く。"}
+    ]
+  },
+  {
+    "id": 471,
+    "word": "harm",
+    "meaning": "害, 損害；～を害する",
+    "examples": [
+      {"en": "Smoking can harm your health.", "ja": "喫煙は健康を害することがある。"},
+      {"en": "The medicine did more harm than good.", "ja": "その薬は利益より害の方が大きかった。"},
+      {"en": "No harm was done to the animals.", "ja": "動物たちに害はなかった。"}
+    ]
+  },
+  {
+    "id": 472,
+    "word": "risk",
+    "meaning": "危険, リスク；～を危険にさらす",
+    "examples": [
+      {"en": "There is a risk of heavy rain tonight.", "ja": "今夜は大雨の危険がある。"},
+      {"en": "He risked his life to save the child.", "ja": "彼はその子どもを救うために命を危険にさらした。"},
+      {"en": "We should reduce the risk of accidents.", "ja": "私たちは事故のリスクを減らすべきだ。"}
+    ]
+  },
+  {
+    "id": 473,
+    "word": "board",
+    "meaning": "板, 委員会；～(乗り物)に搭乗する",
+    "examples": [
+      {"en": "The teacher wrote the answer on the board.", "ja": "先生は答えを黒板に書いた。"},
+      {"en": "Passengers began to board the plane.", "ja": "乗客たちは飛行機に搭乗し始めた。"},
+      {"en": "The school board made a new rule.", "ja": "教育委員会は新しい規則を作った。"}
+    ]
+  },
+  {
+    "id": 474,
+    "word": "rise",
+    "meaning": "上がる, 増える；上昇",
+    "examples": [
+      {"en": "The sun rises in the east.", "ja": "太陽は東から昇る。"},
+      {"en": "Prices continue to rise.", "ja": "価格は上がり続けている。"},
+      {"en": "There was a sudden rise in temperature.", "ja": "気温が急に上昇した。"}
+    ]
+  },
+  {
+    "id": 475,
+    "word": "raise",
+    "meaning": "～を上げる；増やす, 子供・家畜を育てる",
+    "examples": [
+      {"en": "Please raise your hand if you have a question.", "ja": "質問があれば手を挙げてください。"},
+      {"en": "The company raised the price of the product.", "ja": "その会社は製品の価格を上げた。"},
+      {"en": "They raised three children in this town.", "ja": "彼らはこの町で3人の子どもを育てた。"}
+    ]
+  },
+  {
+    "id": 476,
+    "word": "lie",
+    "meaning": "横たわる；存在する",
+    "examples": [
+      {"en": "He lay on the sofa and closed his eyes.", "ja": "彼はソファに横たわって目を閉じた。"},
+      {"en": "The village lies near the river.", "ja": "その村は川の近くにある。"},
+      {"en": "The problem lies in the lack of communication.", "ja": "問題はコミュニケーション不足にある。"}
+    ]
+  },
+  {
+    "id": 477,
+    "word": "lay",
+    "meaning": "～を横たえる；置く",
+    "examples": [
+      {"en": "She laid the baby on the bed.", "ja": "彼女は赤ん坊をベッドに寝かせた。"},
+      {"en": "Please lay the books on the desk.", "ja": "本を机の上に置いてください。"},
+      {"en": "The workers laid new pipes under the road.", "ja": "作業員たちは道路の下に新しい配管を敷いた。"}
+    ]
+  },
+  {
+    "id": 478,
+    "word": "exhibit",
+    "meaning": "～を展示する, 示す；展示品",
+    "examples": [
+      {"en": "The museum exhibits ancient tools.", "ja": "その博物館は古代の道具を展示している。"},
+      {"en": "He exhibited great courage during the crisis.", "ja": "彼は危機の間に大きな勇気を示した。"},
+      {"en": "This exhibit is popular with children.", "ja": "この展示品は子どもたちに人気がある。"}
+    ]
+  },
+  {
+    "id": 479,
+    "word": "convenient",
+    "meaning": "便利な；都合のよい",
+    "examples": [
+      {"en": "This app is convenient for studying English.", "ja": "このアプリは英語学習に便利です。"},
+      {"en": "Is tomorrow morning convenient for you?", "ja": "明日の朝はあなたにとって都合がよいですか。"},
+      {"en": "The station is in a convenient location.", "ja": "その駅は便利な場所にある。"}
+    ]
+  },
+  {
+    "id": 480,
+    "word": "comfort",
+    "meaning": "快適さ；～を慰める, 元気づける",
+    "examples": [
+      {"en": "This chair gives me great comfort.", "ja": "この椅子は私に大きな快適さを与えてくれる。"},
+      {"en": "Her kind words comforted me.", "ja": "彼女の優しい言葉が私を慰めてくれた。"},
+      {"en": "He found comfort in music.", "ja": "彼は音楽に慰めを見いだした。"}
+    ]
+  },
+  {
+    "id": 481,
+    "word": "correct",
+    "meaning": "正しい；～を訂正する, 正す",
+    "examples": [
+      {"en": "Your answer is correct.", "ja": "あなたの答えは正しいです。"},
+      {"en": "Please correct the mistakes in this sentence.", "ja": "この文の間違いを訂正してください。"},
+      {"en": "The teacher corrected my pronunciation.", "ja": "先生は私の発音を直してくれた。"}
+    ]
+  },
+  {
+    "id": 482,
+    "word": "salary",
+    "meaning": "給料",
+    "examples": [
+      {"en": "His salary increased this year.", "ja": "彼の給料は今年上がった。"},
+      {"en": "She spends half of her salary on rent.", "ja": "彼女は給料の半分を家賃に使っている。"},
+      {"en": "The job offers a high salary.", "ja": "その仕事は高い給料を提示している。"}
+    ]
+  },
+  {
+    "id": 483,
+    "word": "reputation",
+    "meaning": "評判, うわさ",
+    "examples": [
+      {"en": "The restaurant has a good reputation.", "ja": "そのレストランは評判が良い。"},
+      {"en": "One mistake damaged his reputation.", "ja": "一つのミスが彼の評判を傷つけた。"},
+      {"en": "She has a reputation for being honest.", "ja": "彼女は正直だという評判がある。"}
+    ]
+  },
+  {
+    "id": 484,
+    "word": "rumor",
+    "meaning": "うわさ, 風説",
+    "examples": [
+      {"en": "A rumor spread through the school.", "ja": "うわさが学校中に広まった。"},
+      {"en": "I don't know whether the rumor is true.", "ja": "そのうわさが本当かどうか私は知らない。"},
+      {"en": "The company denied the rumor.", "ja": "その会社はそのうわさを否定した。"}
+    ]
+  },
+  {
+    "id": 485,
+    "word": "duty",
+    "meaning": "義務",
+    "examples": [
+      {"en": "It is our duty to follow the rules.", "ja": "規則を守ることは私たちの義務です。"},
+      {"en": "The police officer was on duty.", "ja": "その警察官は勤務中だった。"},
+      {"en": "She felt a duty to help her family.", "ja": "彼女は家族を助ける義務を感じていた。"}
+    ]
+  },
+  {
+    "id": 486,
+    "word": "opportunity",
+    "meaning": "機会",
+    "examples": [
+      {"en": "This is a good opportunity to practice English.", "ja": "これは英語を練習する良い機会です。"},
+      {"en": "He missed the opportunity to study abroad.", "ja": "彼は留学する機会を逃した。"},
+      {"en": "The program gives students many opportunities.", "ja": "そのプログラムは学生に多くの機会を与える。"}
+    ]
+  },
+  {
+    "id": 487,
+    "word": "idle",
+    "meaning": "何もしていない；無用の；何もしないでいる",
+    "examples": [
+      {"en": "The machine remained idle all day.", "ja": "その機械は一日中使われないままだった。"},
+      {"en": "He spent an idle afternoon at home.", "ja": "彼は家で何もしない午後を過ごした。"},
+      {"en": "Idle talk will not solve the problem.", "ja": "無駄話ではその問題は解決しない。"}
+    ]
+  },
+  {
+    "id": 488,
+    "word": "calm",
+    "meaning": "冷静な, 落ち着いた；～を落ち着かせる",
+    "examples": [
+      {"en": "She stayed calm during the emergency.", "ja": "彼女は緊急時にも冷静だった。"},
+      {"en": "His voice calmed the crying child.", "ja": "彼の声が泣いている子どもを落ち着かせた。"},
+      {"en": "The sea was calm in the morning.", "ja": "朝、海は穏やかだった。"}
+    ]
+  },
+  {
+    "id": 489,
+    "word": "curious",
+    "meaning": "好奇心のある；好奇心をそそる, 奇妙な",
+    "examples": [
+      {"en": "Children are curious about everything.", "ja": "子どもたちは何にでも好奇心を持つ。"},
+      {"en": "I was curious to know the answer.", "ja": "私はその答えを知りたくてたまらなかった。"},
+      {"en": "A curious smell came from the kitchen.", "ja": "台所から奇妙なにおいがした。"}
+    ]
+  },
+  {
+    "id": 490,
+    "word": "cruel",
+    "meaning": "残酷な",
+    "examples": [
+      {"en": "It is cruel to hurt animals for fun.", "ja": "楽しみのために動物を傷つけるのは残酷です。"},
+      {"en": "The king was known as a cruel ruler.", "ja": "その王は残酷な支配者として知られていた。"},
+      {"en": "Her cruel words made him sad.", "ja": "彼女の残酷な言葉が彼を悲しませた。"}
+    ]
+  },
+  {
+    "id": 491,
+    "word": "official",
+    "meaning": "公式の；公務員, 役人",
+    "examples": [
+      {"en": "The official announcement came yesterday.", "ja": "公式発表は昨日行われた。"},
+      {"en": "A government official visited the town.", "ja": "政府の役人がその町を訪れた。"},
+      {"en": "This is the official website of the event.", "ja": "これはそのイベントの公式ウェブサイトです。"}
+    ]
+  },
+  {
+    "id": 492,
+    "word": "relate",
+    "meaning": "～を関連づける(to…), ～を話す",
+    "examples": [
+      {"en": "The study relates sleep to memory.", "ja": "その研究は睡眠と記憶を関連づけている。"},
+      {"en": "She related her experience to the class.", "ja": "彼女は自分の経験をクラスに話した。"},
+      {"en": "I can relate to his feelings.", "ja": "私は彼の気持ちが分かる。"}
+    ]
+  },
+  {
+    "id": 493,
+    "word": "absolute",
+    "meaning": "絶対的な, 完全な",
+    "examples": [
+      {"en": "The king had absolute power.", "ja": "その王は絶対的な権力を持っていた。"},
+      {"en": "There is no absolute answer to this question.", "ja": "この問いに絶対的な答えはない。"},
+      {"en": "The room was in absolute silence.", "ja": "その部屋は完全な静寂に包まれていた。"}
+    ]
+  },
+  {
+    "id": 494,
+    "word": "relevant",
+    "meaning": "(～と)関連がある(to～), 適切な",
+    "examples": [
+      {"en": "Please give only relevant information.", "ja": "関連のある情報だけを出してください。"},
+      {"en": "His comment was relevant to the discussion.", "ja": "彼のコメントはその議論に関連していた。"},
+      {"en": "This example is not relevant here.", "ja": "この例はここでは適切ではない。"}
+    ]
+  },
+  {
+    "id": 495,
+    "word": "mutual",
+    "meaning": "相互の",
+    "examples": [
+      {"en": "They have mutual respect for each other.", "ja": "彼らはお互いに尊敬し合っている。"},
+      {"en": "The agreement brought mutual benefits.", "ja": "その合意は相互の利益をもたらした。"},
+      {"en": "We became friends through a mutual friend.", "ja": "私たちは共通の友人を通じて友達になった。"}
+    ]
+  },
+  {
+    "id": 496,
+    "word": "associate",
+    "meaning": "～を関連づける(with…)；連想する",
+    "examples": [
+      {"en": "Many people associate Japan with sushi.", "ja": "多くの人は日本と寿司を関連づける。"},
+      {"en": "I associate this song with my childhood.", "ja": "私はこの歌を子どもの頃と結びつけて考える。"},
+      {"en": "He does not want to associate with dishonest people.", "ja": "彼は不正直な人たちと付き合いたくない。"}
+    ]
+  },
+  {
+    "id": 497,
+    "word": "conflict",
+    "meaning": "争い, 衝突；対立する, 衝突する",
+    "examples": [
+      {"en": "The two countries tried to avoid conflict.", "ja": "その二国は争いを避けようとした。"},
+      {"en": "His opinion conflicts with mine.", "ja": "彼の意見は私の意見と対立している。"},
+      {"en": "There was a conflict between work and family life.", "ja": "仕事と家庭生活の間に対立があった。"}
+    ]
+  },
+  {
+    "id": 498,
+    "word": "collision",
+    "meaning": "衝突",
+    "examples": [
+      {"en": "The collision damaged both cars.", "ja": "その衝突で両方の車が損傷した。"},
+      {"en": "The driver could not avoid the collision.", "ja": "運転手はその衝突を避けられなかった。"},
+      {"en": "A collision between two ideas can create something new.", "ja": "二つの考えの衝突が新しいものを生むことがある。"}
+    ]
+  },
+  {
+    "id": 499,
+    "word": "friction",
+    "meaning": "摩擦, 不和",
+    "examples": [
+      {"en": "Friction slows the movement of the object.", "ja": "摩擦は物体の動きを遅くする。"},
+      {"en": "There was friction between the two teams.", "ja": "その二つのチームの間には不和があった。"},
+      {"en": "The new rule caused friction in the office.", "ja": "新しい規則は職場に摩擦を生んだ。"}
+    ]
+  },
+  {
+    "id": 500,
+    "word": "confront",
+    "meaning": "～に直面する",
+    "examples": [
+      {"en": "We must confront the problem directly.", "ja": "私たちはその問題に正面から向き合わなければならない。"},
+      {"en": "She confronted her fear of speaking in public.", "ja": "彼女は人前で話す恐怖に立ち向かった。"},
+      {"en": "The company confronted a serious shortage of workers.", "ja": "その会社は深刻な人手不足に直面した。"}
+    ]
+  }
+]

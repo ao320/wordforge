@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 301,
+    "word": "fortune",
+    "meaning": "富、財産；運",
+    "examples": [
+      {
+        "en": "He made a fortune by starting a small software company.",
+        "ja": "彼は小さなソフトウェア会社を始めて財産を築きました。"
+      },
+      {
+        "en": "Good fortune helped us find a hotel before the storm.",
+        "ja": "幸運にも、嵐の前にホテルを見つけることができました。"
+      },
+      {
+        "en": "She spent part of her fortune on education projects.",
+        "ja": "彼女は財産の一部を教育事業に使いました。"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "word": "wealth",
+    "meaning": "富",
+    "examples": [
+      {
+        "en": "The country gained wealth from trade.",
+        "ja": "その国は貿易によって富を得ました。"
+      },
+      {
+        "en": "Health is more important than wealth.",
+        "ja": "健康は富よりも大切です。"
+      },
+      {
+        "en": "The family used its wealth to support local hospitals.",
+        "ja": "その一家は富を地元の病院支援に使いました。"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "word": "well off",
+    "meaning": "裕福な、暮らし向きがいい",
+    "examples": [
+      {
+        "en": "His parents are well off, but he works hard by himself.",
+        "ja": "彼の両親は裕福ですが、彼自身も一生懸命働いています。"
+      },
+      {
+        "en": "They are not rich, but they are well off enough to travel.",
+        "ja": "彼らは大金持ちではありませんが、旅行できるくらいには暮らし向きがいいです。"
+      },
+      {
+        "en": "People in this area are generally well off.",
+        "ja": "この地域の人々は全体的に裕福です。"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "word": "poverty",
+    "meaning": "貧困",
+    "examples": [
+      {
+        "en": "Many children still live in poverty.",
+        "ja": "多くの子どもたちが今も貧困の中で暮らしています。"
+      },
+      {
+        "en": "Education can help people escape poverty.",
+        "ja": "教育は人々が貧困から抜け出す助けになります。"
+      },
+      {
+        "en": "The report describes the causes of poverty in the city.",
+        "ja": "その報告書は都市における貧困の原因を説明しています。"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "word": "property",
+    "meaning": "財産、所有物；特性",
+    "examples": [
+      {
+        "en": "The house is private property.",
+        "ja": "その家は私有財産です。"
+      },
+      {
+        "en": "He lost most of his property in the fire.",
+        "ja": "彼は火事で財産の大部分を失いました。"
+      },
+      {
+        "en": "This metal has the property of conducting electricity well.",
+        "ja": "この金属には電気をよく通すという特性があります。"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "word": "asset",
+    "meaning": "財産、資産；強み",
+    "examples": [
+      {
+        "en": "The building is the company's most valuable asset.",
+        "ja": "その建物は会社の最も価値ある資産です。"
+      },
+      {
+        "en": "Her ability to speak English is a great asset.",
+        "ja": "彼女の英語を話す能力は大きな強みです。"
+      },
+      {
+        "en": "The bank sold some assets to reduce its debt.",
+        "ja": "その銀行は借金を減らすためにいくつかの資産を売却しました。"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "word": "estate",
+    "meaning": "主に土地の財産、不動産",
+    "examples": [
+      {
+        "en": "The family owns a large estate in the countryside.",
+        "ja": "その一家は田舎に大きな土地財産を所有しています。"
+      },
+      {
+        "en": "He works for a real estate company.",
+        "ja": "彼は不動産会社で働いています。"
+      },
+      {
+        "en": "The old estate was divided among the children.",
+        "ja": "その古い不動産は子どもたちの間で分けられました。"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "word": "invest",
+    "meaning": "投資する",
+    "examples": [
+      {
+        "en": "She decided to invest her savings in a new business.",
+        "ja": "彼女は貯金を新しい事業に投資することに決めました。"
+      },
+      {
+        "en": "The city will invest more money in public transport.",
+        "ja": "市は公共交通により多くのお金を投資する予定です。"
+      },
+      {
+        "en": "It is wise to invest time in learning basic skills.",
+        "ja": "基礎技能を学ぶことに時間を投資するのは賢明です。"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "word": "entrepreneur",
+    "meaning": "起業家",
+    "examples": [
+      {
+        "en": "The young entrepreneur opened a small cafe.",
+        "ja": "その若い起業家は小さなカフェを開きました。"
+      },
+      {
+        "en": "An entrepreneur must take risks to start a business.",
+        "ja": "起業家は事業を始めるためにリスクを取らなければなりません。"
+      },
+      {
+        "en": "She became a successful entrepreneur after college.",
+        "ja": "彼女は大学卒業後、成功した起業家になりました。"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "word": "capital",
+    "meaning": "資本；首都；大文字",
+    "examples": [
+      {
+        "en": "The company needs more capital to build a new factory.",
+        "ja": "その会社は新しい工場を建てるためにより多くの資本を必要としています。"
+      },
+      {
+        "en": "Tokyo is the capital of Japan.",
+        "ja": "東京は日本の首都です。"
+      },
+      {
+        "en": "Begin each sentence with a capital letter.",
+        "ja": "各文は大文字で始めなさい。"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "word": "interest",
+    "meaning": "興味；利子；利益",
+    "examples": [
+      {
+        "en": "She has a strong interest in biology.",
+        "ja": "彼女は生物学に強い興味があります。"
+      },
+      {
+        "en": "The bank pays interest on your savings.",
+        "ja": "銀行はあなたの貯金に利子を支払います。"
+      },
+      {
+        "en": "The decision was made in the public interest.",
+        "ja": "その決定は公共の利益のためになされました。"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "word": "profit",
+    "meaning": "利益",
+    "examples": [
+      {
+        "en": "The store made a large profit last month.",
+        "ja": "その店は先月大きな利益を上げました。"
+      },
+      {
+        "en": "Companies must balance profit and social responsibility.",
+        "ja": "企業は利益と社会的責任のバランスを取らなければなりません。"
+      },
+      {
+        "en": "He sold the bike at a small profit.",
+        "ja": "彼はその自転車を少し利益が出る値段で売りました。"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "word": "benefit",
+    "meaning": "恩恵、利益；利益となる；利益を得る",
+    "examples": [
+      {
+        "en": "Regular exercise has many benefits.",
+        "ja": "定期的な運動には多くの恩恵があります。"
+      },
+      {
+        "en": "The new road will benefit local businesses.",
+        "ja": "新しい道路は地元企業の利益になります。"
+      },
+      {
+        "en": "Students can benefit from reading English every day.",
+        "ja": "学生は毎日英語を読むことで利益を得られます。"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "word": "budget",
+    "meaning": "予算、家計",
+    "examples": [
+      {
+        "en": "We have a limited budget for this project.",
+        "ja": "このプロジェクトには限られた予算しかありません。"
+      },
+      {
+        "en": "She keeps a monthly budget to control her spending.",
+        "ja": "彼女は支出を管理するために毎月の家計をつけています。"
+      },
+      {
+        "en": "The school increased its budget for computers.",
+        "ja": "学校はコンピュータ用の予算を増やしました。"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "word": "purchase",
+    "meaning": "購入する；購入",
+    "examples": [
+      {
+        "en": "I purchased a new dictionary online.",
+        "ja": "私はオンラインで新しい辞書を購入しました。"
+      },
+      {
+        "en": "Please keep the receipt after your purchase.",
+        "ja": "購入後はレシートを保管してください。"
+      },
+      {
+        "en": "The company plans to purchase new equipment.",
+        "ja": "その会社は新しい設備を購入する予定です。"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "word": "afford",
+    "meaning": "する余裕がある",
+    "examples": [
+      {
+        "en": "I cannot afford to buy a new laptop now.",
+        "ja": "私は今、新しいノートパソコンを買う余裕がありません。"
+      },
+      {
+        "en": "We cannot afford to waste any more time.",
+        "ja": "私たちはこれ以上時間を無駄にする余裕はありません。"
+      },
+      {
+        "en": "They could afford a small apartment near the station.",
+        "ja": "彼らは駅の近くの小さなアパートを借りる余裕がありました。"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "word": "available",
+    "meaning": "入手できる、利用できる；手があいている",
+    "examples": [
+      {
+        "en": "This book is available at the library.",
+        "ja": "この本は図書館で入手できます。"
+      },
+      {
+        "en": "Free Wi-Fi is available in the cafe.",
+        "ja": "そのカフェでは無料Wi-Fiが利用できます。"
+      },
+      {
+        "en": "Are you available tomorrow afternoon?",
+        "ja": "明日の午後は空いていますか。"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "word": "debt",
+    "meaning": "借金、負債",
+    "examples": [
+      {
+        "en": "He worked hard to pay off his debt.",
+        "ja": "彼は借金を返すために一生懸命働きました。"
+      },
+      {
+        "en": "The country has a large national debt.",
+        "ja": "その国には大きな国家債務があります。"
+      },
+      {
+        "en": "She was in debt after starting the business.",
+        "ja": "彼女は事業を始めた後、借金を抱えていました。"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "word": "owe",
+    "meaning": "借りている；恩恵を受けている",
+    "examples": [
+      {
+        "en": "I owe you one thousand yen.",
+        "ja": "私はあなたに千円借りています。"
+      },
+      {
+        "en": "She owes her success to her teacher's advice.",
+        "ja": "彼女の成功は先生の助言のおかげです。"
+      },
+      {
+        "en": "He still owes money to the bank.",
+        "ja": "彼はまだ銀行にお金を借りています。"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "word": "bankrupt",
+    "meaning": "破産した",
+    "examples": [
+      {
+        "en": "The company went bankrupt last year.",
+        "ja": "その会社は昨年破産しました。"
+      },
+      {
+        "en": "He became bankrupt after his business failed.",
+        "ja": "彼は事業に失敗した後、破産しました。"
+      },
+      {
+        "en": "The shop was almost bankrupt before it found new customers.",
+        "ja": "その店は新しい客を見つける前、ほとんど破産状態でした。"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "word": "save",
+    "meaning": "貯める、節約する；救う；省く",
+    "examples": [
+      {
+        "en": "I save money every month for college.",
+        "ja": "私は大学のために毎月お金を貯めています。"
+      },
+      {
+        "en": "Turning off the lights saves electricity.",
+        "ja": "電気を消すことは電力の節約になります。"
+      },
+      {
+        "en": "The doctor saved the child's life.",
+        "ja": "医者はその子どもの命を救いました。"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "word": "spare",
+    "meaning": "取っておく；節約する；予備の",
+    "examples": [
+      {
+        "en": "Can you spare a few minutes?",
+        "ja": "数分時間を割いてくれますか。"
+      },
+      {
+        "en": "We keep a spare key under the mat.",
+        "ja": "私たちは予備の鍵をマットの下に置いています。"
+      },
+      {
+        "en": "She spared no effort to finish the report.",
+        "ja": "彼女はその報告書を完成させるために努力を惜しみませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "word": "deposit",
+    "meaning": "預金；堆積物；預ける",
+    "examples": [
+      {
+        "en": "I made a deposit at the bank this morning.",
+        "ja": "私は今朝、銀行に預金しました。"
+      },
+      {
+        "en": "You need to pay a deposit before renting the room.",
+        "ja": "その部屋を借りる前に保証金を払う必要があります。"
+      },
+      {
+        "en": "The river left deposits of sand on the bank.",
+        "ja": "川は岸に砂の堆積物を残しました。"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "word": "withdraw",
+    "meaning": "引き出す；引っ込める；撤退する",
+    "examples": [
+      {
+        "en": "He withdrew money from the ATM.",
+        "ja": "彼はATMからお金を引き出しました。"
+      },
+      {
+        "en": "She withdrew her hand quickly.",
+        "ja": "彼女はすばやく手を引っ込めました。"
+      },
+      {
+        "en": "The soldiers withdrew from the town.",
+        "ja": "兵士たちはその町から撤退しました。"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "word": "extravagant",
+    "meaning": "金遣いの荒い；過度の；法外な",
+    "examples": [
+      {
+        "en": "Buying a sports car was an extravagant choice.",
+        "ja": "スポーツカーを買うのはぜいたくすぎる選択でした。"
+      },
+      {
+        "en": "She avoided extravagant spending during college.",
+        "ja": "彼女は大学時代、過度な支出を避けました。"
+      },
+      {
+        "en": "The hotel charged an extravagant price for one night.",
+        "ja": "そのホテルは一泊に法外な料金を請求しました。"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "word": "income",
+    "meaning": "収入",
+    "examples": [
+      {
+        "en": "His income increased after he changed jobs.",
+        "ja": "彼は転職した後、収入が増えました。"
+      },
+      {
+        "en": "Many students have little income.",
+        "ja": "多くの学生は収入が少ないです。"
+      },
+      {
+        "en": "The family depends on a single income.",
+        "ja": "その家族は一つの収入に頼っています。"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "word": "outcome",
+    "meaning": "結果",
+    "examples": [
+      {
+        "en": "We do not know the outcome of the election yet.",
+        "ja": "私たちはまだ選挙の結果を知りません。"
+      },
+      {
+        "en": "The outcome was better than we expected.",
+        "ja": "結果は私たちが予想したよりも良かったです。"
+      },
+      {
+        "en": "Small choices can change the final outcome.",
+        "ja": "小さな選択が最終的な結果を変えることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "word": "revenue",
+    "meaning": "歳入、収入",
+    "examples": [
+      {
+        "en": "The city uses tax revenue to repair roads.",
+        "ja": "市は税収を道路の修理に使っています。"
+      },
+      {
+        "en": "The company's revenue rose this year.",
+        "ja": "その会社の収入は今年増えました。"
+      },
+      {
+        "en": "Tourism is an important source of revenue.",
+        "ja": "観光は重要な収入源です。"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "word": "cost",
+    "meaning": "費用；費用がかかる",
+    "examples": [
+      {
+        "en": "The cost of food has gone up.",
+        "ja": "食料品の費用が上がりました。"
+      },
+      {
+        "en": "This repair will cost about ten thousand yen.",
+        "ja": "この修理には約一万円かかります。"
+      },
+      {
+        "en": "We must think about the cost before buying it.",
+        "ja": "それを買う前に費用について考えなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "word": "expense",
+    "meaning": "出費、費用",
+    "examples": [
+      {
+        "en": "Rent is my biggest monthly expense.",
+        "ja": "家賃は私の最大の月々の出費です。"
+      },
+      {
+        "en": "The company paid for his travel expenses.",
+        "ja": "会社は彼の旅費を支払いました。"
+      },
+      {
+        "en": "They built the bridge at great expense.",
+        "ja": "彼らは多額の費用をかけてその橋を建設しました。"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "word": "fee",
+    "meaning": "専門家への謝礼；料金",
+    "examples": [
+      {
+        "en": "The entrance fee is five hundred yen.",
+        "ja": "入場料は五百円です。"
+      },
+      {
+        "en": "The lawyer's fee was very high.",
+        "ja": "その弁護士の謝礼はとても高額でした。"
+      },
+      {
+        "en": "Students must pay a registration fee.",
+        "ja": "学生は登録料を払わなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "word": "fare",
+    "meaning": "乗り物の運賃",
+    "examples": [
+      {
+        "en": "The train fare to Tokyo is expensive.",
+        "ja": "東京までの電車賃は高いです。"
+      },
+      {
+        "en": "Children pay half the bus fare.",
+        "ja": "子どもはバス運賃が半額です。"
+      },
+      {
+        "en": "I checked the taxi fare before leaving.",
+        "ja": "私は出発前にタクシー料金を確認しました。"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "word": "area",
+    "meaning": "地域、領域",
+    "examples": [
+      {
+        "en": "This area is famous for apples.",
+        "ja": "この地域はりんごで有名です。"
+      },
+      {
+        "en": "Math is not my strongest area.",
+        "ja": "数学は私の最も得意な分野ではありません。"
+      },
+      {
+        "en": "Please keep this area clean.",
+        "ja": "この区域を清潔に保ってください。"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "word": "region",
+    "meaning": "地域、地方",
+    "examples": [
+      {
+        "en": "This region gets a lot of snow in winter.",
+        "ja": "この地方は冬にたくさん雪が降ります。"
+      },
+      {
+        "en": "The plant grows only in warm regions.",
+        "ja": "その植物は暖かい地域でしか育ちません。"
+      },
+      {
+        "en": "Each region has its own food culture.",
+        "ja": "各地域には独自の食文化があります。"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "word": "district",
+    "meaning": "地区、区域",
+    "examples": [
+      {
+        "en": "The shopping district is crowded on weekends.",
+        "ja": "商業地区は週末に混雑します。"
+      },
+      {
+        "en": "He lives in a quiet district of the city.",
+        "ja": "彼は市内の静かな地区に住んでいます。"
+      },
+      {
+        "en": "The school district changed its rules.",
+        "ja": "その学区は規則を変更しました。"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "word": "quarter",
+    "meaning": "4分の1；地域、界隈",
+    "examples": [
+      {
+        "en": "A quarter of the students walk to school.",
+        "ja": "生徒の4分の1は歩いて学校に行きます。"
+      },
+      {
+        "en": "They live in the old quarter of the city.",
+        "ja": "彼らはその都市の古い地区に住んでいます。"
+      },
+      {
+        "en": "The report is published every quarter.",
+        "ja": "その報告書は四半期ごとに発行されます。"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "word": "local",
+    "meaning": "地域の、地元の；地元の人",
+    "examples": [
+      {
+        "en": "We bought vegetables from a local farmer.",
+        "ja": "私たちは地元の農家から野菜を買いました。"
+      },
+      {
+        "en": "The local train stops at every station.",
+        "ja": "各駅停車の電車はすべての駅に止まります。"
+      },
+      {
+        "en": "A local showed us the best restaurant.",
+        "ja": "地元の人が私たちに一番よいレストランを教えてくれました。"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "word": "globe",
+    "meaning": "地球、地球儀",
+    "examples": [
+      {
+        "en": "The globe shows all the continents.",
+        "ja": "地球儀にはすべての大陸が示されています。"
+      },
+      {
+        "en": "People around the globe use the internet.",
+        "ja": "世界中の人々がインターネットを使っています。"
+      },
+      {
+        "en": "The teacher pointed to Japan on the globe.",
+        "ja": "先生は地球儀上の日本を指しました。"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "word": "urban",
+    "meaning": "都市の、都会の",
+    "examples": [
+      {
+        "en": "Urban life is convenient but sometimes stressful.",
+        "ja": "都会の生活は便利ですが、時にはストレスが多いです。"
+      },
+      {
+        "en": "The city is working on urban development.",
+        "ja": "その市は都市開発に取り組んでいます。"
+      },
+      {
+        "en": "Urban areas usually have many train stations.",
+        "ja": "都市部には普通、多くの駅があります。"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "word": "rural",
+    "meaning": "田舎の、農村の",
+    "examples": [
+      {
+        "en": "She grew up in a rural village.",
+        "ja": "彼女は田舎の村で育ちました。"
+      },
+      {
+        "en": "Rural areas often have fewer hospitals.",
+        "ja": "農村地域には病院が少ないことがよくあります。"
+      },
+      {
+        "en": "The program supports rural schools.",
+        "ja": "その制度は地方の学校を支援しています。"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "word": "suburb",
+    "meaning": "郊外",
+    "examples": [
+      {
+        "en": "They moved to a suburb of Osaka.",
+        "ja": "彼らは大阪の郊外に引っ越しました。"
+      },
+      {
+        "en": "The suburb is quiet and green.",
+        "ja": "その郊外は静かで緑が多いです。"
+      },
+      {
+        "en": "Many people commute from the suburbs to the city.",
+        "ja": "多くの人が郊外から都市へ通勤しています。"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "word": "border",
+    "meaning": "境界、国境",
+    "examples": [
+      {
+        "en": "We crossed the border by bus.",
+        "ja": "私たちはバスで国境を越えました。"
+      },
+      {
+        "en": "The river forms the border between the two towns.",
+        "ja": "その川は二つの町の境界になっています。"
+      },
+      {
+        "en": "There were guards at the border.",
+        "ja": "国境には警備員がいました。"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "word": "boundary",
+    "meaning": "境界線、限界",
+    "examples": [
+      {
+        "en": "The fence marks the boundary of our garden.",
+        "ja": "その柵は私たちの庭の境界線を示しています。"
+      },
+      {
+        "en": "Science often crosses the boundary between fields.",
+        "ja": "科学はしばしば分野の境界を越えます。"
+      },
+      {
+        "en": "You should know your own boundaries.",
+        "ja": "自分自身の限界を知るべきです。"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "word": "territory",
+    "meaning": "領土、なわばり",
+    "examples": [
+      {
+        "en": "The island became part of the country's territory.",
+        "ja": "その島はその国の領土の一部になりました。"
+      },
+      {
+        "en": "Dogs often protect their territory.",
+        "ja": "犬はよく自分のなわばりを守ります。"
+      },
+      {
+        "en": "The team entered unfamiliar territory in the research.",
+        "ja": "そのチームは研究で未知の領域に入りました。"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "word": "invade",
+    "meaning": "侵入する、侵略する",
+    "examples": [
+      {
+        "en": "The army invaded the neighboring country.",
+        "ja": "その軍隊は隣国に侵攻しました。"
+      },
+      {
+        "en": "Tourists invaded the small beach in summer.",
+        "ja": "夏になると観光客がその小さな浜辺に押し寄せました。"
+      },
+      {
+        "en": "The noise invaded my room at night.",
+        "ja": "夜、その騒音が私の部屋に入り込んできました。"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "word": "intrude",
+    "meaning": "侵入する、立ち入る；邪魔をする",
+    "examples": [
+      {
+        "en": "I did not want to intrude on their private conversation.",
+        "ja": "私は彼らの私的な会話に立ち入りたくありませんでした。"
+      },
+      {
+        "en": "A stranger intruded into the building.",
+        "ja": "見知らぬ人がその建物に侵入しました。"
+      },
+      {
+        "en": "Sorry to intrude, but I need your help.",
+        "ja": "お邪魔してすみませんが、あなたの助けが必要です。"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "word": "occupy",
+    "meaning": "占領する；占める",
+    "examples": [
+      {
+        "en": "The army occupied the city.",
+        "ja": "その軍隊はその都市を占領しました。"
+      },
+      {
+        "en": "Books occupy most of the space in my room.",
+        "ja": "本が私の部屋のスペースの大部分を占めています。"
+      },
+      {
+        "en": "This task will occupy me for the whole afternoon.",
+        "ja": "この作業で午後いっぱいかかりそうです。"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "word": "migrate",
+    "meaning": "移動する、移住する",
+    "examples": [
+      {
+        "en": "Many birds migrate south in winter.",
+        "ja": "多くの鳥は冬に南へ移動します。"
+      },
+      {
+        "en": "Some workers migrate to cities for better jobs.",
+        "ja": "よりよい仕事を求めて都市へ移住する労働者もいます。"
+      },
+      {
+        "en": "Whales migrate long distances every year.",
+        "ja": "クジラは毎年長い距離を移動します。"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "word": "immigrate",
+    "meaning": "移住する、移民として入国する",
+    "examples": [
+      {
+        "en": "Her grandparents immigrated to Canada.",
+        "ja": "彼女の祖父母はカナダへ移住しました。"
+      },
+      {
+        "en": "Many people immigrate in search of safety.",
+        "ja": "多くの人が安全を求めて移住します。"
+      },
+      {
+        "en": "He immigrated to the United States when he was young.",
+        "ja": "彼は若いころアメリカへ移住しました。"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "word": "emigrate",
+    "meaning": "国外へ移住する",
+    "examples": [
+      {
+        "en": "The family emigrated from Italy in 1950.",
+        "ja": "その家族は1950年にイタリアから国外へ移住しました。"
+      },
+      {
+        "en": "Many young people emigrated to find work.",
+        "ja": "多くの若者が仕事を見つけるために国外へ移住しました。"
+      },
+      {
+        "en": "She decided to emigrate after the war.",
+        "ja": "彼女は戦後、国外へ移住することを決めました。"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "word": "settle",
+    "meaning": "定住する；落ち着かせる；解決する",
+    "examples": [
+      {
+        "en": "They settled in a small town near the coast.",
+        "ja": "彼らは海岸近くの小さな町に定住しました。"
+      },
+      {
+        "en": "The teacher settled the argument between the students.",
+        "ja": "先生は生徒たちの口論を解決しました。"
+      },
+      {
+        "en": "Please settle down and listen carefully.",
+        "ja": "落ち着いて、注意深く聞いてください。"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "word": "frontier",
+    "meaning": "辺境；最先端",
+    "examples": [
+      {
+        "en": "The village stood near the frontier.",
+        "ja": "その村は辺境の近くにありました。"
+      },
+      {
+        "en": "Space exploration is a new frontier of science.",
+        "ja": "宇宙探査は科学の新しい最前線です。"
+      },
+      {
+        "en": "Researchers are working at the frontier of medicine.",
+        "ja": "研究者たちは医学の最先端で働いています。"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "word": "pioneer",
+    "meaning": "開拓者、先駆者；開拓する",
+    "examples": [
+      {
+        "en": "She was a pioneer in computer science.",
+        "ja": "彼女はコンピュータ科学の先駆者でした。"
+      },
+      {
+        "en": "The company pioneered a new method of recycling.",
+        "ja": "その会社は新しいリサイクル方法を開拓しました。"
+      },
+      {
+        "en": "Pioneers built farms in the new land.",
+        "ja": "開拓者たちは新しい土地に農場を作りました。"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "word": "explore",
+    "meaning": "探索する、探検する；詳しく調べる",
+    "examples": [
+      {
+        "en": "We explored the old town on foot.",
+        "ja": "私たちはその古い町を歩いて探索しました。"
+      },
+      {
+        "en": "Scientists explore the deep ocean with robots.",
+        "ja": "科学者たちはロボットで深海を探査します。"
+      },
+      {
+        "en": "The class explored the causes of climate change.",
+        "ja": "その授業では気候変動の原因を詳しく調べました。"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "word": "include",
+    "meaning": "含む",
+    "examples": [
+      {
+        "en": "The price includes breakfast.",
+        "ja": "その料金には朝食が含まれています。"
+      },
+      {
+        "en": "Please include your name in the email.",
+        "ja": "メールにはあなたの名前を含めてください。"
+      },
+      {
+        "en": "The team includes three engineers.",
+        "ja": "そのチームには3人の技術者が含まれています。"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "word": "contain",
+    "meaning": "含む、入っている",
+    "examples": [
+      {
+        "en": "This drink contains a lot of sugar.",
+        "ja": "この飲み物にはたくさんの砂糖が含まれています。"
+      },
+      {
+        "en": "The box contains old photos.",
+        "ja": "その箱には古い写真が入っています。"
+      },
+      {
+        "en": "The book contains useful examples.",
+        "ja": "その本には役立つ例が含まれています。"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "word": "exclude",
+    "meaning": "除外する",
+    "examples": [
+      {
+        "en": "The price excludes tax.",
+        "ja": "その価格には税金が含まれていません。"
+      },
+      {
+        "en": "Do not exclude beginners from the activity.",
+        "ja": "初心者をその活動から除外しないでください。"
+      },
+      {
+        "en": "The study excluded people under eighteen.",
+        "ja": "その研究では18歳未満の人を除外しました。"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "word": "isolate",
+    "meaning": "隔離する、孤立させる",
+    "examples": [
+      {
+        "en": "The patient was isolated to prevent infection.",
+        "ja": "感染を防ぐためにその患者は隔離されました。"
+      },
+      {
+        "en": "The village is isolated by mountains.",
+        "ja": "その村は山々によって孤立しています。"
+      },
+      {
+        "en": "Scientists isolated the chemical from the plant.",
+        "ja": "科学者たちはその植物から化学物質を分離しました。"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "word": "enclose",
+    "meaning": "囲む；同封する",
+    "examples": [
+      {
+        "en": "A high wall encloses the garden.",
+        "ja": "高い壁がその庭を囲んでいます。"
+      },
+      {
+        "en": "I enclosed a copy of my resume.",
+        "ja": "私は履歴書のコピーを同封しました。"
+      },
+      {
+        "en": "The farm is enclosed by a wooden fence.",
+        "ja": "その農場は木の柵で囲まれています。"
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "word": "disclose",
+    "meaning": "開示する、暴く",
+    "examples": [
+      {
+        "en": "The company disclosed its financial results.",
+        "ja": "その会社は財務結果を開示しました。"
+      },
+      {
+        "en": "He refused to disclose his password.",
+        "ja": "彼はパスワードを明かすことを拒みました。"
+      },
+      {
+        "en": "The report disclosed serious problems in the system.",
+        "ja": "その報告書はシステムの深刻な問題を明らかにしました。"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "word": "surround",
+    "meaning": "取り囲む",
+    "examples": [
+      {
+        "en": "Trees surround the school.",
+        "ja": "木々が学校を取り囲んでいます。"
+      },
+      {
+        "en": "The police surrounded the building.",
+        "ja": "警察はその建物を取り囲みました。"
+      },
+      {
+        "en": "She likes to surround herself with books.",
+        "ja": "彼女は本に囲まれているのが好きです。"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "word": "install",
+    "meaning": "設置する、取り付ける",
+    "examples": [
+      {
+        "en": "We installed a new air conditioner.",
+        "ja": "私たちは新しいエアコンを設置しました。"
+      },
+      {
+        "en": "You need to install the app first.",
+        "ja": "まずそのアプリをインストールする必要があります。"
+      },
+      {
+        "en": "The company installed cameras at the entrance.",
+        "ja": "その会社は入口にカメラを設置しました。"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "word": "introduce",
+    "meaning": "紹介する；導入する",
+    "examples": [
+      {
+        "en": "Let me introduce my friend to you.",
+        "ja": "私の友人をあなたに紹介させてください。"
+      },
+      {
+        "en": "The school introduced a new computer system.",
+        "ja": "学校は新しいコンピュータシステムを導入しました。"
+      },
+      {
+        "en": "The guide introduced us to local history.",
+        "ja": "ガイドは私たちに地元の歴史を紹介しました。"
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "word": "locate",
+    "meaning": "位置を突き止める、見つける；置く",
+    "examples": [
+      {
+        "en": "We located the hotel on the map.",
+        "ja": "私たちは地図でそのホテルの位置を見つけました。"
+      },
+      {
+        "en": "The factory is located near the river.",
+        "ja": "その工場は川の近くにあります。"
+      },
+      {
+        "en": "The police tried to locate the missing child.",
+        "ja": "警察は行方不明の子どもの居場所を突き止めようとしました。"
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "word": "spot",
+    "meaning": "場所；見つける、突き止める",
+    "examples": [
+      {
+        "en": "This is a good spot for taking photos.",
+        "ja": "ここは写真を撮るのによい場所です。"
+      },
+      {
+        "en": "I spotted my friend in the crowd.",
+        "ja": "私は人混みの中で友人を見つけました。"
+      },
+      {
+        "en": "There is a small spot on your shirt.",
+        "ja": "あなたのシャツに小さなしみがあります。"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "word": "search",
+    "meaning": "探す；探求、探索",
+    "examples": [
+      {
+        "en": "They searched the room for the key.",
+        "ja": "彼らは鍵を求めて部屋を探しました。"
+      },
+      {
+        "en": "I searched online for a cheap ticket.",
+        "ja": "私は安いチケットをネットで探しました。"
+      },
+      {
+        "en": "The search for a solution continued.",
+        "ja": "解決策の探求は続きました。"
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "word": "approach",
+    "meaning": "接近する；話しかける；方法",
+    "examples": [
+      {
+        "en": "A stranger approached me at the station.",
+        "ja": "駅で見知らぬ人が私に近づいてきました。"
+      },
+      {
+        "en": "We need a new approach to this problem.",
+        "ja": "この問題には新しい取り組み方が必要です。"
+      },
+      {
+        "en": "The train is approaching the next station.",
+        "ja": "電車は次の駅に近づいています。"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "word": "remote",
+    "meaning": "遠方の；へんぴな、人里離れた",
+    "examples": [
+      {
+        "en": "They live in a remote village.",
+        "ja": "彼らは人里離れた村に住んでいます。"
+      },
+      {
+        "en": "Remote work became common in many companies.",
+        "ja": "多くの会社でリモートワークが一般的になりました。"
+      },
+      {
+        "en": "The chance of success is remote.",
+        "ja": "成功の可能性は低いです。"
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "word": "apart",
+    "meaning": "離れて",
+    "examples": [
+      {
+        "en": "The two towns are ten kilometers apart.",
+        "ja": "その二つの町は10キロ離れています。"
+      },
+      {
+        "en": "We sat apart from the other students.",
+        "ja": "私たちは他の学生から離れて座りました。"
+      },
+      {
+        "en": "The old machine fell apart.",
+        "ja": "その古い機械はばらばらになりました。"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "word": "aside",
+    "meaning": "脇に、わきへ",
+    "examples": [
+      {
+        "en": "She stepped aside to let the old man pass.",
+        "ja": "彼女は老人を通すために脇へ寄りました。"
+      },
+      {
+        "en": "Put your phone aside while studying.",
+        "ja": "勉強中はスマホを脇に置きなさい。"
+      },
+      {
+        "en": "He set aside some money for travel.",
+        "ja": "彼は旅行のためにいくらかのお金を取っておきました。"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "word": "replace",
+    "meaning": "取って代わる；置き換える",
+    "examples": [
+      {
+        "en": "Robots may replace some simple jobs.",
+        "ja": "ロボットが一部の単純作業に取って代わるかもしれません。"
+      },
+      {
+        "en": "Please replace the old battery with a new one.",
+        "ja": "古い電池を新しいものと交換してください。"
+      },
+      {
+        "en": "Nothing can replace real experience.",
+        "ja": "実際の経験に代わるものはありません。"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "word": "site",
+    "meaning": "用地、現場、サイト",
+    "examples": [
+      {
+        "en": "The new school will be built on this site.",
+        "ja": "新しい学校はこの用地に建てられます。"
+      },
+      {
+        "en": "Workers arrived at the construction site early.",
+        "ja": "作業員たちは早く建設現場に到着しました。"
+      },
+      {
+        "en": "I found useful information on the website.",
+        "ja": "私はそのウェブサイトで役立つ情報を見つけました。"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "word": "realm",
+    "meaning": "領域、領土、王国",
+    "examples": [
+      {
+        "en": "This problem belongs to the realm of science.",
+        "ja": "この問題は科学の領域に属しています。"
+      },
+      {
+        "en": "The king ruled a large realm.",
+        "ja": "その王は大きな王国を治めていました。"
+      },
+      {
+        "en": "Virtual reality opens a new realm of experience.",
+        "ja": "仮想現実は新しい経験の領域を開きます。"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "word": "domain",
+    "meaning": "領域、領地、分野",
+    "examples": [
+      {
+        "en": "This topic is outside my domain of knowledge.",
+        "ja": "この話題は私の知識の領域外です。"
+      },
+      {
+        "en": "The website uses a short domain name.",
+        "ja": "そのウェブサイトは短いドメイン名を使っています。"
+      },
+      {
+        "en": "Education is an important domain of public policy.",
+        "ja": "教育は公共政策の重要な分野です。"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "word": "range",
+    "meaning": "範囲",
+    "examples": [
+      {
+        "en": "The store sells a wide range of products.",
+        "ja": "その店は幅広い商品を売っています。"
+      },
+      {
+        "en": "The mountains are part of a long range.",
+        "ja": "その山々は長い山脈の一部です。"
+      },
+      {
+        "en": "The price range is from 1,000 to 3,000 yen.",
+        "ja": "価格帯は千円から三千円です。"
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "word": "scope",
+    "meaning": "範囲、領域；機会",
+    "examples": [
+      {
+        "en": "The scope of the project is too broad.",
+        "ja": "そのプロジェクトの範囲は広すぎます。"
+      },
+      {
+        "en": "This issue is beyond the scope of this class.",
+        "ja": "この問題はこの授業の範囲を超えています。"
+      },
+      {
+        "en": "The job gives her scope to use her creativity.",
+        "ja": "その仕事は彼女に創造力を使う機会を与えています。"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "word": "category",
+    "meaning": "範疇、種類",
+    "examples": [
+      {
+        "en": "Put each word into the correct category.",
+        "ja": "それぞれの単語を正しい分類に入れなさい。"
+      },
+      {
+        "en": "This product belongs to the sports category.",
+        "ja": "この商品はスポーツの種類に属します。"
+      },
+      {
+        "en": "Age is one category used in the survey.",
+        "ja": "年齢はその調査で使われた分類の一つです。"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "word": "genre",
+    "meaning": "ジャンル、種類",
+    "examples": [
+      {
+        "en": "Science fiction is my favorite genre.",
+        "ja": "SFは私の好きなジャンルです。"
+      },
+      {
+        "en": "The movie mixes several genres.",
+        "ja": "その映画はいくつかのジャンルを混ぜています。"
+      },
+      {
+        "en": "This genre of music became popular in the 1990s.",
+        "ja": "この音楽ジャンルは1990年代に人気になりました。"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "word": "margin",
+    "meaning": "余白、余裕；利ざや",
+    "examples": [
+      {
+        "en": "Write your notes in the margin.",
+        "ja": "余白にメモを書きなさい。"
+      },
+      {
+        "en": "The team won by a small margin.",
+        "ja": "そのチームはわずかな差で勝ちました。"
+      },
+      {
+        "en": "The company has a high profit margin.",
+        "ja": "その会社は高い利益率を持っています。"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "word": "emerge",
+    "meaning": "現れる、出現する",
+    "examples": [
+      {
+        "en": "The sun emerged from behind the clouds.",
+        "ja": "太陽が雲の後ろから現れました。"
+      },
+      {
+        "en": "A new problem emerged during the meeting.",
+        "ja": "会議中に新しい問題が出てきました。"
+      },
+      {
+        "en": "She emerged as a leader of the group.",
+        "ja": "彼女はそのグループのリーダーとして頭角を現しました。"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "word": "arise",
+    "meaning": "生じる、起こる",
+    "examples": [
+      {
+        "en": "A problem arose after the update.",
+        "ja": "更新後に問題が生じました。"
+      },
+      {
+        "en": "Opportunities may arise when you least expect them.",
+        "ja": "予期しないときに機会が生まれることがあります。"
+      },
+      {
+        "en": "The conflict arose from a misunderstanding.",
+        "ja": "その対立は誤解から生じました。"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "word": "stem",
+    "meaning": "生じる、由来する；茎",
+    "examples": [
+      {
+        "en": "His fear stems from a bad experience.",
+        "ja": "彼の恐怖は悪い経験に由来しています。"
+      },
+      {
+        "en": "Most of the trouble stemmed from poor communication.",
+        "ja": "問題の大部分は不十分な意思疎通から生じました。"
+      },
+      {
+        "en": "The flower has a long green stem.",
+        "ja": "その花には長い緑色の茎があります。"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "word": "branch",
+    "meaning": "枝；支店、部門",
+    "examples": [
+      {
+        "en": "A bird sat on a branch of the tree.",
+        "ja": "鳥が木の枝にとまっていました。"
+      },
+      {
+        "en": "The bank opened a new branch near the station.",
+        "ja": "その銀行は駅の近くに新しい支店を開きました。"
+      },
+      {
+        "en": "Physics is a branch of science.",
+        "ja": "物理学は科学の一分野です。"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "word": "derive",
+    "meaning": "由来する；引き出す",
+    "examples": [
+      {
+        "en": "The word derives from Latin.",
+        "ja": "その単語はラテン語に由来します。"
+      },
+      {
+        "en": "She derives great pleasure from music.",
+        "ja": "彼女は音楽から大きな喜びを得ています。"
+      },
+      {
+        "en": "This formula is derived from basic principles.",
+        "ja": "この式は基本原理から導かれます。"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "word": "generate",
+    "meaning": "発生させる、生み出す",
+    "examples": [
+      {
+        "en": "The machine generates electricity.",
+        "ja": "その機械は電気を発生させます。"
+      },
+      {
+        "en": "The project generated many new ideas.",
+        "ja": "そのプロジェクトは多くの新しいアイデアを生み出しました。"
+      },
+      {
+        "en": "Friction can generate heat.",
+        "ja": "摩擦は熱を発生させることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "word": "flourish",
+    "meaning": "繁栄する、栄える",
+    "examples": [
+      {
+        "en": "The city flourished as a center of trade.",
+        "ja": "その都市は貿易の中心地として栄えました。"
+      },
+      {
+        "en": "Plants flourish in warm sunlight.",
+        "ja": "植物は暖かい日光の中でよく育ちます。"
+      },
+      {
+        "en": "The arts flourished during that period.",
+        "ja": "その時代には芸術が栄えました。"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "word": "bloom",
+    "meaning": "花が咲く；栄える；開花",
+    "examples": [
+      {
+        "en": "Cherry blossoms bloom in spring.",
+        "ja": "桜は春に咲きます。"
+      },
+      {
+        "en": "Her talent began to bloom in high school.",
+        "ja": "彼女の才能は高校で開花し始めました。"
+      },
+      {
+        "en": "The garden is in full bloom.",
+        "ja": "その庭は花盛りです。"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "word": "prosper",
+    "meaning": "繁栄する",
+    "examples": [
+      {
+        "en": "The town prospered because of its port.",
+        "ja": "その町は港のおかげで繁栄しました。"
+      },
+      {
+        "en": "Small businesses can prosper with community support.",
+        "ja": "小規模企業は地域の支援で繁栄できます。"
+      },
+      {
+        "en": "They worked hard and prospered.",
+        "ja": "彼らは懸命に働き、成功しました。"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "word": "thrive",
+    "meaning": "繁栄する、よく成長する",
+    "examples": [
+      {
+        "en": "Children thrive in a safe environment.",
+        "ja": "子どもは安全な環境でよく成長します。"
+      },
+      {
+        "en": "The company continued to thrive despite competition.",
+        "ja": "その会社は競争にもかかわらず繁栄し続けました。"
+      },
+      {
+        "en": "These plants thrive in dry soil.",
+        "ja": "これらの植物は乾いた土でよく育ちます。"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "word": "prevail",
+    "meaning": "普及する、主流となる；勝る",
+    "examples": [
+      {
+        "en": "This custom still prevails in rural areas.",
+        "ja": "この習慣は今も農村地域で広く行われています。"
+      },
+      {
+        "en": "A sense of hope prevailed after the speech.",
+        "ja": "その演説の後、希望の雰囲気が広がりました。"
+      },
+      {
+        "en": "Justice should prevail in the end.",
+        "ja": "最後には正義が勝つべきです。"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "word": "glory",
+    "meaning": "栄光",
+    "examples": [
+      {
+        "en": "The athletes returned home in glory.",
+        "ja": "選手たちは栄光に包まれて帰国しました。"
+      },
+      {
+        "en": "He dreamed of winning glory for his country.",
+        "ja": "彼は国に栄光をもたらすことを夢見ていました。"
+      },
+      {
+        "en": "The old castle has lost its former glory.",
+        "ja": "その古い城はかつての栄光を失っています。"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "word": "victory",
+    "meaning": "勝利",
+    "examples": [
+      {
+        "en": "The team celebrated its victory.",
+        "ja": "そのチームは勝利を祝いました。"
+      },
+      {
+        "en": "Victory was not easy, but they never gave up.",
+        "ja": "勝利は簡単ではありませんでしたが、彼らは決して諦めませんでした。"
+      },
+      {
+        "en": "The election ended in a clear victory for her.",
+        "ja": "その選挙は彼女の明確な勝利に終わりました。"
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "word": "triumph",
+    "meaning": "勝利、大成功；勝利する",
+    "examples": [
+      {
+        "en": "The mission was a triumph for the team.",
+        "ja": "その任務はチームにとって大成功でした。"
+      },
+      {
+        "en": "She triumphed over many difficulties.",
+        "ja": "彼女は多くの困難に打ち勝ちました。"
+      },
+      {
+        "en": "Their victory was a triumph of teamwork.",
+        "ja": "彼らの勝利はチームワークの勝利でした。"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "word": "fame",
+    "meaning": "名声",
+    "examples": [
+      {
+        "en": "The singer gained fame at a young age.",
+        "ja": "その歌手は若くして名声を得ました。"
+      },
+      {
+        "en": "Fame can bring both money and pressure.",
+        "ja": "名声はお金とプレッシャーの両方をもたらすことがあります。"
+      },
+      {
+        "en": "He did not care about fame.",
+        "ja": "彼は名声を気にしませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "word": "prestige",
+    "meaning": "威信、名声",
+    "examples": [
+      {
+        "en": "The university has great prestige.",
+        "ja": "その大学には大きな威信があります。"
+      },
+      {
+        "en": "Winning the prize increased her prestige.",
+        "ja": "その賞を受賞したことで彼女の名声は高まりました。"
+      },
+      {
+        "en": "The job offers money and prestige.",
+        "ja": "その仕事はお金と名声をもたらします。"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "word": "fade",
+    "meaning": "衰退する；次第に消える",
+    "examples": [
+      {
+        "en": "The color of the shirt faded after many washes.",
+        "ja": "そのシャツの色は何度も洗ううちに薄くなりました。"
+      },
+      {
+        "en": "His memories of childhood slowly faded.",
+        "ja": "彼の子ども時代の記憶はゆっくり薄れていきました。"
+      },
+      {
+        "en": "The music faded into silence.",
+        "ja": "音楽はだんだん小さくなって静けさに消えました。"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "word": "decline",
+    "meaning": "衰退する；断る",
+    "examples": [
+      {
+        "en": "The number of students is declining.",
+        "ja": "学生の数は減少しています。"
+      },
+      {
+        "en": "She declined the invitation politely.",
+        "ja": "彼女はその招待を丁寧に断りました。"
+      },
+      {
+        "en": "The town declined after the factory closed.",
+        "ja": "その町は工場が閉鎖された後、衰退しました。"
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "word": "corrupt",
+    "meaning": "腐敗した、堕落した；堕落させる",
+    "examples": [
+      {
+        "en": "The corrupt official accepted bribes.",
+        "ja": "その腐敗した役人は賄賂を受け取りました。"
+      },
+      {
+        "en": "Power can corrupt people.",
+        "ja": "権力は人を堕落させることがあります。"
+      },
+      {
+        "en": "The file was corrupt and could not be opened.",
+        "ja": "そのファイルは壊れていて開けませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "word": "decay",
+    "meaning": "腐る、腐敗する；腐敗、衰退",
+    "examples": [
+      {
+        "en": "Sugar can cause teeth to decay.",
+        "ja": "砂糖は歯を虫歯にすることがあります。"
+      },
+      {
+        "en": "The old wooden house began to decay.",
+        "ja": "その古い木造の家は腐り始めました。"
+      },
+      {
+        "en": "The city showed signs of economic decay.",
+        "ja": "その都市には経済的衰退の兆候が見られました。"
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "word": "rot",
+    "meaning": "腐る、腐敗する",
+    "examples": [
+      {
+        "en": "The fruit will rot if you leave it outside.",
+        "ja": "その果物は外に置いておくと腐ります。"
+      },
+      {
+        "en": "The old wood began to rot in the rain.",
+        "ja": "その古い木材は雨で腐り始めました。"
+      },
+      {
+        "en": "Throw away the vegetables before they rot.",
+        "ja": "野菜が腐る前に捨てなさい。"
+      }
+    ]
+  }
+]

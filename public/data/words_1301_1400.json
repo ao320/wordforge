@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1301,
+    "word": "sue",
+    "meaning": "～を告訴する",
+    "examples": [
+      {
+        "en": "The company decided to sue the newspaper for false reports.",
+        "ja": "その会社は虚偽報道についてその新聞社を告訴することにした。"
+      },
+      {
+        "en": "She sued her former employer for unfair treatment.",
+        "ja": "彼女は不当な扱いを理由に以前の雇用主を訴えた。"
+      },
+      {
+        "en": "You cannot sue someone just because you are angry.",
+        "ja": "腹が立ったからといって、誰かを告訴できるわけではない。"
+      }
+    ]
+  },
+  {
+    "id": 1302,
+    "word": "dread",
+    "meaning": "～を恐れる；恐怖",
+    "examples": [
+      {
+        "en": "Many students dread the final exam.",
+        "ja": "多くの学生は期末試験を恐れている。"
+      },
+      {
+        "en": "He felt a sense of dread before opening the letter.",
+        "ja": "彼はその手紙を開ける前に恐怖を感じた。"
+      },
+      {
+        "en": "I dread making the same mistake again.",
+        "ja": "私は同じ間違いをもう一度することを恐れている。"
+      }
+    ]
+  },
+  {
+    "id": 1303,
+    "word": "vow",
+    "meaning": "～を誓う；誓い",
+    "examples": [
+      {
+        "en": "She vowed to help children in need.",
+        "ja": "彼女は困っている子どもたちを助けると誓った。"
+      },
+      {
+        "en": "He made a vow never to lie again.",
+        "ja": "彼は二度と嘘をつかないという誓いを立てた。"
+      },
+      {
+        "en": "They vowed to protect the old forest.",
+        "ja": "彼らはその古い森を守ると誓った。"
+      }
+    ]
+  },
+  {
+    "id": 1304,
+    "word": "chill",
+    "meaning": "～を冷やす、に寒気を感じさせる；寒気、冷たさ",
+    "examples": [
+      {
+        "en": "Please chill the juice before dinner.",
+        "ja": "夕食前にジュースを冷やしてください。"
+      },
+      {
+        "en": "A cold wind sent a chill through the room.",
+        "ja": "冷たい風が部屋に寒気をもたらした。"
+      },
+      {
+        "en": "The scary story chilled the children.",
+        "ja": "その怖い話は子どもたちに寒気を感じさせた。"
+      }
+    ]
+  },
+  {
+    "id": 1305,
+    "word": "staff",
+    "meaning": "社員、職員",
+    "examples": [
+      {
+        "en": "The hotel staff were very kind to us.",
+        "ja": "ホテルの職員は私たちにとても親切だった。"
+      },
+      {
+        "en": "Our school has a large teaching staff.",
+        "ja": "私たちの学校には多くの教職員がいる。"
+      },
+      {
+        "en": "The manager thanked the staff for their hard work.",
+        "ja": "支配人は職員たちの努力に感謝した。"
+      }
+    ]
+  },
+  {
+    "id": 1306,
+    "word": "stuff",
+    "meaning": "もの；～を詰め込む",
+    "examples": [
+      {
+        "en": "Put your stuff on the desk.",
+        "ja": "君のものを机の上に置きなさい。"
+      },
+      {
+        "en": "He stuffed his bag with clothes.",
+        "ja": "彼はかばんに服を詰め込んだ。"
+      },
+      {
+        "en": "This shop sells useful stuff for camping.",
+        "ja": "この店はキャンプに役立つものを売っている。"
+      }
+    ]
+  },
+  {
+    "id": 1307,
+    "word": "crash",
+    "meaning": "衝突する；ぶつかって壊れる",
+    "examples": [
+      {
+        "en": "The car crashed into a tree.",
+        "ja": "その車は木に衝突した。"
+      },
+      {
+        "en": "My computer crashed while I was writing the report.",
+        "ja": "レポートを書いている途中で私のコンピュータが故障した。"
+      },
+      {
+        "en": "We heard a loud crash in the kitchen.",
+        "ja": "私たちは台所で大きな衝突音を聞いた。"
+      }
+    ]
+  },
+  {
+    "id": 1308,
+    "word": "clash",
+    "meaning": "衝突する、衝突",
+    "examples": [
+      {
+        "en": "The two groups clashed over the new rule.",
+        "ja": "その2つのグループは新しい規則をめぐって衝突した。"
+      },
+      {
+        "en": "Their opinions often clash.",
+        "ja": "彼らの意見はよくぶつかる。"
+      },
+      {
+        "en": "The red tie clashes with the green shirt.",
+        "ja": "赤いネクタイは緑のシャツと合わない。"
+      }
+    ]
+  },
+  {
+    "id": 1309,
+    "word": "crush",
+    "meaning": "～を潰す",
+    "examples": [
+      {
+        "en": "She crushed the empty can with her foot.",
+        "ja": "彼女は空き缶を足で潰した。"
+      },
+      {
+        "en": "The heavy box crushed the flowers.",
+        "ja": "重い箱が花を押し潰した。"
+      },
+      {
+        "en": "Do not crush the cookies in your bag.",
+        "ja": "かばんの中でクッキーを潰さないで。"
+      }
+    ]
+  },
+  {
+    "id": 1310,
+    "word": "flesh",
+    "meaning": "肉",
+    "examples": [
+      {
+        "en": "The thorn cut into his flesh.",
+        "ja": "そのとげは彼の肉に食い込んだ。"
+      },
+      {
+        "en": "The fruit has soft white flesh.",
+        "ja": "その果物には柔らかい白い果肉がある。"
+      },
+      {
+        "en": "The wound showed raw flesh.",
+        "ja": "その傷は生々しい肉を見せていた。"
+      }
+    ]
+  },
+  {
+    "id": 1311,
+    "word": "glow",
+    "meaning": "輝く；輝き",
+    "examples": [
+      {
+        "en": "The lamp glowed softly in the dark room.",
+        "ja": "暗い部屋でランプがやわらかく輝いていた。"
+      },
+      {
+        "en": "Her face glowed with happiness.",
+        "ja": "彼女の顔は幸せで輝いていた。"
+      },
+      {
+        "en": "We saw the glow of the fire from far away.",
+        "ja": "私たちは遠くから火の輝きを見た。"
+      }
+    ]
+  },
+  {
+    "id": 1312,
+    "word": "load",
+    "meaning": "荷物、負担；～に荷物を積む",
+    "examples": [
+      {
+        "en": "He carried a heavy load on his back.",
+        "ja": "彼は背中に重い荷物を背負っていた。"
+      },
+      {
+        "en": "They loaded the truck with vegetables.",
+        "ja": "彼らはトラックに野菜を積んだ。"
+      },
+      {
+        "en": "Too much homework can be a load for students.",
+        "ja": "多すぎる宿題は学生にとって負担になりうる。"
+      }
+    ]
+  },
+  {
+    "id": 1313,
+    "word": "pray",
+    "meaning": "祈る",
+    "examples": [
+      {
+        "en": "She prayed for her father's health.",
+        "ja": "彼女は父の健康を祈った。"
+      },
+      {
+        "en": "They pray at the temple every morning.",
+        "ja": "彼らは毎朝寺で祈る。"
+      },
+      {
+        "en": "I prayed that the rain would stop.",
+        "ja": "私は雨がやむように祈った。"
+      }
+    ]
+  },
+  {
+    "id": 1314,
+    "word": "prey",
+    "meaning": "獲物、餌食；捕食する",
+    "examples": [
+      {
+        "en": "Small birds can become prey for cats.",
+        "ja": "小鳥は猫の獲物になることがある。"
+      },
+      {
+        "en": "The lion watched its prey quietly.",
+        "ja": "ライオンは獲物を静かに見つめていた。"
+      },
+      {
+        "en": "Some insects prey on other insects.",
+        "ja": "一部の昆虫は他の昆虫を捕食する。"
+      }
+    ]
+  },
+  {
+    "id": 1315,
+    "word": "flee",
+    "meaning": "逃げる；～から逃げる",
+    "examples": [
+      {
+        "en": "People fled from the burning building.",
+        "ja": "人々は燃えている建物から逃げた。"
+      },
+      {
+        "en": "The thief tried to flee the scene.",
+        "ja": "泥棒は現場から逃げようとした。"
+      },
+      {
+        "en": "Many families had to flee during the war.",
+        "ja": "戦争中、多くの家族が逃げなければならなかった。"
+      }
+    ]
+  },
+  {
+    "id": 1316,
+    "word": "dose",
+    "meaning": "薬の1回の服用量",
+    "examples": [
+      {
+        "en": "Take one dose after breakfast.",
+        "ja": "朝食後に1回分を服用してください。"
+      },
+      {
+        "en": "The doctor reduced the dose of the medicine.",
+        "ja": "医者はその薬の服用量を減らした。"
+      },
+      {
+        "en": "Do not take a larger dose than directed.",
+        "ja": "指示された量より多く服用してはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 1317,
+    "word": "role",
+    "meaning": "役割",
+    "examples": [
+      {
+        "en": "Parents play an important role in education.",
+        "ja": "親は教育において重要な役割を果たす。"
+      },
+      {
+        "en": "What is your role in this project?",
+        "ja": "このプロジェクトでのあなたの役割は何ですか。"
+      },
+      {
+        "en": "She got the main role in the school play.",
+        "ja": "彼女は学校劇で主役を得た。"
+      }
+    ]
+  },
+  {
+    "id": 1318,
+    "word": "roll",
+    "meaning": "転がる；～を転がす、巻く",
+    "examples": [
+      {
+        "en": "The ball rolled down the hill.",
+        "ja": "ボールは丘を転がり落ちた。"
+      },
+      {
+        "en": "He rolled the poster and put it in a tube.",
+        "ja": "彼はポスターを丸めて筒に入れた。"
+      },
+      {
+        "en": "Roll the dice and move your piece.",
+        "ja": "さいころを振って駒を動かしなさい。"
+      }
+    ]
+  },
+  {
+    "id": 1319,
+    "word": "tale",
+    "meaning": "話、物語",
+    "examples": [
+      {
+        "en": "My grandmother told me an old tale.",
+        "ja": "祖母は私に昔話をしてくれた。"
+      },
+      {
+        "en": "The movie is based on a famous folk tale.",
+        "ja": "その映画は有名な民話に基づいている。"
+      },
+      {
+        "en": "It is a simple tale about friendship.",
+        "ja": "それは友情についての素朴な物語だ。"
+      }
+    ]
+  },
+  {
+    "id": 1320,
+    "word": "awe",
+    "meaning": "畏敬、畏怖；畏怖させる",
+    "examples": [
+      {
+        "en": "We looked at the huge waterfall in awe.",
+        "ja": "私たちはその巨大な滝を畏敬の念をもって見た。"
+      },
+      {
+        "en": "The beauty of the night sky filled me with awe.",
+        "ja": "夜空の美しさは私を畏敬の念で満たした。"
+      },
+      {
+        "en": "The ancient temple awed the visitors.",
+        "ja": "その古代の寺院は訪問者を畏怖させた。"
+      }
+    ]
+  },
+  {
+    "id": 1321,
+    "word": "feat",
+    "meaning": "偉業、離れ業",
+    "examples": [
+      {
+        "en": "Climbing the mountain in one day was a great feat.",
+        "ja": "その山を1日で登ることは大きな偉業だった。"
+      },
+      {
+        "en": "The athlete achieved a rare feat.",
+        "ja": "その選手は珍しい偉業を成し遂げた。"
+      },
+      {
+        "en": "Building the bridge was an engineering feat.",
+        "ja": "その橋を建設することは工学上の偉業だった。"
+      }
+    ]
+  },
+  {
+    "id": 1322,
+    "word": "deed",
+    "meaning": "行動、行為",
+    "examples": [
+      {
+        "en": "A kind deed can change someone's day.",
+        "ja": "親切な行為は誰かの一日を変えることがある。"
+      },
+      {
+        "en": "He was remembered for his brave deeds.",
+        "ja": "彼は勇敢な行動で記憶された。"
+      },
+      {
+        "en": "Words are important, but deeds matter more.",
+        "ja": "言葉は重要だが、行動の方がもっと大切だ。"
+      }
+    ]
+  },
+  {
+    "id": 1323,
+    "word": "clue",
+    "meaning": "手掛かり、鍵",
+    "examples": [
+      {
+        "en": "The police found a clue near the door.",
+        "ja": "警察はドアの近くで手掛かりを見つけた。"
+      },
+      {
+        "en": "This sentence gives us a clue to the answer.",
+        "ja": "この文は答えへの手掛かりを与えてくれる。"
+      },
+      {
+        "en": "I have no clue where my keys are.",
+        "ja": "私は鍵がどこにあるのかまったく分からない。"
+      }
+    ]
+  },
+  {
+    "id": 1324,
+    "word": "path",
+    "meaning": "小道、道筋",
+    "examples": [
+      {
+        "en": "We walked along a narrow path in the forest.",
+        "ja": "私たちは森の中の細い小道を歩いた。"
+      },
+      {
+        "en": "Education opened a new path for her future.",
+        "ja": "教育は彼女の将来に新しい道筋を開いた。"
+      },
+      {
+        "en": "Stay on the path so you do not get lost.",
+        "ja": "迷わないように小道から外れないで。"
+      }
+    ]
+  },
+  {
+    "id": 1325,
+    "word": "aisle",
+    "meaning": "通路",
+    "examples": [
+      {
+        "en": "My seat is by the aisle.",
+        "ja": "私の席は通路側です。"
+      },
+      {
+        "en": "The flight attendant walked down the aisle.",
+        "ja": "客室乗務員が通路を歩いていった。"
+      },
+      {
+        "en": "Please keep the aisle clear.",
+        "ja": "通路を空けておいてください。"
+      }
+    ]
+  },
+  {
+    "id": 1326,
+    "word": "ray",
+    "meaning": "光線、放射線",
+    "examples": [
+      {
+        "en": "A ray of sunlight entered the room.",
+        "ja": "一筋の太陽光が部屋に入ってきた。"
+      },
+      {
+        "en": "X-rays can show broken bones.",
+        "ja": "X線は折れた骨を映し出すことができる。"
+      },
+      {
+        "en": "The lighthouse sent a ray of light across the sea.",
+        "ja": "灯台は海に向かって光線を放った。"
+      }
+    ]
+  },
+  {
+    "id": 1327,
+    "word": "lump",
+    "meaning": "小さなかたまり",
+    "examples": [
+      {
+        "en": "There was a lump of sugar on the table.",
+        "ja": "テーブルの上に角砂糖が1つあった。"
+      },
+      {
+        "en": "She found a small lump in the clay.",
+        "ja": "彼女は粘土の中に小さなかたまりを見つけた。"
+      },
+      {
+        "en": "Add a lump of butter to the soup.",
+        "ja": "スープにバターのかたまりを加えなさい。"
+      }
+    ]
+  },
+  {
+    "id": 1328,
+    "word": "bulk",
+    "meaning": "容積、かさ；巨大なもの",
+    "examples": [
+      {
+        "en": "The bulk of the work was done yesterday.",
+        "ja": "仕事の大部分は昨日終わった。"
+      },
+      {
+        "en": "The box was light despite its bulk.",
+        "ja": "その箱はかさの割には軽かった。"
+      },
+      {
+        "en": "Buying rice in bulk is often cheaper.",
+        "ja": "米をまとめ買いするとたいてい安い。"
+      }
+    ]
+  },
+  {
+    "id": 1329,
+    "word": "pile",
+    "meaning": "きれいに積み重なった山",
+    "examples": [
+      {
+        "en": "There was a pile of books on the desk.",
+        "ja": "机の上に本の山があった。"
+      },
+      {
+        "en": "She piled the towels neatly.",
+        "ja": "彼女はタオルをきちんと積み重ねた。"
+      },
+      {
+        "en": "Please put the papers in one pile.",
+        "ja": "書類を1つの山にまとめてください。"
+      }
+    ]
+  },
+  {
+    "id": 1330,
+    "word": "heap",
+    "meaning": "雑然と積み重なった山",
+    "examples": [
+      {
+        "en": "Dirty clothes lay in a heap on the floor.",
+        "ja": "汚れた服が床に雑然と山になっていた。"
+      },
+      {
+        "en": "He threw the leaves into a heap.",
+        "ja": "彼は落ち葉を山に投げ入れた。"
+      },
+      {
+        "en": "A heap of old boxes filled the room.",
+        "ja": "古い箱の山が部屋を埋めていた。"
+      }
+    ]
+  },
+  {
+    "id": 1331,
+    "word": "mess",
+    "meaning": "混雑、乱雑",
+    "examples": [
+      {
+        "en": "Your room is a mess.",
+        "ja": "君の部屋は散らかっている。"
+      },
+      {
+        "en": "The kitchen was in a mess after the party.",
+        "ja": "パーティーの後、台所はめちゃくちゃだった。"
+      },
+      {
+        "en": "I need to clean up this mess.",
+        "ja": "私はこの散らかりを片づける必要がある。"
+      }
+    ]
+  },
+  {
+    "id": 1332,
+    "word": "fuss",
+    "meaning": "大騒ぎ",
+    "examples": [
+      {
+        "en": "Do not make a fuss over a small mistake.",
+        "ja": "小さな間違いで大騒ぎしないで。"
+      },
+      {
+        "en": "The child made a fuss in the store.",
+        "ja": "その子どもは店で騒いだ。"
+      },
+      {
+        "en": "There was a lot of fuss about the new rule.",
+        "ja": "新しい規則について大騒ぎがあった。"
+      }
+    ]
+  },
+  {
+    "id": 1333,
+    "word": "mere",
+    "meaning": "単なる、ほんの",
+    "examples": [
+      {
+        "en": "It was a mere accident.",
+        "ja": "それは単なる事故だった。"
+      },
+      {
+        "en": "A mere ten minutes can make a difference.",
+        "ja": "ほんの10分でも違いを生むことがある。"
+      },
+      {
+        "en": "He solved the problem in a mere second.",
+        "ja": "彼はその問題をほんの一瞬で解いた。"
+      }
+    ]
+  },
+  {
+    "id": 1334,
+    "word": "dull",
+    "meaning": "退屈な；頭の鈍い",
+    "examples": [
+      {
+        "en": "The lecture was dull and too long.",
+        "ja": "その講義は退屈で長すぎた。"
+      },
+      {
+        "en": "This knife is too dull to cut bread.",
+        "ja": "このナイフは鈍すぎてパンを切れない。"
+      },
+      {
+        "en": "I felt dull after staying up all night.",
+        "ja": "徹夜した後、私は頭がぼんやりしていた。"
+      }
+    ]
+  },
+  {
+    "id": 1335,
+    "word": "ripe",
+    "meaning": "熟した、成熟した",
+    "examples": [
+      {
+        "en": "These bananas are ripe and sweet.",
+        "ja": "これらのバナナは熟していて甘い。"
+      },
+      {
+        "en": "The time is ripe for a new plan.",
+        "ja": "新しい計画を始めるのに時期が熟している。"
+      },
+      {
+        "en": "Pick the tomatoes when they are ripe.",
+        "ja": "トマトが熟したら収穫しなさい。"
+      }
+    ]
+  },
+  {
+    "id": 1336,
+    "word": "bare",
+    "meaning": "裸の、むき出しの；最低限の、ギリギリの",
+    "examples": [
+      {
+        "en": "He walked on the beach with bare feet.",
+        "ja": "彼は裸足で浜辺を歩いた。"
+      },
+      {
+        "en": "The room had only the bare necessities.",
+        "ja": "その部屋には最低限必要なものしかなかった。"
+      },
+      {
+        "en": "The tree stood bare in winter.",
+        "ja": "その木は冬に葉がなくむき出しだった。"
+      }
+    ]
+  },
+  {
+    "id": 1337,
+    "word": "raw",
+    "meaning": "生の、加工していない",
+    "examples": [
+      {
+        "en": "Do not eat raw chicken.",
+        "ja": "生の鶏肉を食べてはいけない。"
+      },
+      {
+        "en": "The factory uses raw materials from abroad.",
+        "ja": "その工場は海外からの原材料を使っている。"
+      },
+      {
+        "en": "His raw talent impressed the coach.",
+        "ja": "彼の粗削りな才能はコーチに印象を与えた。"
+      }
+    ]
+  },
+  {
+    "id": 1338,
+    "word": "net",
+    "meaning": "正味の、掛け値なしの",
+    "examples": [
+      {
+        "en": "The net weight is written on the package.",
+        "ja": "正味重量は包装に書かれている。"
+      },
+      {
+        "en": "The company made a net profit this year.",
+        "ja": "その会社は今年、純利益を上げた。"
+      },
+      {
+        "en": "What is your net income after taxes?",
+        "ja": "税引き後のあなたの正味収入はいくらですか。"
+      }
+    ]
+  },
+  {
+    "id": 1339,
+    "word": "gross",
+    "meaning": "総計の",
+    "examples": [
+      {
+        "en": "The gross weight includes the box.",
+        "ja": "総重量には箱も含まれる。"
+      },
+      {
+        "en": "The film had high gross sales.",
+        "ja": "その映画は高い総売上を記録した。"
+      },
+      {
+        "en": "Gross income is income before taxes.",
+        "ja": "総所得とは税引き前の所得である。"
+      }
+    ]
+  },
+  {
+    "id": 1340,
+    "word": "dim",
+    "meaning": "薄暗い、ぼんやりとした",
+    "examples": [
+      {
+        "en": "The room was dim after sunset.",
+        "ja": "日没後、その部屋は薄暗かった。"
+      },
+      {
+        "en": "I could see a dim light in the distance.",
+        "ja": "遠くにぼんやりした光が見えた。"
+      },
+      {
+        "en": "His memory of the day was dim.",
+        "ja": "その日の彼の記憶はぼんやりしていた。"
+      }
+    ]
+  },
+  {
+    "id": 1341,
+    "word": "deaf",
+    "meaning": "耳が聞こえない",
+    "examples": [
+      {
+        "en": "The old man is deaf in one ear.",
+        "ja": "その老人は片耳が聞こえない。"
+      },
+      {
+        "en": "She teaches deaf children.",
+        "ja": "彼女は耳の聞こえない子どもたちに教えている。"
+      },
+      {
+        "en": "He was deaf to my advice.",
+        "ja": "彼は私の助言に耳を貸さなかった。"
+      }
+    ]
+  },
+  {
+    "id": 1342,
+    "word": "dumb",
+    "meaning": "口がきけない；馬鹿な",
+    "examples": [
+      {
+        "en": "The shock left him dumb for a moment.",
+        "ja": "その衝撃で彼は一瞬口がきけなくなった。"
+      },
+      {
+        "en": "That was a dumb mistake.",
+        "ja": "それはばかな間違いだった。"
+      },
+      {
+        "en": "Do not call people dumb just because they disagree.",
+        "ja": "意見が違うからといって人をばかと呼んではいけない。"
+      }
+    ]
+  },
+  {
+    "id": 1343,
+    "word": "weird",
+    "meaning": "変な、奇妙な",
+    "examples": [
+      {
+        "en": "I heard a weird noise outside.",
+        "ja": "外で奇妙な音が聞こえた。"
+      },
+      {
+        "en": "This food tastes weird at first.",
+        "ja": "この食べ物は最初は変な味がする。"
+      },
+      {
+        "en": "He had a weird dream last night.",
+        "ja": "彼は昨夜奇妙な夢を見た。"
+      }
+    ]
+  },
+  {
+    "id": 1344,
+    "word": "sake",
+    "meaning": "ため、目的",
+    "examples": [
+      {
+        "en": "She studied hard for the sake of her future.",
+        "ja": "彼女は将来のために一生懸命勉強した。"
+      },
+      {
+        "en": "For safety's sake, wear a helmet.",
+        "ja": "安全のためにヘルメットをかぶりなさい。"
+      },
+      {
+        "en": "He stayed silent for the sake of peace.",
+        "ja": "彼は平和のために黙っていた。"
+      }
+    ]
+  },
+  {
+    "id": 1345,
+    "word": "vain",
+    "meaning": "無駄な、虚しい",
+    "examples": [
+      {
+        "en": "Their efforts were in vain.",
+        "ja": "彼らの努力は無駄だった。"
+      },
+      {
+        "en": "It is vain to argue with him now.",
+        "ja": "今彼と議論しても無駄だ。"
+      },
+      {
+        "en": "She made a vain attempt to open the door.",
+        "ja": "彼女はドアを開けようとしたが無駄だった。"
+      }
+    ]
+  },
+  {
+    "id": 1346,
+    "word": "dawn",
+    "meaning": "夜明け；始まり；夜が明ける",
+    "examples": [
+      {
+        "en": "We left the house at dawn.",
+        "ja": "私たちは夜明けに家を出た。"
+      },
+      {
+        "en": "A new age began to dawn.",
+        "ja": "新しい時代が始まりかけた。"
+      },
+      {
+        "en": "It dawned on me that I was wrong.",
+        "ja": "自分が間違っていたことに私は気づいた。"
+      }
+    ]
+  },
+  {
+    "id": 1347,
+    "word": "tend",
+    "meaning": "～する傾向がある",
+    "examples": [
+      {
+        "en": "Children tend to learn languages quickly.",
+        "ja": "子どもは言語を早く学ぶ傾向がある。"
+      },
+      {
+        "en": "Prices tend to rise in winter.",
+        "ja": "冬には価格が上がる傾向がある。"
+      },
+      {
+        "en": "He tends to forget small details.",
+        "ja": "彼は細かいことを忘れがちだ。"
+      }
+    ]
+  },
+  {
+    "id": 1348,
+    "word": "trend",
+    "meaning": "傾向、風潮",
+    "examples": [
+      {
+        "en": "There is a trend toward online shopping.",
+        "ja": "オンラインショッピングへ向かう傾向がある。"
+      },
+      {
+        "en": "The graph shows a clear upward trend.",
+        "ja": "そのグラフは明らかな上昇傾向を示している。"
+      },
+      {
+        "en": "Fashion trends change quickly.",
+        "ja": "ファッションの流行はすぐに変わる。"
+      }
+    ]
+  },
+  {
+    "id": 1349,
+    "word": "apt",
+    "meaning": "～しがちである",
+    "examples": [
+      {
+        "en": "He is apt to lose his keys.",
+        "ja": "彼は鍵をなくしがちだ。"
+      },
+      {
+        "en": "Young children are apt to ask many questions.",
+        "ja": "幼い子どもは多くの質問をしがちだ。"
+      },
+      {
+        "en": "This word is apt to be confused with another.",
+        "ja": "この単語は別の単語と混同されがちだ。"
+      }
+    ]
+  },
+  {
+    "id": 1350,
+    "word": "liable",
+    "meaning": "～しがちである；法的責任がある",
+    "examples": [
+      {
+        "en": "Old houses are liable to catch fire.",
+        "ja": "古い家は火事になりがちだ。"
+      },
+      {
+        "en": "Drivers are liable for accidents they cause.",
+        "ja": "運転者は自分が起こした事故に対して法的責任がある。"
+      },
+      {
+        "en": "He is liable to get angry when he is tired.",
+        "ja": "彼は疲れていると怒りがちだ。"
+      }
+    ]
+  },
+  {
+    "id": 1351,
+    "word": "prone",
+    "meaning": "～しがちである、～をこうむりがちである",
+    "examples": [
+      {
+        "en": "This area is prone to floods.",
+        "ja": "この地域は洪水に見舞われやすい。"
+      },
+      {
+        "en": "He is prone to making careless mistakes.",
+        "ja": "彼は不注意なミスをしがちだ。"
+      },
+      {
+        "en": "Some people are prone to headaches.",
+        "ja": "頭痛を起こしやすい人もいる。"
+      }
+    ]
+  },
+  {
+    "id": 1352,
+    "word": "susceptible",
+    "meaning": "影響を受けやすい、こうむりがちである",
+    "examples": [
+      {
+        "en": "Children are susceptible to colds.",
+        "ja": "子どもは風邪にかかりやすい。"
+      },
+      {
+        "en": "The plan is susceptible to sudden changes.",
+        "ja": "その計画は急な変更の影響を受けやすい。"
+      },
+      {
+        "en": "This plant is susceptible to disease.",
+        "ja": "この植物は病気にかかりやすい。"
+      }
+    ]
+  },
+  {
+    "id": 1353,
+    "word": "likely",
+    "meaning": "～しそうである",
+    "examples": [
+      {
+        "en": "It is likely to rain this afternoon.",
+        "ja": "今日の午後は雨が降りそうだ。"
+      },
+      {
+        "en": "She is likely to pass the exam.",
+        "ja": "彼女は試験に合格しそうだ。"
+      },
+      {
+        "en": "The most likely cause is a loose cable.",
+        "ja": "最もありそうな原因は緩んだケーブルだ。"
+      }
+    ]
+  },
+  {
+    "id": 1354,
+    "word": "probable",
+    "meaning": "十分ありえる",
+    "examples": [
+      {
+        "en": "Rain is probable tomorrow.",
+        "ja": "明日は雨の可能性が十分ある。"
+      },
+      {
+        "en": "The probable cause of the error is a typo.",
+        "ja": "そのエラーの考えられる原因はタイプミスだ。"
+      },
+      {
+        "en": "It is probable that he missed the train.",
+        "ja": "彼が電車に乗り遅れた可能性は十分ある。"
+      }
+    ]
+  },
+  {
+    "id": 1355,
+    "word": "possibly",
+    "meaning": "ことによると；いったい；絶対に…ない",
+    "examples": [
+      {
+        "en": "She may possibly come to the party.",
+        "ja": "ことによると彼女はパーティーに来るかもしれない。"
+      },
+      {
+        "en": "How could you possibly forget your passport?",
+        "ja": "いったいどうしてパスポートを忘れたのですか。"
+      },
+      {
+        "en": "I cannot possibly finish this today.",
+        "ja": "今日これを終えることは絶対にできない。"
+      }
+    ]
+  },
+  {
+    "id": 1356,
+    "word": "be about to do",
+    "meaning": "今にも～しそうである",
+    "examples": [
+      {
+        "en": "The train is about to leave.",
+        "ja": "電車は今にも出発しそうだ。"
+      },
+      {
+        "en": "I was about to call you.",
+        "ja": "私はちょうどあなたに電話しようとしていた。"
+      },
+      {
+        "en": "The baby is about to cry.",
+        "ja": "赤ちゃんは今にも泣きそうだ。"
+      }
+    ]
+  },
+  {
+    "id": 1357,
+    "word": "on the verge of",
+    "meaning": "今にも～しそうである",
+    "examples": [
+      {
+        "en": "The company is on the verge of bankruptcy.",
+        "ja": "その会社は今にも倒産しそうだ。"
+      },
+      {
+        "en": "She was on the verge of tears.",
+        "ja": "彼女は今にも泣きそうだった。"
+      },
+      {
+        "en": "The old bridge is on the verge of collapse.",
+        "ja": "その古い橋は今にも崩れそうだ。"
+      }
+    ]
+  },
+  {
+    "id": 1358,
+    "word": "on the brink of",
+    "meaning": "今にも～しそうである",
+    "examples": [
+      {
+        "en": "The country was on the brink of war.",
+        "ja": "その国は今にも戦争になりそうだった。"
+      },
+      {
+        "en": "The team is on the brink of victory.",
+        "ja": "そのチームは勝利の目前にいる。"
+      },
+      {
+        "en": "The lake is on the brink of drying up.",
+        "ja": "その湖は今にも干上がりそうだ。"
+      }
+    ]
+  },
+  {
+    "id": 1359,
+    "word": "eager",
+    "meaning": "～することを熱望している、しきりに～したがっている",
+    "examples": [
+      {
+        "en": "The students were eager to start the experiment.",
+        "ja": "学生たちは実験を始めたがっていた。"
+      },
+      {
+        "en": "She is eager for a chance to study abroad.",
+        "ja": "彼女は留学の機会を熱望している。"
+      },
+      {
+        "en": "He was eager to hear the results.",
+        "ja": "彼は結果を聞きたくてたまらなかった。"
+      }
+    ]
+  },
+  {
+    "id": 1360,
+    "word": "willing",
+    "meaning": "～することをいとわない、快く～する",
+    "examples": [
+      {
+        "en": "I am willing to help you with your homework.",
+        "ja": "私は喜んで君の宿題を手伝います。"
+      },
+      {
+        "en": "She is willing to work on weekends.",
+        "ja": "彼女は週末に働くことをいとわない。"
+      },
+      {
+        "en": "They were willing to accept the risk.",
+        "ja": "彼らはそのリスクを受け入れるつもりだった。"
+      }
+    ]
+  },
+  {
+    "id": 1361,
+    "word": "reluctant",
+    "meaning": "～する気が進まない",
+    "examples": [
+      {
+        "en": "He was reluctant to answer the question.",
+        "ja": "彼はその質問に答える気が進まなかった。"
+      },
+      {
+        "en": "She seemed reluctant to leave her hometown.",
+        "ja": "彼女は故郷を離れるのを嫌がっているようだった。"
+      },
+      {
+        "en": "I am reluctant to spend so much money.",
+        "ja": "私はそんなに多くのお金を使う気になれない。"
+      }
+    ]
+  },
+  {
+    "id": 1362,
+    "word": "enthusiastic",
+    "meaning": "熱意がある、熱心な",
+    "examples": [
+      {
+        "en": "He is enthusiastic about learning Chinese.",
+        "ja": "彼は中国語の学習に熱心だ。"
+      },
+      {
+        "en": "The audience gave an enthusiastic response.",
+        "ja": "観客は熱烈な反応を示した。"
+      },
+      {
+        "en": "Our teacher is enthusiastic and easy to talk to.",
+        "ja": "私たちの先生は熱心で話しやすい。"
+      }
+    ]
+  },
+  {
+    "id": 1363,
+    "word": "keen",
+    "meaning": "熱心な；鋭い",
+    "examples": [
+      {
+        "en": "She is keen on classical music.",
+        "ja": "彼女はクラシック音楽に熱心だ。"
+      },
+      {
+        "en": "He has a keen sense of smell.",
+        "ja": "彼は鋭い嗅覚を持っている。"
+      },
+      {
+        "en": "They are keen to improve their skills.",
+        "ja": "彼らは技能を向上させることに熱心だ。"
+      }
+    ]
+  },
+  {
+    "id": 1364,
+    "word": "intent",
+    "meaning": "熱心な、一生懸命の",
+    "examples": [
+      {
+        "en": "She was intent on finishing the report.",
+        "ja": "彼女はレポートを仕上げることに集中していた。"
+      },
+      {
+        "en": "He listened with an intent expression.",
+        "ja": "彼は真剣な表情で聞いていた。"
+      },
+      {
+        "en": "The child was intent on building a tower.",
+        "ja": "その子どもは塔を作ることに夢中だった。"
+      }
+    ]
+  },
+  {
+    "id": 1365,
+    "word": "earnest",
+    "meaning": "まじめな、真剣な",
+    "examples": [
+      {
+        "en": "He gave an earnest answer.",
+        "ja": "彼は真剣な答えをした。"
+      },
+      {
+        "en": "She is an earnest student.",
+        "ja": "彼女はまじめな学生だ。"
+      },
+      {
+        "en": "Their earnest efforts finally succeeded.",
+        "ja": "彼らの真剣な努力はついに成功した。"
+      }
+    ]
+  },
+  {
+    "id": 1366,
+    "word": "aspire",
+    "meaning": "～することを熱望する",
+    "examples": [
+      {
+        "en": "He aspires to become a doctor.",
+        "ja": "彼は医者になることを熱望している。"
+      },
+      {
+        "en": "Many young athletes aspire to compete in the Olympics.",
+        "ja": "多くの若い選手はオリンピックに出場することを熱望している。"
+      },
+      {
+        "en": "She aspires to a career in science.",
+        "ja": "彼女は科学分野での職業を目指している。"
+      }
+    ]
+  },
+  {
+    "id": 1367,
+    "word": "yearn",
+    "meaning": "～することを熱望する",
+    "examples": [
+      {
+        "en": "She yearns to see her family again.",
+        "ja": "彼女は家族にまた会うことを切望している。"
+      },
+      {
+        "en": "He yearned for freedom.",
+        "ja": "彼は自由を切望した。"
+      },
+      {
+        "en": "Many people yearn for a peaceful life.",
+        "ja": "多くの人は平和な生活を切望している。"
+      }
+    ]
+  },
+  {
+    "id": 1368,
+    "word": "long for",
+    "meaning": "～を待ち望む；懐かしく思う",
+    "examples": [
+      {
+        "en": "I long for the day when we can meet again.",
+        "ja": "私は私たちがまた会える日を待ち望んでいる。"
+      },
+      {
+        "en": "She longs for her hometown.",
+        "ja": "彼女は故郷を懐かしく思っている。"
+      },
+      {
+        "en": "The children longed for summer vacation.",
+        "ja": "子どもたちは夏休みを待ち望んでいた。"
+      }
+    ]
+  },
+  {
+    "id": 1369,
+    "word": "tempt",
+    "meaning": "～を誘惑する",
+    "examples": [
+      {
+        "en": "The smell of bread tempted me to enter the shop.",
+        "ja": "パンの香りに誘われて私は店に入った。"
+      },
+      {
+        "en": "Do not let money tempt you into lying.",
+        "ja": "お金に誘惑されて嘘をついてはいけない。"
+      },
+      {
+        "en": "The sale tempted her to buy a new bag.",
+        "ja": "そのセールに誘惑されて彼女は新しいバッグを買った。"
+      }
+    ]
+  },
+  {
+    "id": 1370,
+    "word": "fascinate",
+    "meaning": "～を魅了する",
+    "examples": [
+      {
+        "en": "The stars fascinated the young child.",
+        "ja": "星々はその幼い子どもを魅了した。"
+      },
+      {
+        "en": "I am fascinated by ancient history.",
+        "ja": "私は古代史に魅了されている。"
+      },
+      {
+        "en": "Her story fascinated everyone in the room.",
+        "ja": "彼女の話は部屋にいた全員を魅了した。"
+      }
+    ]
+  },
+  {
+    "id": 1371,
+    "word": "appeal",
+    "meaning": "魅力、人気；訴え、要請；訴える、要請する",
+    "examples": [
+      {
+        "en": "The design has strong appeal to young people.",
+        "ja": "そのデザインは若者に強い魅力がある。"
+      },
+      {
+        "en": "The group made an appeal for help.",
+        "ja": "その団体は助けを求める訴えをした。"
+      },
+      {
+        "en": "This idea appeals to me.",
+        "ja": "この考えは私にとって魅力的だ。"
+      }
+    ]
+  },
+  {
+    "id": 1372,
+    "word": "charm",
+    "meaning": "魅力；呪文",
+    "examples": [
+      {
+        "en": "The old town has a special charm.",
+        "ja": "その古い町には特別な魅力がある。"
+      },
+      {
+        "en": "Her smile has a natural charm.",
+        "ja": "彼女の笑顔には自然な魅力がある。"
+      },
+      {
+        "en": "In the story, the witch used a magic charm.",
+        "ja": "その物語で、魔女は魔法の呪文を使った。"
+      }
+    ]
+  },
+  {
+    "id": 1373,
+    "word": "respond",
+    "meaning": "反応する、返事をする",
+    "examples": [
+      {
+        "en": "Please respond to this email by Friday.",
+        "ja": "金曜日までにこのメールに返事をしてください。"
+      },
+      {
+        "en": "The body responds to exercise in many ways.",
+        "ja": "体は運動にさまざまな形で反応する。"
+      },
+      {
+        "en": "He did not respond to my question.",
+        "ja": "彼は私の質問に答えなかった。"
+      }
+    ]
+  },
+  {
+    "id": 1374,
+    "word": "react",
+    "meaning": "反応する",
+    "examples": [
+      {
+        "en": "How did she react to the news?",
+        "ja": "彼女はその知らせにどう反応しましたか。"
+      },
+      {
+        "en": "Some metals react with water.",
+        "ja": "一部の金属は水と反応する。"
+      },
+      {
+        "en": "He reacted calmly to the problem.",
+        "ja": "彼はその問題に冷静に反応した。"
+      }
+    ]
+  },
+  {
+    "id": 1375,
+    "word": "interact",
+    "meaning": "相互作用する、交流し合う",
+    "examples": [
+      {
+        "en": "Students interact with each other during group work.",
+        "ja": "学生たちはグループ活動中に互いに交流する。"
+      },
+      {
+        "en": "These two chemicals interact strongly.",
+        "ja": "これら2つの化学物質は強く相互作用する。"
+      },
+      {
+        "en": "The app lets users interact online.",
+        "ja": "そのアプリは利用者がオンラインで交流できるようにする。"
+      }
+    ]
+  },
+  {
+    "id": 1376,
+    "word": "adjust",
+    "meaning": "順応する、適応する；～を適合させる",
+    "examples": [
+      {
+        "en": "It took me a week to adjust to my new school.",
+        "ja": "新しい学校に慣れるのに1週間かかった。"
+      },
+      {
+        "en": "Please adjust the volume.",
+        "ja": "音量を調整してください。"
+      },
+      {
+        "en": "She adjusted her schedule to fit the meeting.",
+        "ja": "彼女は会議に合わせて予定を調整した。"
+      }
+    ]
+  },
+  {
+    "id": 1377,
+    "word": "adapt",
+    "meaning": "順応する、適応する；～を適合させる",
+    "examples": [
+      {
+        "en": "Animals adapt to their environment.",
+        "ja": "動物は環境に適応する。"
+      },
+      {
+        "en": "We adapted the story for children.",
+        "ja": "私たちはその物語を子ども向けに改作した。"
+      },
+      {
+        "en": "He quickly adapted to life in Japan.",
+        "ja": "彼は日本での生活にすぐ適応した。"
+      }
+    ]
+  },
+  {
+    "id": 1378,
+    "word": "shift",
+    "meaning": "変化、移行；交代勤務期間；移る、変わる",
+    "examples": [
+      {
+        "en": "There has been a shift in public opinion.",
+        "ja": "世論に変化があった。"
+      },
+      {
+        "en": "My night shift starts at ten.",
+        "ja": "私の夜勤は10時に始まる。"
+      },
+      {
+        "en": "The wind shifted to the north.",
+        "ja": "風は北向きに変わった。"
+      }
+    ]
+  },
+  {
+    "id": 1379,
+    "word": "fit",
+    "meaning": "合う、はまる；健康な、体調がよい",
+    "examples": [
+      {
+        "en": "These shoes fit me well.",
+        "ja": "この靴は私にぴったり合う。"
+      },
+      {
+        "en": "The key does not fit the lock.",
+        "ja": "その鍵は錠に合わない。"
+      },
+      {
+        "en": "He runs every morning to stay fit.",
+        "ja": "彼は健康を保つために毎朝走っている。"
+      }
+    ]
+  },
+  {
+    "id": 1380,
+    "word": "suit",
+    "meaning": "～に似合う；都合が合う",
+    "examples": [
+      {
+        "en": "This color suits you.",
+        "ja": "この色はあなたに似合っている。"
+      },
+      {
+        "en": "Does Friday suit your schedule?",
+        "ja": "金曜日はあなたの予定に合いますか。"
+      },
+      {
+        "en": "The quiet room suited her study style.",
+        "ja": "静かな部屋は彼女の勉強スタイルに合っていた。"
+      }
+    ]
+  },
+  {
+    "id": 1381,
+    "word": "match",
+    "meaning": "～と合う；～に匹敵する",
+    "examples": [
+      {
+        "en": "Your bag matches your shoes.",
+        "ja": "あなたのかばんは靴と合っている。"
+      },
+      {
+        "en": "No one can match her speed.",
+        "ja": "誰も彼女の速さには匹敵できない。"
+      },
+      {
+        "en": "Match each word with its meaning.",
+        "ja": "それぞれの単語をその意味と組み合わせなさい。"
+      }
+    ]
+  },
+  {
+    "id": 1382,
+    "word": "go with",
+    "meaning": "～と合う；～に同意する、～を受け入れる",
+    "examples": [
+      {
+        "en": "This jacket goes with blue jeans.",
+        "ja": "この上着は青いジーンズに合う。"
+      },
+      {
+        "en": "I will go with your plan.",
+        "ja": "私はあなたの計画に賛成します。"
+      },
+      {
+        "en": "What drink goes with this meal?",
+        "ja": "この食事にはどんな飲み物が合いますか。"
+      }
+    ]
+  },
+  {
+    "id": 1383,
+    "word": "diet",
+    "meaning": "食事、食習慣",
+    "examples": [
+      {
+        "en": "A healthy diet includes many vegetables.",
+        "ja": "健康的な食事には多くの野菜が含まれる。"
+      },
+      {
+        "en": "His doctor told him to change his diet.",
+        "ja": "医者は彼に食習慣を変えるよう言った。"
+      },
+      {
+        "en": "She is on a special diet for her health.",
+        "ja": "彼女は健康のために特別な食事をしている。"
+      }
+    ]
+  },
+  {
+    "id": 1384,
+    "word": "obese",
+    "meaning": "肥満した",
+    "examples": [
+      {
+        "en": "Obese children need careful health support.",
+        "ja": "肥満した子どもには慎重な健康支援が必要だ。"
+      },
+      {
+        "en": "The study focused on obese adults.",
+        "ja": "その研究は肥満した成人に焦点を当てた。"
+      },
+      {
+        "en": "Regular exercise can help obese patients.",
+        "ja": "定期的な運動は肥満患者の助けになる。"
+      }
+    ]
+  },
+  {
+    "id": 1385,
+    "word": "weight",
+    "meaning": "重さ、体重",
+    "examples": [
+      {
+        "en": "What is the weight of this box?",
+        "ja": "この箱の重さはどれくらいですか。"
+      },
+      {
+        "en": "He lost weight after changing his diet.",
+        "ja": "彼は食事を変えて体重が減った。"
+      },
+      {
+        "en": "The bridge can hold a lot of weight.",
+        "ja": "その橋は大きな重さに耐えられる。"
+      }
+    ]
+  },
+  {
+    "id": 1386,
+    "word": "nutrition",
+    "meaning": "栄養",
+    "examples": [
+      {
+        "en": "Good nutrition is important for children.",
+        "ja": "良い栄養は子どもにとって重要だ。"
+      },
+      {
+        "en": "The class learned about nutrition and health.",
+        "ja": "その授業では栄養と健康について学んだ。"
+      },
+      {
+        "en": "This meal provides balanced nutrition.",
+        "ja": "この食事はバランスの取れた栄養を提供する。"
+      }
+    ]
+  },
+  {
+    "id": 1387,
+    "word": "nourish",
+    "meaning": "～に栄養を与える、養育する；育む",
+    "examples": [
+      {
+        "en": "Milk helps nourish young children.",
+        "ja": "牛乳は幼い子どもに栄養を与える助けになる。"
+      },
+      {
+        "en": "Good books nourish the mind.",
+        "ja": "良い本は心を育む。"
+      },
+      {
+        "en": "The soil nourishes the plants.",
+        "ja": "土は植物に栄養を与える。"
+      }
+    ]
+  },
+  {
+    "id": 1388,
+    "word": "nurture",
+    "meaning": "～を養育する、育てる；育む、促進する",
+    "examples": [
+      {
+        "en": "Parents nurture their children's growth.",
+        "ja": "親は子どもの成長を育む。"
+      },
+      {
+        "en": "The teacher nurtured his interest in science.",
+        "ja": "その先生は彼の科学への興味を育てた。"
+      },
+      {
+        "en": "We need to nurture new ideas.",
+        "ja": "私たちは新しい考えを育てる必要がある。"
+      }
+    ]
+  },
+  {
+    "id": 1389,
+    "word": "foster",
+    "meaning": "～を養育する；育む、促進する",
+    "examples": [
+      {
+        "en": "The program fosters creativity in students.",
+        "ja": "そのプログラムは学生の創造力を育む。"
+      },
+      {
+        "en": "They fostered a child for three years.",
+        "ja": "彼らは3年間子どもを里親として育てた。"
+      },
+      {
+        "en": "Teamwork can foster trust.",
+        "ja": "チームワークは信頼を育むことができる。"
+      }
+    ]
+  },
+  {
+    "id": 1390,
+    "word": "feast",
+    "meaning": "ご馳走",
+    "examples": [
+      {
+        "en": "We enjoyed a feast after the festival.",
+        "ja": "祭りの後で私たちはご馳走を楽しんだ。"
+      },
+      {
+        "en": "The table was covered with a feast.",
+        "ja": "テーブルはご馳走でいっぱいだった。"
+      },
+      {
+        "en": "The meal was a feast for the eyes.",
+        "ja": "その食事は目にも楽しいご馳走だった。"
+      }
+    ]
+  },
+  {
+    "id": 1391,
+    "word": "appetite",
+    "meaning": "食欲",
+    "examples": [
+      {
+        "en": "I lost my appetite because of the heat.",
+        "ja": "暑さのせいで食欲をなくした。"
+      },
+      {
+        "en": "A walk before dinner may improve your appetite.",
+        "ja": "夕食前の散歩は食欲をよくするかもしれない。"
+      },
+      {
+        "en": "The delicious smell gave me an appetite.",
+        "ja": "おいしそうな匂いで食欲がわいた。"
+      }
+    ]
+  },
+  {
+    "id": 1392,
+    "word": "starve",
+    "meaning": "飢える、空腹である",
+    "examples": [
+      {
+        "en": "Many animals starve when food is scarce.",
+        "ja": "食べ物が乏しいと多くの動物が飢える。"
+      },
+      {
+        "en": "I am starving after the long practice.",
+        "ja": "長い練習の後で私はとてもお腹がすいている。"
+      },
+      {
+        "en": "The refugees were in danger of starving.",
+        "ja": "難民たちは飢える危険にさらされていた。"
+      }
+    ]
+  },
+  {
+    "id": 1393,
+    "word": "hunger",
+    "meaning": "空腹",
+    "examples": [
+      {
+        "en": "Hunger made it hard to concentrate.",
+        "ja": "空腹のため集中するのが難しかった。"
+      },
+      {
+        "en": "The charity works to reduce hunger.",
+        "ja": "その慈善団体は飢餓を減らすために活動している。"
+      },
+      {
+        "en": "He felt a strong hunger after the hike.",
+        "ja": "彼はハイキングの後、強い空腹を感じた。"
+      }
+    ]
+  },
+  {
+    "id": 1394,
+    "word": "thirst",
+    "meaning": "喉の渇き",
+    "examples": [
+      {
+        "en": "Drink water before you feel thirst.",
+        "ja": "喉の渇きを感じる前に水を飲みなさい。"
+      },
+      {
+        "en": "The long run gave me a great thirst.",
+        "ja": "長いランニングで私はとても喉が渇いた。"
+      },
+      {
+        "en": "She has a thirst for knowledge.",
+        "ja": "彼女には知識への渇望がある。"
+      }
+    ]
+  },
+  {
+    "id": 1395,
+    "word": "greed",
+    "meaning": "貪欲",
+    "examples": [
+      {
+        "en": "Greed can destroy a friendship.",
+        "ja": "貪欲さは友情を壊すことがある。"
+      },
+      {
+        "en": "The story warns readers about greed.",
+        "ja": "その物語は読者に貪欲さについて警告している。"
+      },
+      {
+        "en": "His greed for money caused many problems.",
+        "ja": "彼のお金への貪欲さは多くの問題を引き起こした。"
+      }
+    ]
+  },
+  {
+    "id": 1396,
+    "word": "famine",
+    "meaning": "飢饉",
+    "examples": [
+      {
+        "en": "The drought led to a serious famine.",
+        "ja": "干ばつは深刻な飢饉を引き起こした。"
+      },
+      {
+        "en": "Many people left the country during the famine.",
+        "ja": "飢饉の間、多くの人々がその国を離れた。"
+      },
+      {
+        "en": "Food aid was sent to areas hit by famine.",
+        "ja": "飢饉に襲われた地域に食料援助が送られた。"
+      }
+    ]
+  },
+  {
+    "id": 1397,
+    "word": "ingredient",
+    "meaning": "食材、成分",
+    "examples": [
+      {
+        "en": "Sugar is the main ingredient in this cake.",
+        "ja": "砂糖はこのケーキの主な材料だ。"
+      },
+      {
+        "en": "Check the ingredients before you buy the snack.",
+        "ja": "そのお菓子を買う前に成分を確認しなさい。"
+      },
+      {
+        "en": "Fresh vegetables are important ingredients in soup.",
+        "ja": "新鮮な野菜はスープの重要な食材だ。"
+      }
+    ]
+  },
+  {
+    "id": 1398,
+    "word": "digest",
+    "meaning": "～を消化する",
+    "examples": [
+      {
+        "en": "It takes time to digest a large meal.",
+        "ja": "たくさん食べた食事を消化するには時間がかかる。"
+      },
+      {
+        "en": "Some people cannot digest milk well.",
+        "ja": "牛乳をうまく消化できない人もいる。"
+      },
+      {
+        "en": "I needed time to digest the difficult news.",
+        "ja": "私はそのつらい知らせを受け止めるのに時間が必要だった。"
+      }
+    ]
+  },
+  {
+    "id": 1399,
+    "word": "beverage",
+    "meaning": "飲料",
+    "examples": [
+      {
+        "en": "Tea is a popular beverage in many countries.",
+        "ja": "お茶は多くの国で人気の飲料だ。"
+      },
+      {
+        "en": "This machine sells hot and cold beverages.",
+        "ja": "この機械は温かい飲料と冷たい飲料を売っている。"
+      },
+      {
+        "en": "Please choose a beverage from the menu.",
+        "ja": "メニューから飲み物を選んでください。"
+      }
+    ]
+  },
+  {
+    "id": 1400,
+    "word": "habitat",
+    "meaning": "生息地",
+    "examples": [
+      {
+        "en": "The forest is the natural habitat of many birds.",
+        "ja": "その森は多くの鳥の自然な生息地だ。"
+      },
+      {
+        "en": "Pollution is destroying the fish's habitat.",
+        "ja": "汚染がその魚の生息地を破壊している。"
+      },
+      {
+        "en": "Scientists studied the panda's habitat.",
+        "ja": "科学者たちはパンダの生息地を研究した。"
+      }
+    ]
+  }
+]
