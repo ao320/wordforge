@@ -71,6 +71,7 @@ export function App() {
           filterMode?: FilterMode;
           knownIds?: number[];
           difficultIds?: number[];
+          cardOrderIds?: number[] | null;
         };
         setIndex(s.index ?? 0);
         setMode(s.mode ?? "card");
@@ -81,6 +82,7 @@ export function App() {
         setFilterMode(s.filterMode ?? "all");
         setKnownIds(new Set(s.knownIds ?? []));
         setDifficultIds(new Set(s.difficultIds ?? []));
+        setCardOrderIds(s.cardOrderIds ?? null);
       }
     } catch {
       // ignore
@@ -104,12 +106,13 @@ export function App() {
           filterMode,
           knownIds: [...knownIds],
           difficultIds: [...difficultIds],
+          cardOrderIds,
         }),
       );
     } catch {
       // ignore persistence errors (private mode, quota, policy)
     }
-  }, [hydrated, index, mode, direction, selectedRange, listPage, search, filterMode, knownIds, difficultIds]);
+  }, [hydrated, index, mode, direction, selectedRange, listPage, search, filterMode, knownIds, difficultIds, cardOrderIds]);
 
   const speakEnglish = (text: string) => {
     if (!("speechSynthesis" in window)) return;
