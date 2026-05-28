@@ -259,6 +259,12 @@ export function App() {
 
   const ITEMS_PER_PAGE = 100;
   const totalPages = Math.max(1, Math.ceil(filteredWords.length / ITEMS_PER_PAGE));
+  useEffect(() => {
+    setListPage((p) => {
+      const clamped = Math.max(1, Math.min(p, totalPages));
+      return clamped === p ? p : clamped;
+    });
+  }, [totalPages]);
   const safePage = Math.min(listPage, totalPages);
   const pagedWords = filteredWords.slice((safePage - 1) * ITEMS_PER_PAGE, safePage * ITEMS_PER_PAGE);
 
