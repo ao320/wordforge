@@ -91,20 +91,24 @@ export function App() {
 
   useEffect(() => {
     if (!hydrated) return;
-    localStorage.setItem(
-      STORAGE_KEY,
-      JSON.stringify({
-        index,
-        mode,
-        direction,
-        selectedRange,
-        listPage,
-        search,
-        filterMode,
-        knownIds: [...knownIds],
-        difficultIds: [...difficultIds],
-      }),
-    );
+    try {
+      localStorage.setItem(
+        STORAGE_KEY,
+        JSON.stringify({
+          index,
+          mode,
+          direction,
+          selectedRange,
+          listPage,
+          search,
+          filterMode,
+          knownIds: [...knownIds],
+          difficultIds: [...difficultIds],
+        }),
+      );
+    } catch {
+      // ignore persistence errors (private mode, quota, policy)
+    }
   }, [hydrated, index, mode, direction, selectedRange, listPage, search, filterMode, knownIds, difficultIds]);
 
   const speakEnglish = (text: string) => {
