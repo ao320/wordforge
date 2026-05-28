@@ -34,6 +34,7 @@ export function App() {
   const [difficultIds, setDifficultIds] = useState<Set<number>>(new Set());
   const [hydrated, setHydrated] = useState(false);
   const [jumpIdText, setJumpIdText] = useState("");
+  const [cardOrderIds, setCardOrderIds] = useState<number[] | null>(null);
 
   useEffect(() => {
     const load = async () => {
@@ -150,15 +151,32 @@ export function App() {
     return filteredWords.filter((w) => w.id >= currentRange.start && w.id <= currentRange.end);
   }, [filteredWords, currentRange]);
 
+  const orderedCardWords = useMemo(() => {
+    if (!cardOrderIds) return cardWords;
+    const map = new Map(cardWords.map((w) => [w.id, w]));
+    return cardOrderIds.map((id) => map.get(id)).filter((w): w is WordEntry => Boolean(w));
+  }, [cardWords, cardOrderIds]);
+
+  useEffect(() => {
+    if (!cardOrderIds) return;
+    const visibleIds = new Set(cardWords.map((w) => w.id));
+    const next = cardOrderIds.filter((id) => visibleIds.has(id));
+    const missing = cardWords.map((w) => w.id).filter((id) => !next.includes(id));
+    const merged = [...next, ...missing];
+    if (merged.length !== cardOrderIds.length || merged.some((id, i) => id !== cardOrderIds[i])) {
+      setCardOrderIds(merged);
+    }
+  }, [cardWords, cardOrderIds]);
+
   useEffect(() => {
     if (!hydrated || loading) return;
-    const target = mode === "card" ? cardWords : filteredWords;
+    const target = mode === "card" ? orderedCardWords : filteredWords;
     if (target.length === 0) return;
     setIndex((p) => Math.min(p, target.length - 1));
-  }, [hydrated, loading, mode, filteredWords, cardWords]);
+  }, [hydrated, loading, mode, filteredWords, orderedCardWords]);
 
-  const current = mode === "card" ? cardWords[index] : filteredWords[index];
-  const activeCardLength = cardWords.length;
+  const current = mode === "card" ? orderedCardWords[index] : filteredWords[index];
+  const activeCardLength = orderedCardWords.length;
   const progress = activeCardLength === 0 ? 0 : ((index + 1) / activeCardLength) * 100;
 
   const nextWord = () => {
@@ -182,7 +200,7 @@ export function App() {
   const jumpToId = () => {
     const id = Number(jumpIdText);
     if (!Number.isFinite(id)) return;
-    const idx = cardWords.findIndex((w) => w.id === id);
+    const idx = orderedCardWords.findIndex((w) => w.id === id);
     if (idx >= 0) {
       setIndex(idx);
       setShowAnswer(false);
@@ -191,8 +209,9 @@ export function App() {
   };
 
   const shuffle = () => {
-    if (!words.length) return;
-    setWords((prev) => [...prev].sort(() => Math.random() - 0.5));
+    if (!orderedCardWords.length) return;
+    const shuffled = [...orderedCardWords.map((w) => w.id)].sort(() => Math.random() - 0.5);
+    setCardOrderIds(shuffled);
     setIndex(0);
     setShowAnswer(false);
     setAnimToken((t) => t + 1);
@@ -321,6 +340,7 @@ export function App() {
                     className="rangeBtn"
                     onClick={() => {
                       setSelectedRange(r.label);
+                      setCardOrderIds(null);
                       setIndex(0);
                       setShowAnswer(false);
                       setAnimToken((t) => t + 1);
@@ -395,7 +415,7 @@ export function App() {
                 <button className="miniBtn" onClick={() => jumpBy(50)}>
                   +50
                 </button>
-                <button className="miniBtn" onClick={() => (setSelectedRange(null), setIndex(0), setShowAnswer(false))}>
+                <button className="miniBtn" onClick={() => (setSelectedRange(null), setCardOrderIds(null), setIndex(0), setShowAnswer(false))}>
                   範囲変更
                 </button>
               </section>
