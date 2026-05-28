@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1101,
+    "word": "sow",
+    "meaning": "～（種）をまく",
+    "examples": [
+      {
+        "en": "Farmers sow seeds in spring.",
+        "ja": "農家は春に種をまきます。"
+      },
+      {
+        "en": "She sowed flower seeds in the garden.",
+        "ja": "彼女は庭に花の種をまきました。"
+      },
+      {
+        "en": "Good words can sow hope in people.",
+        "ja": "よい言葉は人々の心に希望をまくことができます。"
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "word": "plow",
+    "meaning": "鍬；～を耕す",
+    "examples": [
+      {
+        "en": "The farmer used a plow to turn the soil.",
+        "ja": "その農家は土を返すためにすきを使いました。"
+      },
+      {
+        "en": "They plowed the field before planting corn.",
+        "ja": "彼らはトウモロコシを植える前に畑を耕しました。"
+      },
+      {
+        "en": "A tractor can plow a large field quickly.",
+        "ja": "トラクターは広い畑を素早く耕すことができます。"
+      }
+    ]
+  },
+  {
+    "id": 1103,
+    "word": "peasant",
+    "meaning": "小作農、農夫",
+    "examples": [
+      {
+        "en": "Many peasants worked on the land.",
+        "ja": "多くの農民がその土地で働いていました。"
+      },
+      {
+        "en": "The story is about a poor peasant family.",
+        "ja": "その物語は貧しい農家の家族についてです。"
+      },
+      {
+        "en": "Peasants depended on the harvest for food.",
+        "ja": "農民たちは食料を収穫に頼っていました。"
+      }
+    ]
+  },
+  {
+    "id": 1104,
+    "word": "feed",
+    "meaning": "～に餌・食物を与える",
+    "examples": [
+      {
+        "en": "Please feed the dog before you leave.",
+        "ja": "出かける前に犬に餌をあげてください。"
+      },
+      {
+        "en": "The mother fed her baby with a spoon.",
+        "ja": "母親は赤ちゃんにスプーンで食べ物を与えました。"
+      },
+      {
+        "en": "This grass feeds many animals on the farm.",
+        "ja": "この草は農場の多くの動物の餌になります。"
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "word": "breed",
+    "meaning": "～を繁殖させる；品種、血統",
+    "examples": [
+      {
+        "en": "They breed horses on this ranch.",
+        "ja": "彼らはこの牧場で馬を繁殖させています。"
+      },
+      {
+        "en": "This breed of dog is very friendly.",
+        "ja": "この犬種はとても人なつっこいです。"
+      },
+      {
+        "en": "Some birds breed near the lake.",
+        "ja": "一部の鳥は湖の近くで繁殖します。"
+      }
+    ]
+  },
+  {
+    "id": 1106,
+    "word": "cattle",
+    "meaning": "（集合的に）牛",
+    "examples": [
+      {
+        "en": "The cattle are grazing in the field.",
+        "ja": "牛の群れが野原で草を食べています。"
+      },
+      {
+        "en": "The ranch keeps about two hundred cattle.",
+        "ja": "その牧場は約200頭の牛を飼っています。"
+      },
+      {
+        "en": "Farmers moved the cattle to fresh grass.",
+        "ja": "農家は牛たちを新しい草地へ移しました。"
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "word": "herd",
+    "meaning": "（牛などの）群れ",
+    "examples": [
+      {
+        "en": "A herd of cows crossed the road.",
+        "ja": "牛の群れが道路を渡りました。"
+      },
+      {
+        "en": "The boy watched the herd from the hill.",
+        "ja": "少年は丘からその群れを見ていました。"
+      },
+      {
+        "en": "The farmer led the herd back to the barn.",
+        "ja": "農家は群れを納屋へ連れて帰りました。"
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "word": "flock",
+    "meaning": "（動物の）群れ；群れる",
+    "examples": [
+      {
+        "en": "A flock of birds flew over the town.",
+        "ja": "鳥の群れが町の上を飛んでいきました。"
+      },
+      {
+        "en": "Tourists flock to the beach in summer.",
+        "ja": "夏には観光客がその浜辺に群がります。"
+      },
+      {
+        "en": "The shepherd counted his flock of sheep.",
+        "ja": "羊飼いは羊の群れを数えました。"
+      }
+    ]
+  },
+  {
+    "id": 1109,
+    "word": "ranch",
+    "meaning": "牧場",
+    "examples": [
+      {
+        "en": "My uncle owns a small ranch.",
+        "ja": "私のおじは小さな牧場を所有しています。"
+      },
+      {
+        "en": "They raise cattle on the ranch.",
+        "ja": "彼らはその牧場で牛を育てています。"
+      },
+      {
+        "en": "We stayed at a ranch during the trip.",
+        "ja": "私たちは旅行中に牧場に泊まりました。"
+      }
+    ]
+  },
+  {
+    "id": 1110,
+    "word": "media",
+    "meaning": "メディア、媒体",
+    "examples": [
+      {
+        "en": "The media reported the news quickly.",
+        "ja": "メディアはそのニュースを素早く報じました。"
+      },
+      {
+        "en": "Social media can spread information fast.",
+        "ja": "ソーシャルメディアは情報を素早く広めることができます。"
+      },
+      {
+        "en": "Different media use different styles.",
+        "ja": "異なる媒体は異なる表現方法を使います。"
+      }
+    ]
+  },
+  {
+    "id": 1111,
+    "word": "mass",
+    "meaning": "集団、大衆、多数",
+    "examples": [
+      {
+        "en": "A mass of people gathered in the square.",
+        "ja": "大勢の人々が広場に集まりました。"
+      },
+      {
+        "en": "The product was made for the mass market.",
+        "ja": "その製品は大衆市場向けに作られました。"
+      },
+      {
+        "en": "There was a mass of clouds in the sky.",
+        "ja": "空には雲の大きなかたまりがありました。"
+      }
+    ]
+  },
+  {
+    "id": 1112,
+    "word": "broadcast",
+    "meaning": "～を放送する；放送",
+    "examples": [
+      {
+        "en": "The game will be broadcast live tonight.",
+        "ja": "その試合は今夜生放送されます。"
+      },
+      {
+        "en": "The station broadcasts news every hour.",
+        "ja": "その放送局は毎時ニュースを放送します。"
+      },
+      {
+        "en": "I watched a broadcast about space.",
+        "ja": "私は宇宙についての放送を見ました。"
+      }
+    ]
+  },
+  {
+    "id": 1113,
+    "word": "journalism",
+    "meaning": "ジャーナリズム、報道",
+    "examples": [
+      {
+        "en": "She studied journalism at university.",
+        "ja": "彼女は大学でジャーナリズムを学びました。"
+      },
+      {
+        "en": "Good journalism checks facts carefully.",
+        "ja": "よい報道は事実を慎重に確認します。"
+      },
+      {
+        "en": "Journalism plays an important role in society.",
+        "ja": "ジャーナリズムは社会で重要な役割を果たします。"
+      }
+    ]
+  },
+  {
+    "id": 1114,
+    "word": "article",
+    "meaning": "記事、論文；品物；冠詞",
+    "examples": [
+      {
+        "en": "I read an article about climate change.",
+        "ja": "私は気候変動についての記事を読みました。"
+      },
+      {
+        "en": "This article explains the experiment clearly.",
+        "ja": "この記事はその実験を分かりやすく説明しています。"
+      },
+      {
+        "en": "English has articles such as a, an, and the.",
+        "ja": "英語にはa、an、theのような冠詞があります。"
+      }
+    ]
+  },
+  {
+    "id": 1115,
+    "word": "headline",
+    "meaning": "見出し",
+    "examples": [
+      {
+        "en": "The headline caught my attention.",
+        "ja": "その見出しは私の注意を引きました。"
+      },
+      {
+        "en": "Today's headline was about the election.",
+        "ja": "今日の見出しは選挙についてでした。"
+      },
+      {
+        "en": "A good headline makes people want to read.",
+        "ja": "よい見出しは人に読みたいと思わせます。"
+      }
+    ]
+  },
+  {
+    "id": 1116,
+    "word": "Internet",
+    "meaning": "インターネット",
+    "examples": [
+      {
+        "en": "The Internet helps us find information.",
+        "ja": "インターネットは情報を探すのに役立ちます。"
+      },
+      {
+        "en": "I learned the news on the Internet.",
+        "ja": "私はインターネットでそのニュースを知りました。"
+      },
+      {
+        "en": "Many people use the Internet every day.",
+        "ja": "多くの人が毎日インターネットを使います。"
+      }
+    ]
+  },
+  {
+    "id": 1117,
+    "word": "advertisement",
+    "meaning": "広告",
+    "examples": [
+      {
+        "en": "I saw an advertisement for a new phone.",
+        "ja": "私は新しい携帯電話の広告を見ました。"
+      },
+      {
+        "en": "The advertisement appeared on the website.",
+        "ja": "その広告はウェブサイトに表示されました。"
+      },
+      {
+        "en": "A good advertisement is easy to remember.",
+        "ja": "よい広告は覚えやすいです。"
+      }
+    ]
+  },
+  {
+    "id": 1118,
+    "word": "publish",
+    "meaning": "～を出版する、公表する",
+    "examples": [
+      {
+        "en": "The writer will publish a new novel.",
+        "ja": "その作家は新しい小説を出版する予定です。"
+      },
+      {
+        "en": "The company published the results online.",
+        "ja": "その会社は結果をオンラインで公表しました。"
+      },
+      {
+        "en": "They publish a magazine every month.",
+        "ja": "彼らは毎月雑誌を発行しています。"
+      }
+    ]
+  },
+  {
+    "id": 1119,
+    "word": "edit",
+    "meaning": "～を編集する",
+    "examples": [
+      {
+        "en": "She edited the video for her class.",
+        "ja": "彼女は授業のために動画を編集しました。"
+      },
+      {
+        "en": "Please edit this sentence to make it clearer.",
+        "ja": "この文をより分かりやすく編集してください。"
+      },
+      {
+        "en": "He edits articles for a newspaper.",
+        "ja": "彼は新聞の記事を編集しています。"
+      }
+    ]
+  },
+  {
+    "id": 1120,
+    "word": "compile",
+    "meaning": "～を編集する、1つに集める",
+    "examples": [
+      {
+        "en": "We compiled a list of useful words.",
+        "ja": "私たちは役に立つ単語の一覧をまとめました。"
+      },
+      {
+        "en": "The teacher compiled the students' reports.",
+        "ja": "先生は学生たちのレポートを1つにまとめました。"
+      },
+      {
+        "en": "This book compiles many old stories.",
+        "ja": "この本は多くの古い物語を収録しています。"
+      }
+    ]
+  },
+  {
+    "id": 1121,
+    "word": "cartoon",
+    "meaning": "漫画、アニメ",
+    "examples": [
+      {
+        "en": "I watched a cartoon after school.",
+        "ja": "私は放課後にアニメを見ました。"
+      },
+      {
+        "en": "The newspaper has a funny cartoon.",
+        "ja": "その新聞には面白い漫画があります。"
+      },
+      {
+        "en": "Children often enjoy colorful cartoons.",
+        "ja": "子どもたちはよくカラフルなアニメを楽しみます。"
+      }
+    ]
+  },
+  {
+    "id": 1122,
+    "word": "manufacture",
+    "meaning": "製造、生産；～を製造する",
+    "examples": [
+      {
+        "en": "The factory manufactures car parts.",
+        "ja": "その工場は自動車部品を製造しています。"
+      },
+      {
+        "en": "The manufacture of smartphones requires many steps.",
+        "ja": "スマートフォンの製造には多くの工程が必要です。"
+      },
+      {
+        "en": "These shoes are manufactured in Vietnam.",
+        "ja": "これらの靴はベトナムで製造されています。"
+      }
+    ]
+  },
+  {
+    "id": 1123,
+    "word": "produce",
+    "meaning": "～を生産する、生み出す",
+    "examples": [
+      {
+        "en": "This farm produces fresh vegetables.",
+        "ja": "この農場は新鮮な野菜を生産しています。"
+      },
+      {
+        "en": "The machine produces a loud noise.",
+        "ja": "その機械は大きな音を出します。"
+      },
+      {
+        "en": "Good teamwork can produce better results.",
+        "ja": "よいチームワークはよりよい結果を生み出すことができます。"
+      }
+    ]
+  },
+  {
+    "id": 1124,
+    "word": "create",
+    "meaning": "～を創造する、生み出す",
+    "examples": [
+      {
+        "en": "She wants to create her own game.",
+        "ja": "彼女は自分のゲームを作りたいと思っています。"
+      },
+      {
+        "en": "The new rule created many problems.",
+        "ja": "その新しい規則は多くの問題を生み出しました。"
+      },
+      {
+        "en": "Artists create works from their ideas.",
+        "ja": "芸術家は自分の考えから作品を生み出します。"
+      }
+    ]
+  },
+  {
+    "id": 1125,
+    "word": "consume",
+    "meaning": "～を消費する",
+    "examples": [
+      {
+        "en": "This car consumes less fuel.",
+        "ja": "この車は燃料の消費が少ないです。"
+      },
+      {
+        "en": "People consume a lot of electricity in summer.",
+        "ja": "人々は夏に多くの電気を消費します。"
+      },
+      {
+        "en": "The project consumed much time and money.",
+        "ja": "その計画は多くの時間とお金を消費しました。"
+      }
+    ]
+  },
+  {
+    "id": 1126,
+    "word": "trade",
+    "meaning": "貿易、取引；商売；職業",
+    "examples": [
+      {
+        "en": "Japan trades with many countries.",
+        "ja": "日本は多くの国と貿易をしています。"
+      },
+      {
+        "en": "The two companies made a trade agreement.",
+        "ja": "その2社は取引契約を結びました。"
+      },
+      {
+        "en": "He learned the trade from his father.",
+        "ja": "彼は父親からその職業の技術を学びました。"
+      }
+    ]
+  },
+  {
+    "id": 1127,
+    "word": "deal",
+    "meaning": "取引；量",
+    "examples": [
+      {
+        "en": "They made a deal with the company.",
+        "ja": "彼らはその会社と取引をしました。"
+      },
+      {
+        "en": "I have a great deal of homework today.",
+        "ja": "今日は宿題がとてもたくさんあります。"
+      },
+      {
+        "en": "This store offers good deals on books.",
+        "ja": "この店は本をお得な価格で販売しています。"
+      }
+    ]
+  },
+  {
+    "id": 1128,
+    "word": "commerce",
+    "meaning": "通商、貿易",
+    "examples": [
+      {
+        "en": "The city became a center of commerce.",
+        "ja": "その都市は商業の中心地になりました。"
+      },
+      {
+        "en": "E-commerce has grown rapidly.",
+        "ja": "電子商取引は急速に成長しました。"
+      },
+      {
+        "en": "Commerce connects producers and consumers.",
+        "ja": "商業は生産者と消費者を結びます。"
+      }
+    ]
+  },
+  {
+    "id": 1129,
+    "word": "merchant",
+    "meaning": "商人",
+    "examples": [
+      {
+        "en": "The merchant sold spices in the market.",
+        "ja": "その商人は市場で香辛料を売っていました。"
+      },
+      {
+        "en": "Many merchants came to the port town.",
+        "ja": "多くの商人がその港町に来ました。"
+      },
+      {
+        "en": "The old merchant knew the value of goods.",
+        "ja": "その年老いた商人は商品の価値を知っていました。"
+      }
+    ]
+  },
+  {
+    "id": 1130,
+    "word": "commodity",
+    "meaning": "商品；日用品",
+    "examples": [
+      {
+        "en": "Oil is an important commodity.",
+        "ja": "石油は重要な商品です。"
+      },
+      {
+        "en": "The price of basic commodities rose.",
+        "ja": "基本的な日用品の価格が上がりました。"
+      },
+      {
+        "en": "Rice is a common commodity in this market.",
+        "ja": "米はこの市場でよく見られる商品です。"
+      }
+    ]
+  },
+  {
+    "id": 1131,
+    "word": "retail",
+    "meaning": "小売りの",
+    "examples": [
+      {
+        "en": "She works in a retail store.",
+        "ja": "彼女は小売店で働いています。"
+      },
+      {
+        "en": "The retail price is printed on the box.",
+        "ja": "小売価格は箱に印刷されています。"
+      },
+      {
+        "en": "Retail sales increased during the holiday season.",
+        "ja": "休暇シーズン中に小売売上が増えました。"
+      }
+    ]
+  },
+  {
+    "id": 1132,
+    "word": "import",
+    "meaning": "～を輸入する；輸入（品）",
+    "examples": [
+      {
+        "en": "Japan imports oil from other countries.",
+        "ja": "日本は他国から石油を輸入しています。"
+      },
+      {
+        "en": "This shop sells imported cheese.",
+        "ja": "この店は輸入チーズを売っています。"
+      },
+      {
+        "en": "The import of rice was limited.",
+        "ja": "米の輸入は制限されました。"
+      }
+    ]
+  },
+  {
+    "id": 1133,
+    "word": "export",
+    "meaning": "～を輸出する；輸出（品）",
+    "examples": [
+      {
+        "en": "The company exports cars to Europe.",
+        "ja": "その会社はヨーロッパへ車を輸出しています。"
+      },
+      {
+        "en": "Tea is one of the country's main exports.",
+        "ja": "お茶はその国の主要な輸出品の一つです。"
+      },
+      {
+        "en": "They export high-quality tools.",
+        "ja": "彼らは高品質な工具を輸出しています。"
+      }
+    ]
+  },
+  {
+    "id": 1134,
+    "word": "employ",
+    "meaning": "～を雇う；～を用いる",
+    "examples": [
+      {
+        "en": "The factory employs many local workers.",
+        "ja": "その工場は多くの地元労働者を雇っています。"
+      },
+      {
+        "en": "We employed a new method in the experiment.",
+        "ja": "私たちは実験で新しい方法を用いました。"
+      },
+      {
+        "en": "Small shops often employ part-time students.",
+        "ja": "小さな店はよくアルバイトの学生を雇います。"
+      }
+    ]
+  },
+  {
+    "id": 1135,
+    "word": "labor",
+    "meaning": "労働",
+    "examples": [
+      {
+        "en": "The job requires a lot of physical labor.",
+        "ja": "その仕事には多くの肉体労働が必要です。"
+      },
+      {
+        "en": "Labor costs are rising.",
+        "ja": "人件費が上がっています。"
+      },
+      {
+        "en": "The workers demanded better labor conditions.",
+        "ja": "労働者たちはよりよい労働条件を求めました。"
+      }
+    ]
+  },
+  {
+    "id": 1136,
+    "word": "manage",
+    "meaning": "～を経営する；なんとかしてやり遂げる",
+    "examples": [
+      {
+        "en": "She manages a small restaurant.",
+        "ja": "彼女は小さなレストランを経営しています。"
+      },
+      {
+        "en": "I managed to finish the report on time.",
+        "ja": "私はなんとか時間通りにレポートを終えました。"
+      },
+      {
+        "en": "Good leaders manage people carefully.",
+        "ja": "よいリーダーは人々を慎重に管理します。"
+      }
+    ]
+  },
+  {
+    "id": 1137,
+    "word": "contract",
+    "meaning": "契約；～を契約する；～（病気）にかかる；収縮する",
+    "examples": [
+      {
+        "en": "They signed a contract yesterday.",
+        "ja": "彼らは昨日契約書に署名しました。"
+      },
+      {
+        "en": "The company contracted with a local supplier.",
+        "ja": "その会社は地元の供給業者と契約しました。"
+      },
+      {
+        "en": "Metal contracts when it gets cold.",
+        "ja": "金属は冷えると収縮します。"
+      }
+    ]
+  },
+  {
+    "id": 1138,
+    "word": "agent",
+    "meaning": "代理店、代理人、行為者",
+    "examples": [
+      {
+        "en": "A travel agent booked our hotel.",
+        "ja": "旅行代理店が私たちのホテルを予約しました。"
+      },
+      {
+        "en": "The actor spoke through his agent.",
+        "ja": "その俳優は代理人を通して話しました。"
+      },
+      {
+        "en": "Soap acts as a cleaning agent.",
+        "ja": "石けんは洗浄剤として働きます。"
+      }
+    ]
+  },
+  {
+    "id": 1139,
+    "word": "medicine",
+    "meaning": "薬；医学",
+    "examples": [
+      {
+        "en": "Take this medicine after meals.",
+        "ja": "食後にこの薬を飲んでください。"
+      },
+      {
+        "en": "She studies medicine at university.",
+        "ja": "彼女は大学で医学を学んでいます。"
+      },
+      {
+        "en": "Modern medicine has saved many lives.",
+        "ja": "現代医学は多くの命を救ってきました。"
+      }
+    ]
+  },
+  {
+    "id": 1140,
+    "word": "pharmacy",
+    "meaning": "薬局",
+    "examples": [
+      {
+        "en": "I bought cold medicine at the pharmacy.",
+        "ja": "私は薬局で風邪薬を買いました。"
+      },
+      {
+        "en": "The pharmacy is next to the hospital.",
+        "ja": "その薬局は病院の隣にあります。"
+      },
+      {
+        "en": "She works at a pharmacy on weekends.",
+        "ja": "彼女は週末に薬局で働いています。"
+      }
+    ]
+  },
+  {
+    "id": 1141,
+    "word": "surgery",
+    "meaning": "外科手術",
+    "examples": [
+      {
+        "en": "He had surgery on his knee.",
+        "ja": "彼は膝の手術を受けました。"
+      },
+      {
+        "en": "The surgery took three hours.",
+        "ja": "その手術には3時間かかりました。"
+      },
+      {
+        "en": "She recovered well after the surgery.",
+        "ja": "彼女は手術後、順調に回復しました。"
+      }
+    ]
+  },
+  {
+    "id": 1142,
+    "word": "vein",
+    "meaning": "血管、静脈",
+    "examples": [
+      {
+        "en": "The nurse found a vein in his arm.",
+        "ja": "看護師は彼の腕の静脈を見つけました。"
+      },
+      {
+        "en": "Blood returns to the heart through veins.",
+        "ja": "血液は静脈を通って心臓に戻ります。"
+      },
+      {
+        "en": "The leaf has thin veins.",
+        "ja": "その葉には細い葉脈があります。"
+      }
+    ]
+  },
+  {
+    "id": 1143,
+    "word": "artery",
+    "meaning": "動脈",
+    "examples": [
+      {
+        "en": "Arteries carry blood away from the heart.",
+        "ja": "動脈は心臓から血液を運び出します。"
+      },
+      {
+        "en": "A blocked artery can be dangerous.",
+        "ja": "詰まった動脈は危険な場合があります。"
+      },
+      {
+        "en": "The doctor checked the main artery.",
+        "ja": "医者は主要な動脈を調べました。"
+      }
+    ]
+  },
+  {
+    "id": 1144,
+    "word": "physical",
+    "meaning": "身体の；物理的な",
+    "examples": [
+      {
+        "en": "Regular exercise improves physical health.",
+        "ja": "定期的な運動は身体の健康を改善します。"
+      },
+      {
+        "en": "The job requires physical strength.",
+        "ja": "その仕事には体力が必要です。"
+      },
+      {
+        "en": "We studied physical changes in science class.",
+        "ja": "私たちは理科の授業で物理的変化を学びました。"
+      }
+    ]
+  },
+  {
+    "id": 1145,
+    "word": "disease",
+    "meaning": "病気",
+    "examples": [
+      {
+        "en": "The disease spread quickly.",
+        "ja": "その病気は急速に広がりました。"
+      },
+      {
+        "en": "Clean water can prevent many diseases.",
+        "ja": "清潔な水は多くの病気を防ぐことができます。"
+      },
+      {
+        "en": "Doctors are studying the cause of the disease.",
+        "ja": "医師たちはその病気の原因を研究しています。"
+      }
+    ]
+  },
+  {
+    "id": 1146,
+    "word": "symptom",
+    "meaning": "兆候、症状",
+    "examples": [
+      {
+        "en": "A high fever is a common symptom.",
+        "ja": "高熱はよくある症状です。"
+      },
+      {
+        "en": "Tell the doctor about your symptoms.",
+        "ja": "あなたの症状を医者に伝えてください。"
+      },
+      {
+        "en": "The first symptom was a sore throat.",
+        "ja": "最初の症状は喉の痛みでした。"
+      }
+    ]
+  },
+  {
+    "id": 1147,
+    "word": "ache",
+    "meaning": "（ずきずき）痛む",
+    "examples": [
+      {
+        "en": "My back aches after sitting too long.",
+        "ja": "長く座った後、背中がずきずき痛みます。"
+      },
+      {
+        "en": "Her head began to ache.",
+        "ja": "彼女の頭が痛み始めました。"
+      },
+      {
+        "en": "I have a stomach ache.",
+        "ja": "私は腹痛があります。"
+      }
+    ]
+  },
+  {
+    "id": 1148,
+    "word": "acute",
+    "meaning": "鋭い、激しい",
+    "examples": [
+      {
+        "en": "He felt acute pain in his chest.",
+        "ja": "彼は胸に激しい痛みを感じました。"
+      },
+      {
+        "en": "The country faced an acute shortage of water.",
+        "ja": "その国は深刻な水不足に直面しました。"
+      },
+      {
+        "en": "She has an acute sense of smell.",
+        "ja": "彼女は鋭い嗅覚を持っています。"
+      }
+    ]
+  },
+  {
+    "id": 1149,
+    "word": "sore",
+    "meaning": "（喉・筋肉などがヒリヒリ）痛い",
+    "examples": [
+      {
+        "en": "I have a sore throat.",
+        "ja": "私は喉が痛いです。"
+      },
+      {
+        "en": "My legs are sore after running.",
+        "ja": "走った後で脚が筋肉痛です。"
+      },
+      {
+        "en": "This cream helps sore skin.",
+        "ja": "このクリームはヒリヒリする肌に効きます。"
+      }
+    ]
+  },
+  {
+    "id": 1150,
+    "word": "dizzy",
+    "meaning": "めまいがする",
+    "examples": [
+      {
+        "en": "I felt dizzy after standing up.",
+        "ja": "立ち上がった後、めまいがしました。"
+      },
+      {
+        "en": "The heat made her dizzy.",
+        "ja": "暑さで彼女はめまいがしました。"
+      },
+      {
+        "en": "If you feel dizzy, sit down.",
+        "ja": "めまいがしたら座ってください。"
+      }
+    ]
+  },
+  {
+    "id": 1151,
+    "word": "cough",
+    "meaning": "咳をする；咳",
+    "examples": [
+      {
+        "en": "He has a bad cough.",
+        "ja": "彼はひどい咳をしています。"
+      },
+      {
+        "en": "She coughed during the night.",
+        "ja": "彼女は夜の間に咳をしました。"
+      },
+      {
+        "en": "Cover your mouth when you cough.",
+        "ja": "咳をするときは口を覆ってください。"
+      }
+    ]
+  },
+  {
+    "id": 1152,
+    "word": "fever",
+    "meaning": "熱",
+    "examples": [
+      {
+        "en": "The child has a fever.",
+        "ja": "その子どもは熱があります。"
+      },
+      {
+        "en": "A high fever can be dangerous.",
+        "ja": "高熱は危険なことがあります。"
+      },
+      {
+        "en": "She stayed home because of a fever.",
+        "ja": "彼女は熱のため家にいました。"
+      }
+    ]
+  },
+  {
+    "id": 1153,
+    "word": "paralyze",
+    "meaning": "～を麻痺させる",
+    "examples": [
+      {
+        "en": "The accident paralyzed his left arm.",
+        "ja": "その事故で彼の左腕は麻痺しました。"
+      },
+      {
+        "en": "Fear can paralyze a person's mind.",
+        "ja": "恐怖は人の心を麻痺させることがあります。"
+      },
+      {
+        "en": "The storm paralyzed traffic in the city.",
+        "ja": "嵐は市内の交通を麻痺させました。"
+      }
+    ]
+  },
+  {
+    "id": 1154,
+    "word": "patient",
+    "meaning": "患者；我慢強い",
+    "examples": [
+      {
+        "en": "The patient waited for the doctor.",
+        "ja": "その患者は医者を待っていました。"
+      },
+      {
+        "en": "You need to be patient with children.",
+        "ja": "子どもには我慢強く接する必要があります。"
+      },
+      {
+        "en": "The nurse spoke kindly to each patient.",
+        "ja": "看護師はそれぞれの患者に優しく話しました。"
+      }
+    ]
+  },
+  {
+    "id": 1155,
+    "word": "ambulance",
+    "meaning": "救急車",
+    "examples": [
+      {
+        "en": "Someone called an ambulance.",
+        "ja": "誰かが救急車を呼びました。"
+      },
+      {
+        "en": "The ambulance arrived in five minutes.",
+        "ja": "救急車は5分で到着しました。"
+      },
+      {
+        "en": "The injured man was taken by ambulance.",
+        "ja": "けがをした男性は救急車で運ばれました。"
+      }
+    ]
+  },
+  {
+    "id": 1156,
+    "word": "diagnose",
+    "meaning": "～を診断する",
+    "examples": [
+      {
+        "en": "The doctor diagnosed her illness.",
+        "ja": "医者は彼女の病気を診断しました。"
+      },
+      {
+        "en": "It took time to diagnose the problem.",
+        "ja": "その問題を診断するのに時間がかかりました。"
+      },
+      {
+        "en": "The test helped diagnose the disease early.",
+        "ja": "その検査は病気を早期に診断する助けになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1157,
+    "word": "cure",
+    "meaning": "～（病気）を治す、治療する；治療法",
+    "examples": [
+      {
+        "en": "This medicine may cure the infection.",
+        "ja": "この薬は感染症を治すかもしれません。"
+      },
+      {
+        "en": "Scientists are searching for a cure.",
+        "ja": "科学者たちは治療法を探しています。"
+      },
+      {
+        "en": "Rest alone cannot cure every illness.",
+        "ja": "休息だけですべての病気を治せるわけではありません。"
+      }
+    ]
+  },
+  {
+    "id": 1158,
+    "word": "heal",
+    "meaning": "～（けが）を治す；（傷が）治る",
+    "examples": [
+      {
+        "en": "The cut will heal in a few days.",
+        "ja": "その切り傷は数日で治るでしょう。"
+      },
+      {
+        "en": "Sleep helps the body heal.",
+        "ja": "睡眠は体が回復するのを助けます。"
+      },
+      {
+        "en": "Time can heal emotional wounds.",
+        "ja": "時間は心の傷を癒やすことがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1159,
+    "word": "treat",
+    "meaning": "～を扱う、に接する；～を治療する；～におごる",
+    "examples": [
+      {
+        "en": "Doctors treated the injured child.",
+        "ja": "医師たちはけがをした子どもを治療しました。"
+      },
+      {
+        "en": "Please treat everyone with respect.",
+        "ja": "すべての人に敬意を持って接してください。"
+      },
+      {
+        "en": "My friend treated me to lunch.",
+        "ja": "友人が私に昼食をおごってくれました。"
+      }
+    ]
+  },
+  {
+    "id": 1160,
+    "word": "recover",
+    "meaning": "（～から）回復する；～を取り戻す",
+    "examples": [
+      {
+        "en": "She recovered from the flu quickly.",
+        "ja": "彼女はインフルエンザからすぐに回復しました。"
+      },
+      {
+        "en": "The company recovered its lost data.",
+        "ja": "その会社は失われたデータを取り戻しました。"
+      },
+      {
+        "en": "It took months to recover after the accident.",
+        "ja": "事故の後に回復するまで何か月もかかりました。"
+      }
+    ]
+  },
+  {
+    "id": 1161,
+    "word": "operate",
+    "meaning": "作動・作用する；手術する；～を操作する",
+    "examples": [
+      {
+        "en": "This machine operates automatically.",
+        "ja": "この機械は自動で作動します。"
+      },
+      {
+        "en": "The doctor will operate on his knee.",
+        "ja": "医者は彼の膝を手術する予定です。"
+      },
+      {
+        "en": "Can you operate this camera?",
+        "ja": "このカメラを操作できますか。"
+      }
+    ]
+  },
+  {
+    "id": 1162,
+    "word": "go through",
+    "meaning": "～を経験する",
+    "examples": [
+      {
+        "en": "She went through a difficult time.",
+        "ja": "彼女はつらい時期を経験しました。"
+      },
+      {
+        "en": "We went through many changes last year.",
+        "ja": "私たちは昨年多くの変化を経験しました。"
+      },
+      {
+        "en": "He went through a lot before he succeeded.",
+        "ja": "彼は成功する前に多くのことを経験しました。"
+      }
+    ]
+  },
+  {
+    "id": 1163,
+    "word": "cancer",
+    "meaning": "癌",
+    "examples": [
+      {
+        "en": "Cancer treatment has improved greatly.",
+        "ja": "がん治療は大きく進歩しました。"
+      },
+      {
+        "en": "His mother recovered from cancer.",
+        "ja": "彼の母親はがんから回復しました。"
+      },
+      {
+        "en": "Doctors found the cancer at an early stage.",
+        "ja": "医師たちは早期にそのがんを発見しました。"
+      }
+    ]
+  },
+  {
+    "id": 1164,
+    "word": "tumor",
+    "meaning": "腫瘍",
+    "examples": [
+      {
+        "en": "The doctor found a small tumor.",
+        "ja": "医者は小さな腫瘍を見つけました。"
+      },
+      {
+        "en": "The tumor was removed by surgery.",
+        "ja": "その腫瘍は手術で取り除かれました。"
+      },
+      {
+        "en": "Not every tumor is cancer.",
+        "ja": "すべての腫瘍ががんというわけではありません。"
+      }
+    ]
+  },
+  {
+    "id": 1165,
+    "word": "diabetes",
+    "meaning": "糖尿病",
+    "examples": [
+      {
+        "en": "Diabetes requires careful diet control.",
+        "ja": "糖尿病には慎重な食事管理が必要です。"
+      },
+      {
+        "en": "Regular exercise can help prevent diabetes.",
+        "ja": "定期的な運動は糖尿病の予防に役立ちます。"
+      },
+      {
+        "en": "He checks his blood sugar because of diabetes.",
+        "ja": "彼は糖尿病のため血糖値を確認しています。"
+      }
+    ]
+  },
+  {
+    "id": 1166,
+    "word": "stroke",
+    "meaning": "脳卒中",
+    "examples": [
+      {
+        "en": "His grandfather had a stroke.",
+        "ja": "彼の祖父は脳卒中を起こしました。"
+      },
+      {
+        "en": "Quick treatment is important after a stroke.",
+        "ja": "脳卒中の後は素早い治療が重要です。"
+      },
+      {
+        "en": "High blood pressure can increase the risk of stroke.",
+        "ja": "高血圧は脳卒中の危険を高めることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1167,
+    "word": "virus",
+    "meaning": "ウイルス",
+    "examples": [
+      {
+        "en": "The virus spread around the world.",
+        "ja": "そのウイルスは世界中に広がりました。"
+      },
+      {
+        "en": "A virus can cause a fever.",
+        "ja": "ウイルスは熱を引き起こすことがあります。"
+      },
+      {
+        "en": "Wash your hands to reduce the risk of viruses.",
+        "ja": "ウイルスのリスクを減らすために手を洗いましょう。"
+      }
+    ]
+  },
+  {
+    "id": 1168,
+    "word": "germ",
+    "meaning": "ばい菌、細菌",
+    "examples": [
+      {
+        "en": "Soap helps remove germs.",
+        "ja": "石けんはばい菌を取り除くのに役立ちます。"
+      },
+      {
+        "en": "Germs can spread through dirty hands.",
+        "ja": "ばい菌は汚れた手を通じて広がることがあります。"
+      },
+      {
+        "en": "The teacher told us how germs cause disease.",
+        "ja": "先生はばい菌がどのように病気を引き起こすかを教えてくれました。"
+      }
+    ]
+  },
+  {
+    "id": 1169,
+    "word": "infect",
+    "meaning": "～に感染させる",
+    "examples": [
+      {
+        "en": "The virus can infect many people.",
+        "ja": "そのウイルスは多くの人に感染する可能性があります。"
+      },
+      {
+        "en": "The cut became infected.",
+        "ja": "その切り傷は感染しました。"
+      },
+      {
+        "en": "One sick animal may infect the whole herd.",
+        "ja": "一頭の病気の動物が群れ全体に感染させるかもしれません。"
+      }
+    ]
+  },
+  {
+    "id": 1170,
+    "word": "epidemic",
+    "meaning": "伝染病",
+    "examples": [
+      {
+        "en": "The epidemic spread through the city.",
+        "ja": "その伝染病は市内に広がりました。"
+      },
+      {
+        "en": "Doctors worked hard during the epidemic.",
+        "ja": "医師たちはその流行病の間、一生懸命働きました。"
+      },
+      {
+        "en": "An epidemic can change daily life.",
+        "ja": "伝染病の流行は日常生活を変えることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1171,
+    "word": "plague",
+    "meaning": "疫病；災難",
+    "examples": [
+      {
+        "en": "The plague killed many people in history.",
+        "ja": "歴史上、その疫病は多くの人を死に至らせました。"
+      },
+      {
+        "en": "The village was struck by a plague.",
+        "ja": "その村は疫病に襲われました。"
+      },
+      {
+        "en": "Floods and fires plagued the region.",
+        "ja": "洪水や火災がその地域を苦しめました。"
+      }
+    ]
+  },
+  {
+    "id": 1172,
+    "word": "vaccine",
+    "meaning": "ワクチン",
+    "examples": [
+      {
+        "en": "The vaccine protects people from disease.",
+        "ja": "そのワクチンは人々を病気から守ります。"
+      },
+      {
+        "en": "Scientists developed a new vaccine.",
+        "ja": "科学者たちは新しいワクチンを開発しました。"
+      },
+      {
+        "en": "Many children receive vaccines at school.",
+        "ja": "多くの子どもたちは学校でワクチンを受けます。"
+      }
+    ]
+  },
+  {
+    "id": 1173,
+    "word": "defect",
+    "meaning": "欠陥、欠点、障害",
+    "examples": [
+      {
+        "en": "The product had a serious defect.",
+        "ja": "その製品には重大な欠陥がありました。"
+      },
+      {
+        "en": "Engineers found a defect in the design.",
+        "ja": "技術者たちは設計の欠陥を見つけました。"
+      },
+      {
+        "en": "The defect caused the machine to stop.",
+        "ja": "その欠陥が機械を停止させました。"
+      }
+    ]
+  },
+  {
+    "id": 1174,
+    "word": "immune",
+    "meaning": "（～に対して）免疫のある",
+    "examples": [
+      {
+        "en": "Some people are immune to the disease.",
+        "ja": "一部の人はその病気に免疫があります。"
+      },
+      {
+        "en": "Vaccines help the body become immune.",
+        "ja": "ワクチンは体が免疫を持つのを助けます。"
+      },
+      {
+        "en": "No one is immune to stress.",
+        "ja": "ストレスの影響を受けない人はいません。"
+      }
+    ]
+  },
+  {
+    "id": 1175,
+    "word": "allergy",
+    "meaning": "アレルギー",
+    "examples": [
+      {
+        "en": "She has an allergy to peanuts.",
+        "ja": "彼女はピーナッツアレルギーがあります。"
+      },
+      {
+        "en": "His allergy gets worse in spring.",
+        "ja": "彼のアレルギーは春に悪化します。"
+      },
+      {
+        "en": "Tell the doctor about any food allergies.",
+        "ja": "食物アレルギーがあれば医者に伝えてください。"
+      }
+    ]
+  },
+  {
+    "id": 1176,
+    "word": "gene",
+    "meaning": "遺伝子",
+    "examples": [
+      {
+        "en": "Eye color is influenced by genes.",
+        "ja": "目の色は遺伝子の影響を受けます。"
+      },
+      {
+        "en": "Scientists study how genes work.",
+        "ja": "科学者たちは遺伝子がどのように働くかを研究しています。"
+      },
+      {
+        "en": "The disease may be linked to a gene.",
+        "ja": "その病気はある遺伝子と関係しているかもしれません。"
+      }
+    ]
+  },
+  {
+    "id": 1177,
+    "word": "cell",
+    "meaning": "細胞",
+    "examples": [
+      {
+        "en": "The human body is made of cells.",
+        "ja": "人体は細胞でできています。"
+      },
+      {
+        "en": "We observed plant cells under a microscope.",
+        "ja": "私たちは顕微鏡で植物細胞を観察しました。"
+      },
+      {
+        "en": "Each cell has important functions.",
+        "ja": "それぞれの細胞には重要な働きがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1178,
+    "word": "organism",
+    "meaning": "生物",
+    "examples": [
+      {
+        "en": "A tree is a living organism.",
+        "ja": "木は生きている生物です。"
+      },
+      {
+        "en": "Tiny organisms live in the water.",
+        "ja": "小さな生物が水の中に住んでいます。"
+      },
+      {
+        "en": "Every organism needs energy to live.",
+        "ja": "すべての生物は生きるためにエネルギーを必要とします。"
+      }
+    ]
+  },
+  {
+    "id": 1179,
+    "word": "clone",
+    "meaning": "クローン；～のクローンを作る",
+    "examples": [
+      {
+        "en": "Scientists cloned a sheep.",
+        "ja": "科学者たちは羊のクローンを作りました。"
+      },
+      {
+        "en": "A clone has the same genes as the original.",
+        "ja": "クローンは元の個体と同じ遺伝子を持ちます。"
+      },
+      {
+        "en": "It is difficult to clone complex animals.",
+        "ja": "複雑な動物をクローン化するのは難しいです。"
+      }
+    ]
+  },
+  {
+    "id": 1180,
+    "word": "anatomy",
+    "meaning": "解剖学",
+    "examples": [
+      {
+        "en": "Medical students study anatomy.",
+        "ja": "医学生は解剖学を学びます。"
+      },
+      {
+        "en": "The book explains human anatomy.",
+        "ja": "その本は人体の解剖学を説明しています。"
+      },
+      {
+        "en": "Anatomy helps doctors understand the body.",
+        "ja": "解剖学は医師が体を理解するのに役立ちます。"
+      }
+    ]
+  },
+  {
+    "id": 1181,
+    "word": "chemistry",
+    "meaning": "化学",
+    "examples": [
+      {
+        "en": "I have a chemistry class on Monday.",
+        "ja": "私は月曜日に化学の授業があります。"
+      },
+      {
+        "en": "Chemistry explains how substances change.",
+        "ja": "化学は物質がどのように変化するかを説明します。"
+      },
+      {
+        "en": "She enjoys doing chemistry experiments.",
+        "ja": "彼女は化学実験をするのが好きです。"
+      }
+    ]
+  },
+  {
+    "id": 1182,
+    "word": "toxic",
+    "meaning": "有毒な",
+    "examples": [
+      {
+        "en": "This plant is toxic to cats.",
+        "ja": "この植物は猫にとって有毒です。"
+      },
+      {
+        "en": "The factory released toxic gas.",
+        "ja": "その工場は有毒ガスを放出しました。"
+      },
+      {
+        "en": "Do not touch toxic chemicals.",
+        "ja": "有毒な化学物質に触らないでください。"
+      }
+    ]
+  },
+  {
+    "id": 1183,
+    "word": "solid",
+    "meaning": "固体の、固い、堅固な；立体の；中身の詰まった",
+    "examples": [
+      {
+        "en": "Ice is water in a solid form.",
+        "ja": "氷は水が固体の形になったものです。"
+      },
+      {
+        "en": "The table is made of solid wood.",
+        "ja": "その机は無垢材で作られています。"
+      },
+      {
+        "en": "She gave a solid answer to the question.",
+        "ja": "彼女はその質問にしっかりした答えをしました。"
+      }
+    ]
+  },
+  {
+    "id": 1184,
+    "word": "liquid",
+    "meaning": "液体の",
+    "examples": [
+      {
+        "en": "Water is a liquid at room temperature.",
+        "ja": "水は室温では液体です。"
+      },
+      {
+        "en": "Pour the liquid into the bottle.",
+        "ja": "その液体を瓶に注いでください。"
+      },
+      {
+        "en": "The medicine is in liquid form.",
+        "ja": "その薬は液体の形です。"
+      }
+    ]
+  },
+  {
+    "id": 1185,
+    "word": "vapor",
+    "meaning": "蒸気、気体",
+    "examples": [
+      {
+        "en": "Water vapor rose from the cup.",
+        "ja": "コップから水蒸気が上がりました。"
+      },
+      {
+        "en": "The liquid changed into vapor.",
+        "ja": "その液体は蒸気に変わりました。"
+      },
+      {
+        "en": "Vapor can form clouds in the air.",
+        "ja": "蒸気は空気中で雲を作ることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1186,
+    "word": "hydrogen",
+    "meaning": "水素",
+    "examples": [
+      {
+        "en": "Hydrogen is the lightest element.",
+        "ja": "水素は最も軽い元素です。"
+      },
+      {
+        "en": "Water contains hydrogen and oxygen.",
+        "ja": "水は水素と酸素を含んでいます。"
+      },
+      {
+        "en": "Some cars use hydrogen as fuel.",
+        "ja": "一部の車は燃料として水素を使います。"
+      }
+    ]
+  },
+  {
+    "id": 1187,
+    "word": "oxygen",
+    "meaning": "酸素",
+    "examples": [
+      {
+        "en": "We need oxygen to live.",
+        "ja": "私たちは生きるために酸素が必要です。"
+      },
+      {
+        "en": "Plants produce oxygen.",
+        "ja": "植物は酸素を作ります。"
+      },
+      {
+        "en": "The patient received oxygen at the hospital.",
+        "ja": "その患者は病院で酸素を受けました。"
+      }
+    ]
+  },
+  {
+    "id": 1188,
+    "word": "atom",
+    "meaning": "原子",
+    "examples": [
+      {
+        "en": "An atom is a very small particle.",
+        "ja": "原子は非常に小さな粒子です。"
+      },
+      {
+        "en": "Matter is made of atoms.",
+        "ja": "物質は原子でできています。"
+      },
+      {
+        "en": "We learned about atoms in science class.",
+        "ja": "私たちは理科の授業で原子について学びました。"
+      }
+    ]
+  },
+  {
+    "id": 1189,
+    "word": "nuclear",
+    "meaning": "核の、原子力の",
+    "examples": [
+      {
+        "en": "Nuclear energy can produce electricity.",
+        "ja": "原子力エネルギーは電気を生み出すことができます。"
+      },
+      {
+        "en": "The country discussed nuclear policy.",
+        "ja": "その国は原子力政策について議論しました。"
+      },
+      {
+        "en": "Nuclear reactions release a lot of energy.",
+        "ja": "核反応は多くのエネルギーを放出します。"
+      }
+    ]
+  },
+  {
+    "id": 1190,
+    "word": "molecule",
+    "meaning": "分子",
+    "examples": [
+      {
+        "en": "A water molecule has two hydrogen atoms.",
+        "ja": "水分子は2つの水素原子を持っています。"
+      },
+      {
+        "en": "Molecules are made of atoms.",
+        "ja": "分子は原子でできています。"
+      },
+      {
+        "en": "This molecule is important in living cells.",
+        "ja": "この分子は生きた細胞の中で重要です。"
+      }
+    ]
+  },
+  {
+    "id": 1191,
+    "word": "radiation",
+    "meaning": "放射能、放射",
+    "examples": [
+      {
+        "en": "Radiation can be dangerous in large amounts.",
+        "ja": "放射線は大量だと危険なことがあります。"
+      },
+      {
+        "en": "The sun gives off radiation.",
+        "ja": "太陽は放射を出しています。"
+      },
+      {
+        "en": "Doctors use radiation to treat some cancers.",
+        "ja": "医師は一部のがん治療に放射線を使います。"
+      }
+    ]
+  },
+  {
+    "id": 1192,
+    "word": "religion",
+    "meaning": "宗教、信仰",
+    "examples": [
+      {
+        "en": "Religion is important to many people.",
+        "ja": "宗教は多くの人にとって重要です。"
+      },
+      {
+        "en": "We studied different religions in class.",
+        "ja": "私たちは授業でさまざまな宗教を学びました。"
+      },
+      {
+        "en": "Her religion influences her daily life.",
+        "ja": "彼女の宗教は日常生活に影響を与えています。"
+      }
+    ]
+  },
+  {
+    "id": 1193,
+    "word": "faith",
+    "meaning": "信頼、信仰、信念",
+    "examples": [
+      {
+        "en": "She has faith in her friends.",
+        "ja": "彼女は友人たちを信頼しています。"
+      },
+      {
+        "en": "Faith helped him through hard times.",
+        "ja": "信仰が彼を困難な時期に支えました。"
+      },
+      {
+        "en": "I have faith that things will improve.",
+        "ja": "物事は良くなると私は信じています。"
+      }
+    ]
+  },
+  {
+    "id": 1194,
+    "word": "worship",
+    "meaning": "崇拝；～を崇拝する",
+    "examples": [
+      {
+        "en": "People worship at the temple.",
+        "ja": "人々は寺院で礼拝します。"
+      },
+      {
+        "en": "The ancient people worshiped the sun.",
+        "ja": "古代の人々は太陽を崇拝しました。"
+      },
+      {
+        "en": "Worship is an important part of the religion.",
+        "ja": "礼拝はその宗教の重要な一部です。"
+      }
+    ]
+  },
+  {
+    "id": 1195,
+    "word": "doctrine",
+    "meaning": "教義、学説",
+    "examples": [
+      {
+        "en": "The doctrine was taught for many years.",
+        "ja": "その教義は長年教えられてきました。"
+      },
+      {
+        "en": "Students learned the basic doctrine of the religion.",
+        "ja": "学生たちはその宗教の基本的な教義を学びました。"
+      },
+      {
+        "en": "The scientist challenged an old doctrine.",
+        "ja": "その科学者は古い学説に異議を唱えました。"
+      }
+    ]
+  },
+  {
+    "id": 1196,
+    "word": "confidence",
+    "meaning": "信頼、自信",
+    "examples": [
+      {
+        "en": "She spoke with confidence.",
+        "ja": "彼女は自信を持って話しました。"
+      },
+      {
+        "en": "I have confidence in his ability.",
+        "ja": "私は彼の能力を信頼しています。"
+      },
+      {
+        "en": "Practice will build your confidence.",
+        "ja": "練習はあなたの自信を育てます。"
+      }
+    ]
+  },
+  {
+    "id": 1197,
+    "word": "credit",
+    "meaning": "信用、称賛、評判、功績",
+    "examples": [
+      {
+        "en": "The bank checked his credit.",
+        "ja": "銀行は彼の信用を確認しました。"
+      },
+      {
+        "en": "She deserves credit for the success.",
+        "ja": "その成功について彼女は称賛されるべきです。"
+      },
+      {
+        "en": "He gave credit to his teammates.",
+        "ja": "彼はチームメイトの功績を認めました。"
+      }
+    ]
+  },
+  {
+    "id": 1198,
+    "word": "incredible",
+    "meaning": "信じられない",
+    "examples": [
+      {
+        "en": "The view from the mountain was incredible.",
+        "ja": "山からの眺めは信じられないほど素晴らしかったです。"
+      },
+      {
+        "en": "He told an incredible story.",
+        "ja": "彼は信じられない話をしました。"
+      },
+      {
+        "en": "She has incredible talent.",
+        "ja": "彼女には信じられないほどの才能があります。"
+      }
+    ]
+  },
+  {
+    "id": 1199,
+    "word": "Buddhism",
+    "meaning": "仏教",
+    "examples": [
+      {
+        "en": "Buddhism began in India.",
+        "ja": "仏教はインドで始まりました。"
+      },
+      {
+        "en": "Many temples in Japan are related to Buddhism.",
+        "ja": "日本の多くの寺院は仏教に関係しています。"
+      },
+      {
+        "en": "He is studying the history of Buddhism.",
+        "ja": "彼は仏教の歴史を学んでいます。"
+      }
+    ]
+  },
+  {
+    "id": 1200,
+    "word": "Muslim",
+    "meaning": "イスラム教徒、イスラム教の",
+    "examples": [
+      {
+        "en": "She has many Muslim friends.",
+        "ja": "彼女にはイスラム教徒の友人がたくさんいます。"
+      },
+      {
+        "en": "Muslim people pray at a mosque.",
+        "ja": "イスラム教徒はモスクで祈ります。"
+      },
+      {
+        "en": "The city has a large Muslim community.",
+        "ja": "その都市には大きなイスラム教徒の共同体があります。"
+      }
+    ]
+  }
+]

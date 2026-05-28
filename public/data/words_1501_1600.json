@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1501,
+    "word": "resume",
+    "meaning": "～を再開する；再開する；履歴書、要約",
+    "examples": [
+      {
+        "en": "The class will resume after lunch.",
+        "ja": "授業は昼食後に再開します。"
+      },
+      {
+        "en": "She resumed her research after a short break.",
+        "ja": "彼女は短い休憩の後、研究を再開しました。"
+      },
+      {
+        "en": "Please send your resume by Friday.",
+        "ja": "金曜日までに履歴書を送ってください。"
+      }
+    ]
+  },
+  {
+    "id": 1502,
+    "word": "dissolve",
+    "meaning": "溶解する；～を解散する",
+    "examples": [
+      {
+        "en": "Sugar dissolves quickly in hot tea.",
+        "ja": "砂糖は熱いお茶の中ですぐに溶けます。"
+      },
+      {
+        "en": "The tablet will dissolve in water.",
+        "ja": "その錠剤は水に溶けます。"
+      },
+      {
+        "en": "The government decided to dissolve the committee.",
+        "ja": "政府はその委員会を解散することを決めました。"
+      }
+    ]
+  },
+  {
+    "id": 1503,
+    "word": "erase",
+    "meaning": "～を消す、消去する",
+    "examples": [
+      {
+        "en": "Use this eraser to erase the pencil marks.",
+        "ja": "この消しゴムで鉛筆の跡を消してください。"
+      },
+      {
+        "en": "I accidentally erased the file.",
+        "ja": "私はうっかりそのファイルを消してしまいました。"
+      },
+      {
+        "en": "Time cannot erase all painful memories.",
+        "ja": "時間がすべてのつらい記憶を消せるわけではありません。"
+      }
+    ]
+  },
+  {
+    "id": 1504,
+    "word": "delete",
+    "meaning": "～を消す、消去する",
+    "examples": [
+      {
+        "en": "Please delete the old photos from your phone.",
+        "ja": "スマホから古い写真を削除してください。"
+      },
+      {
+        "en": "He deleted the message before I read it.",
+        "ja": "彼は私が読む前にそのメッセージを削除しました。"
+      },
+      {
+        "en": "You can delete this line from the report.",
+        "ja": "この行はレポートから削除できます。"
+      }
+    ]
+  },
+  {
+    "id": 1505,
+    "word": "wipe out",
+    "meaning": "～を消し去る、絶滅させる",
+    "examples": [
+      {
+        "en": "The virus wiped out many files on the computer.",
+        "ja": "そのウイルスはコンピュータ内の多くのファイルを消し去りました。"
+      },
+      {
+        "en": "A single mistake can wipe out years of effort.",
+        "ja": "一つのミスが何年もの努力を台無しにすることがあります。"
+      },
+      {
+        "en": "The disease nearly wiped out the species.",
+        "ja": "その病気はその種をほぼ絶滅させました。"
+      }
+    ]
+  },
+  {
+    "id": 1506,
+    "word": "suspend",
+    "meaning": "～を宙吊りにする；～を一時停止する、中断する",
+    "examples": [
+      {
+        "en": "The school suspended classes because of the storm.",
+        "ja": "学校は嵐のため授業を一時停止しました。"
+      },
+      {
+        "en": "His account was suspended for a week.",
+        "ja": "彼のアカウントは1週間停止されました。"
+      },
+      {
+        "en": "The lamp was suspended from the ceiling.",
+        "ja": "そのランプは天井から吊り下げられていました。"
+      }
+    ]
+  },
+  {
+    "id": 1507,
+    "word": "choke",
+    "meaning": "～を窒息させる、詰まらせる；窒息する",
+    "examples": [
+      {
+        "en": "He began to choke on a piece of bread.",
+        "ja": "彼はパンのかけらをのどに詰まらせ始めました。"
+      },
+      {
+        "en": "Smoke can choke people in a fire.",
+        "ja": "火事では煙が人を窒息させることがあります。"
+      },
+      {
+        "en": "Do not let small parts choke a child.",
+        "ja": "小さな部品で子どもが窒息しないようにしてください。"
+      }
+    ]
+  },
+  {
+    "id": 1508,
+    "word": "suffocate",
+    "meaning": "～を窒息させる；窒息する",
+    "examples": [
+      {
+        "en": "Plants may suffocate if their roots are under water too long.",
+        "ja": "根が長時間水に浸かると植物は窒息することがあります。"
+      },
+      {
+        "en": "The thick smoke made it hard to breathe, and I felt I might suffocate.",
+        "ja": "濃い煙で息がしにくく、窒息しそうに感じました。"
+      },
+      {
+        "en": "Never cover a baby's face because it could suffocate.",
+        "ja": "赤ちゃんが窒息する可能性があるので、顔を覆ってはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 1509,
+    "word": "squeeze",
+    "meaning": "～を絞る、絞り出す",
+    "examples": [
+      {
+        "en": "She squeezed a lemon into the tea.",
+        "ja": "彼女は紅茶にレモンを絞りました。"
+      },
+      {
+        "en": "Please squeeze the water out of the towel.",
+        "ja": "タオルから水を絞り出してください。"
+      },
+      {
+        "en": "We squeezed into the crowded train.",
+        "ja": "私たちは混んだ電車に無理やり入りました。"
+      }
+    ]
+  },
+  {
+    "id": 1510,
+    "word": "spill",
+    "meaning": "～をこぼす；こぼれる",
+    "examples": [
+      {
+        "en": "Be careful not to spill the coffee.",
+        "ja": "コーヒーをこぼさないように気をつけてください。"
+      },
+      {
+        "en": "Milk spilled all over the table.",
+        "ja": "牛乳がテーブル一面にこぼれました。"
+      },
+      {
+        "en": "He spilled the truth by accident.",
+        "ja": "彼はうっかり真実を漏らしました。"
+      }
+    ]
+  },
+  {
+    "id": 1511,
+    "word": "make up",
+    "meaning": "～を埋め合わせる、取り戻す；仲直りする；～をでっち上げる；化粧する",
+    "examples": [
+      {
+        "en": "I will make up for the lost time.",
+        "ja": "私は失った時間を埋め合わせます。"
+      },
+      {
+        "en": "They argued yesterday, but they made up today.",
+        "ja": "彼らは昨日けんかしましたが、今日仲直りしました。"
+      },
+      {
+        "en": "Do not make up stories to avoid trouble.",
+        "ja": "困難を避けるために話をでっち上げてはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 1512,
+    "word": "compensate",
+    "meaning": "～の埋め合わせをする、補償する",
+    "examples": [
+      {
+        "en": "The company compensated him for the damage.",
+        "ja": "会社はその損害について彼に補償しました。"
+      },
+      {
+        "en": "Hard work can compensate for a lack of experience.",
+        "ja": "努力は経験不足を補うことができます。"
+      },
+      {
+        "en": "They offered money to compensate the victims.",
+        "ja": "彼らは被害者に補償するためのお金を提示しました。"
+      }
+    ]
+  },
+  {
+    "id": 1513,
+    "word": "make out",
+    "meaning": "～を理解する、判読する",
+    "examples": [
+      {
+        "en": "I could not make out his handwriting.",
+        "ja": "私は彼の筆跡を判読できませんでした。"
+      },
+      {
+        "en": "Can you make out what she is saying?",
+        "ja": "彼女が何を言っているか理解できますか。"
+      },
+      {
+        "en": "We could barely make out the sign in the dark.",
+        "ja": "暗闇の中でその標識をかろうじて判読できました。"
+      }
+    ]
+  },
+  {
+    "id": 1514,
+    "word": "make for",
+    "meaning": "～へ向かう；～の実現に役立つ、～を可能にする",
+    "examples": [
+      {
+        "en": "We made for the station after school.",
+        "ja": "私たちは放課後、駅へ向かいました。"
+      },
+      {
+        "en": "Clear rules make for fair competition.",
+        "ja": "明確なルールは公平な競争に役立ちます。"
+      },
+      {
+        "en": "A quiet room makes for better study.",
+        "ja": "静かな部屋はよりよい勉強を可能にします。"
+      }
+    ]
+  },
+  {
+    "id": 1515,
+    "word": "turn out",
+    "meaning": "～であることが分かる、結果として～になる",
+    "examples": [
+      {
+        "en": "The rumor turned out to be false.",
+        "ja": "そのうわさは間違いだと分かりました。"
+      },
+      {
+        "en": "The event turned out better than expected.",
+        "ja": "そのイベントは予想よりよい結果になりました。"
+      },
+      {
+        "en": "It turned out that he had already left.",
+        "ja": "彼はすでに出発していたことが分かりました。"
+      }
+    ]
+  },
+  {
+    "id": 1516,
+    "word": "turn up",
+    "meaning": "現れる、登場する",
+    "examples": [
+      {
+        "en": "He turned up late for the meeting.",
+        "ja": "彼は会議に遅れて現れました。"
+      },
+      {
+        "en": "My lost keys turned up under the sofa.",
+        "ja": "なくした鍵がソファの下から出てきました。"
+      },
+      {
+        "en": "Several problems turned up during the test.",
+        "ja": "試験中にいくつかの問題が出てきました。"
+      }
+    ]
+  },
+  {
+    "id": 1517,
+    "word": "turn down",
+    "meaning": "～を断る；音量などを下げる",
+    "examples": [
+      {
+        "en": "She turned down the job offer.",
+        "ja": "彼女はその仕事の申し出を断りました。"
+      },
+      {
+        "en": "Please turn down the TV.",
+        "ja": "テレビの音量を下げてください。"
+      },
+      {
+        "en": "He turned down my invitation politely.",
+        "ja": "彼は私の招待を丁寧に断りました。"
+      }
+    ]
+  },
+  {
+    "id": 1518,
+    "word": "turn to",
+    "meaning": "～に頼る",
+    "examples": [
+      {
+        "en": "When I am in trouble, I turn to my parents.",
+        "ja": "困ったとき、私は両親に頼ります。"
+      },
+      {
+        "en": "Many students turn to dictionaries for help.",
+        "ja": "多くの学生は助けを求めて辞書に頼ります。"
+      },
+      {
+        "en": "She turned to music when she felt lonely.",
+        "ja": "彼女は寂しいとき音楽に頼りました。"
+      }
+    ]
+  },
+  {
+    "id": 1519,
+    "word": "take in",
+    "meaning": "～を取り入れる；理解する；～を騙す",
+    "examples": [
+      {
+        "en": "Plants take in carbon dioxide.",
+        "ja": "植物は二酸化炭素を取り入れます。"
+      },
+      {
+        "en": "The lecture was hard to take in at once.",
+        "ja": "その講義は一度で理解するには難しかったです。"
+      },
+      {
+        "en": "I was taken in by the fake website.",
+        "ja": "私は偽のウェブサイトにだまされました。"
+      }
+    ]
+  },
+  {
+    "id": 1520,
+    "word": "take on",
+    "meaning": "～を帯びる；仕事などを引き受ける",
+    "examples": [
+      {
+        "en": "The sky took on a red color at sunset.",
+        "ja": "夕焼けのとき空は赤みを帯びました。"
+      },
+      {
+        "en": "She decided to take on a new project.",
+        "ja": "彼女は新しい企画を引き受けることにしました。"
+      },
+      {
+        "en": "This word takes on a different meaning in context.",
+        "ja": "この単語は文脈の中で別の意味を帯びます。"
+      }
+    ]
+  },
+  {
+    "id": 1521,
+    "word": "take after",
+    "meaning": "～に似る",
+    "examples": [
+      {
+        "en": "She takes after her mother.",
+        "ja": "彼女は母親に似ています。"
+      },
+      {
+        "en": "He takes after his grandfather in character.",
+        "ja": "彼は性格が祖父に似ています。"
+      },
+      {
+        "en": "The child takes after both parents.",
+        "ja": "その子は両親の両方に似ています。"
+      }
+    ]
+  },
+  {
+    "id": 1522,
+    "word": "take up",
+    "meaning": "～を占める；～を取り上げる；～を始める",
+    "examples": [
+      {
+        "en": "This desk takes up too much space.",
+        "ja": "この机は場所を取りすぎます。"
+      },
+      {
+        "en": "The teacher took up the problem in class.",
+        "ja": "先生は授業でその問題を取り上げました。"
+      },
+      {
+        "en": "I want to take up tennis this spring.",
+        "ja": "私はこの春テニスを始めたいです。"
+      }
+    ]
+  },
+  {
+    "id": 1523,
+    "word": "take over",
+    "meaning": "～を引き継ぐ",
+    "examples": [
+      {
+        "en": "She will take over the manager's job next month.",
+        "ja": "彼女は来月、管理者の仕事を引き継ぎます。"
+      },
+      {
+        "en": "A new company took over the store.",
+        "ja": "新しい会社がその店を引き継ぎました。"
+      },
+      {
+        "en": "Can you take over while I rest?",
+        "ja": "私が休んでいる間、引き継いでくれますか。"
+      }
+    ]
+  },
+  {
+    "id": 1524,
+    "word": "take to",
+    "meaning": "～が好きになる、習慣になる",
+    "examples": [
+      {
+        "en": "She quickly took to her new school.",
+        "ja": "彼女はすぐに新しい学校になじみました。"
+      },
+      {
+        "en": "He took to reading every night.",
+        "ja": "彼は毎晩読書する習慣がつきました。"
+      },
+      {
+        "en": "The child took to the dog at once.",
+        "ja": "その子はすぐにその犬を好きになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1525,
+    "word": "put out",
+    "meaning": "～を消す",
+    "examples": [
+      {
+        "en": "Please put out the candle before you leave.",
+        "ja": "出かける前にろうそくを消してください。"
+      },
+      {
+        "en": "Firefighters put out the fire quickly.",
+        "ja": "消防士たちはすぐに火を消しました。"
+      },
+      {
+        "en": "He put out his cigarette in the ashtray.",
+        "ja": "彼は灰皿でタバコの火を消しました。"
+      }
+    ]
+  },
+  {
+    "id": 1526,
+    "word": "to put it ... / put ...",
+    "meaning": "……言うと",
+    "examples": [
+      {
+        "en": "To put it simply, we need more time.",
+        "ja": "簡単に言うと、私たちにはもっと時間が必要です。"
+      },
+      {
+        "en": "To put it another way, the plan is too risky.",
+        "ja": "別の言い方をすると、その計画は危険すぎます。"
+      },
+      {
+        "en": "To put it mildly, he was not happy.",
+        "ja": "控えめに言っても、彼は満足していませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 1527,
+    "word": "do",
+    "meaning": "間に合う、良い",
+    "examples": [
+      {
+        "en": "This small room will do for one night.",
+        "ja": "この小さな部屋で一晩なら間に合います。"
+      },
+      {
+        "en": "A simple bag will do for the trip.",
+        "ja": "その旅行には簡単なかばんで十分です。"
+      },
+      {
+        "en": "Any clean cup will do.",
+        "ja": "清潔なコップならどれでも構いません。"
+      }
+    ]
+  },
+  {
+    "id": 1528,
+    "word": "make do with",
+    "meaning": "～で間に合わせる",
+    "examples": [
+      {
+        "en": "We had to make do with old tools.",
+        "ja": "私たちは古い道具で間に合わせなければなりませんでした。"
+      },
+      {
+        "en": "I forgot my umbrella, so I made do with a plastic bag.",
+        "ja": "傘を忘れたので、ビニール袋で間に合わせました。"
+      },
+      {
+        "en": "Students often make do with cheap furniture.",
+        "ja": "学生は安い家具で間に合わせることがよくあります。"
+      }
+    ]
+  },
+  {
+    "id": 1529,
+    "word": "give away",
+    "meaning": "～をただで譲る；秘密・気持ちを明かす",
+    "examples": [
+      {
+        "en": "She gave away her old clothes.",
+        "ja": "彼女は古い服をただで譲りました。"
+      },
+      {
+        "en": "His smile gave away his true feelings.",
+        "ja": "彼の笑顔が本当の気持ちを明かしていました。"
+      },
+      {
+        "en": "Do not give away the answer too soon.",
+        "ja": "答えを早く明かしすぎないでください。"
+      }
+    ]
+  },
+  {
+    "id": 1530,
+    "word": "give way",
+    "meaning": "～に屈する；～に取って代わられる",
+    "examples": [
+      {
+        "en": "The old bridge gave way under the heavy truck.",
+        "ja": "古い橋は重いトラックの下で崩れました。"
+      },
+      {
+        "en": "Fear gave way to hope.",
+        "ja": "恐怖は希望に取って代わられました。"
+      },
+      {
+        "en": "He finally gave way to pressure.",
+        "ja": "彼はついに圧力に屈しました。"
+      }
+    ]
+  },
+  {
+    "id": 1531,
+    "word": "give in",
+    "meaning": "～に屈する",
+    "examples": [
+      {
+        "en": "She refused to give in to fear.",
+        "ja": "彼女は恐怖に屈することを拒みました。"
+      },
+      {
+        "en": "After hours of discussion, he gave in.",
+        "ja": "何時間もの話し合いの後、彼は折れました。"
+      },
+      {
+        "en": "Do not give in just because it is difficult.",
+        "ja": "難しいからといって屈してはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 1532,
+    "word": "give off",
+    "meaning": "～を発する",
+    "examples": [
+      {
+        "en": "This flower gives off a sweet smell.",
+        "ja": "この花は甘い香りを放ちます。"
+      },
+      {
+        "en": "The lamp gives off a warm light.",
+        "ja": "そのランプは暖かい光を放ちます。"
+      },
+      {
+        "en": "Burning plastic can give off harmful gases.",
+        "ja": "プラスチックを燃やすと有害なガスを発することがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1533,
+    "word": "come up with",
+    "meaning": "～を思いつく",
+    "examples": [
+      {
+        "en": "She came up with a good idea.",
+        "ja": "彼女はよい考えを思いつきました。"
+      },
+      {
+        "en": "We need to come up with a new plan.",
+        "ja": "私たちは新しい計画を思いつく必要があります。"
+      },
+      {
+        "en": "He came up with an answer quickly.",
+        "ja": "彼はすぐに答えを思いつきました。"
+      }
+    ]
+  },
+  {
+    "id": 1534,
+    "word": "come about",
+    "meaning": "生じる、起こる",
+    "examples": [
+      {
+        "en": "How did this problem come about?",
+        "ja": "この問題はどのようにして起こったのですか。"
+      },
+      {
+        "en": "The change came about slowly.",
+        "ja": "その変化はゆっくりと生じました。"
+      },
+      {
+        "en": "The accident came about because of careless driving.",
+        "ja": "その事故は不注意な運転が原因で起こりました。"
+      }
+    ]
+  },
+  {
+    "id": 1535,
+    "word": "come into being",
+    "meaning": "生じる、成立する",
+    "examples": [
+      {
+        "en": "The new rule came into being last year.",
+        "ja": "その新しい規則は昨年成立しました。"
+      },
+      {
+        "en": "Many traditions came into being long ago.",
+        "ja": "多くの伝統ははるか昔に生まれました。"
+      },
+      {
+        "en": "The organization came into being after the disaster.",
+        "ja": "その組織は災害の後に生まれました。"
+      }
+    ]
+  },
+  {
+    "id": 1536,
+    "word": "come to",
+    "meaning": "意識を戻す；合計で～になる",
+    "examples": [
+      {
+        "en": "He came to after a few minutes.",
+        "ja": "彼は数分後に意識を取り戻しました。"
+      },
+      {
+        "en": "The total came to 3,000 yen.",
+        "ja": "合計は3000円になりました。"
+      },
+      {
+        "en": "When she came to, she was in a hospital.",
+        "ja": "彼女が意識を取り戻したとき、病院にいました。"
+      }
+    ]
+  },
+  {
+    "id": 1537,
+    "word": "come in handy",
+    "meaning": "便利である、役に立つ",
+    "examples": [
+      {
+        "en": "This app will come in handy during the trip.",
+        "ja": "このアプリは旅行中に役立つでしょう。"
+      },
+      {
+        "en": "A small flashlight comes in handy at night.",
+        "ja": "小さな懐中電灯は夜に役立ちます。"
+      },
+      {
+        "en": "Your advice came in handy today.",
+        "ja": "あなたの助言は今日役に立ちました。"
+      }
+    ]
+  },
+  {
+    "id": 1538,
+    "word": "Come on.",
+    "meaning": "おいおい、冗談だろ；さあ、急いで",
+    "examples": [
+      {
+        "en": "Come on, we are going to be late.",
+        "ja": "さあ、遅れますよ。"
+      },
+      {
+        "en": "Come on, you cannot be serious.",
+        "ja": "おいおい、本気なわけないでしょう。"
+      },
+      {
+        "en": "Come on, try it one more time.",
+        "ja": "さあ、もう一回やってみて。"
+      }
+    ]
+  },
+  {
+    "id": 1539,
+    "word": "go on to do",
+    "meaning": "さらに続けて～する",
+    "examples": [
+      {
+        "en": "He went on to explain the second point.",
+        "ja": "彼は続けて2つ目の点を説明しました。"
+      },
+      {
+        "en": "She went on to become a doctor.",
+        "ja": "彼女はその後、医者になりました。"
+      },
+      {
+        "en": "The speaker went on to discuss the results.",
+        "ja": "講演者は続けて結果について議論しました。"
+      }
+    ]
+  },
+  {
+    "id": 1540,
+    "word": "go off",
+    "meaning": "爆発する；鳴る",
+    "examples": [
+      {
+        "en": "The alarm went off at six.",
+        "ja": "目覚ましが6時に鳴りました。"
+      },
+      {
+        "en": "The bomb went off near the station.",
+        "ja": "爆弾が駅の近くで爆発しました。"
+      },
+      {
+        "en": "My phone went off during class.",
+        "ja": "授業中に私のスマホが鳴りました。"
+      }
+    ]
+  },
+  {
+    "id": 1541,
+    "word": "Go ahead.",
+    "meaning": "どうぞ",
+    "examples": [
+      {
+        "en": "May I ask a question? Go ahead.",
+        "ja": "質問してもいいですか。どうぞ。"
+      },
+      {
+        "en": "Go ahead and start without me.",
+        "ja": "私抜きで先に始めてください。"
+      },
+      {
+        "en": "If you want to use this seat, go ahead.",
+        "ja": "この席を使いたいなら、どうぞ。"
+      }
+    ]
+  },
+  {
+    "id": 1542,
+    "word": "bring about",
+    "meaning": "～を引き起こす、もたらす",
+    "examples": [
+      {
+        "en": "The new law brought about many changes.",
+        "ja": "その新しい法律は多くの変化をもたらしました。"
+      },
+      {
+        "en": "Technology can bring about a better future.",
+        "ja": "技術はよりよい未来をもたらすことができます。"
+      },
+      {
+        "en": "Careless actions may bring about serious problems.",
+        "ja": "不注意な行動は深刻な問題を引き起こすかもしれません。"
+      }
+    ]
+  },
+  {
+    "id": 1543,
+    "word": "bring oneself to do",
+    "meaning": "～する気になる、思い切って～する",
+    "examples": [
+      {
+        "en": "I could not bring myself to tell him the truth.",
+        "ja": "私は彼に真実を話す気になれませんでした。"
+      },
+      {
+        "en": "She finally brought herself to apologize.",
+        "ja": "彼女はついに謝る気になりました。"
+      },
+      {
+        "en": "He could not bring himself to throw the letter away.",
+        "ja": "彼はその手紙を捨てる気になれませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 1544,
+    "word": "bring A home to B",
+    "meaning": "AをBに分からせる、実感させる",
+    "examples": [
+      {
+        "en": "The accident brought home the danger to us.",
+        "ja": "その事故は私たちに危険を実感させました。"
+      },
+      {
+        "en": "The story brought home to me the value of family.",
+        "ja": "その話は私に家族の大切さを実感させました。"
+      },
+      {
+        "en": "The numbers brought the seriousness of the problem home to everyone.",
+        "ja": "その数字は問題の深刻さを皆に実感させました。"
+      }
+    ]
+  },
+  {
+    "id": 1545,
+    "word": "get at",
+    "meaning": "～を言おうとする",
+    "examples": [
+      {
+        "en": "I do not understand what you are getting at.",
+        "ja": "あなたが何を言おうとしているのか分かりません。"
+      },
+      {
+        "en": "What are you getting at with that question?",
+        "ja": "その質問で何を言おうとしているのですか。"
+      },
+      {
+        "en": "He explained the point he was getting at.",
+        "ja": "彼は自分が言おうとしていた要点を説明しました。"
+      }
+    ]
+  },
+  {
+    "id": 1546,
+    "word": "get by",
+    "meaning": "なんとかやりくりする",
+    "examples": [
+      {
+        "en": "I can get by with a little English.",
+        "ja": "私は少しの英語でなんとかやっていけます。"
+      },
+      {
+        "en": "They get by on a small income.",
+        "ja": "彼らは少ない収入でなんとか暮らしています。"
+      },
+      {
+        "en": "This old laptop is slow, but I can get by.",
+        "ja": "この古いノートパソコンは遅いですが、なんとか使えます。"
+      }
+    ]
+  },
+  {
+    "id": 1547,
+    "word": "get ... across",
+    "meaning": "～を伝える、分かってもらう",
+    "examples": [
+      {
+        "en": "It is hard to get my idea across in English.",
+        "ja": "英語で自分の考えを伝えるのは難しいです。"
+      },
+      {
+        "en": "The teacher used pictures to get the point across.",
+        "ja": "先生は要点を分かってもらうために絵を使いました。"
+      },
+      {
+        "en": "He could not get his feelings across.",
+        "ja": "彼は自分の気持ちを伝えられませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 1548,
+    "word": "get away with",
+    "meaning": "罰を受けずに、ばれずに逃げおおせる",
+    "examples": [
+      {
+        "en": "He cheated, but he got away with it.",
+        "ja": "彼は不正をしましたが、罰を受けずに済みました。"
+      },
+      {
+        "en": "You cannot get away with breaking the rules.",
+        "ja": "規則を破ってただで済むことはありません。"
+      },
+      {
+        "en": "She lied and got away with it for years.",
+        "ja": "彼女はうそをつき、何年もばれずに済みました。"
+      }
+    ]
+  },
+  {
+    "id": 1549,
+    "word": "let go of",
+    "meaning": "～を手放す",
+    "examples": [
+      {
+        "en": "Let go of my arm.",
+        "ja": "私の腕を放してください。"
+      },
+      {
+        "en": "It is hard to let go of old memories.",
+        "ja": "古い思い出を手放すのは難しいです。"
+      },
+      {
+        "en": "He let go of the rope and fell.",
+        "ja": "彼はロープを手放して落ちました。"
+      }
+    ]
+  },
+  {
+    "id": 1550,
+    "word": "let ... in",
+    "meaning": "～を中に入れる",
+    "examples": [
+      {
+        "en": "Please let the cat in.",
+        "ja": "猫を中に入れてください。"
+      },
+      {
+        "en": "Open the window and let some fresh air in.",
+        "ja": "窓を開けて新鮮な空気を入れてください。"
+      },
+      {
+        "en": "The guard did not let us in without tickets.",
+        "ja": "警備員はチケットなしでは私たちを中に入れませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 1551,
+    "word": "let alone",
+    "meaning": "ましてや～ない",
+    "examples": [
+      {
+        "en": "I cannot read French, let alone speak it.",
+        "ja": "私はフランス語を読めません。まして話すことはできません。"
+      },
+      {
+        "en": "He has no time for lunch, let alone a long break.",
+        "ja": "彼には昼食の時間もありません。まして長い休憩などありません。"
+      },
+      {
+        "en": "She cannot afford a bike, let alone a car.",
+        "ja": "彼女は自転車も買えません。まして車など買えません。"
+      }
+    ]
+  },
+  {
+    "id": 1552,
+    "word": "pull up / pull over",
+    "meaning": "車を止める",
+    "examples": [
+      {
+        "en": "The taxi pulled up in front of the station.",
+        "ja": "タクシーは駅の前で止まりました。"
+      },
+      {
+        "en": "The driver pulled over to answer the phone.",
+        "ja": "運転手は電話に出るために車を脇に止めました。"
+      },
+      {
+        "en": "A police officer told him to pull over.",
+        "ja": "警察官は彼に車を止めるように言いました。"
+      }
+    ]
+  },
+  {
+    "id": 1553,
+    "word": "make it",
+    "meaning": "やり遂げる；都合がつく；間に合う",
+    "examples": [
+      {
+        "en": "I hope you can make it to the party.",
+        "ja": "あなたがパーティーに来られるといいです。"
+      },
+      {
+        "en": "We made it just in time.",
+        "ja": "私たちはちょうど間に合いました。"
+      },
+      {
+        "en": "She worked hard and made it as a singer.",
+        "ja": "彼女は一生懸命努力して歌手として成功しました。"
+      }
+    ]
+  },
+  {
+    "id": 1554,
+    "word": "That's it",
+    "meaning": "もう終わりだ；まさにそれだ、その通りだ",
+    "examples": [
+      {
+        "en": "That's it. I am going home.",
+        "ja": "もう終わりだ。私は家に帰ります。"
+      },
+      {
+        "en": "That's it! You found the answer.",
+        "ja": "それだ！あなたは答えを見つけました。"
+      },
+      {
+        "en": "If you break the rule again, that's it.",
+        "ja": "もう一度規則を破ったら、それで終わりです。"
+      }
+    ]
+  },
+  {
+    "id": 1555,
+    "word": "That is that",
+    "meaning": "それでおしまいだ、それだけのこと",
+    "examples": [
+      {
+        "en": "The decision is final, and that is that.",
+        "ja": "決定は最終です。それでおしまいです。"
+      },
+      {
+        "en": "You must return the book today, and that is that.",
+        "ja": "あなたは今日その本を返さなければなりません。それだけのことです。"
+      },
+      {
+        "en": "I said no, and that is that.",
+        "ja": "私はだめだと言いました。それでおしまいです。"
+      }
+    ]
+  },
+  {
+    "id": 1556,
+    "word": "make ... of A",
+    "meaning": "Aを～と評価する、判断する",
+    "examples": [
+      {
+        "en": "What do you make of his strange behavior?",
+        "ja": "彼の奇妙な行動をどう判断しますか。"
+      },
+      {
+        "en": "I do not know what to make of this result.",
+        "ja": "この結果をどう判断すべきか分かりません。"
+      },
+      {
+        "en": "She made a lot of his small mistake.",
+        "ja": "彼女は彼の小さなミスを大げさに受け止めました。"
+      }
+    ]
+  },
+  {
+    "id": 1557,
+    "word": "make the most of",
+    "meaning": "～を最大限利用する",
+    "examples": [
+      {
+        "en": "Make the most of your time at school.",
+        "ja": "学校での時間を最大限に活用してください。"
+      },
+      {
+        "en": "We made the most of the sunny day.",
+        "ja": "私たちは晴れた日を最大限楽しみました。"
+      },
+      {
+        "en": "She makes the most of every chance.",
+        "ja": "彼女はあらゆる機会を最大限に利用します。"
+      }
+    ]
+  },
+  {
+    "id": 1558,
+    "word": "make the best of",
+    "meaning": "～をできる限り利用する、悪条件の中で何とかする",
+    "examples": [
+      {
+        "en": "We had to make the best of a bad situation.",
+        "ja": "私たちは悪い状況の中で何とかしなければなりませんでした。"
+      },
+      {
+        "en": "The room was small, but we made the best of it.",
+        "ja": "部屋は小さかったですが、私たちは何とかうまく使いました。"
+      },
+      {
+        "en": "Try to make the best of your limited time.",
+        "ja": "限られた時間をできる限り活用してください。"
+      }
+    ]
+  },
+  {
+    "id": 1559,
+    "word": "make sure",
+    "meaning": "確実に～する；～を確かめる",
+    "examples": [
+      {
+        "en": "Make sure you lock the door.",
+        "ja": "必ずドアに鍵をかけてください。"
+      },
+      {
+        "en": "I checked again to make sure.",
+        "ja": "確かめるためにもう一度確認しました。"
+      },
+      {
+        "en": "Make sure that your name is on the paper.",
+        "ja": "紙に名前が書いてあることを確認してください。"
+      }
+    ]
+  },
+  {
+    "id": 1560,
+    "word": "make ends meet",
+    "meaning": "やりくりする、帳尻を合わせる",
+    "examples": [
+      {
+        "en": "It is hard to make ends meet on a small salary.",
+        "ja": "少ない給料でやりくりするのは大変です。"
+      },
+      {
+        "en": "They took extra jobs to make ends meet.",
+        "ja": "彼らは生活費をやりくりするために副業をしました。"
+      },
+      {
+        "en": "Many students struggle to make ends meet.",
+        "ja": "多くの学生が生活費のやりくりに苦労しています。"
+      }
+    ]
+  },
+  {
+    "id": 1561,
+    "word": "make believe",
+    "meaning": "～のふりをする、真似をする",
+    "examples": [
+      {
+        "en": "Children like to make believe they are heroes.",
+        "ja": "子どもたちは自分がヒーローだというふりをするのが好きです。"
+      },
+      {
+        "en": "He made believe that he knew nothing.",
+        "ja": "彼は何も知らないふりをしました。"
+      },
+      {
+        "en": "The game lets you make believe you are a pilot.",
+        "ja": "そのゲームではパイロットになったつもりになれます。"
+      }
+    ]
+  },
+  {
+    "id": 1562,
+    "word": "make a scene",
+    "meaning": "ひと騒ぎする、醜態をさらす",
+    "examples": [
+      {
+        "en": "Please do not make a scene in the restaurant.",
+        "ja": "レストランで騒ぎを起こさないでください。"
+      },
+      {
+        "en": "He made a scene when he lost the game.",
+        "ja": "彼は試合に負けたときに騒ぎ立てました。"
+      },
+      {
+        "en": "She left quietly because she did not want to make a scene.",
+        "ja": "彼女は騒ぎを起こしたくなかったので静かに去りました。"
+      }
+    ]
+  },
+  {
+    "id": 1563,
+    "word": "think much of",
+    "meaning": "～を高く評価する",
+    "examples": [
+      {
+        "en": "I do not think much of that movie.",
+        "ja": "私はその映画をあまり高く評価していません。"
+      },
+      {
+        "en": "My teacher thinks much of her essay.",
+        "ja": "先生は彼女の作文を高く評価しています。"
+      },
+      {
+        "en": "They did not think much of the proposal.",
+        "ja": "彼らはその提案をあまり評価しませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 1564,
+    "word": "think better of",
+    "meaning": "～を考え直す、見直す",
+    "examples": [
+      {
+        "en": "I was going to quit, but I thought better of it.",
+        "ja": "やめるつもりでしたが、考え直しました。"
+      },
+      {
+        "en": "She thought better of sending the angry message.",
+        "ja": "彼女は怒りのメッセージを送るのを考え直しました。"
+      },
+      {
+        "en": "He started to argue, then thought better of it.",
+        "ja": "彼は反論し始めましたが、その後考え直しました。"
+      }
+    ]
+  },
+  {
+    "id": 1565,
+    "word": "think twice",
+    "meaning": "よく考える",
+    "examples": [
+      {
+        "en": "Think twice before you post it online.",
+        "ja": "それをネットに投稿する前によく考えてください。"
+      },
+      {
+        "en": "I would think twice about buying such an expensive phone.",
+        "ja": "そんな高いスマホを買うならよく考えるでしょう。"
+      },
+      {
+        "en": "This warning made me think twice.",
+        "ja": "この警告で私は考え直しました。"
+      }
+    ]
+  },
+  {
+    "id": 1566,
+    "word": "on second thought",
+    "meaning": "考え直して、やっぱり",
+    "examples": [
+      {
+        "en": "On second thought, I will stay home.",
+        "ja": "考え直して、やはり家にいます。"
+      },
+      {
+        "en": "I wanted coffee, but on second thought, I chose tea.",
+        "ja": "コーヒーが欲しかったのですが、考え直してお茶を選びました。"
+      },
+      {
+        "en": "On second thought, your plan sounds good.",
+        "ja": "考え直してみると、あなたの計画はよさそうです。"
+      }
+    ]
+  },
+  {
+    "id": 1567,
+    "word": "show off",
+    "meaning": "～を見せびらかす、誇示する",
+    "examples": [
+      {
+        "en": "He likes to show off his new watch.",
+        "ja": "彼は新しい時計を見せびらかすのが好きです。"
+      },
+      {
+        "en": "Do not show off in front of your friends.",
+        "ja": "友達の前で見せびらかさないでください。"
+      },
+      {
+        "en": "The dancer showed off her skill on stage.",
+        "ja": "そのダンサーは舞台で技術を披露しました。"
+      }
+    ]
+  },
+  {
+    "id": 1568,
+    "word": "show up",
+    "meaning": "現れる、登場する",
+    "examples": [
+      {
+        "en": "He did not show up for the meeting.",
+        "ja": "彼は会議に現れませんでした。"
+      },
+      {
+        "en": "A strange error showed up on the screen.",
+        "ja": "画面に奇妙なエラーが現れました。"
+      },
+      {
+        "en": "She showed up just before the train left.",
+        "ja": "彼女は電車が出る直前に現れました。"
+      }
+    ]
+  },
+  {
+    "id": 1569,
+    "word": "see to",
+    "meaning": "～に対処する、～の世話をする、～を手配する",
+    "examples": [
+      {
+        "en": "I will see to the tickets.",
+        "ja": "チケットの手配は私がします。"
+      },
+      {
+        "en": "Please see to the children while I cook.",
+        "ja": "私が料理している間、子どもたちの世話をしてください。"
+      },
+      {
+        "en": "The manager saw to the problem quickly.",
+        "ja": "管理者はその問題にすぐ対処しました。"
+      }
+    ]
+  },
+  {
+    "id": 1570,
+    "word": "see through",
+    "meaning": "～を見抜く；～を最後までやり通す；人を最後まで助ける",
+    "examples": [
+      {
+        "en": "She saw through his lie at once.",
+        "ja": "彼女はすぐに彼のうそを見抜きました。"
+      },
+      {
+        "en": "We must see the project through to the end.",
+        "ja": "私たちはその計画を最後までやり通さなければなりません。"
+      },
+      {
+        "en": "His friends saw him through a difficult time.",
+        "ja": "友人たちは困難な時期に彼を支えました。"
+      }
+    ]
+  },
+  {
+    "id": 1571,
+    "word": "in the way of A / in A's way",
+    "meaning": "Aの邪魔になって",
+    "examples": [
+      {
+        "en": "Your bag is in my way.",
+        "ja": "あなたのかばんが邪魔です。"
+      },
+      {
+        "en": "Do not stand in the way of the door.",
+        "ja": "ドアの邪魔になる場所に立たないでください。"
+      },
+      {
+        "en": "Fear got in the way of his success.",
+        "ja": "恐怖が彼の成功の妨げになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1572,
+    "word": "make one's way",
+    "meaning": "前進する、進む",
+    "examples": [
+      {
+        "en": "We made our way through the crowd.",
+        "ja": "私たちは人混みの中を進みました。"
+      },
+      {
+        "en": "She made her way to the front of the room.",
+        "ja": "彼女は部屋の前方へ進みました。"
+      },
+      {
+        "en": "The hikers slowly made their way up the mountain.",
+        "ja": "登山者たちはゆっくり山を登って進みました。"
+      }
+    ]
+  },
+  {
+    "id": 1573,
+    "word": "find one's way",
+    "meaning": "たどり着く、入ってくる",
+    "examples": [
+      {
+        "en": "We finally found our way to the hotel.",
+        "ja": "私たちはついにホテルにたどり着きました。"
+      },
+      {
+        "en": "The letter found its way to me after a month.",
+        "ja": "その手紙は1か月後に私のもとへ届きました。"
+      },
+      {
+        "en": "Can you find your way home alone?",
+        "ja": "一人で家にたどり着けますか。"
+      }
+    ]
+  },
+  {
+    "id": 1574,
+    "word": "go out of one's way to do",
+    "meaning": "わざわざ～する",
+    "examples": [
+      {
+        "en": "She went out of her way to help me.",
+        "ja": "彼女はわざわざ私を助けてくれました。"
+      },
+      {
+        "en": "He went out of his way to explain the problem.",
+        "ja": "彼はわざわざその問題を説明してくれました。"
+      },
+      {
+        "en": "They went out of their way to make us comfortable.",
+        "ja": "彼らは私たちが快適に過ごせるようわざわざ配慮してくれました。"
+      }
+    ]
+  },
+  {
+    "id": 1575,
+    "word": "by way of",
+    "meaning": "～を経由して；～によって",
+    "examples": [
+      {
+        "en": "We flew to Paris by way of London.",
+        "ja": "私たちはロンドン経由でパリへ飛びました。"
+      },
+      {
+        "en": "He sent the message by way of a friend.",
+        "ja": "彼は友人を通じてその伝言を送りました。"
+      },
+      {
+        "en": "By way of introduction, let me tell you my name.",
+        "ja": "自己紹介として、私の名前をお伝えします。"
+      }
+    ]
+  },
+  {
+    "id": 1576,
+    "word": "have a way of doing",
+    "meaning": "～する癖がある、傾向がある",
+    "examples": [
+      {
+        "en": "He has a way of making people laugh.",
+        "ja": "彼には人を笑わせるところがあります。"
+      },
+      {
+        "en": "Small problems have a way of becoming big ones.",
+        "ja": "小さな問題は大きな問題になりがちです。"
+      },
+      {
+        "en": "She has a way of explaining difficult ideas clearly.",
+        "ja": "彼女には難しい考えを分かりやすく説明する力があります。"
+      }
+    ]
+  },
+  {
+    "id": 1577,
+    "word": "under way",
+    "meaning": "進行中で",
+    "examples": [
+      {
+        "en": "The meeting is already under way.",
+        "ja": "会議はすでに進行中です。"
+      },
+      {
+        "en": "Construction of the new library is under way.",
+        "ja": "新しい図書館の建設が進行中です。"
+      },
+      {
+        "en": "Preparations are under way for the festival.",
+        "ja": "祭りの準備が進行中です。"
+      }
+    ]
+  },
+  {
+    "id": 1578,
+    "word": "true for / true of",
+    "meaning": "～に当てはまる",
+    "examples": [
+      {
+        "en": "This rule is true for most cases.",
+        "ja": "この規則はほとんどの場合に当てはまります。"
+      },
+      {
+        "en": "The same is true of language learning.",
+        "ja": "同じことは語学学習にも当てはまります。"
+      },
+      {
+        "en": "What is true for adults is not always true for children.",
+        "ja": "大人に当てはまることが、必ずしも子どもに当てはまるとは限りません。"
+      }
+    ]
+  },
+  {
+    "id": 1579,
+    "word": "hold true / hold good",
+    "meaning": "当てはまる、通用する",
+    "examples": [
+      {
+        "en": "This theory still holds true today.",
+        "ja": "この理論は今日でも通用します。"
+      },
+      {
+        "en": "The rule holds good in most situations.",
+        "ja": "その規則はほとんどの状況で当てはまります。"
+      },
+      {
+        "en": "His advice holds true for beginners.",
+        "ja": "彼の助言は初心者に当てはまります。"
+      }
+    ]
+  },
+  {
+    "id": 1580,
+    "word": "true to life",
+    "meaning": "実物そっくりの、現実に忠実な",
+    "examples": [
+      {
+        "en": "The painting looks true to life.",
+        "ja": "その絵は実物そっくりに見えます。"
+      },
+      {
+        "en": "The movie's classroom scenes are true to life.",
+        "ja": "その映画の教室の場面は現実に忠実です。"
+      },
+      {
+        "en": "Her novel is true to life in many details.",
+        "ja": "彼女の小説は多くの細部で現実に忠実です。"
+      }
+    ]
+  },
+  {
+    "id": 1581,
+    "word": "give rise to",
+    "meaning": "～を生じる、引き起こす",
+    "examples": [
+      {
+        "en": "The new policy gave rise to much debate.",
+        "ja": "その新しい方針は多くの議論を引き起こしました。"
+      },
+      {
+        "en": "Stress can give rise to health problems.",
+        "ja": "ストレスは健康問題を引き起こすことがあります。"
+      },
+      {
+        "en": "One mistake gave rise to several other errors.",
+        "ja": "一つのミスがいくつかの別の誤りを生じさせました。"
+      }
+    ]
+  },
+  {
+    "id": 1582,
+    "word": "give birth to",
+    "meaning": "～を産む；～を生じる、引き起こす",
+    "examples": [
+      {
+        "en": "She gave birth to a healthy baby.",
+        "ja": "彼女は健康な赤ちゃんを産みました。"
+      },
+      {
+        "en": "The invention gave birth to a new industry.",
+        "ja": "その発明は新しい産業を生み出しました。"
+      },
+      {
+        "en": "This idea gave birth to many new projects.",
+        "ja": "この考えは多くの新しい企画を生み出しました。"
+      }
+    ]
+  },
+  {
+    "id": 1583,
+    "word": "put an end to",
+    "meaning": "～を終わらせる",
+    "examples": [
+      {
+        "en": "The agreement put an end to the conflict.",
+        "ja": "その合意は対立を終わらせました。"
+      },
+      {
+        "en": "We must put an end to this waste.",
+        "ja": "私たちはこの無駄を終わらせなければなりません。"
+      },
+      {
+        "en": "The teacher put an end to the argument.",
+        "ja": "先生はその口論を終わらせました。"
+      }
+    ]
+  },
+  {
+    "id": 1584,
+    "word": "take turns",
+    "meaning": "交替する、順番にやる",
+    "examples": [
+      {
+        "en": "We took turns reading the text aloud.",
+        "ja": "私たちは順番に本文を音読しました。"
+      },
+      {
+        "en": "The students took turns using the computer.",
+        "ja": "学生たちは交替でコンピュータを使いました。"
+      },
+      {
+        "en": "They take turns cooking dinner.",
+        "ja": "彼らは交替で夕食を作ります。"
+      }
+    ]
+  },
+  {
+    "id": 1585,
+    "word": "in turn",
+    "meaning": "それが今度は、順に",
+    "examples": [
+      {
+        "en": "Each student answered in turn.",
+        "ja": "各学生が順番に答えました。"
+      },
+      {
+        "en": "More practice improves confidence, and confidence in turn improves performance.",
+        "ja": "練習量が自信を高め、その自信が今度は成績を向上させます。"
+      },
+      {
+        "en": "The teacher spoke to each group in turn.",
+        "ja": "先生は各グループに順番に話しかけました。"
+      }
+    ]
+  },
+  {
+    "id": 1586,
+    "word": "in return",
+    "meaning": "～のお返しに",
+    "examples": [
+      {
+        "en": "I helped him, and he gave me advice in return.",
+        "ja": "私は彼を助け、彼はお返しに助言をくれました。"
+      },
+      {
+        "en": "She expected nothing in return.",
+        "ja": "彼女は見返りを何も期待していませんでした。"
+      },
+      {
+        "en": "He gave me a gift in return for my help.",
+        "ja": "彼は私の助けのお返しに贈り物をくれました。"
+      }
+    ]
+  },
+  {
+    "id": 1587,
+    "word": "out of the question",
+    "meaning": "論外である、話にならない",
+    "examples": [
+      {
+        "en": "Skipping the exam is out of the question.",
+        "ja": "試験をさぼることは論外です。"
+      },
+      {
+        "en": "Buying a new car is out of the question now.",
+        "ja": "今、新車を買うことは話になりません。"
+      },
+      {
+        "en": "A late start is out of the question for this trip.",
+        "ja": "この旅行では遅い出発は論外です。"
+      }
+    ]
+  },
+  {
+    "id": 1588,
+    "word": "in question",
+    "meaning": "問題になっている、当の",
+    "examples": [
+      {
+        "en": "The man in question left early.",
+        "ja": "問題になっているその男性は早く去りました。"
+      },
+      {
+        "en": "The rule in question is difficult to understand.",
+        "ja": "問題となっている規則は理解しにくいです。"
+      },
+      {
+        "en": "The book in question was published last year.",
+        "ja": "当の本は昨年出版されました。"
+      }
+    ]
+  },
+  {
+    "id": 1589,
+    "word": "on end",
+    "meaning": "続けて",
+    "examples": [
+      {
+        "en": "It rained for three days on end.",
+        "ja": "雨が3日間続けて降りました。"
+      },
+      {
+        "en": "He studied for hours on end.",
+        "ja": "彼は何時間も続けて勉強しました。"
+      },
+      {
+        "en": "She can play games for hours on end.",
+        "ja": "彼女は何時間も続けてゲームをすることができます。"
+      }
+    ]
+  },
+  {
+    "id": 1590,
+    "word": "in a row",
+    "meaning": "続けて、連続で",
+    "examples": [
+      {
+        "en": "Our team won three games in a row.",
+        "ja": "私たちのチームは3試合連続で勝ちました。"
+      },
+      {
+        "en": "I was late two days in a row.",
+        "ja": "私は2日連続で遅刻しました。"
+      },
+      {
+        "en": "She answered five questions in a row.",
+        "ja": "彼女は5問連続で答えました。"
+      }
+    ]
+  },
+  {
+    "id": 1591,
+    "word": "so far",
+    "meaning": "これまでのところは",
+    "examples": [
+      {
+        "en": "So far, everything is going well.",
+        "ja": "これまでのところ、すべて順調です。"
+      },
+      {
+        "en": "I have read three chapters so far.",
+        "ja": "私はこれまでに3章読みました。"
+      },
+      {
+        "en": "So far, no one has found the answer.",
+        "ja": "今のところ、誰も答えを見つけていません。"
+      }
+    ]
+  },
+  {
+    "id": 1592,
+    "word": "go so far as to do",
+    "meaning": "～までする",
+    "examples": [
+      {
+        "en": "He went so far as to lie to his friends.",
+        "ja": "彼は友人にうそをつくことまでしました。"
+      },
+      {
+        "en": "She went so far as to sell her car.",
+        "ja": "彼女は車を売ることまでしました。"
+      },
+      {
+        "en": "Some fans went so far as to wait all night.",
+        "ja": "一部のファンは一晩中待つことまでしました。"
+      }
+    ]
+  },
+  {
+    "id": 1593,
+    "word": "up to",
+    "meaning": "最大で～まで；～次第で；～に従事して、～を企んで",
+    "examples": [
+      {
+        "en": "This room can hold up to thirty people.",
+        "ja": "この部屋には最大30人まで入れます。"
+      },
+      {
+        "en": "It is up to you to decide.",
+        "ja": "決めるのはあなた次第です。"
+      },
+      {
+        "en": "What are you up to this weekend?",
+        "ja": "今週末は何をする予定ですか。"
+      }
+    ]
+  },
+  {
+    "id": 1594,
+    "word": "leave behind",
+    "meaning": "～を置き忘れる、残していく",
+    "examples": [
+      {
+        "en": "I left my notebook behind in the classroom.",
+        "ja": "私は教室にノートを置き忘れました。"
+      },
+      {
+        "en": "The old factory left behind serious pollution.",
+        "ja": "その古い工場は深刻な汚染を残しました。"
+      },
+      {
+        "en": "Do not leave anyone behind.",
+        "ja": "誰も置き去りにしてはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 1595,
+    "word": "leave out",
+    "meaning": "～を省く、除外する、のけ者にする",
+    "examples": [
+      {
+        "en": "You left out an important detail.",
+        "ja": "あなたは重要な詳細を省きました。"
+      },
+      {
+        "en": "Do not leave anyone out of the game.",
+        "ja": "ゲームから誰も仲間外れにしないでください。"
+      },
+      {
+        "en": "This sentence is easier if you leave out that word.",
+        "ja": "その単語を省くと、この文は簡単になります。"
+      }
+    ]
+  },
+  {
+    "id": 1596,
+    "word": "rule out",
+    "meaning": "～を除外する",
+    "examples": [
+      {
+        "en": "The doctor ruled out a serious illness.",
+        "ja": "医者は深刻な病気の可能性を除外しました。"
+      },
+      {
+        "en": "We cannot rule out the possibility of rain.",
+        "ja": "雨の可能性を除外することはできません。"
+      },
+      {
+        "en": "The police ruled him out as a suspect.",
+        "ja": "警察は彼を容疑者から除外しました。"
+      }
+    ]
+  },
+  {
+    "id": 1597,
+    "word": "back and forth",
+    "meaning": "行ったり来たり",
+    "examples": [
+      {
+        "en": "The dog ran back and forth in the yard.",
+        "ja": "犬は庭を行ったり来たり走りました。"
+      },
+      {
+        "en": "We sent messages back and forth all night.",
+        "ja": "私たちは一晩中メッセージをやり取りしました。"
+      },
+      {
+        "en": "He walked back and forth while thinking.",
+        "ja": "彼は考えながら行ったり来たり歩きました。"
+      }
+    ]
+  },
+  {
+    "id": 1598,
+    "word": "upside down",
+    "meaning": "上下逆さまに",
+    "examples": [
+      {
+        "en": "The picture is hanging upside down.",
+        "ja": "その絵は上下逆さまに掛かっています。"
+      },
+      {
+        "en": "He turned the box upside down.",
+        "ja": "彼は箱を上下逆さまにしました。"
+      },
+      {
+        "en": "The room was turned upside down after the earthquake.",
+        "ja": "地震の後、その部屋はめちゃくちゃになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1599,
+    "word": "inside out",
+    "meaning": "裏返しに、隅々まで",
+    "examples": [
+      {
+        "en": "Your shirt is inside out.",
+        "ja": "シャツが裏返しです。"
+      },
+      {
+        "en": "She turned the bag inside out to find her key.",
+        "ja": "彼女は鍵を探すためにかばんを裏返しました。"
+      },
+      {
+        "en": "He knows this city inside out.",
+        "ja": "彼はこの街を隅々まで知っています。"
+      }
+    ]
+  },
+  {
+    "id": 1600,
+    "word": "vice versa",
+    "meaning": "その逆、逆もまた同様",
+    "examples": [
+      {
+        "en": "I can teach you Japanese, and vice versa.",
+        "ja": "私はあなたに日本語を教えられますし、その逆もできます。"
+      },
+      {
+        "en": "Good communication helps teamwork, and vice versa.",
+        "ja": "よいコミュニケーションはチームワークを助け、その逆もまた同様です。"
+      },
+      {
+        "en": "Adults can learn from children, and vice versa.",
+        "ja": "大人は子どもから学ぶことができ、その逆もまた同様です。"
+      }
+    ]
+  }
+]

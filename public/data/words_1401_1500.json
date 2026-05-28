@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 1401,
+    "word": "dwell",
+    "meaning": "住む、宿る",
+    "examples": [
+      {
+        "en": "Many families dwell in this quiet village.",
+        "ja": "多くの家族がこの静かな村に住んでいます。"
+      },
+      {
+        "en": "A strange fear dwelled in his mind.",
+        "ja": "奇妙な恐怖が彼の心に宿っていました。"
+      },
+      {
+        "en": "She does not dwell on past mistakes.",
+        "ja": "彼女は過去の失敗についてくよくよ考えません。"
+      }
+    ]
+  },
+  {
+    "id": 1402,
+    "word": "residence",
+    "meaning": "住居、居住",
+    "examples": [
+      {
+        "en": "His official residence is near the station.",
+        "ja": "彼の公的な住居は駅の近くにあります。"
+      },
+      {
+        "en": "Students need proof of residence to apply.",
+        "ja": "学生は申し込むために居住証明が必要です。"
+      },
+      {
+        "en": "The old house became her permanent residence.",
+        "ja": "その古い家が彼女の永住の住まいになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1403,
+    "word": "accommodate",
+    "meaning": "～を宿泊させる、収容する；順応させる",
+    "examples": [
+      {
+        "en": "The hotel can accommodate two hundred guests.",
+        "ja": "そのホテルは200人の宿泊客を収容できます。"
+      },
+      {
+        "en": "The classroom cannot accommodate so many students.",
+        "ja": "その教室はそれほど多くの学生を収容できません。"
+      },
+      {
+        "en": "We changed the schedule to accommodate his needs.",
+        "ja": "私たちは彼の都合に合わせるため予定を変更しました。"
+      }
+    ]
+  },
+  {
+    "id": 1404,
+    "word": "refuge",
+    "meaning": "避難、避難所",
+    "examples": [
+      {
+        "en": "The family took refuge in a nearby school.",
+        "ja": "その家族は近くの学校に避難しました。"
+      },
+      {
+        "en": "The cave provided refuge from the storm.",
+        "ja": "その洞窟は嵐からの避難所になりました。"
+      },
+      {
+        "en": "Books were a refuge for him during hard times.",
+        "ja": "つらい時期、本は彼にとって心の避難所でした。"
+      }
+    ]
+  },
+  {
+    "id": 1405,
+    "word": "shelter",
+    "meaning": "避難所、住まい；～を保護する、住まわせる",
+    "examples": [
+      {
+        "en": "The city opened a shelter after the earthquake.",
+        "ja": "地震の後、市は避難所を開設しました。"
+      },
+      {
+        "en": "The tree gave us shelter from the rain.",
+        "ja": "その木が雨から私たちを守ってくれました。"
+      },
+      {
+        "en": "They sheltered the lost dog for one night.",
+        "ja": "彼らは迷い犬を一晩保護しました。"
+      }
+    ]
+  },
+  {
+    "id": 1406,
+    "word": "clothes",
+    "meaning": "衣服",
+    "examples": [
+      {
+        "en": "She packed warm clothes for the trip.",
+        "ja": "彼女は旅行のために暖かい衣服を詰めました。"
+      },
+      {
+        "en": "These clothes are too small for me.",
+        "ja": "これらの服は私には小さすぎます。"
+      },
+      {
+        "en": "He changed his clothes after practice.",
+        "ja": "彼は練習の後で服を着替えました。"
+      }
+    ]
+  },
+  {
+    "id": 1407,
+    "word": "fabric",
+    "meaning": "布地",
+    "examples": [
+      {
+        "en": "This shirt is made of soft fabric.",
+        "ja": "このシャツは柔らかい布地でできています。"
+      },
+      {
+        "en": "She chose a blue fabric for the curtains.",
+        "ja": "彼女はカーテン用に青い布地を選びました。"
+      },
+      {
+        "en": "The fabric tears easily when it is wet.",
+        "ja": "その布地は濡れると簡単に破れます。"
+      }
+    ]
+  },
+  {
+    "id": 1408,
+    "word": "thread",
+    "meaning": "糸",
+    "examples": [
+      {
+        "en": "I need a needle and some thread.",
+        "ja": "針と少しの糸が必要です。"
+      },
+      {
+        "en": "A loose thread was hanging from his jacket.",
+        "ja": "彼の上着からほつれた糸が垂れていました。"
+      },
+      {
+        "en": "She tied the button with red thread.",
+        "ja": "彼女は赤い糸でボタンを留めました。"
+      }
+    ]
+  },
+  {
+    "id": 1409,
+    "word": "weave",
+    "meaning": "～を織る",
+    "examples": [
+      {
+        "en": "They weave baskets from thin branches.",
+        "ja": "彼らは細い枝でかごを編みます。"
+      },
+      {
+        "en": "My grandmother taught me how to weave cloth.",
+        "ja": "祖母が布の織り方を教えてくれました。"
+      },
+      {
+        "en": "The story weaves history and imagination together.",
+        "ja": "その物語は歴史と想像を織り交ぜています。"
+      }
+    ]
+  },
+  {
+    "id": 1410,
+    "word": "wear",
+    "meaning": "～を着ている；～をすり減らす",
+    "examples": [
+      {
+        "en": "She wears a uniform to school every day.",
+        "ja": "彼女は毎日学校に制服を着ていきます。"
+      },
+      {
+        "en": "These shoes are starting to wear out.",
+        "ja": "この靴はすり減り始めています。"
+      },
+      {
+        "en": "He wore a bright smile at the party.",
+        "ja": "彼はパーティーで明るい笑顔を浮かべていました。"
+      }
+    ]
+  },
+  {
+    "id": 1411,
+    "word": "disguise",
+    "meaning": "～を変装する、隠す；変装、隠蔽",
+    "examples": [
+      {
+        "en": "The actor disguised himself as an old man.",
+        "ja": "その俳優は老人に変装しました。"
+      },
+      {
+        "en": "She tried to disguise her disappointment.",
+        "ja": "彼女は失望を隠そうとしました。"
+      },
+      {
+        "en": "His glasses were part of his disguise.",
+        "ja": "彼の眼鏡は変装の一部でした。"
+      }
+    ]
+  },
+  {
+    "id": 1412,
+    "word": "naked",
+    "meaning": "裸の、むき出しの",
+    "examples": [
+      {
+        "en": "The child ran into the room with naked feet.",
+        "ja": "その子は裸足で部屋に走り込みました。"
+      },
+      {
+        "en": "The wall was naked after the pictures were removed.",
+        "ja": "写真が外されると、その壁はむき出しになりました。"
+      },
+      {
+        "en": "The truth was clear to the naked eye.",
+        "ja": "その真実は肉眼でもはっきり分かりました。"
+      }
+    ]
+  },
+  {
+    "id": 1413,
+    "word": "fashion",
+    "meaning": "流行；方法、やり方",
+    "examples": [
+      {
+        "en": "Fashion changes quickly in big cities.",
+        "ja": "大都市では流行がすぐに変わります。"
+      },
+      {
+        "en": "She is interested in Japanese fashion.",
+        "ja": "彼女は日本のファッションに興味があります。"
+      },
+      {
+        "en": "He solved the problem in a simple fashion.",
+        "ja": "彼はその問題を簡単な方法で解決しました。"
+      }
+    ]
+  },
+  {
+    "id": 1414,
+    "word": "household",
+    "meaning": "家庭の；家事",
+    "examples": [
+      {
+        "en": "Household chores take time every weekend.",
+        "ja": "家事は毎週末に時間がかかります。"
+      },
+      {
+        "en": "This is a common household problem.",
+        "ja": "これはよくある家庭内の問題です。"
+      },
+      {
+        "en": "The average household uses a lot of electricity.",
+        "ja": "平均的な家庭は多くの電気を使います。"
+      }
+    ]
+  },
+  {
+    "id": 1415,
+    "word": "domestic",
+    "meaning": "家庭内の；国内の",
+    "examples": [
+      {
+        "en": "Domestic flights are usually shorter than international flights.",
+        "ja": "国内線はたいてい国際線より短いです。"
+      },
+      {
+        "en": "The company sells its products in the domestic market.",
+        "ja": "その会社は国内市場で製品を販売しています。"
+      },
+      {
+        "en": "They shared domestic duties equally.",
+        "ja": "彼らは家庭内の仕事を平等に分担しました。"
+      }
+    ]
+  },
+  {
+    "id": 1416,
+    "word": "routine",
+    "meaning": "日常の、おきまりの；日課",
+    "examples": [
+      {
+        "en": "Morning exercise is part of my routine.",
+        "ja": "朝の運動は私の日課の一部です。"
+      },
+      {
+        "en": "The doctor did a routine checkup.",
+        "ja": "医者は定期的な健康診断をしました。"
+      },
+      {
+        "en": "Changing my routine helped me study better.",
+        "ja": "日課を変えたことで、よりよく勉強できるようになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1417,
+    "word": "chore",
+    "meaning": "雑用",
+    "examples": [
+      {
+        "en": "Washing the dishes is my daily chore.",
+        "ja": "皿洗いは私の毎日の雑用です。"
+      },
+      {
+        "en": "He finished his chores before playing games.",
+        "ja": "彼はゲームをする前に雑用を終えました。"
+      },
+      {
+        "en": "Cleaning the garage was a tiring chore.",
+        "ja": "車庫の掃除は疲れる雑用でした。"
+      }
+    ]
+  },
+  {
+    "id": 1418,
+    "word": "commute",
+    "meaning": "通勤・通学する",
+    "examples": [
+      {
+        "en": "I commute to school by train.",
+        "ja": "私は電車で通学しています。"
+      },
+      {
+        "en": "Her father commutes two hours every day.",
+        "ja": "彼女の父は毎日2時間かけて通勤します。"
+      },
+      {
+        "en": "Working from home reduced my commute.",
+        "ja": "在宅勤務で通勤時間が減りました。"
+      }
+    ]
+  },
+  {
+    "id": 1419,
+    "word": "grocery",
+    "meaning": "食料雑貨品",
+    "examples": [
+      {
+        "en": "I bought some groceries after school.",
+        "ja": "放課後に食料品を少し買いました。"
+      },
+      {
+        "en": "There is a grocery store near my house.",
+        "ja": "私の家の近くに食料品店があります。"
+      },
+      {
+        "en": "She made a grocery list before shopping.",
+        "ja": "彼女は買い物の前に食料品リストを作りました。"
+      }
+    ]
+  },
+  {
+    "id": 1420,
+    "word": "greet",
+    "meaning": "～に挨拶する、を出迎える",
+    "examples": [
+      {
+        "en": "The teacher greeted each student at the door.",
+        "ja": "先生は入口で生徒一人一人に挨拶しました。"
+      },
+      {
+        "en": "We greeted our guests with warm smiles.",
+        "ja": "私たちは温かい笑顔で客を出迎えました。"
+      },
+      {
+        "en": "A loud cheer greeted the singer.",
+        "ja": "大きな歓声がその歌手を迎えました。"
+      }
+    ]
+  },
+  {
+    "id": 1421,
+    "word": "souvenir",
+    "meaning": "（主に自分のための）お土産、記念品",
+    "examples": [
+      {
+        "en": "I bought a small souvenir in Kyoto.",
+        "ja": "私は京都で小さなお土産を買いました。"
+      },
+      {
+        "en": "This key chain is a souvenir from my trip.",
+        "ja": "このキーホルダーは旅行の記念品です。"
+      },
+      {
+        "en": "She kept the ticket as a souvenir.",
+        "ja": "彼女はそのチケットを記念品として取っておきました。"
+      }
+    ]
+  },
+  {
+    "id": 1422,
+    "word": "degree",
+    "meaning": "程度；学位",
+    "examples": [
+      {
+        "en": "The degree of damage was serious.",
+        "ja": "被害の程度は深刻でした。"
+      },
+      {
+        "en": "She earned a degree in biology.",
+        "ja": "彼女は生物学の学位を取得しました。"
+      },
+      {
+        "en": "The temperature rose by three degrees.",
+        "ja": "気温が3度上がりました。"
+      }
+    ]
+  },
+  {
+    "id": 1423,
+    "word": "extent",
+    "meaning": "程度、範囲",
+    "examples": [
+      {
+        "en": "We did not know the full extent of the problem.",
+        "ja": "私たちはその問題の全体的な程度を知りませんでした。"
+      },
+      {
+        "en": "To some extent, I agree with you.",
+        "ja": "ある程度、私はあなたに賛成です。"
+      },
+      {
+        "en": "The map shows the extent of the forest.",
+        "ja": "その地図は森の範囲を示しています。"
+      }
+    ]
+  },
+  {
+    "id": 1424,
+    "word": "scale",
+    "meaning": "規模、程度",
+    "examples": [
+      {
+        "en": "The festival was held on a large scale.",
+        "ja": "その祭りは大規模に開催されました。"
+      },
+      {
+        "en": "We need to understand the scale of the project.",
+        "ja": "私たちはその計画の規模を理解する必要があります。"
+      },
+      {
+        "en": "The earthquake was small on the scale.",
+        "ja": "その地震は規模としては小さいものでした。"
+      }
+    ]
+  },
+  {
+    "id": 1425,
+    "word": "moderate",
+    "meaning": "適度の、控えめな；穏やかな",
+    "examples": [
+      {
+        "en": "Moderate exercise is good for your health.",
+        "ja": "適度な運動は健康によいです。"
+      },
+      {
+        "en": "The hotel offers rooms at moderate prices.",
+        "ja": "そのホテルは手頃な価格の部屋を提供しています。"
+      },
+      {
+        "en": "He has moderate views on the issue.",
+        "ja": "彼はその問題について穏健な考えを持っています。"
+      }
+    ]
+  },
+  {
+    "id": 1426,
+    "word": "temperate",
+    "meaning": "適度の、節度のある；穏やかな",
+    "examples": [
+      {
+        "en": "Japan has many areas with a temperate climate.",
+        "ja": "日本には温暖な気候の地域が多くあります。"
+      },
+      {
+        "en": "He gave a temperate answer during the debate.",
+        "ja": "彼は討論中に節度ある答えをしました。"
+      },
+      {
+        "en": "The island is known for its temperate weather.",
+        "ja": "その島は穏やかな天候で知られています。"
+      }
+    ]
+  },
+  {
+    "id": 1427,
+    "word": "proper",
+    "meaning": "適度の、適切な",
+    "examples": [
+      {
+        "en": "You need proper tools for this job.",
+        "ja": "この作業には適切な工具が必要です。"
+      },
+      {
+        "en": "Please use proper language in class.",
+        "ja": "授業中は適切な言葉を使ってください。"
+      },
+      {
+        "en": "A proper breakfast helps you focus.",
+        "ja": "きちんとした朝食は集中する助けになります。"
+      }
+    ]
+  },
+  {
+    "id": 1428,
+    "word": "appropriate",
+    "meaning": "適切な",
+    "examples": [
+      {
+        "en": "This movie is not appropriate for young children.",
+        "ja": "この映画は幼い子どもには適切ではありません。"
+      },
+      {
+        "en": "Choose appropriate words for the situation.",
+        "ja": "状況に合った適切な言葉を選びなさい。"
+      },
+      {
+        "en": "Her clothes were appropriate for the interview.",
+        "ja": "彼女の服装は面接にふさわしいものでした。"
+      }
+    ]
+  },
+  {
+    "id": 1429,
+    "word": "extreme",
+    "meaning": "極端な；極端、極限",
+    "examples": [
+      {
+        "en": "Extreme heat can be dangerous.",
+        "ja": "極端な暑さは危険なことがあります。"
+      },
+      {
+        "en": "He went to the extreme of quitting his job.",
+        "ja": "彼は仕事を辞めるという極端な行動に出ました。"
+      },
+      {
+        "en": "The team trained in extreme conditions.",
+        "ja": "そのチームは過酷な条件で訓練しました。"
+      }
+    ]
+  },
+  {
+    "id": 1430,
+    "word": "tremendous",
+    "meaning": "凄まじい、莫大な",
+    "examples": [
+      {
+        "en": "The concert was a tremendous success.",
+        "ja": "そのコンサートは大成功でした。"
+      },
+      {
+        "en": "She made a tremendous effort to pass the exam.",
+        "ja": "彼女は試験に合格するためにものすごい努力をしました。"
+      },
+      {
+        "en": "The storm caused tremendous damage.",
+        "ja": "その嵐は甚大な被害をもたらしました。"
+      }
+    ]
+  },
+  {
+    "id": 1431,
+    "word": "excess",
+    "meaning": "超過、過剰な",
+    "examples": [
+      {
+        "en": "Excess sugar is bad for your health.",
+        "ja": "過剰な砂糖は健康によくありません。"
+      },
+      {
+        "en": "Please remove the excess water from the pot.",
+        "ja": "鍋から余分な水を取り除いてください。"
+      },
+      {
+        "en": "The airline charged me for excess baggage.",
+        "ja": "航空会社は超過手荷物に料金を請求しました。"
+      }
+    ]
+  },
+  {
+    "id": 1432,
+    "word": "extra",
+    "meaning": "余分な、臨時の",
+    "examples": [
+      {
+        "en": "I brought an extra pen just in case.",
+        "ja": "念のため余分なペンを持ってきました。"
+      },
+      {
+        "en": "She worked extra hours this week.",
+        "ja": "彼女は今週、追加で働きました。"
+      },
+      {
+        "en": "We need an extra chair for the guest.",
+        "ja": "客のために余分な椅子が必要です。"
+      }
+    ]
+  },
+  {
+    "id": 1433,
+    "word": "gradual",
+    "meaning": "徐々の",
+    "examples": [
+      {
+        "en": "There was a gradual change in his attitude.",
+        "ja": "彼の態度には徐々の変化がありました。"
+      },
+      {
+        "en": "Learning a language is a gradual process.",
+        "ja": "言語を学ぶことは徐々に進む過程です。"
+      },
+      {
+        "en": "The road made a gradual turn to the left.",
+        "ja": "その道路は徐々に左へ曲がっていました。"
+      }
+    ]
+  },
+  {
+    "id": 1434,
+    "word": "steady",
+    "meaning": "安定した、着実な",
+    "examples": [
+      {
+        "en": "The company showed steady growth.",
+        "ja": "その会社は着実な成長を示しました。"
+      },
+      {
+        "en": "Keep a steady pace when you run.",
+        "ja": "走るときは安定したペースを保ちなさい。"
+      },
+      {
+        "en": "Her voice was calm and steady.",
+        "ja": "彼女の声は落ち着いて安定していました。"
+      }
+    ]
+  },
+  {
+    "id": 1435,
+    "word": "sharply",
+    "meaning": "急速に",
+    "examples": [
+      {
+        "en": "Prices rose sharply last month.",
+        "ja": "先月、物価が急速に上がりました。"
+      },
+      {
+        "en": "The road turns sharply to the right.",
+        "ja": "その道は右へ急に曲がります。"
+      },
+      {
+        "en": "He spoke sharply to the noisy students.",
+        "ja": "彼は騒がしい生徒たちにきつく話しました。"
+      }
+    ]
+  },
+  {
+    "id": 1436,
+    "word": "steep",
+    "meaning": "（勾配が）急な、険しい",
+    "examples": [
+      {
+        "en": "We climbed a steep hill.",
+        "ja": "私たちは急な丘を登りました。"
+      },
+      {
+        "en": "The stairs are too steep for small children.",
+        "ja": "その階段は小さな子どもには急すぎます。"
+      },
+      {
+        "en": "The price seemed steep to me.",
+        "ja": "その価格は私には高すぎるように感じました。"
+      }
+    ]
+  },
+  {
+    "id": 1437,
+    "word": "marked",
+    "meaning": "著しい、顕著な",
+    "examples": [
+      {
+        "en": "There was a marked improvement in her English.",
+        "ja": "彼女の英語には著しい向上がありました。"
+      },
+      {
+        "en": "The two plans show marked differences.",
+        "ja": "その2つの計画には顕著な違いがあります。"
+      },
+      {
+        "en": "His marked change surprised everyone.",
+        "ja": "彼の明らかな変化は皆を驚かせました。"
+      }
+    ]
+  },
+  {
+    "id": 1438,
+    "word": "partly",
+    "meaning": "部分的に、一部には",
+    "examples": [
+      {
+        "en": "The accident was partly my fault.",
+        "ja": "その事故は一部には私の責任でした。"
+      },
+      {
+        "en": "The sky was partly cloudy.",
+        "ja": "空は部分的に曇っていました。"
+      },
+      {
+        "en": "I chose this school partly because of its location.",
+        "ja": "私は一部には立地が理由でこの学校を選びました。"
+      }
+    ]
+  },
+  {
+    "id": 1439,
+    "word": "entire",
+    "meaning": "全体の",
+    "examples": [
+      {
+        "en": "I read the entire book in one day.",
+        "ja": "私はその本全体を1日で読みました。"
+      },
+      {
+        "en": "The entire class joined the event.",
+        "ja": "クラス全体がその行事に参加しました。"
+      },
+      {
+        "en": "The storm damaged the entire town.",
+        "ja": "嵐は町全体に被害を与えました。"
+      }
+    ]
+  },
+  {
+    "id": 1440,
+    "word": "fully",
+    "meaning": "全く、完全に",
+    "examples": [
+      {
+        "en": "I fully understand your point.",
+        "ja": "私はあなたの言いたいことを完全に理解しています。"
+      },
+      {
+        "en": "The battery is fully charged.",
+        "ja": "バッテリーは完全に充電されています。"
+      },
+      {
+        "en": "She was fully aware of the risk.",
+        "ja": "彼女はその危険を十分に認識していました。"
+      }
+    ]
+  },
+  {
+    "id": 1441,
+    "word": "thorough",
+    "meaning": "完全な、徹底的な",
+    "examples": [
+      {
+        "en": "The police made a thorough search of the room.",
+        "ja": "警察はその部屋を徹底的に捜索しました。"
+      },
+      {
+        "en": "He gave the machine a thorough check.",
+        "ja": "彼はその機械を徹底的に点検しました。"
+      },
+      {
+        "en": "A thorough review helped us find mistakes.",
+        "ja": "徹底的な見直しがミスを見つける助けになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1442,
+    "word": "ultimate",
+    "meaning": "究極の、最終の",
+    "examples": [
+      {
+        "en": "His ultimate goal is to become a doctor.",
+        "ja": "彼の最終目標は医者になることです。"
+      },
+      {
+        "en": "This is the ultimate test of our teamwork.",
+        "ja": "これは私たちのチームワークの究極の試練です。"
+      },
+      {
+        "en": "The ultimate decision belongs to the manager.",
+        "ja": "最終的な決定は管理者にあります。"
+      }
+    ]
+  },
+  {
+    "id": 1443,
+    "word": "terminal",
+    "meaning": "終点の、最終の",
+    "examples": [
+      {
+        "en": "We got off at the terminal station.",
+        "ja": "私たちは終点の駅で降りました。"
+      },
+      {
+        "en": "The bus terminal is next to the mall.",
+        "ja": "バスターミナルはショッピングモールの隣にあります。"
+      },
+      {
+        "en": "The patient had a terminal illness.",
+        "ja": "その患者は末期の病気を患っていました。"
+      }
+    ]
+  },
+  {
+    "id": 1444,
+    "word": "eventually",
+    "meaning": "結局は、ゆくゆくは",
+    "examples": [
+      {
+        "en": "Eventually, we found the lost key.",
+        "ja": "結局、私たちはなくした鍵を見つけました。"
+      },
+      {
+        "en": "If you keep practicing, you will eventually improve.",
+        "ja": "練習を続ければ、やがて上達します。"
+      },
+      {
+        "en": "The small company eventually became famous.",
+        "ja": "その小さな会社はやがて有名になりました。"
+      }
+    ]
+  },
+  {
+    "id": 1445,
+    "word": "end up",
+    "meaning": "結局～になる（doing）",
+    "examples": [
+      {
+        "en": "We ended up eating at home.",
+        "ja": "私たちは結局家で食事をしました。"
+      },
+      {
+        "en": "He ended up becoming a teacher.",
+        "ja": "彼は結局教師になりました。"
+      },
+      {
+        "en": "I missed the train and ended up walking.",
+        "ja": "私は電車に乗り遅れて、結局歩くことになりました。"
+      }
+    ]
+  },
+  {
+    "id": 1446,
+    "word": "in the long run",
+    "meaning": "長い目で見れば、結局は",
+    "examples": [
+      {
+        "en": "Hard work pays off in the long run.",
+        "ja": "努力は長い目で見れば報われます。"
+      },
+      {
+        "en": "This plan will save money in the long run.",
+        "ja": "この計画は長期的にはお金の節約になります。"
+      },
+      {
+        "en": "In the long run, health is more important than speed.",
+        "ja": "長い目で見れば、速さより健康の方が大切です。"
+      }
+    ]
+  },
+  {
+    "id": 1447,
+    "word": "for good",
+    "meaning": "永遠に",
+    "examples": [
+      {
+        "en": "He left the town for good.",
+        "ja": "彼はその町を永久に去りました。"
+      },
+      {
+        "en": "The old store closed for good last year.",
+        "ja": "その古い店は昨年完全に閉店しました。"
+      },
+      {
+        "en": "She decided to quit smoking for good.",
+        "ja": "彼女はきっぱり禁煙することに決めました。"
+      }
+    ]
+  },
+  {
+    "id": 1448,
+    "word": "rate",
+    "meaning": "割合、速度；～を評価する",
+    "examples": [
+      {
+        "en": "The birth rate has fallen in many countries.",
+        "ja": "多くの国で出生率が下がっています。"
+      },
+      {
+        "en": "The car was moving at a high rate of speed.",
+        "ja": "その車は高い速度で動いていました。"
+      },
+      {
+        "en": "How would you rate this restaurant?",
+        "ja": "あなたならこのレストランをどう評価しますか。"
+      }
+    ]
+  },
+  {
+    "id": 1449,
+    "word": "proportion",
+    "meaning": "割合、比率",
+    "examples": [
+      {
+        "en": "A large proportion of students use smartphones.",
+        "ja": "学生の大きな割合がスマートフォンを使っています。"
+      },
+      {
+        "en": "The proportion of water in the mixture is important.",
+        "ja": "混合物中の水の比率は重要です。"
+      },
+      {
+        "en": "The picture is not in the correct proportion.",
+        "ja": "その絵は正しい比率になっていません。"
+      }
+    ]
+  },
+  {
+    "id": 1450,
+    "word": "ratio",
+    "meaning": "比率",
+    "examples": [
+      {
+        "en": "The ratio of boys to girls is three to two.",
+        "ja": "男子と女子の比率は3対2です。"
+      },
+      {
+        "en": "Mix water and juice in a one-to-one ratio.",
+        "ja": "水とジュースを1対1の比率で混ぜなさい。"
+      },
+      {
+        "en": "The teacher explained the ratio with a simple graph.",
+        "ja": "先生は簡単なグラフでその比率を説明しました。"
+      }
+    ]
+  },
+  {
+    "id": 1451,
+    "word": "fraction",
+    "meaning": "一部分",
+    "examples": [
+      {
+        "en": "Only a fraction of the students passed the test.",
+        "ja": "学生のほんの一部だけがその試験に合格しました。"
+      },
+      {
+        "en": "He finished the work in a fraction of the time.",
+        "ja": "彼はその仕事をほんのわずかな時間で終えました。"
+      },
+      {
+        "en": "The repair cost a fraction of the original price.",
+        "ja": "修理費は元の価格のほんの一部でした。"
+      }
+    ]
+  },
+  {
+    "id": 1452,
+    "word": "portion",
+    "meaning": "一部分",
+    "examples": [
+      {
+        "en": "I ate only a small portion of the meal.",
+        "ja": "私は食事のほんの少しの部分だけを食べました。"
+      },
+      {
+        "en": "A large portion of the budget goes to education.",
+        "ja": "予算の大部分が教育に使われます。"
+      },
+      {
+        "en": "She saved a portion of her salary every month.",
+        "ja": "彼女は毎月給料の一部を貯金しました。"
+      }
+    ]
+  },
+  {
+    "id": 1453,
+    "word": "fragment",
+    "meaning": "断片、破片",
+    "examples": [
+      {
+        "en": "A fragment of glass was on the floor.",
+        "ja": "ガラスの破片が床にありました。"
+      },
+      {
+        "en": "He remembered only a fragment of the dream.",
+        "ja": "彼はその夢の断片だけを覚えていました。"
+      },
+      {
+        "en": "The old letter was found in fragments.",
+        "ja": "その古い手紙は断片の状態で見つかりました。"
+      }
+    ]
+  },
+  {
+    "id": 1454,
+    "word": "segment",
+    "meaning": "（区分された）部分",
+    "examples": [
+      {
+        "en": "This segment of the road is closed.",
+        "ja": "道路のこの区間は閉鎖されています。"
+      },
+      {
+        "en": "The TV program has a short news segment.",
+        "ja": "そのテレビ番組には短いニュースコーナーがあります。"
+      },
+      {
+        "en": "Divide the line into three equal segments.",
+        "ja": "その線を3つの等しい部分に分けなさい。"
+      }
+    ]
+  },
+  {
+    "id": 1455,
+    "word": "cluster",
+    "meaning": "群れ、集まり",
+    "examples": [
+      {
+        "en": "A cluster of stars was visible in the sky.",
+        "ja": "空に星の集まりが見えました。"
+      },
+      {
+        "en": "There is a cluster of small shops near the station.",
+        "ja": "駅の近くに小さな店の集まりがあります。"
+      },
+      {
+        "en": "The children stood in a cluster around the teacher.",
+        "ja": "子どもたちは先生の周りに集まって立っていました。"
+      }
+    ]
+  },
+  {
+    "id": 1456,
+    "word": "partial",
+    "meaning": "部分的な；偏った、不公平な",
+    "examples": [
+      {
+        "en": "The report gave only a partial answer.",
+        "ja": "その報告は部分的な答えしか示しませんでした。"
+      },
+      {
+        "en": "The building suffered partial damage.",
+        "ja": "その建物は部分的な被害を受けました。"
+      },
+      {
+        "en": "A judge must not be partial.",
+        "ja": "裁判官は偏っていてはいけません。"
+      }
+    ]
+  },
+  {
+    "id": 1457,
+    "word": "all in all",
+    "meaning": "全般的に見て、概して",
+    "examples": [
+      {
+        "en": "All in all, the trip was a success.",
+        "ja": "全体として、その旅行は成功でした。"
+      },
+      {
+        "en": "All in all, I enjoyed the movie.",
+        "ja": "概して、私はその映画を楽しみました。"
+      },
+      {
+        "en": "All in all, our team did a good job.",
+        "ja": "全般的に見て、私たちのチームはよくやりました。"
+      }
+    ]
+  },
+  {
+    "id": 1458,
+    "word": "on the whole",
+    "meaning": "概して、全般的に",
+    "examples": [
+      {
+        "en": "On the whole, the students were satisfied.",
+        "ja": "概して、学生たちは満足していました。"
+      },
+      {
+        "en": "The plan is, on the whole, reasonable.",
+        "ja": "その計画は全般的に見て妥当です。"
+      },
+      {
+        "en": "On the whole, the weather was good.",
+        "ja": "全体として、天気はよかったです。"
+      }
+    ]
+  },
+  {
+    "id": 1459,
+    "word": "by and large",
+    "meaning": "概して、全般的に",
+    "examples": [
+      {
+        "en": "By and large, people supported the new rule.",
+        "ja": "概して、人々はその新しい規則を支持しました。"
+      },
+      {
+        "en": "The event was, by and large, successful.",
+        "ja": "そのイベントは全般的に成功でした。"
+      },
+      {
+        "en": "By and large, this method works well.",
+        "ja": "概して、この方法はうまく機能します。"
+      }
+    ]
+  },
+  {
+    "id": 1460,
+    "word": "at large",
+    "meaning": "全体の；逃走中で",
+    "examples": [
+      {
+        "en": "The issue affects society at large.",
+        "ja": "その問題は社会全体に影響します。"
+      },
+      {
+        "en": "The criminal is still at large.",
+        "ja": "その犯罪者はまだ逃走中です。"
+      },
+      {
+        "en": "The professor spoke about culture at large.",
+        "ja": "教授は文化全体について話しました。"
+      }
+    ]
+  },
+  {
+    "id": 1461,
+    "word": "at length",
+    "meaning": "長々と、詳細にわたって；ついには",
+    "examples": [
+      {
+        "en": "She explained the idea at length.",
+        "ja": "彼女はその考えを詳細に説明しました。"
+      },
+      {
+        "en": "We discussed the problem at length.",
+        "ja": "私たちはその問題を長々と話し合いました。"
+      },
+      {
+        "en": "At length, the meeting came to an end.",
+        "ja": "ついに会議は終わりました。"
+      }
+    ]
+  },
+  {
+    "id": 1462,
+    "word": "lack",
+    "meaning": "～を欠く；欠如",
+    "examples": [
+      {
+        "en": "The team lacks experience.",
+        "ja": "そのチームは経験を欠いています。"
+      },
+      {
+        "en": "There is a lack of clean water.",
+        "ja": "清潔な水が不足しています。"
+      },
+      {
+        "en": "His answer lacked detail.",
+        "ja": "彼の答えは詳細を欠いていました。"
+      }
+    ]
+  },
+  {
+    "id": 1463,
+    "word": "devoid",
+    "meaning": "（～が）欠けている（of）",
+    "examples": [
+      {
+        "en": "The room was devoid of furniture.",
+        "ja": "その部屋には家具がまったくありませんでした。"
+      },
+      {
+        "en": "His speech was devoid of emotion.",
+        "ja": "彼の演説には感情が欠けていました。"
+      },
+      {
+        "en": "The desert seemed devoid of life.",
+        "ja": "その砂漠には生命がないように見えました。"
+      }
+    ]
+  },
+  {
+    "id": 1464,
+    "word": "run out of",
+    "meaning": "～を切らす、使い果たす",
+    "examples": [
+      {
+        "en": "We ran out of milk this morning.",
+        "ja": "今朝、牛乳を切らしました。"
+      },
+      {
+        "en": "I ran out of time during the test.",
+        "ja": "試験中に時間がなくなりました。"
+      },
+      {
+        "en": "The car ran out of gas near the bridge.",
+        "ja": "その車は橋の近くでガソリンを使い果たしました。"
+      }
+    ]
+  },
+  {
+    "id": 1465,
+    "word": "short of",
+    "meaning": "～が不足している",
+    "examples": [
+      {
+        "en": "We are short of chairs for the meeting.",
+        "ja": "会議用の椅子が不足しています。"
+      },
+      {
+        "en": "The team is short of money.",
+        "ja": "そのチームは資金不足です。"
+      },
+      {
+        "en": "Nothing short of a miracle can save them.",
+        "ja": "奇跡でも起きなければ彼らを救えません。"
+      }
+    ]
+  },
+  {
+    "id": 1466,
+    "word": "deficit",
+    "meaning": "不足、赤字",
+    "examples": [
+      {
+        "en": "The country has a large trade deficit.",
+        "ja": "その国には大きな貿易赤字があります。"
+      },
+      {
+        "en": "A sleep deficit can affect your health.",
+        "ja": "睡眠不足は健康に影響することがあります。"
+      },
+      {
+        "en": "The company tried to reduce its deficit.",
+        "ja": "その会社は赤字を減らそうとしました。"
+      }
+    ]
+  },
+  {
+    "id": 1467,
+    "word": "scarce",
+    "meaning": "不十分な、乏しい",
+    "examples": [
+      {
+        "en": "Clean water is scarce in this area.",
+        "ja": "この地域では清潔な水が乏しいです。"
+      },
+      {
+        "en": "Jobs were scarce after the disaster.",
+        "ja": "災害後、仕事は不足していました。"
+      },
+      {
+        "en": "Food became scarce during the long winter.",
+        "ja": "長い冬の間、食料が乏しくなりました。"
+      }
+    ]
+  },
+  {
+    "id": 1468,
+    "word": "vacant",
+    "meaning": "空いている",
+    "examples": [
+      {
+        "en": "Is this seat vacant?",
+        "ja": "この席は空いていますか。"
+      },
+      {
+        "en": "The hotel has no vacant rooms tonight.",
+        "ja": "そのホテルには今夜空き部屋がありません。"
+      },
+      {
+        "en": "A vacant lot stood behind the school.",
+        "ja": "学校の裏に空き地がありました。"
+      }
+    ]
+  },
+  {
+    "id": 1469,
+    "word": "for want of",
+    "meaning": "～がないので、不足して",
+    "examples": [
+      {
+        "en": "The plan failed for want of money.",
+        "ja": "その計画は資金不足で失敗しました。"
+      },
+      {
+        "en": "For want of time, we skipped the last topic.",
+        "ja": "時間がなかったので、私たちは最後の話題を省きました。"
+      },
+      {
+        "en": "The plants died for want of water.",
+        "ja": "その植物は水不足で枯れました。"
+      }
+    ]
+  },
+  {
+    "id": 1470,
+    "word": "dense",
+    "meaning": "密集した、密度の濃い",
+    "examples": [
+      {
+        "en": "We walked through a dense forest.",
+        "ja": "私たちは密集した森の中を歩きました。"
+      },
+      {
+        "en": "Dense fog covered the road.",
+        "ja": "濃い霧が道路を覆っていました。"
+      },
+      {
+        "en": "This area has a dense population.",
+        "ja": "この地域は人口密度が高いです。"
+      }
+    ]
+  },
+  {
+    "id": 1471,
+    "word": "convey",
+    "meaning": "～（情報・意味など）を伝える；運搬する",
+    "examples": [
+      {
+        "en": "Words cannot convey my gratitude.",
+        "ja": "言葉では私の感謝を伝えきれません。"
+      },
+      {
+        "en": "The painting conveys a sense of loneliness.",
+        "ja": "その絵は孤独感を伝えています。"
+      },
+      {
+        "en": "The truck conveys goods to the city.",
+        "ja": "そのトラックは都市へ商品を運びます。"
+      }
+    ]
+  },
+  {
+    "id": 1472,
+    "word": "impart",
+    "meaning": "～を（…に）与える、伝える（to …）",
+    "examples": [
+      {
+        "en": "The teacher imparted useful advice to us.",
+        "ja": "先生は私たちに役立つ助言を与えました。"
+      },
+      {
+        "en": "Parents impart values to their children.",
+        "ja": "親は子どもに価値観を伝えます。"
+      },
+      {
+        "en": "The spices impart a rich flavor to the soup.",
+        "ja": "その香辛料はスープに豊かな風味を与えます。"
+      }
+    ]
+  },
+  {
+    "id": 1473,
+    "word": "donate",
+    "meaning": "～を（…に）寄付する、贈与する（to …）",
+    "examples": [
+      {
+        "en": "She donated money to the hospital.",
+        "ja": "彼女は病院にお金を寄付しました。"
+      },
+      {
+        "en": "Many people donate clothes after disasters.",
+        "ja": "災害後、多くの人が衣服を寄付します。"
+      },
+      {
+        "en": "He decided to donate blood.",
+        "ja": "彼は献血することに決めました。"
+      }
+    ]
+  },
+  {
+    "id": 1474,
+    "word": "endow",
+    "meaning": "～に与える、授ける",
+    "examples": [
+      {
+        "en": "Nature endowed her with a beautiful voice.",
+        "ja": "自然は彼女に美しい声を授けました。"
+      },
+      {
+        "en": "The school was endowed by a wealthy family.",
+        "ja": "その学校は裕福な家族から寄付を受けました。"
+      },
+      {
+        "en": "He is endowed with great patience.",
+        "ja": "彼には大きな忍耐力が備わっています。"
+      }
+    ]
+  },
+  {
+    "id": 1475,
+    "word": "distract",
+    "meaning": "～をそらす、の気をそらす",
+    "examples": [
+      {
+        "en": "The noise distracted me from my homework.",
+        "ja": "その音が私の宿題への集中をそらしました。"
+      },
+      {
+        "en": "Do not distract the driver.",
+        "ja": "運転手の気をそらしてはいけません。"
+      },
+      {
+        "en": "Her phone kept distracting her in class.",
+        "ja": "授業中、彼女の電話がずっと彼女の気を散らしていました。"
+      }
+    ]
+  },
+  {
+    "id": 1476,
+    "word": "evade",
+    "meaning": "～を避ける、回避する",
+    "examples": [
+      {
+        "en": "He tried to evade the question.",
+        "ja": "彼はその質問を避けようとしました。"
+      },
+      {
+        "en": "The thief evaded the police for weeks.",
+        "ja": "その泥棒は何週間も警察から逃れました。"
+      },
+      {
+        "en": "You cannot evade responsibility forever.",
+        "ja": "いつまでも責任を回避することはできません。"
+      }
+    ]
+  },
+  {
+    "id": 1477,
+    "word": "divert",
+    "meaning": "～をそらす",
+    "examples": [
+      {
+        "en": "The sign diverted traffic to another road.",
+        "ja": "その標識は交通を別の道路へ迂回させました。"
+      },
+      {
+        "en": "The joke diverted our attention from the problem.",
+        "ja": "その冗談が私たちの注意を問題からそらしました。"
+      },
+      {
+        "en": "They diverted the river to protect the town.",
+        "ja": "彼らは町を守るために川の流れを変えました。"
+      }
+    ]
+  },
+  {
+    "id": 1478,
+    "word": "convert",
+    "meaning": "～を転換する、改宗・転向させる",
+    "examples": [
+      {
+        "en": "They converted the old factory into apartments.",
+        "ja": "彼らは古い工場をアパートに改装しました。"
+      },
+      {
+        "en": "This device converts sunlight into electricity.",
+        "ja": "この装置は太陽光を電気に変換します。"
+      },
+      {
+        "en": "He converted to another religion.",
+        "ja": "彼は別の宗教に改宗しました。"
+      }
+    ]
+  },
+  {
+    "id": 1479,
+    "word": "expel",
+    "meaning": "～を追い出す",
+    "examples": [
+      {
+        "en": "The school expelled him for cheating.",
+        "ja": "学校は不正行為のため彼を退学にしました。"
+      },
+      {
+        "en": "The machine expels hot air from the back.",
+        "ja": "その機械は背面から熱い空気を排出します。"
+      },
+      {
+        "en": "The country expelled the foreign diplomat.",
+        "ja": "その国は外国の外交官を追放しました。"
+      }
+    ]
+  },
+  {
+    "id": 1480,
+    "word": "repel",
+    "meaning": "～を追い払う、退ける",
+    "examples": [
+      {
+        "en": "This spray repels insects.",
+        "ja": "このスプレーは虫を追い払います。"
+      },
+      {
+        "en": "The army repelled the attack.",
+        "ja": "軍はその攻撃を撃退しました。"
+      },
+      {
+        "en": "Magnets can repel each other.",
+        "ja": "磁石は互いに反発することがあります。"
+      }
+    ]
+  },
+  {
+    "id": 1481,
+    "word": "disperse",
+    "meaning": "～を散らす",
+    "examples": [
+      {
+        "en": "The wind dispersed the smoke.",
+        "ja": "風が煙を散らしました。"
+      },
+      {
+        "en": "The police asked the crowd to disperse.",
+        "ja": "警察は群衆に解散するよう求めました。"
+      },
+      {
+        "en": "Seeds are dispersed by birds and wind.",
+        "ja": "種は鳥や風によって散布されます。"
+      }
+    ]
+  },
+  {
+    "id": 1482,
+    "word": "circulate",
+    "meaning": "循環する；～を循環させる；流通させる",
+    "examples": [
+      {
+        "en": "Blood circulates through the body.",
+        "ja": "血液は体内を循環します。"
+      },
+      {
+        "en": "Please circulate this notice among the members.",
+        "ja": "この通知をメンバーの間で回覧してください。"
+      },
+      {
+        "en": "Fresh air circulates in the room.",
+        "ja": "新鮮な空気が部屋の中を循環しています。"
+      }
+    ]
+  },
+  {
+    "id": 1483,
+    "word": "encounter",
+    "meaning": "～（人・問題など）に出くわす、遭遇する；遭遇",
+    "examples": [
+      {
+        "en": "We encountered many problems during the project.",
+        "ja": "私たちはその計画中に多くの問題に遭遇しました。"
+      },
+      {
+        "en": "She had a strange encounter on the train.",
+        "ja": "彼女は電車で奇妙な出会いを経験しました。"
+      },
+      {
+        "en": "You may encounter new words in this book.",
+        "ja": "この本では新しい単語に出くわすかもしれません。"
+      }
+    ]
+  },
+  {
+    "id": 1484,
+    "word": "bump into",
+    "meaning": "～にばったりと出会う",
+    "examples": [
+      {
+        "en": "I bumped into an old friend at the station.",
+        "ja": "私は駅で古い友人にばったり会いました。"
+      },
+      {
+        "en": "She bumped into her teacher in the supermarket.",
+        "ja": "彼女はスーパーで先生に偶然会いました。"
+      },
+      {
+        "en": "We often bump into each other on campus.",
+        "ja": "私たちはキャンパスでよく偶然出会います。"
+      }
+    ]
+  },
+  {
+    "id": 1485,
+    "word": "come across",
+    "meaning": "～に偶然出会う、を偶然見つける",
+    "examples": [
+      {
+        "en": "I came across an interesting article online.",
+        "ja": "私はネットで面白い記事を偶然見つけました。"
+      },
+      {
+        "en": "She came across an old photo in a drawer.",
+        "ja": "彼女は引き出しの中で古い写真を偶然見つけました。"
+      },
+      {
+        "en": "He came across as a kind person.",
+        "ja": "彼は親切な人という印象を与えました。"
+      }
+    ]
+  },
+  {
+    "id": 1486,
+    "word": "trace",
+    "meaning": "～をたどる；遡る；痕跡",
+    "examples": [
+      {
+        "en": "The police traced the call.",
+        "ja": "警察はその電話の発信元をたどりました。"
+      },
+      {
+        "en": "We can trace this custom back to ancient times.",
+        "ja": "私たちはこの習慣を古代まで遡ることができます。"
+      },
+      {
+        "en": "There was no trace of the missing bag.",
+        "ja": "なくなったバッグの痕跡はありませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 1487,
+    "word": "overwhelm",
+    "meaning": "～を圧倒する、打ちのめす",
+    "examples": [
+      {
+        "en": "The amount of homework overwhelmed me.",
+        "ja": "宿題の量に私は圧倒されました。"
+      },
+      {
+        "en": "The team overwhelmed its opponent.",
+        "ja": "そのチームは相手を圧倒しました。"
+      },
+      {
+        "en": "She was overwhelmed with emotion.",
+        "ja": "彼女は感情に圧倒されました。"
+      }
+    ]
+  },
+  {
+    "id": 1488,
+    "word": "overtake",
+    "meaning": "～に追いつく、を追い越す；（災難などが）を襲う",
+    "examples": [
+      {
+        "en": "The car overtook the bus on the highway.",
+        "ja": "その車は高速道路でバスを追い越しました。"
+      },
+      {
+        "en": "Our sales finally overtook theirs.",
+        "ja": "私たちの売上はついに彼らの売上を追い越しました。"
+      },
+      {
+        "en": "A sudden fear overtook him.",
+        "ja": "突然の恐怖が彼を襲いました。"
+      }
+    ]
+  },
+  {
+    "id": 1489,
+    "word": "undergo",
+    "meaning": "～（悪いこと・辛いこと・変化）を経験する",
+    "examples": [
+      {
+        "en": "She underwent surgery last week.",
+        "ja": "彼女は先週手術を受けました。"
+      },
+      {
+        "en": "The city has undergone many changes.",
+        "ja": "その都市は多くの変化を経験しました。"
+      },
+      {
+        "en": "The machine must undergo several tests.",
+        "ja": "その機械はいくつかの試験を受けなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 1490,
+    "word": "descend",
+    "meaning": "下りる；由来する",
+    "examples": [
+      {
+        "en": "The plane began to descend.",
+        "ja": "飛行機は降下し始めました。"
+      },
+      {
+        "en": "We descended the mountain before sunset.",
+        "ja": "私たちは日没前に山を下りました。"
+      },
+      {
+        "en": "This word descends from Latin.",
+        "ja": "この語はラテン語に由来します。"
+      }
+    ]
+  },
+  {
+    "id": 1491,
+    "word": "ascend",
+    "meaning": "上る",
+    "examples": [
+      {
+        "en": "We slowly ascended the stairs.",
+        "ja": "私たちはゆっくり階段を上りました。"
+      },
+      {
+        "en": "Smoke ascended into the sky.",
+        "ja": "煙が空へ上っていきました。"
+      },
+      {
+        "en": "She ascended to an important position.",
+        "ja": "彼女は重要な地位に上り詰めました。"
+      }
+    ]
+  },
+  {
+    "id": 1492,
+    "word": "plunge",
+    "meaning": "落ちる、飛び込む",
+    "examples": [
+      {
+        "en": "The boy plunged into the pool.",
+        "ja": "その少年はプールに飛び込みました。"
+      },
+      {
+        "en": "The temperature plunged at night.",
+        "ja": "夜に気温が急落しました。"
+      },
+      {
+        "en": "The path plunged down toward the river.",
+        "ja": "その小道は川へ向かって急に下っていました。"
+      }
+    ]
+  },
+  {
+    "id": 1493,
+    "word": "embrace",
+    "meaning": "～を抱く；（思想など）を信奉する、採用する",
+    "examples": [
+      {
+        "en": "She embraced her child tightly.",
+        "ja": "彼女は子どもをしっかり抱きしめました。"
+      },
+      {
+        "en": "The company embraced new technology.",
+        "ja": "その会社は新しい技術を採用しました。"
+      },
+      {
+        "en": "He embraced the idea of lifelong learning.",
+        "ja": "彼は生涯学習という考えを受け入れました。"
+      }
+    ]
+  },
+  {
+    "id": 1494,
+    "word": "embody",
+    "meaning": "～を具体化する",
+    "examples": [
+      {
+        "en": "This building embodies modern design.",
+        "ja": "この建物は現代的なデザインを具体化しています。"
+      },
+      {
+        "en": "She embodies the spirit of the team.",
+        "ja": "彼女はそのチームの精神を体現しています。"
+      },
+      {
+        "en": "The law embodies the principle of equality.",
+        "ja": "その法律は平等の原則を具体化しています。"
+      }
+    ]
+  },
+  {
+    "id": 1495,
+    "word": "render",
+    "meaning": "～を（…）にする",
+    "examples": [
+      {
+        "en": "The accident rendered the road unusable.",
+        "ja": "その事故により道路は使えなくなりました。"
+      },
+      {
+        "en": "His explanation rendered the problem clear.",
+        "ja": "彼の説明でその問題は明確になりました。"
+      },
+      {
+        "en": "The storm rendered many people homeless.",
+        "ja": "その嵐で多くの人が家を失いました。"
+      }
+    ]
+  },
+  {
+    "id": 1496,
+    "word": "modify",
+    "meaning": "～を修正する、変更する",
+    "examples": [
+      {
+        "en": "Please modify the design before printing it.",
+        "ja": "印刷する前にそのデザインを修正してください。"
+      },
+      {
+        "en": "We modified the plan to save time.",
+        "ja": "私たちは時間を節約するため計画を変更しました。"
+      },
+      {
+        "en": "This app lets you modify photos easily.",
+        "ja": "このアプリでは写真を簡単に修正できます。"
+      }
+    ]
+  },
+  {
+    "id": 1497,
+    "word": "restore",
+    "meaning": "～を復元する、回復する",
+    "examples": [
+      {
+        "en": "They restored the old temple.",
+        "ja": "彼らはその古い寺を修復しました。"
+      },
+      {
+        "en": "A good rest restored his energy.",
+        "ja": "十分な休息で彼は元気を取り戻しました。"
+      },
+      {
+        "en": "The update restored the deleted files.",
+        "ja": "その更新で削除されたファイルが復元されました。"
+      }
+    ]
+  },
+  {
+    "id": 1498,
+    "word": "relieve",
+    "meaning": "～を解放する；安心させる",
+    "examples": [
+      {
+        "en": "The medicine relieved my headache.",
+        "ja": "その薬が私の頭痛を和らげました。"
+      },
+      {
+        "en": "His message relieved my worries.",
+        "ja": "彼のメッセージで私の心配は和らぎました。"
+      },
+      {
+        "en": "Another worker relieved him at midnight.",
+        "ja": "真夜中に別の作業員が彼と交代しました。"
+      }
+    ]
+  },
+  {
+    "id": 1499,
+    "word": "retreat",
+    "meaning": "退却する；退却",
+    "examples": [
+      {
+        "en": "The soldiers were forced to retreat.",
+        "ja": "兵士たちは退却を余儀なくされました。"
+      },
+      {
+        "en": "The team made a quick retreat after the loss.",
+        "ja": "そのチームは敗北後すぐに引き下がりました。"
+      },
+      {
+        "en": "Sometimes it is wise to retreat and think again.",
+        "ja": "時には引いて考え直すことが賢明です。"
+      }
+    ]
+  },
+  {
+    "id": 1500,
+    "word": "retrieve",
+    "meaning": "～を回収する、取り戻す",
+    "examples": [
+      {
+        "en": "I retrieved my bag from the classroom.",
+        "ja": "私は教室からバッグを取り戻しました。"
+      },
+      {
+        "en": "The dog retrieved the ball.",
+        "ja": "その犬はボールを取って戻ってきました。"
+      },
+      {
+        "en": "The software can retrieve lost data.",
+        "ja": "そのソフトは失われたデータを復元できます。"
+      }
+    ]
+  }
+]

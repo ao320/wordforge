@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 801,
+    "word": "guilty",
+    "meaning": "有罪の；罪悪感のある",
+    "examples": [
+      {
+        "en": "The man was found guilty of theft.",
+        "ja": "その男は窃盗で有罪とされた。"
+      },
+      {
+        "en": "She felt guilty about lying to her friend.",
+        "ja": "彼女は友人に嘘をついたことに罪悪感を覚えた。"
+      },
+      {
+        "en": "A guilty person often tries to hide the truth.",
+        "ja": "罪のある人はしばしば真実を隠そうとする。"
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "word": "innocent",
+    "meaning": "無罪の；無邪気な",
+    "examples": [
+      {
+        "en": "He said he was innocent of the crime.",
+        "ja": "彼はその犯罪について無罪だと言った。"
+      },
+      {
+        "en": "The child gave me an innocent smile.",
+        "ja": "その子どもは私に無邪気な笑顔を向けた。"
+      },
+      {
+        "en": "The evidence proved that she was innocent.",
+        "ja": "その証拠は彼女が無罪であることを証明した。"
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "word": "sentence",
+    "meaning": "判決；文；判決を下す",
+    "examples": [
+      {
+        "en": "The judge gave him a long sentence.",
+        "ja": "裁判官は彼に長い刑を言い渡した。"
+      },
+      {
+        "en": "Write one sentence using this word.",
+        "ja": "この単語を使って1つ文を書きなさい。"
+      },
+      {
+        "en": "The criminal was sentenced to five years in prison.",
+        "ja": "その犯罪者は懲役5年の判決を受けた。"
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "word": "prison",
+    "meaning": "刑務所",
+    "examples": [
+      {
+        "en": "He spent three years in prison.",
+        "ja": "彼は刑務所で3年を過ごした。"
+      },
+      {
+        "en": "The old prison is now a museum.",
+        "ja": "その古い刑務所は今では博物館になっている。"
+      },
+      {
+        "en": "She visited her brother in prison.",
+        "ja": "彼女は刑務所にいる兄を訪ねた。"
+      }
+    ]
+  },
+  {
+    "id": 805,
+    "word": "deter",
+    "meaning": "思いとどまらせる；抑止する",
+    "examples": [
+      {
+        "en": "High fines may deter people from speeding.",
+        "ja": "高額な罰金は人々にスピード違反を思いとどまらせるかもしれない。"
+      },
+      {
+        "en": "The warning did not deter him from trying again.",
+        "ja": "その警告は彼がもう一度挑戦することを思いとどまらせなかった。"
+      },
+      {
+        "en": "Security cameras can deter crime.",
+        "ja": "防犯カメラは犯罪を抑止することができる。"
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "word": "violence",
+    "meaning": "暴力",
+    "examples": [
+      {
+        "en": "The movie contains scenes of violence.",
+        "ja": "その映画には暴力の場面が含まれている。"
+      },
+      {
+        "en": "Violence is not a solution to the problem.",
+        "ja": "暴力はその問題の解決策ではない。"
+      },
+      {
+        "en": "The school has rules against violence.",
+        "ja": "その学校には暴力を禁止する規則がある。"
+      }
+    ]
+  },
+  {
+    "id": 807,
+    "word": "aggressive",
+    "meaning": "攻撃的な；積極的な",
+    "examples": [
+      {
+        "en": "The dog became aggressive when it was scared.",
+        "ja": "その犬は怖がると攻撃的になった。"
+      },
+      {
+        "en": "She took an aggressive approach to the debate.",
+        "ja": "彼女はその討論で積極的な姿勢を取った。"
+      },
+      {
+        "en": "Aggressive behavior can hurt others.",
+        "ja": "攻撃的な行動は他人を傷つけることがある。"
+      }
+    ]
+  },
+  {
+    "id": 808,
+    "word": "legal",
+    "meaning": "合法の；法律の",
+    "examples": [
+      {
+        "en": "It is legal to park here after six.",
+        "ja": "6時以降ここに駐車することは合法です。"
+      },
+      {
+        "en": "She asked for legal advice.",
+        "ja": "彼女は法律上の助言を求めた。"
+      },
+      {
+        "en": "The company followed all legal rules.",
+        "ja": "その会社はすべての法律上の規則に従った。"
+      }
+    ]
+  },
+  {
+    "id": 809,
+    "word": "violate",
+    "meaning": "違反する；侵害する",
+    "examples": [
+      {
+        "en": "You should not violate school rules.",
+        "ja": "学校の規則に違反してはいけない。"
+      },
+      {
+        "en": "The action violated his privacy.",
+        "ja": "その行為は彼のプライバシーを侵害した。"
+      },
+      {
+        "en": "Drivers who violate the law must pay a fine.",
+        "ja": "法律に違反した運転者は罰金を払わなければならない。"
+      }
+    ]
+  },
+  {
+    "id": 810,
+    "word": "unite",
+    "meaning": "結びつける；団結する",
+    "examples": [
+      {
+        "en": "The event united people from many countries.",
+        "ja": "そのイベントは多くの国の人々を結びつけた。"
+      },
+      {
+        "en": "We must unite to solve this problem.",
+        "ja": "私たちはこの問題を解決するために団結しなければならない。"
+      },
+      {
+        "en": "A common goal can unite a team.",
+        "ja": "共通の目標はチームを団結させることができる。"
+      }
+    ]
+  },
+  {
+    "id": 811,
+    "word": "unity",
+    "meaning": "結束；統一",
+    "examples": [
+      {
+        "en": "The team showed great unity.",
+        "ja": "そのチームは強い結束を示した。"
+      },
+      {
+        "en": "Unity is important in a difficult situation.",
+        "ja": "困難な状況では結束が重要である。"
+      },
+      {
+        "en": "The speech called for national unity.",
+        "ja": "その演説は国民の結束を求めた。"
+      }
+    ]
+  },
+  {
+    "id": 812,
+    "word": "uniform",
+    "meaning": "一様な；均一の；制服",
+    "examples": [
+      {
+        "en": "Students wear a uniform at this school.",
+        "ja": "この学校では生徒は制服を着る。"
+      },
+      {
+        "en": "The boxes are uniform in size.",
+        "ja": "その箱は大きさが均一である。"
+      },
+      {
+        "en": "The wall was painted a uniform white.",
+        "ja": "その壁は一様な白色に塗られていた。"
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "word": "universal",
+    "meaning": "普遍的な；全世界の",
+    "examples": [
+      {
+        "en": "Kindness is a universal value.",
+        "ja": "親切は普遍的な価値である。"
+      },
+      {
+        "en": "The problem is not local but universal.",
+        "ja": "その問題は地域的なものではなく普遍的なものだ。"
+      },
+      {
+        "en": "Music can be a universal language.",
+        "ja": "音楽は世界共通の言語になりうる。"
+      }
+    ]
+  },
+  {
+    "id": 814,
+    "word": "union",
+    "meaning": "組合；連合；結合",
+    "examples": [
+      {
+        "en": "The workers formed a union.",
+        "ja": "労働者たちは組合を作った。"
+      },
+      {
+        "en": "The union asked for better working conditions.",
+        "ja": "その組合はより良い労働条件を求めた。"
+      },
+      {
+        "en": "The treaty created a union of several states.",
+        "ja": "その条約はいくつかの州の連合を作った。"
+      }
+    ]
+  },
+  {
+    "id": 815,
+    "word": "reunion",
+    "meaning": "再会；同窓会",
+    "examples": [
+      {
+        "en": "We had a class reunion last summer.",
+        "ja": "私たちは去年の夏に同窓会を開いた。"
+      },
+      {
+        "en": "The family reunion made everyone happy.",
+        "ja": "家族の再会は皆を幸せにした。"
+      },
+      {
+        "en": "I met an old friend at the reunion.",
+        "ja": "私はその同窓会で古い友人に会った。"
+      }
+    ]
+  },
+  {
+    "id": 816,
+    "word": "sole",
+    "meaning": "唯一の；単独の",
+    "examples": [
+      {
+        "en": "He was the sole survivor of the accident.",
+        "ja": "彼はその事故の唯一の生存者だった。"
+      },
+      {
+        "en": "My sole purpose is to help you.",
+        "ja": "私の唯一の目的はあなたを助けることです。"
+      },
+      {
+        "en": "She has sole responsibility for the project.",
+        "ja": "彼女はそのプロジェクトに単独で責任を持っている。"
+      }
+    ]
+  },
+  {
+    "id": 817,
+    "word": "solitude",
+    "meaning": "孤独；ひとりでいること",
+    "examples": [
+      {
+        "en": "He enjoys solitude when he writes.",
+        "ja": "彼は文章を書くとき孤独を楽しむ。"
+      },
+      {
+        "en": "Solitude can help you think clearly.",
+        "ja": "一人でいることは考えをはっきりさせる助けになる。"
+      },
+      {
+        "en": "She went to the mountains for solitude.",
+        "ja": "彼女は孤独を求めて山へ行った。"
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "word": "console",
+    "meaning": "慰める",
+    "examples": [
+      {
+        "en": "I tried to console my friend after the loss.",
+        "ja": "私はその喪失のあと友人を慰めようとした。"
+      },
+      {
+        "en": "Her words consoled the crying child.",
+        "ja": "彼女の言葉は泣いている子どもを慰めた。"
+      },
+      {
+        "en": "Nothing could console him at that moment.",
+        "ja": "その時は何も彼を慰めることができなかった。"
+      }
+    ]
+  },
+  {
+    "id": 819,
+    "word": "monotonous",
+    "meaning": "単調な",
+    "examples": [
+      {
+        "en": "The work was simple but monotonous.",
+        "ja": "その仕事は簡単だが単調だった。"
+      },
+      {
+        "en": "His monotonous voice made me sleepy.",
+        "ja": "彼の単調な声で私は眠くなった。"
+      },
+      {
+        "en": "A monotonous routine can become boring.",
+        "ja": "単調な日課は退屈になりうる。"
+      }
+    ]
+  },
+  {
+    "id": 820,
+    "word": "monopoly",
+    "meaning": "独占；専売",
+    "examples": [
+      {
+        "en": "The company had a monopoly on the product.",
+        "ja": "その会社はその製品を独占していた。"
+      },
+      {
+        "en": "A monopoly can make prices higher.",
+        "ja": "独占は価格を高くすることがある。"
+      },
+      {
+        "en": "The government broke up the monopoly.",
+        "ja": "政府はその独占を解体した。"
+      }
+    ]
+  },
+  {
+    "id": 821,
+    "word": "combine",
+    "meaning": "結合させる；組み合わせる",
+    "examples": [
+      {
+        "en": "You can combine these two ideas.",
+        "ja": "この2つの考えを組み合わせることができる。"
+      },
+      {
+        "en": "The course combines theory and practice.",
+        "ja": "その授業は理論と実践を組み合わせている。"
+      },
+      {
+        "en": "We combined our efforts to finish the work.",
+        "ja": "私たちは仕事を終えるために力を合わせた。"
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "word": "dual",
+    "meaning": "2つの；二重の",
+    "examples": [
+      {
+        "en": "The device has a dual function.",
+        "ja": "その装置には二重の機能がある。"
+      },
+      {
+        "en": "She has dual citizenship.",
+        "ja": "彼女は二重国籍を持っている。"
+      },
+      {
+        "en": "The word has a dual meaning.",
+        "ja": "その単語には2つの意味がある。"
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "word": "duplicate",
+    "meaning": "複製する；複製の",
+    "examples": [
+      {
+        "en": "Please duplicate this file before editing it.",
+        "ja": "編集する前にこのファイルを複製してください。"
+      },
+      {
+        "en": "The teacher found duplicate answers.",
+        "ja": "先生は重複した解答を見つけた。"
+      },
+      {
+        "en": "It is easy to duplicate digital data.",
+        "ja": "デジタルデータを複製するのは簡単だ。"
+      }
+    ]
+  },
+  {
+    "id": 824,
+    "word": "numerous",
+    "meaning": "多数の",
+    "examples": [
+      {
+        "en": "Numerous people joined the event.",
+        "ja": "多数の人がそのイベントに参加した。"
+      },
+      {
+        "en": "The book gives numerous examples.",
+        "ja": "その本は多数の例を示している。"
+      },
+      {
+        "en": "There are numerous ways to solve the problem.",
+        "ja": "その問題を解く方法は多数ある。"
+      }
+    ]
+  },
+  {
+    "id": 825,
+    "word": "innumerable",
+    "meaning": "無数の",
+    "examples": [
+      {
+        "en": "There are innumerable stars in the sky.",
+        "ja": "空には無数の星がある。"
+      },
+      {
+        "en": "She faced innumerable difficulties.",
+        "ja": "彼女は無数の困難に直面した。"
+      },
+      {
+        "en": "The Internet offers innumerable sources of information.",
+        "ja": "インターネットは無数の情報源を提供している。"
+      }
+    ]
+  },
+  {
+    "id": 826,
+    "word": "infinite",
+    "meaning": "無限の",
+    "examples": [
+      {
+        "en": "The universe may seem infinite.",
+        "ja": "宇宙は無限に思えるかもしれない。"
+      },
+      {
+        "en": "Children have infinite curiosity.",
+        "ja": "子どもたちは無限の好奇心を持っている。"
+      },
+      {
+        "en": "The line extends in an infinite direction.",
+        "ja": "その線は無限の方向に伸びている。"
+      }
+    ]
+  },
+  {
+    "id": 827,
+    "word": "quantity",
+    "meaning": "量",
+    "examples": [
+      {
+        "en": "We need a large quantity of water.",
+        "ja": "私たちは大量の水を必要としている。"
+      },
+      {
+        "en": "Quality is more important than quantity.",
+        "ja": "量より質の方が重要である。"
+      },
+      {
+        "en": "The quantity of rice decreased this year.",
+        "ja": "今年は米の量が減った。"
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "word": "quality",
+    "meaning": "質；品質；性質",
+    "examples": [
+      {
+        "en": "This bag is high in quality.",
+        "ja": "このバッグは品質が高い。"
+      },
+      {
+        "en": "The quality of the sound is clear.",
+        "ja": "その音の質ははっきりしている。"
+      },
+      {
+        "en": "Honesty is an important quality.",
+        "ja": "正直さは重要な性質である。"
+      }
+    ]
+  },
+  {
+    "id": 829,
+    "word": "volume",
+    "meaning": "容積；量；音量；本の巻",
+    "examples": [
+      {
+        "en": "Please turn down the volume.",
+        "ja": "音量を下げてください。"
+      },
+      {
+        "en": "The volume of water increased after the rain.",
+        "ja": "雨のあと水の量が増えた。"
+      },
+      {
+        "en": "I bought the first volume of the series.",
+        "ja": "私はそのシリーズの第1巻を買った。"
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "word": "amount",
+    "meaning": "量；総額；〜に達する",
+    "examples": [
+      {
+        "en": "A small amount of salt is enough.",
+        "ja": "少量の塩で十分です。"
+      },
+      {
+        "en": "The total amount was ten thousand yen.",
+        "ja": "合計金額は1万円だった。"
+      },
+      {
+        "en": "His words amounted to an apology.",
+        "ja": "彼の言葉は謝罪に等しかった。"
+      }
+    ]
+  },
+  {
+    "id": 831,
+    "word": "sum",
+    "meaning": "合計；要約する",
+    "examples": [
+      {
+        "en": "The sum of five and three is eight.",
+        "ja": "5と3の合計は8である。"
+      },
+      {
+        "en": "Can you sum up the story in one sentence?",
+        "ja": "その話を1文で要約できますか。"
+      },
+      {
+        "en": "He paid a large sum of money.",
+        "ja": "彼は多額のお金を払った。"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "word": "total",
+    "meaning": "合計；全体の；完全な",
+    "examples": [
+      {
+        "en": "The total cost was higher than expected.",
+        "ja": "合計費用は予想より高かった。"
+      },
+      {
+        "en": "There were twenty students in total.",
+        "ja": "全部で20人の生徒がいた。"
+      },
+      {
+        "en": "The plan was a total failure.",
+        "ja": "その計画は完全な失敗だった。"
+      }
+    ]
+  },
+  {
+    "id": 833,
+    "word": "vast",
+    "meaning": "莫大な；広大な",
+    "examples": [
+      {
+        "en": "The desert is vast and dry.",
+        "ja": "その砂漠は広大で乾燥している。"
+      },
+      {
+        "en": "The project requires a vast amount of money.",
+        "ja": "その計画には莫大なお金が必要だ。"
+      },
+      {
+        "en": "We looked at the vast ocean.",
+        "ja": "私たちは広大な海を眺めた。"
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "word": "huge",
+    "meaning": "巨大な；非常に大きい",
+    "examples": [
+      {
+        "en": "A huge tree stood in the park.",
+        "ja": "公園に巨大な木が立っていた。"
+      },
+      {
+        "en": "The news had a huge impact.",
+        "ja": "そのニュースは非常に大きな影響を与えた。"
+      },
+      {
+        "en": "He made a huge mistake.",
+        "ja": "彼は大きな間違いをした。"
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "word": "enormous",
+    "meaning": "非常に大きい；莫大な",
+    "examples": [
+      {
+        "en": "The elephant is an enormous animal.",
+        "ja": "象は非常に大きな動物だ。"
+      },
+      {
+        "en": "They spent an enormous amount of time on it.",
+        "ja": "彼らはそれに莫大な時間を費やした。"
+      },
+      {
+        "en": "The building is enormous.",
+        "ja": "その建物は非常に大きい。"
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "word": "immense",
+    "meaning": "巨大な；膨大な",
+    "examples": [
+      {
+        "en": "The task required immense effort.",
+        "ja": "その作業には膨大な努力が必要だった。"
+      },
+      {
+        "en": "She felt immense pressure before the exam.",
+        "ja": "彼女は試験前に非常に大きなプレッシャーを感じた。"
+      },
+      {
+        "en": "The library has an immense collection of books.",
+        "ja": "その図書館には膨大な蔵書がある。"
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "word": "abundant",
+    "meaning": "豊富な",
+    "examples": [
+      {
+        "en": "The island has abundant natural resources.",
+        "ja": "その島には豊富な天然資源がある。"
+      },
+      {
+        "en": "Rain is abundant in this region.",
+        "ja": "この地域では雨が豊富に降る。"
+      },
+      {
+        "en": "The garden provides abundant food for insects.",
+        "ja": "その庭は昆虫に豊富な食べ物を提供している。"
+      }
+    ]
+  },
+  {
+    "id": 838,
+    "word": "ample",
+    "meaning": "十分な；たっぷりの",
+    "examples": [
+      {
+        "en": "We have ample time to finish the work.",
+        "ja": "私たちにはその仕事を終える十分な時間がある。"
+      },
+      {
+        "en": "The room has ample space for ten people.",
+        "ja": "その部屋には10人分の十分な空間がある。"
+      },
+      {
+        "en": "She gave me ample advice.",
+        "ja": "彼女は私にたっぷり助言をくれた。"
+      }
+    ]
+  },
+  {
+    "id": 839,
+    "word": "affluent",
+    "meaning": "裕福な",
+    "examples": [
+      {
+        "en": "He grew up in an affluent family.",
+        "ja": "彼は裕福な家庭で育った。"
+      },
+      {
+        "en": "The affluent area has many large houses.",
+        "ja": "その裕福な地域には大きな家がたくさんある。"
+      },
+      {
+        "en": "Affluent countries should help poorer ones.",
+        "ja": "裕福な国々はより貧しい国々を助けるべきだ。"
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "word": "sufficient",
+    "meaning": "十分な",
+    "examples": [
+      {
+        "en": "We have sufficient food for everyone.",
+        "ja": "私たちには全員分の十分な食べ物がある。"
+      },
+      {
+        "en": "Two hours should be sufficient.",
+        "ja": "2時間で十分なはずだ。"
+      },
+      {
+        "en": "The evidence was not sufficient to prove it.",
+        "ja": "その証拠はそれを証明するには十分ではなかった。"
+      }
+    ]
+  },
+  {
+    "id": 841,
+    "word": "adequate",
+    "meaning": "十分な；適切な",
+    "examples": [
+      {
+        "en": "The room is adequate for a small meeting.",
+        "ja": "その部屋は小さな会議には十分である。"
+      },
+      {
+        "en": "He gave an adequate answer.",
+        "ja": "彼は適切な答えをした。"
+      },
+      {
+        "en": "The country needs adequate medical care.",
+        "ja": "その国には十分な医療が必要だ。"
+      }
+    ]
+  },
+  {
+    "id": 842,
+    "word": "major",
+    "meaning": "主要な；大きな；専攻する",
+    "examples": [
+      {
+        "en": "Traffic is a major problem in this city.",
+        "ja": "交通はこの都市の主要な問題である。"
+      },
+      {
+        "en": "She is a major figure in science.",
+        "ja": "彼女は科学界の主要人物である。"
+      },
+      {
+        "en": "I want to major in engineering.",
+        "ja": "私は工学を専攻したい。"
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "word": "minor",
+    "meaning": "小さい；重要でない；未成年の",
+    "examples": [
+      {
+        "en": "It was only a minor mistake.",
+        "ja": "それはほんの小さな間違いだった。"
+      },
+      {
+        "en": "The accident caused minor damage.",
+        "ja": "その事故は小さな損害を引き起こした。"
+      },
+      {
+        "en": "A minor cannot sign the contract alone.",
+        "ja": "未成年者は一人でその契約に署名できない。"
+      }
+    ]
+  },
+  {
+    "id": 844,
+    "word": "maximum",
+    "meaning": "最大；最大の",
+    "examples": [
+      {
+        "en": "The maximum speed is 80 kilometers per hour.",
+        "ja": "最高速度は時速80キロです。"
+      },
+      {
+        "en": "We need to use the maximum amount of space.",
+        "ja": "私たちは最大限の空間を使う必要がある。"
+      },
+      {
+        "en": "The machine reached its maximum temperature.",
+        "ja": "その機械は最高温度に達した。"
+      }
+    ]
+  },
+  {
+    "id": 845,
+    "word": "minimum",
+    "meaning": "最小；最低限",
+    "examples": [
+      {
+        "en": "The minimum age is eighteen.",
+        "ja": "最低年齢は18歳です。"
+      },
+      {
+        "en": "We need a minimum of three people.",
+        "ja": "私たちは最低3人必要です。"
+      },
+      {
+        "en": "Keep the noise to a minimum.",
+        "ja": "騒音を最小限にしてください。"
+      }
+    ]
+  },
+  {
+    "id": 846,
+    "word": "magnificent",
+    "meaning": "壮大な；見事な",
+    "examples": [
+      {
+        "en": "The view from the mountain was magnificent.",
+        "ja": "山からの眺めは壮大だった。"
+      },
+      {
+        "en": "They built a magnificent palace.",
+        "ja": "彼らは壮大な宮殿を建てた。"
+      },
+      {
+        "en": "Her performance was magnificent.",
+        "ja": "彼女の演技は見事だった。"
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "word": "diminish",
+    "meaning": "減らす；小さくする；小さくなる",
+    "examples": [
+      {
+        "en": "The pain began to diminish.",
+        "ja": "痛みは小さくなり始めた。"
+      },
+      {
+        "en": "Nothing can diminish his achievement.",
+        "ja": "何も彼の功績を小さくすることはできない。"
+      },
+      {
+        "en": "The number of birds has diminished.",
+        "ja": "鳥の数は減少した。"
+      }
+    ]
+  },
+  {
+    "id": 848,
+    "word": "utmost",
+    "meaning": "最大限の；最高の",
+    "examples": [
+      {
+        "en": "This matter requires the utmost care.",
+        "ja": "この件には最大限の注意が必要だ。"
+      },
+      {
+        "en": "I have the utmost respect for my teacher.",
+        "ja": "私は先生に最大限の敬意を持っている。"
+      },
+      {
+        "en": "She did her utmost to help us.",
+        "ja": "彼女は私たちを助けるために最大限の努力をした。"
+      }
+    ]
+  },
+  {
+    "id": 849,
+    "word": "increase",
+    "meaning": "増える；増やす；増加",
+    "examples": [
+      {
+        "en": "The price of rice increased.",
+        "ja": "米の価格が上がった。"
+      },
+      {
+        "en": "Exercise can increase your strength.",
+        "ja": "運動は体力を増やすことができる。"
+      },
+      {
+        "en": "There was an increase in visitors.",
+        "ja": "訪問者の増加があった。"
+      }
+    ]
+  },
+  {
+    "id": 850,
+    "word": "decrease",
+    "meaning": "減る；減らす；減少",
+    "examples": [
+      {
+        "en": "The number of students decreased this year.",
+        "ja": "今年は生徒の数が減った。"
+      },
+      {
+        "en": "We must decrease waste.",
+        "ja": "私たちはごみを減らさなければならない。"
+      },
+      {
+        "en": "There was a decrease in sales.",
+        "ja": "売上の減少があった。"
+      }
+    ]
+  },
+  {
+    "id": 851,
+    "word": "reduce",
+    "meaning": "減らす；削減する",
+    "examples": [
+      {
+        "en": "We should reduce plastic waste.",
+        "ja": "私たちはプラスチックごみを減らすべきだ。"
+      },
+      {
+        "en": "The store reduced the price.",
+        "ja": "その店は価格を下げた。"
+      },
+      {
+        "en": "Walking can reduce stress.",
+        "ja": "歩くことはストレスを減らすことができる。"
+      }
+    ]
+  },
+  {
+    "id": 852,
+    "word": "accumulate",
+    "meaning": "蓄積する；蓄積させる",
+    "examples": [
+      {
+        "en": "Dust accumulated on the shelf.",
+        "ja": "棚にほこりがたまった。"
+      },
+      {
+        "en": "Small efforts accumulate over time.",
+        "ja": "小さな努力は時間とともに積み重なる。"
+      },
+      {
+        "en": "He accumulated a lot of knowledge.",
+        "ja": "彼は多くの知識を蓄積した。"
+      }
+    ]
+  },
+  {
+    "id": 853,
+    "word": "add",
+    "meaning": "加える；足す",
+    "examples": [
+      {
+        "en": "Please add your name to the list.",
+        "ja": "リストにあなたの名前を加えてください。"
+      },
+      {
+        "en": "Add two and three, and you get five.",
+        "ja": "2と3を足すと5になる。"
+      },
+      {
+        "en": "She added a little sugar to the tea.",
+        "ja": "彼女は紅茶に少し砂糖を加えた。"
+      }
+    ]
+  },
+  {
+    "id": 854,
+    "word": "subtract",
+    "meaning": "引く",
+    "examples": [
+      {
+        "en": "Subtract five from twelve.",
+        "ja": "12から5を引きなさい。"
+      },
+      {
+        "en": "If you subtract the cost, the profit is small.",
+        "ja": "費用を差し引くと、利益は小さい。"
+      },
+      {
+        "en": "Students learned how to subtract numbers.",
+        "ja": "生徒たちは数の引き算の方法を学んだ。"
+      }
+    ]
+  },
+  {
+    "id": 855,
+    "word": "multiply",
+    "meaning": "掛ける；増える",
+    "examples": [
+      {
+        "en": "Multiply six by seven.",
+        "ja": "6に7を掛けなさい。"
+      },
+      {
+        "en": "The cells multiply quickly.",
+        "ja": "その細胞は急速に増える。"
+      },
+      {
+        "en": "Small problems can multiply if we ignore them.",
+        "ja": "小さな問題は無視すると増えることがある。"
+      }
+    ]
+  },
+  {
+    "id": 856,
+    "word": "multitude",
+    "meaning": "多数；大勢",
+    "examples": [
+      {
+        "en": "A multitude of people gathered in the square.",
+        "ja": "大勢の人が広場に集まった。"
+      },
+      {
+        "en": "There are a multitude of reasons for this change.",
+        "ja": "この変化には多数の理由がある。"
+      },
+      {
+        "en": "The city offers a multitude of restaurants.",
+        "ja": "その都市には多数のレストランがある。"
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "word": "calculate",
+    "meaning": "計算する",
+    "examples": [
+      {
+        "en": "Please calculate the total cost.",
+        "ja": "合計費用を計算してください。"
+      },
+      {
+        "en": "The computer can calculate very quickly.",
+        "ja": "コンピュータは非常に速く計算できる。"
+      },
+      {
+        "en": "We calculated the distance to the station.",
+        "ja": "私たちは駅までの距離を計算した。"
+      }
+    ]
+  },
+  {
+    "id": 858,
+    "word": "average",
+    "meaning": "平均；平均の；普通の",
+    "examples": [
+      {
+        "en": "The average score was 75.",
+        "ja": "平均点は75点だった。"
+      },
+      {
+        "en": "An average student can understand this book.",
+        "ja": "普通の生徒でもこの本を理解できる。"
+      },
+      {
+        "en": "The class average improved.",
+        "ja": "クラスの平均が上がった。"
+      }
+    ]
+  },
+  {
+    "id": 859,
+    "word": "altogether",
+    "meaning": "全部で；全く；完全に",
+    "examples": [
+      {
+        "en": "There were fifty people altogether.",
+        "ja": "全部で50人いた。"
+      },
+      {
+        "en": "I do not altogether agree with you.",
+        "ja": "私はあなたに完全に同意しているわけではない。"
+      },
+      {
+        "en": "The plan was canceled altogether.",
+        "ja": "その計画は完全に中止された。"
+      }
+    ]
+  },
+  {
+    "id": 860,
+    "word": "overall",
+    "meaning": "全体の；全般的な；概して",
+    "examples": [
+      {
+        "en": "The overall result was good.",
+        "ja": "全体として結果は良かった。"
+      },
+      {
+        "en": "Overall, I enjoyed the trip.",
+        "ja": "概して、私はその旅行を楽しんだ。"
+      },
+      {
+        "en": "We need to improve overall quality.",
+        "ja": "私たちは全体的な品質を向上させる必要がある。"
+      }
+    ]
+  },
+  {
+    "id": 861,
+    "word": "approximately",
+    "meaning": "おおよそ；約",
+    "examples": [
+      {
+        "en": "The trip takes approximately two hours.",
+        "ja": "その移動にはおおよそ2時間かかる。"
+      },
+      {
+        "en": "Approximately one hundred people attended.",
+        "ja": "約100人が参加した。"
+      },
+      {
+        "en": "The room is approximately five meters wide.",
+        "ja": "その部屋の幅はおおよそ5メートルだ。"
+      }
+    ]
+  },
+  {
+    "id": 862,
+    "word": "rational",
+    "meaning": "合理的な；理性的な",
+    "examples": [
+      {
+        "en": "We need a rational solution.",
+        "ja": "私たちには合理的な解決策が必要だ。"
+      },
+      {
+        "en": "Try to make a rational decision.",
+        "ja": "理性的な決定をするようにしなさい。"
+      },
+      {
+        "en": "His explanation sounded rational.",
+        "ja": "彼の説明は合理的に聞こえた。"
+      }
+    ]
+  },
+  {
+    "id": 863,
+    "word": "reason",
+    "meaning": "理由；理性；論理的に考える",
+    "examples": [
+      {
+        "en": "What is the reason for your absence?",
+        "ja": "あなたの欠席の理由は何ですか。"
+      },
+      {
+        "en": "Humans can reason and make choices.",
+        "ja": "人間は論理的に考えて選択することができる。"
+      },
+      {
+        "en": "There is no reason to worry.",
+        "ja": "心配する理由はない。"
+      }
+    ]
+  },
+  {
+    "id": 864,
+    "word": "beast",
+    "meaning": "獣；動物",
+    "examples": [
+      {
+        "en": "The story is about a beautiful girl and a beast.",
+        "ja": "その物語は美しい少女と獣についてのものだ。"
+      },
+      {
+        "en": "A wild beast appeared in the forest.",
+        "ja": "森に野生の獣が現れた。"
+      },
+      {
+        "en": "The beast ran away into the dark.",
+        "ja": "その獣は暗闇へ逃げていった。"
+      }
+    ]
+  },
+  {
+    "id": 865,
+    "word": "brute",
+    "meaning": "獣；粗暴な人",
+    "examples": [
+      {
+        "en": "He behaved like a brute.",
+        "ja": "彼は粗暴な人のように振る舞った。"
+      },
+      {
+        "en": "The brute force broke the door.",
+        "ja": "その力任せの力がドアを壊した。"
+      },
+      {
+        "en": "The novel describes man as both thinker and brute.",
+        "ja": "その小説は人間を考える者であると同時に獣のような者として描いている。"
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "word": "notion",
+    "meaning": "概念；考え",
+    "examples": [
+      {
+        "en": "I do not understand the notion of infinity.",
+        "ja": "私は無限という概念を理解していない。"
+      },
+      {
+        "en": "She rejected the old notion of success.",
+        "ja": "彼女は古い成功の考え方を拒んだ。"
+      },
+      {
+        "en": "The notion seems simple at first.",
+        "ja": "その概念は最初は簡単に見える。"
+      }
+    ]
+  },
+  {
+    "id": 867,
+    "word": "abstract",
+    "meaning": "抽象的な；要約",
+    "examples": [
+      {
+        "en": "Love is an abstract idea.",
+        "ja": "愛は抽象的な考えである。"
+      },
+      {
+        "en": "This painting is very abstract.",
+        "ja": "この絵はとても抽象的だ。"
+      },
+      {
+        "en": "Read the abstract before the paper.",
+        "ja": "論文の前に要約を読みなさい。"
+      }
+    ]
+  },
+  {
+    "id": 868,
+    "word": "concrete",
+    "meaning": "具体的な；コンクリート",
+    "examples": [
+      {
+        "en": "Please give me a concrete example.",
+        "ja": "具体的な例をください。"
+      },
+      {
+        "en": "The road is made of concrete.",
+        "ja": "その道路はコンクリートでできている。"
+      },
+      {
+        "en": "We need a concrete plan, not just an idea.",
+        "ja": "私たちには考えだけでなく具体的な計画が必要だ。"
+      }
+    ]
+  },
+  {
+    "id": 869,
+    "word": "stereotype",
+    "meaning": "固定観念；ステレオタイプ",
+    "examples": [
+      {
+        "en": "The movie challenges a common stereotype.",
+        "ja": "その映画はよくある固定観念に異議を唱えている。"
+      },
+      {
+        "en": "Do not judge people by stereotypes.",
+        "ja": "固定観念で人を判断してはいけない。"
+      },
+      {
+        "en": "The character is based on an old stereotype.",
+        "ja": "その登場人物は古いステレオタイプに基づいている。"
+      }
+    ]
+  },
+  {
+    "id": 870,
+    "word": "prejudice",
+    "meaning": "先入観；偏見",
+    "examples": [
+      {
+        "en": "Prejudice can lead to unfair treatment.",
+        "ja": "偏見は不公平な扱いにつながることがある。"
+      },
+      {
+        "en": "She spoke without prejudice.",
+        "ja": "彼女は先入観なしに話した。"
+      },
+      {
+        "en": "Education can reduce prejudice.",
+        "ja": "教育は偏見を減らすことができる。"
+      }
+    ]
+  },
+  {
+    "id": 871,
+    "word": "bias",
+    "meaning": "偏見；偏り",
+    "examples": [
+      {
+        "en": "The article shows a clear bias.",
+        "ja": "その記事には明らかな偏りがある。"
+      },
+      {
+        "en": "We must avoid bias in the experiment.",
+        "ja": "実験では偏りを避けなければならない。"
+      },
+      {
+        "en": "His personal bias affected his decision.",
+        "ja": "彼の個人的な偏見が判断に影響した。"
+      }
+    ]
+  },
+  {
+    "id": 872,
+    "word": "view",
+    "meaning": "眺め；意見；みなす",
+    "examples": [
+      {
+        "en": "The view from the window is beautiful.",
+        "ja": "窓からの眺めは美しい。"
+      },
+      {
+        "en": "What is your view on this issue?",
+        "ja": "この問題についてあなたの意見は何ですか。"
+      },
+      {
+        "en": "Many people view the plan as risky.",
+        "ja": "多くの人はその計画を危険だとみなしている。"
+      }
+    ]
+  },
+  {
+    "id": 873,
+    "word": "review",
+    "meaning": "見直す；批評；復習",
+    "examples": [
+      {
+        "en": "I need to review the lesson before the test.",
+        "ja": "テスト前にその授業を復習する必要がある。"
+      },
+      {
+        "en": "The teacher reviewed my report.",
+        "ja": "先生は私のレポートを見直した。"
+      },
+      {
+        "en": "The movie received a good review.",
+        "ja": "その映画は良い批評を受けた。"
+      }
+    ]
+  },
+  {
+    "id": 874,
+    "word": "viewpoint",
+    "meaning": "観点；見地",
+    "examples": [
+      {
+        "en": "Try to see the problem from her viewpoint.",
+        "ja": "彼女の観点からその問題を見てみなさい。"
+      },
+      {
+        "en": "The book presents a new viewpoint.",
+        "ja": "その本は新しい観点を提示している。"
+      },
+      {
+        "en": "Our viewpoints are different.",
+        "ja": "私たちの観点は異なっている。"
+      }
+    ]
+  },
+  {
+    "id": 875,
+    "word": "standpoint",
+    "meaning": "立場；観点",
+    "examples": [
+      {
+        "en": "From a student's standpoint, the rule is strict.",
+        "ja": "学生の立場から見ると、その規則は厳しい。"
+      },
+      {
+        "en": "He explained the issue from a legal standpoint.",
+        "ja": "彼はその問題を法律の観点から説明した。"
+      },
+      {
+        "en": "We should consider it from another standpoint.",
+        "ja": "私たちはそれを別の立場から考えるべきだ。"
+      }
+    ]
+  },
+  {
+    "id": 876,
+    "word": "outlook",
+    "meaning": "見解；見方；見通し",
+    "examples": [
+      {
+        "en": "She has a positive outlook on life.",
+        "ja": "彼女は人生に前向きな見方をしている。"
+      },
+      {
+        "en": "The economic outlook is uncertain.",
+        "ja": "経済の見通しは不確かだ。"
+      },
+      {
+        "en": "Travel changed his outlook.",
+        "ja": "旅行は彼の見方を変えた。"
+      }
+    ]
+  },
+  {
+    "id": 877,
+    "word": "optimistic",
+    "meaning": "楽観的な",
+    "examples": [
+      {
+        "en": "She is optimistic about the future.",
+        "ja": "彼女は将来について楽観的だ。"
+      },
+      {
+        "en": "The doctor sounded optimistic.",
+        "ja": "医者は楽観的に聞こえた。"
+      },
+      {
+        "en": "I try to stay optimistic during hard times.",
+        "ja": "私は困難な時でも楽観的でいようとしている。"
+      }
+    ]
+  },
+  {
+    "id": 878,
+    "word": "pessimistic",
+    "meaning": "悲観的な",
+    "examples": [
+      {
+        "en": "He is pessimistic about the result.",
+        "ja": "彼はその結果について悲観的だ。"
+      },
+      {
+        "en": "A pessimistic view can stop people from trying.",
+        "ja": "悲観的な見方は人々が挑戦するのを止めてしまうことがある。"
+      },
+      {
+        "en": "Do not be too pessimistic.",
+        "ja": "あまり悲観的にならないで。"
+      }
+    ]
+  },
+  {
+    "id": 879,
+    "word": "aware",
+    "meaning": "気づいている；意識している",
+    "examples": [
+      {
+        "en": "I was not aware of the danger.",
+        "ja": "私はその危険に気づいていなかった。"
+      },
+      {
+        "en": "She is aware that time is limited.",
+        "ja": "彼女は時間が限られていることを意識している。"
+      },
+      {
+        "en": "Be aware of your surroundings.",
+        "ja": "周囲に気を配りなさい。"
+      }
+    ]
+  },
+  {
+    "id": 880,
+    "word": "alert",
+    "meaning": "警戒している；警報；警戒させる",
+    "examples": [
+      {
+        "en": "Stay alert while driving at night.",
+        "ja": "夜に運転するときは警戒していなさい。"
+      },
+      {
+        "en": "The phone sent an emergency alert.",
+        "ja": "電話が緊急警報を送った。"
+      },
+      {
+        "en": "The smell alerted us to the fire.",
+        "ja": "そのにおいで私たちは火事に気づいた。"
+      }
+    ]
+  },
+  {
+    "id": 881,
+    "word": "conscious",
+    "meaning": "意識している；意識のある",
+    "examples": [
+      {
+        "en": "He was conscious after the accident.",
+        "ja": "彼は事故のあと意識があった。"
+      },
+      {
+        "en": "She is conscious of her health.",
+        "ja": "彼女は健康を意識している。"
+      },
+      {
+        "en": "I became conscious of my mistake.",
+        "ja": "私は自分の間違いに気づいた。"
+      }
+    ]
+  },
+  {
+    "id": 882,
+    "word": "conscience",
+    "meaning": "良心；善悪の判断力",
+    "examples": [
+      {
+        "en": "His conscience told him to apologize.",
+        "ja": "彼の良心は謝るべきだと告げた。"
+      },
+      {
+        "en": "She could not ignore her conscience.",
+        "ja": "彼女は自分の良心を無視できなかった。"
+      },
+      {
+        "en": "A clear conscience helps you sleep well.",
+        "ja": "やましいところのない良心はよく眠る助けになる。"
+      }
+    ]
+  },
+  {
+    "id": 883,
+    "word": "recognize",
+    "meaning": "認識する；見分ける；認める",
+    "examples": [
+      {
+        "en": "I recognized him at once.",
+        "ja": "私はすぐに彼だと分かった。"
+      },
+      {
+        "en": "The government recognized the new state.",
+        "ja": "政府はその新しい国家を承認した。"
+      },
+      {
+        "en": "We must recognize the importance of sleep.",
+        "ja": "私たちは睡眠の重要性を認識しなければならない。"
+      }
+    ]
+  },
+  {
+    "id": 884,
+    "word": "cognition",
+    "meaning": "認識；認知",
+    "examples": [
+      {
+        "en": "Sleep affects memory and cognition.",
+        "ja": "睡眠は記憶と認知に影響する。"
+      },
+      {
+        "en": "The study examines human cognition.",
+        "ja": "その研究は人間の認知を調べている。"
+      },
+      {
+        "en": "Language is closely related to cognition.",
+        "ja": "言語は認知と密接に関係している。"
+      }
+    ]
+  },
+  {
+    "id": 885,
+    "word": "knowledge",
+    "meaning": "知識",
+    "examples": [
+      {
+        "en": "Reading gives us knowledge.",
+        "ja": "読書は私たちに知識を与える。"
+      },
+      {
+        "en": "He has deep knowledge of history.",
+        "ja": "彼は歴史について深い知識を持っている。"
+      },
+      {
+        "en": "Knowledge alone is not enough.",
+        "ja": "知識だけでは十分ではない。"
+      }
+    ]
+  },
+  {
+    "id": 886,
+    "word": "acknowledge",
+    "meaning": "認める；受け取ったことを知らせる",
+    "examples": [
+      {
+        "en": "He acknowledged his mistake.",
+        "ja": "彼は自分の間違いを認めた。"
+      },
+      {
+        "en": "Please acknowledge receipt of this email.",
+        "ja": "このメールを受け取ったことを知らせてください。"
+      },
+      {
+        "en": "We should acknowledge their effort.",
+        "ja": "私たちは彼らの努力を認めるべきだ。"
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "word": "identify",
+    "meaning": "身元を特定する；識別する；同一視する",
+    "examples": [
+      {
+        "en": "The police identified the suspect.",
+        "ja": "警察は容疑者の身元を特定した。"
+      },
+      {
+        "en": "Can you identify this bird?",
+        "ja": "この鳥を識別できますか。"
+      },
+      {
+        "en": "She identifies herself as an artist.",
+        "ja": "彼女は自分を芸術家だと考えている。"
+      }
+    ]
+  },
+  {
+    "id": 888,
+    "word": "intellect",
+    "meaning": "知性；知力",
+    "examples": [
+      {
+        "en": "He is known for his sharp intellect.",
+        "ja": "彼は鋭い知性で知られている。"
+      },
+      {
+        "en": "The book appeals to the intellect.",
+        "ja": "その本は知性に訴える。"
+      },
+      {
+        "en": "Education develops the intellect.",
+        "ja": "教育は知性を発達させる。"
+      }
+    ]
+  },
+  {
+    "id": 889,
+    "word": "intelligence",
+    "meaning": "知性；知能；諜報",
+    "examples": [
+      {
+        "en": "Artificial intelligence is changing society.",
+        "ja": "人工知能は社会を変えている。"
+      },
+      {
+        "en": "The test measures intelligence.",
+        "ja": "そのテストは知能を測る。"
+      },
+      {
+        "en": "The agency collected intelligence.",
+        "ja": "その機関は諜報情報を集めた。"
+      }
+    ]
+  },
+  {
+    "id": 890,
+    "word": "intelligible",
+    "meaning": "理解可能な；判読可能な",
+    "examples": [
+      {
+        "en": "His explanation was clear and intelligible.",
+        "ja": "彼の説明は明確で理解可能だった。"
+      },
+      {
+        "en": "The old letter was barely intelligible.",
+        "ja": "その古い手紙はかろうじて判読可能だった。"
+      },
+      {
+        "en": "Use simple words to make your idea intelligible.",
+        "ja": "考えを分かりやすくするために簡単な言葉を使いなさい。"
+      }
+    ]
+  },
+  {
+    "id": 891,
+    "word": "wisdom",
+    "meaning": "知恵；賢明さ",
+    "examples": [
+      {
+        "en": "Experience often brings wisdom.",
+        "ja": "経験はしばしば知恵をもたらす。"
+      },
+      {
+        "en": "She spoke with great wisdom.",
+        "ja": "彼女は非常に賢明に話した。"
+      },
+      {
+        "en": "We questioned the wisdom of that decision.",
+        "ja": "私たちはその決定が賢明かどうか疑問に思った。"
+      }
+    ]
+  },
+  {
+    "id": 892,
+    "word": "bright",
+    "meaning": "明るい；頭のよい",
+    "examples": [
+      {
+        "en": "The room is bright in the morning.",
+        "ja": "その部屋は朝明るい。"
+      },
+      {
+        "en": "She is a bright student.",
+        "ja": "彼女は頭のよい生徒だ。"
+      },
+      {
+        "en": "He has a bright future.",
+        "ja": "彼には明るい未来がある。"
+      }
+    ]
+  },
+  {
+    "id": 893,
+    "word": "brilliant",
+    "meaning": "頭のよい；すばらしい；輝かしい",
+    "examples": [
+      {
+        "en": "She had a brilliant idea.",
+        "ja": "彼女はすばらしい考えを持っていた。"
+      },
+      {
+        "en": "The scientist is brilliant.",
+        "ja": "その科学者は非常に頭がよい。"
+      },
+      {
+        "en": "The sky was filled with brilliant stars.",
+        "ja": "空は輝く星でいっぱいだった。"
+      }
+    ]
+  },
+  {
+    "id": 894,
+    "word": "smart",
+    "meaning": "利口な；賢い；洗練された",
+    "examples": [
+      {
+        "en": "That was a smart choice.",
+        "ja": "それは賢い選択だった。"
+      },
+      {
+        "en": "He is smart and works hard.",
+        "ja": "彼は利口でよく努力する。"
+      },
+      {
+        "en": "She wore a smart jacket.",
+        "ja": "彼女は洗練されたジャケットを着ていた。"
+      }
+    ]
+  },
+  {
+    "id": 895,
+    "word": "wit",
+    "meaning": "機知；機転；知力",
+    "examples": [
+      {
+        "en": "His wit made everyone laugh.",
+        "ja": "彼の機知が皆を笑わせた。"
+      },
+      {
+        "en": "She answered with quick wit.",
+        "ja": "彼女は素早い機転で答えた。"
+      },
+      {
+        "en": "The writer is famous for his wit.",
+        "ja": "その作家は機知で有名だ。"
+      }
+    ]
+  },
+  {
+    "id": 896,
+    "word": "insight",
+    "meaning": "洞察力；見識",
+    "examples": [
+      {
+        "en": "The teacher gave us useful insight.",
+        "ja": "先生は私たちに有益な洞察を与えた。"
+      },
+      {
+        "en": "Her insight into human behavior is deep.",
+        "ja": "人間の行動に対する彼女の洞察は深い。"
+      },
+      {
+        "en": "Reading the data gave me new insight.",
+        "ja": "データを読むことで私は新しい洞察を得た。"
+      }
+    ]
+  },
+  {
+    "id": 897,
+    "word": "philosophy",
+    "meaning": "哲学；考え方",
+    "examples": [
+      {
+        "en": "He studies philosophy at university.",
+        "ja": "彼は大学で哲学を学んでいる。"
+      },
+      {
+        "en": "My philosophy is to keep trying.",
+        "ja": "私の考え方は挑戦し続けることだ。"
+      },
+      {
+        "en": "The book explains ancient Greek philosophy.",
+        "ja": "その本は古代ギリシャ哲学を説明している。"
+      }
+    ]
+  },
+  {
+    "id": 898,
+    "word": "comprehend",
+    "meaning": "理解する；含む",
+    "examples": [
+      {
+        "en": "I could not comprehend the difficult theory.",
+        "ja": "私はその難しい理論を理解できなかった。"
+      },
+      {
+        "en": "The report is hard to comprehend at first.",
+        "ja": "その報告書は最初は理解しにくい。"
+      },
+      {
+        "en": "The term comprehends several different ideas.",
+        "ja": "その用語はいくつかの異なる考えを含んでいる。"
+      }
+    ]
+  },
+  {
+    "id": 899,
+    "word": "consider",
+    "meaning": "考慮する；みなす",
+    "examples": [
+      {
+        "en": "Please consider my proposal.",
+        "ja": "私の提案を考慮してください。"
+      },
+      {
+        "en": "We consider him a good leader.",
+        "ja": "私たちは彼を良いリーダーだとみなしている。"
+      },
+      {
+        "en": "You should consider the cost before buying it.",
+        "ja": "買う前に費用を考慮すべきだ。"
+      }
+    ]
+  },
+  {
+    "id": 900,
+    "word": "contemplation",
+    "meaning": "熟考；沈思",
+    "examples": [
+      {
+        "en": "He sat in quiet contemplation.",
+        "ja": "彼は静かに熟考しながら座っていた。"
+      },
+      {
+        "en": "The decision needs careful contemplation.",
+        "ja": "その決定には慎重な熟考が必要だ。"
+      },
+      {
+        "en": "She spent the evening in contemplation.",
+        "ja": "彼女はその夜を物思いにふけって過ごした。"
+      }
+    ]
+  }
+]

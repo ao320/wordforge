@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 601,
+    "word": "astronomy",
+    "meaning": "天文学",
+    "examples": [
+      {
+        "en": "Astronomy helps us understand stars and planets.",
+        "ja": "天文学は星や惑星を理解する助けになります。"
+      },
+      {
+        "en": "She studied astronomy because she loved the night sky.",
+        "ja": "彼女は夜空が好きだったので天文学を学びました。"
+      },
+      {
+        "en": "Modern astronomy uses powerful telescopes.",
+        "ja": "現代の天文学は強力な望遠鏡を使います。"
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "word": "astrology",
+    "meaning": "占星術",
+    "examples": [
+      {
+        "en": "Astrology tries to explain personality through the stars.",
+        "ja": "占星術は星を通して性格を説明しようとします。"
+      },
+      {
+        "en": "He reads about astrology for fun.",
+        "ja": "彼は楽しみとして占星術について読みます。"
+      },
+      {
+        "en": "Astronomy is a science, but astrology is not.",
+        "ja": "天文学は科学ですが、占星術はそうではありません。"
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "word": "botany",
+    "meaning": "植物学",
+    "examples": [
+      {
+        "en": "Botany is the study of plants.",
+        "ja": "植物学は植物を研究する学問です。"
+      },
+      {
+        "en": "The class in botany began with simple flowers.",
+        "ja": "植物学の授業は簡単な花から始まりました。"
+      },
+      {
+        "en": "Her interest in botany grew after she planted vegetables.",
+        "ja": "野菜を植えてから、彼女の植物学への関心は高まりました。"
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "word": "anthropology",
+    "meaning": "人類学",
+    "examples": [
+      {
+        "en": "Anthropology studies human cultures and societies.",
+        "ja": "人類学は人間の文化や社会を研究します。"
+      },
+      {
+        "en": "He learned about ancient tools in anthropology class.",
+        "ja": "彼は人類学の授業で古代の道具について学びました。"
+      },
+      {
+        "en": "Anthropology helps us understand how people live.",
+        "ja": "人類学は人々がどのように暮らすかを理解する助けになります。"
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "word": "discuss",
+    "meaning": "～を話し合う、議論する",
+    "examples": [
+      {
+        "en": "We discussed the problem after class.",
+        "ja": "私たちは授業後にその問題について話し合いました。"
+      },
+      {
+        "en": "The students discussed their plans for the trip.",
+        "ja": "生徒たちは旅行の計画について話し合いました。"
+      },
+      {
+        "en": "Let's discuss this topic again tomorrow.",
+        "ja": "この話題について明日もう一度話し合いましょう。"
+      }
+    ]
+  },
+  {
+    "id": 606,
+    "word": "agree",
+    "meaning": "賛成する、同意する、一致する",
+    "examples": [
+      {
+        "en": "I agree with your idea.",
+        "ja": "私はあなたの考えに賛成です。"
+      },
+      {
+        "en": "They agreed to meet at nine.",
+        "ja": "彼らは9時に会うことに同意しました。"
+      },
+      {
+        "en": "The two reports do not agree.",
+        "ja": "その2つの報告は一致していません。"
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "word": "argue",
+    "meaning": "～を主張する、論じる；言い争う",
+    "examples": [
+      {
+        "en": "She argued that the plan was too expensive.",
+        "ja": "彼女はその計画は高すぎると主張しました。"
+      },
+      {
+        "en": "The brothers often argue about small things.",
+        "ja": "その兄弟は小さなことでよく言い争います。"
+      },
+      {
+        "en": "He argued for more time to finish the work.",
+        "ja": "彼は作業を終えるためにもっと時間が必要だと論じました。"
+      }
+    ]
+  },
+  {
+    "id": 608,
+    "word": "maintain",
+    "meaning": "～を維持する、主張する",
+    "examples": [
+      {
+        "en": "It is hard to maintain a healthy routine.",
+        "ja": "健康的な習慣を維持するのは難しいです。"
+      },
+      {
+        "en": "She maintained that she was telling the truth.",
+        "ja": "彼女は本当のことを言っていると主張しました。"
+      },
+      {
+        "en": "The machine must be maintained regularly.",
+        "ja": "その機械は定期的に整備されなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "word": "assert",
+    "meaning": "～を主張する、言い張る",
+    "examples": [
+      {
+        "en": "He asserted his right to speak.",
+        "ja": "彼は発言する権利を主張しました。"
+      },
+      {
+        "en": "The scientist asserted that the data was correct.",
+        "ja": "その科学者はデータが正しいと主張しました。"
+      },
+      {
+        "en": "She asserted her opinion clearly.",
+        "ja": "彼女は自分の意見をはっきり主張しました。"
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "word": "claim",
+    "meaning": "～を要求する、主張する；要求、主張",
+    "examples": [
+      {
+        "en": "He claimed that he saw the accident.",
+        "ja": "彼はその事故を見たと主張しました。"
+      },
+      {
+        "en": "You can claim a refund at the counter.",
+        "ja": "カウンターで返金を要求できます。"
+      },
+      {
+        "en": "Her claim was supported by evidence.",
+        "ja": "彼女の主張は証拠によって裏付けられました。"
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "word": "insist",
+    "meaning": "要求する、主張する",
+    "examples": [
+      {
+        "en": "He insisted that he was right.",
+        "ja": "彼は自分が正しいと主張しました。"
+      },
+      {
+        "en": "My teacher insisted on neat handwriting.",
+        "ja": "先生は丁寧な字を書くよう強く求めました。"
+      },
+      {
+        "en": "She insisted on paying for dinner.",
+        "ja": "彼女は夕食代を払うと言い張りました。"
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "word": "exclaim",
+    "meaning": "～と叫ぶ",
+    "examples": [
+      {
+        "en": "“Amazing!” she exclaimed.",
+        "ja": "「すごい！」と彼女は叫びました。"
+      },
+      {
+        "en": "He exclaimed in surprise when he saw the result.",
+        "ja": "彼は結果を見て驚いて叫びました。"
+      },
+      {
+        "en": "The children exclaimed with joy.",
+        "ja": "子どもたちは喜んで声を上げました。"
+      }
+    ]
+  },
+  {
+    "id": 613,
+    "word": "proclaim",
+    "meaning": "～を宣言する",
+    "examples": [
+      {
+        "en": "The king proclaimed a new law.",
+        "ja": "王は新しい法律を宣言しました。"
+      },
+      {
+        "en": "The team proclaimed victory after the final match.",
+        "ja": "そのチームは決勝戦の後、勝利を宣言しました。"
+      },
+      {
+        "en": "The mayor proclaimed the day a local holiday.",
+        "ja": "市長はその日を地域の休日と宣言しました。"
+      }
+    ]
+  },
+  {
+    "id": 614,
+    "word": "declare",
+    "meaning": "～を宣言する、申告する",
+    "examples": [
+      {
+        "en": "She declared her intention to study abroad.",
+        "ja": "彼女は留学する意志を宣言しました。"
+      },
+      {
+        "en": "The country declared independence.",
+        "ja": "その国は独立を宣言しました。"
+      },
+      {
+        "en": "You must declare expensive items at customs.",
+        "ja": "税関で高価な品物を申告しなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "word": "announce",
+    "meaning": "～を告知する、発表する",
+    "examples": [
+      {
+        "en": "The teacher announced the test date.",
+        "ja": "先生はテストの日程を発表しました。"
+      },
+      {
+        "en": "They announced a new product yesterday.",
+        "ja": "彼らは昨日新製品を発表しました。"
+      },
+      {
+        "en": "The station announced a train delay.",
+        "ja": "駅は列車の遅れを知らせました。"
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "word": "exaggerate",
+    "meaning": "～を誇張する、大げさに言う",
+    "examples": [
+      {
+        "en": "He tends to exaggerate his achievements.",
+        "ja": "彼は自分の成果を大げさに言いがちです。"
+      },
+      {
+        "en": "Do not exaggerate the danger.",
+        "ja": "その危険を誇張しないでください。"
+      },
+      {
+        "en": "The story was funny, but it was exaggerated.",
+        "ja": "その話は面白かったですが、大げさでした。"
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "word": "boast",
+    "meaning": "自慢する、鼻にかける",
+    "examples": [
+      {
+        "en": "He often boasts about his grades.",
+        "ja": "彼はよく自分の成績を自慢します。"
+      },
+      {
+        "en": "She never boasts of her success.",
+        "ja": "彼女は自分の成功を決して自慢しません。"
+      },
+      {
+        "en": "The town boasts a beautiful old castle.",
+        "ja": "その町には美しい古い城があります。"
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "word": "controversy",
+    "meaning": "論争、議論",
+    "examples": [
+      {
+        "en": "The new rule caused a controversy.",
+        "ja": "新しい規則は論争を引き起こしました。"
+      },
+      {
+        "en": "There is still controversy over the decision.",
+        "ja": "その決定をめぐって今も論争があります。"
+      },
+      {
+        "en": "The topic became a public controversy.",
+        "ja": "その話題は世間の論争になりました。"
+      }
+    ]
+  },
+  {
+    "id": 619,
+    "word": "dispute",
+    "meaning": "議論、論争；～を議論する、討論する",
+    "examples": [
+      {
+        "en": "The two countries had a border dispute.",
+        "ja": "その2国は国境をめぐる論争を抱えていました。"
+      },
+      {
+        "en": "They disputed the result of the election.",
+        "ja": "彼らは選挙結果に異議を唱えました。"
+      },
+      {
+        "en": "The dispute was finally settled.",
+        "ja": "その論争はついに解決しました。"
+      }
+    ]
+  },
+  {
+    "id": 620,
+    "word": "debate",
+    "meaning": "討論、討論する",
+    "examples": [
+      {
+        "en": "We had a debate about school uniforms.",
+        "ja": "私たちは制服について討論しました。"
+      },
+      {
+        "en": "The candidates debated on TV.",
+        "ja": "候補者たちはテレビで討論しました。"
+      },
+      {
+        "en": "This issue is still open to debate.",
+        "ja": "この問題はまだ議論の余地があります。"
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "word": "conference",
+    "meaning": "会議",
+    "examples": [
+      {
+        "en": "The conference started at ten.",
+        "ja": "会議は10時に始まりました。"
+      },
+      {
+        "en": "She gave a speech at an international conference.",
+        "ja": "彼女は国際会議でスピーチをしました。"
+      },
+      {
+        "en": "Many researchers attended the conference.",
+        "ja": "多くの研究者がその会議に参加しました。"
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "word": "negotiate",
+    "meaning": "交渉する",
+    "examples": [
+      {
+        "en": "They negotiated the price of the car.",
+        "ja": "彼らは車の価格について交渉しました。"
+      },
+      {
+        "en": "The company negotiated with the union.",
+        "ja": "会社は組合と交渉しました。"
+      },
+      {
+        "en": "It takes patience to negotiate well.",
+        "ja": "うまく交渉するには忍耐が必要です。"
+      }
+    ]
+  },
+  {
+    "id": 623,
+    "word": "complain",
+    "meaning": "不満を述べる、苦情を言う",
+    "examples": [
+      {
+        "en": "He complained about the noise.",
+        "ja": "彼は騒音について不満を言いました。"
+      },
+      {
+        "en": "Some customers complained to the manager.",
+        "ja": "何人かの客が店長に苦情を言いました。"
+      },
+      {
+        "en": "She never complains even when she is busy.",
+        "ja": "彼女は忙しいときでも決して不満を言いません。"
+      }
+    ]
+  },
+  {
+    "id": 624,
+    "word": "grumble",
+    "meaning": "不満を言う、ぶつぶつ言う",
+    "examples": [
+      {
+        "en": "He grumbled about the long wait.",
+        "ja": "彼は長い待ち時間についてぶつぶつ言いました。"
+      },
+      {
+        "en": "The students grumbled when they got extra homework.",
+        "ja": "生徒たちは追加の宿題を出されて不満を言いました。"
+      },
+      {
+        "en": "My grandfather grumbles, but he is kind.",
+        "ja": "祖父はぶつぶつ言いますが、優しいです。"
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "word": "quarrel",
+    "meaning": "口論、口喧嘩；口論する",
+    "examples": [
+      {
+        "en": "They had a quarrel over money.",
+        "ja": "彼らはお金のことで口論しました。"
+      },
+      {
+        "en": "The children often quarrel, but they soon make up.",
+        "ja": "子どもたちはよく口喧嘩しますが、すぐ仲直りします。"
+      },
+      {
+        "en": "I do not want to quarrel with you.",
+        "ja": "私はあなたと口論したくありません。"
+      }
+    ]
+  },
+  {
+    "id": 626,
+    "word": "reconcile",
+    "meaning": "～を和解させる、仲直りさせる；和解する",
+    "examples": [
+      {
+        "en": "The teacher tried to reconcile the two students.",
+        "ja": "先生はその2人の生徒を仲直りさせようとしました。"
+      },
+      {
+        "en": "They reconciled after a long argument.",
+        "ja": "彼らは長い口論の後で和解しました。"
+      },
+      {
+        "en": "It is hard to reconcile work and family life.",
+        "ja": "仕事と家庭生活を両立させるのは難しいです。"
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "word": "convince",
+    "meaning": "～に確信させる、納得させる",
+    "examples": [
+      {
+        "en": "He convinced me that the plan would work.",
+        "ja": "彼はその計画がうまくいくと私を納得させました。"
+      },
+      {
+        "en": "The evidence convinced the police.",
+        "ja": "その証拠は警察を納得させました。"
+      },
+      {
+        "en": "It was difficult to convince her to change her mind.",
+        "ja": "彼女に考えを変えるよう納得させるのは難しかったです。"
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "word": "persuade",
+    "meaning": "～を説得する",
+    "examples": [
+      {
+        "en": "I persuaded my friend to join the club.",
+        "ja": "私は友人を説得してそのクラブに入らせました。"
+      },
+      {
+        "en": "She persuaded her parents to buy a computer.",
+        "ja": "彼女は両親を説得してパソコンを買ってもらいました。"
+      },
+      {
+        "en": "A good reason can persuade people.",
+        "ja": "よい理由は人々を説得できます。"
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "word": "talk into",
+    "meaning": "～を説得して…させる",
+    "examples": [
+      {
+        "en": "He talked me into trying the new restaurant.",
+        "ja": "彼は私を説得してその新しいレストランを試させました。"
+      },
+      {
+        "en": "My sister talked me into buying the jacket.",
+        "ja": "姉は私を説得してそのジャケットを買わせました。"
+      },
+      {
+        "en": "They talked him into staying one more day.",
+        "ja": "彼らは彼を説得してもう1日滞在させました。"
+      }
+    ]
+  },
+  {
+    "id": 630,
+    "word": "advantage",
+    "meaning": "有利な点、好都合",
+    "examples": [
+      {
+        "en": "Speaking English is an advantage in many jobs.",
+        "ja": "英語を話せることは多くの仕事で有利な点です。"
+      },
+      {
+        "en": "This plan has one big advantage.",
+        "ja": "この計画には大きな利点が1つあります。"
+      },
+      {
+        "en": "He took advantage of the chance.",
+        "ja": "彼はその機会を利用しました。"
+      }
+    ]
+  },
+  {
+    "id": 631,
+    "word": "right",
+    "meaning": "権利",
+    "examples": [
+      {
+        "en": "Everyone has the right to learn.",
+        "ja": "誰にでも学ぶ権利があります。"
+      },
+      {
+        "en": "You have a right to express your opinion.",
+        "ja": "あなたには自分の意見を表現する権利があります。"
+      },
+      {
+        "en": "The law protects basic human rights.",
+        "ja": "法律は基本的人権を守ります。"
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "word": "privilege",
+    "meaning": "特権",
+    "examples": [
+      {
+        "en": "Education should not be a privilege for the rich.",
+        "ja": "教育は富裕層だけの特権であってはなりません。"
+      },
+      {
+        "en": "It was a privilege to meet the famous scientist.",
+        "ja": "その有名な科学者に会えたことは光栄でした。"
+      },
+      {
+        "en": "The card gives members special privileges.",
+        "ja": "そのカードは会員に特別な特典を与えます。"
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "word": "entitle",
+    "meaning": "～に資格・権利を与える",
+    "examples": [
+      {
+        "en": "This ticket entitles you to a free drink.",
+        "ja": "このチケットで無料の飲み物を受け取る権利があります。"
+      },
+      {
+        "en": "The law entitles workers to paid holidays.",
+        "ja": "法律は労働者に有給休暇の権利を与えています。"
+      },
+      {
+        "en": "Being older does not entitle you to be rude.",
+        "ja": "年上だからといって失礼にしてよい権利があるわけではありません。"
+      }
+    ]
+  },
+  {
+    "id": 634,
+    "word": "qualify",
+    "meaning": "～に資格を与える、資格を得る",
+    "examples": [
+      {
+        "en": "This course qualifies you to teach English.",
+        "ja": "この講座を修了すると英語を教える資格が得られます。"
+      },
+      {
+        "en": "She qualified for the final race.",
+        "ja": "彼女は決勝レースに出場する資格を得ました。"
+      },
+      {
+        "en": "Good grades may qualify you for a scholarship.",
+        "ja": "良い成績によって奨学金を受ける資格が得られるかもしれません。"
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "word": "require",
+    "meaning": "～を要求する、必要とする",
+    "examples": [
+      {
+        "en": "This job requires computer skills.",
+        "ja": "この仕事にはコンピュータの技能が必要です。"
+      },
+      {
+        "en": "The school requires students to wear uniforms.",
+        "ja": "その学校は生徒に制服を着ることを求めています。"
+      },
+      {
+        "en": "Careful work requires time.",
+        "ja": "丁寧な作業には時間が必要です。"
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "word": "call for",
+    "meaning": "～を要求する、必要とする",
+    "examples": [
+      {
+        "en": "The situation calls for quick action.",
+        "ja": "その状況は迅速な行動を必要としています。"
+      },
+      {
+        "en": "This recipe calls for two eggs.",
+        "ja": "このレシピには卵が2個必要です。"
+      },
+      {
+        "en": "The workers called for better conditions.",
+        "ja": "労働者たちはより良い条件を求めました。"
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "word": "desire",
+    "meaning": "欲望、願望",
+    "examples": [
+      {
+        "en": "He has a strong desire to travel.",
+        "ja": "彼には旅行したいという強い願望があります。"
+      },
+      {
+        "en": "Her desire for knowledge is impressive.",
+        "ja": "彼女の知識への欲求は印象的です。"
+      },
+      {
+        "en": "Money cannot satisfy every desire.",
+        "ja": "お金ですべての欲望を満たすことはできません。"
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "word": "demand",
+    "meaning": "要求；～を要求する",
+    "examples": [
+      {
+        "en": "The workers demanded higher pay.",
+        "ja": "労働者たちはより高い賃金を要求しました。"
+      },
+      {
+        "en": "There is a high demand for nurses.",
+        "ja": "看護師への需要が高いです。"
+      },
+      {
+        "en": "This task demands careful attention.",
+        "ja": "この作業は細心の注意を必要とします。"
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "word": "perspective",
+    "meaning": "展望、ものの見方",
+    "examples": [
+      {
+        "en": "Travel can change your perspective.",
+        "ja": "旅行はものの見方を変えることがあります。"
+      },
+      {
+        "en": "Try to see the problem from another perspective.",
+        "ja": "その問題を別の視点から見てみてください。"
+      },
+      {
+        "en": "The book offers a new perspective on history.",
+        "ja": "その本は歴史について新しい見方を示しています。"
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "word": "inspect",
+    "meaning": "～を詳しく調べる、検査する",
+    "examples": [
+      {
+        "en": "The mechanic inspected the engine carefully.",
+        "ja": "整備士はエンジンを注意深く点検しました。"
+      },
+      {
+        "en": "The teacher inspected our notebooks.",
+        "ja": "先生は私たちのノートを確認しました。"
+      },
+      {
+        "en": "Inspect the cable before you use it.",
+        "ja": "使う前にケーブルを点検してください。"
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "word": "prospect",
+    "meaning": "見通し、展望",
+    "examples": [
+      {
+        "en": "The prospects for the team look good.",
+        "ja": "そのチームの見通しは良さそうです。"
+      },
+      {
+        "en": "He was excited by the prospect of studying abroad.",
+        "ja": "彼は留学する見込みにわくわくしました。"
+      },
+      {
+        "en": "There is little prospect of rain today.",
+        "ja": "今日は雨が降る見込みはほとんどありません。"
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "word": "retrospect",
+    "meaning": "追想、回想",
+    "examples": [
+      {
+        "en": "In retrospect, I should have studied earlier.",
+        "ja": "振り返ってみると、もっと早く勉強すべきでした。"
+      },
+      {
+        "en": "In retrospect, the mistake was obvious.",
+        "ja": "振り返れば、その間違いは明らかでした。"
+      },
+      {
+        "en": "The decision seems wise in retrospect.",
+        "ja": "振り返ってみると、その決定は賢明に思えます。"
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "word": "suspect",
+    "meaning": "～を疑う、に気付く；容疑者",
+    "examples": [
+      {
+        "en": "I suspect that he forgot the meeting.",
+        "ja": "私は彼が会議を忘れたのではないかと思っています。"
+      },
+      {
+        "en": "The police questioned the suspect.",
+        "ja": "警察は容疑者に質問しました。"
+      },
+      {
+        "en": "She suspected a mistake in the report.",
+        "ja": "彼女は報告書に間違いがあると疑いました。"
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "word": "speculate",
+    "meaning": "～を推測する、熟考する",
+    "examples": [
+      {
+        "en": "It is too early to speculate about the cause.",
+        "ja": "原因について推測するには早すぎます。"
+      },
+      {
+        "en": "People speculated that the price would rise.",
+        "ja": "人々は価格が上がるだろうと推測しました。"
+      },
+      {
+        "en": "He likes to speculate about the future of technology.",
+        "ja": "彼は技術の未来について思索するのが好きです。"
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "word": "spectacle",
+    "meaning": "見世物、光景、眼鏡",
+    "examples": [
+      {
+        "en": "The fireworks were a wonderful spectacle.",
+        "ja": "花火はすばらしい光景でした。"
+      },
+      {
+        "en": "The parade became a public spectacle.",
+        "ja": "そのパレードは人々の見世物になりました。"
+      },
+      {
+        "en": "He cleaned his spectacles before reading.",
+        "ja": "彼は読む前に眼鏡を拭きました。"
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "word": "conspicuous",
+    "meaning": "目立つ",
+    "examples": [
+      {
+        "en": "Her red coat was conspicuous in the crowd.",
+        "ja": "彼女の赤いコートは人混みの中で目立っていました。"
+      },
+      {
+        "en": "There was a conspicuous mistake in the title.",
+        "ja": "題名には目立つ間違いがありました。"
+      },
+      {
+        "en": "The tower is conspicuous from far away.",
+        "ja": "その塔は遠くからでも目立ちます。"
+      }
+    ]
+  },
+  {
+    "id": 647,
+    "word": "proceed",
+    "meaning": "進む、さらに続けて～する",
+    "examples": [
+      {
+        "en": "Please proceed to the next page.",
+        "ja": "次のページに進んでください。"
+      },
+      {
+        "en": "The meeting proceeded as planned.",
+        "ja": "会議は予定通り進みました。"
+      },
+      {
+        "en": "After a short break, we proceeded with the lesson.",
+        "ja": "短い休憩の後、私たちは授業を続けました。"
+      }
+    ]
+  },
+  {
+    "id": 648,
+    "word": "exceed",
+    "meaning": "～を越える、優る",
+    "examples": [
+      {
+        "en": "The cost exceeded our budget.",
+        "ja": "費用は私たちの予算を超えました。"
+      },
+      {
+        "en": "His score exceeded my expectations.",
+        "ja": "彼の点数は私の期待を上回りました。"
+      },
+      {
+        "en": "Do not exceed the speed limit.",
+        "ja": "制限速度を超えないでください。"
+      }
+    ]
+  },
+  {
+    "id": 649,
+    "word": "concede",
+    "meaning": "～を認める、譲歩する",
+    "examples": [
+      {
+        "en": "He conceded that he had made a mistake.",
+        "ja": "彼は自分が間違いを犯したことを認めました。"
+      },
+      {
+        "en": "The team conceded defeat after the final goal.",
+        "ja": "そのチームは最後の得点の後で敗北を認めました。"
+      },
+      {
+        "en": "Both sides must concede something to reach an agreement.",
+        "ja": "合意に達するには双方が何かを譲歩しなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "word": "succeed",
+    "meaning": "成功する、～の後を継ぐ、～に次いで起こる",
+    "examples": [
+      {
+        "en": "She worked hard and succeeded.",
+        "ja": "彼女は努力して成功しました。"
+      },
+      {
+        "en": "He succeeded his father as president.",
+        "ja": "彼は父の後を継いで社長になりました。"
+      },
+      {
+        "en": "A cold night succeeded the storm.",
+        "ja": "嵐の後に寒い夜が続きました。"
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "word": "predict",
+    "meaning": "～を予言する、予測する",
+    "examples": [
+      {
+        "en": "Scientists predict heavy rain tomorrow.",
+        "ja": "科学者たちは明日大雨になると予測しています。"
+      },
+      {
+        "en": "It is difficult to predict the future.",
+        "ja": "未来を予測するのは難しいです。"
+      },
+      {
+        "en": "The model predicted the result accurately.",
+        "ja": "そのモデルは結果を正確に予測しました。"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "word": "indicate",
+    "meaning": "～を示す、指示する",
+    "examples": [
+      {
+        "en": "The map indicates the nearest station.",
+        "ja": "地図は最寄り駅を示しています。"
+      },
+      {
+        "en": "His expression indicated anger.",
+        "ja": "彼の表情は怒りを示していました。"
+      },
+      {
+        "en": "Please indicate your answer with a circle.",
+        "ja": "答えを丸で示してください。"
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "word": "dictate",
+    "meaning": "～を書き取らせる、命令する",
+    "examples": [
+      {
+        "en": "The teacher dictated a short passage.",
+        "ja": "先生は短い文章を書き取らせました。"
+      },
+      {
+        "en": "The boss dictated strict rules.",
+        "ja": "上司は厳しい規則を命じました。"
+      },
+      {
+        "en": "Fashion should not dictate how you live.",
+        "ja": "流行があなたの生き方を決めるべきではありません。"
+      }
+    ]
+  },
+  {
+    "id": 654,
+    "word": "dedicate",
+    "meaning": "～を捧げる",
+    "examples": [
+      {
+        "en": "She dedicated her life to education.",
+        "ja": "彼女は人生を教育に捧げました。"
+      },
+      {
+        "en": "He dedicated the book to his mother.",
+        "ja": "彼はその本を母親に捧げました。"
+      },
+      {
+        "en": "They dedicated a new hospital to the town.",
+        "ja": "彼らはその町に新しい病院を献堂しました。"
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "word": "admit",
+    "meaning": "～を認める；～を受け入れる",
+    "examples": [
+      {
+        "en": "He admitted that he was wrong.",
+        "ja": "彼は自分が間違っていたと認めました。"
+      },
+      {
+        "en": "The school admits 200 students each year.",
+        "ja": "その学校は毎年200人の生徒を受け入れます。"
+      },
+      {
+        "en": "This ticket admits one person.",
+        "ja": "このチケットで1人が入場できます。"
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "word": "commit",
+    "meaning": "～を犯す、取り組む、約束する、明言する",
+    "examples": [
+      {
+        "en": "He committed a serious crime.",
+        "ja": "彼は重大な犯罪を犯しました。"
+      },
+      {
+        "en": "She committed herself to the project.",
+        "ja": "彼女はそのプロジェクトに全力で取り組みました。"
+      },
+      {
+        "en": "The company committed to reducing waste.",
+        "ja": "その会社は廃棄物を減らすことを約束しました。"
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "word": "omit",
+    "meaning": "～を省く",
+    "examples": [
+      {
+        "en": "Do not omit your name from the form.",
+        "ja": "用紙から名前を省かないでください。"
+      },
+      {
+        "en": "The editor omitted two sentences.",
+        "ja": "編集者は2つの文を削りました。"
+      },
+      {
+        "en": "He omitted an important detail.",
+        "ja": "彼は重要な詳細を省きました。"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "word": "dismiss",
+    "meaning": "～を解散する、解雇する；～を退ける、却下する",
+    "examples": [
+      {
+        "en": "The teacher dismissed the class early.",
+        "ja": "先生は授業を早めに終えました。"
+      },
+      {
+        "en": "The company dismissed several workers.",
+        "ja": "会社は数人の労働者を解雇しました。"
+      },
+      {
+        "en": "The judge dismissed the case.",
+        "ja": "裁判官はその訴えを却下しました。"
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "word": "transmit",
+    "meaning": "～を送る、伝える",
+    "examples": [
+      {
+        "en": "Satellites transmit signals to Earth.",
+        "ja": "人工衛星は地球に信号を送ります。"
+      },
+      {
+        "en": "Mosquitoes can transmit disease.",
+        "ja": "蚊は病気を伝染させることがあります。"
+      },
+      {
+        "en": "The message was transmitted by radio.",
+        "ja": "そのメッセージは無線で送信されました。"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "word": "mission",
+    "meaning": "使命、任務",
+    "examples": [
+      {
+        "en": "Our mission is to help local children.",
+        "ja": "私たちの使命は地域の子どもたちを助けることです。"
+      },
+      {
+        "en": "The astronaut completed his mission.",
+        "ja": "宇宙飛行士は任務を完了しました。"
+      },
+      {
+        "en": "She felt a mission to protect the forest.",
+        "ja": "彼女は森を守る使命を感じました。"
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "word": "transfer",
+    "meaning": "～を移動する；乗り換える、転勤・転校する；移動、乗り換え",
+    "examples": [
+      {
+        "en": "I transferred the files to my new computer.",
+        "ja": "私はファイルを新しいパソコンに移しました。"
+      },
+      {
+        "en": "You need to transfer at the next station.",
+        "ja": "次の駅で乗り換える必要があります。"
+      },
+      {
+        "en": "He transferred to another school.",
+        "ja": "彼は別の学校に転校しました。"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "word": "transport",
+    "meaning": "～を輸送する；輸送、交通手段",
+    "examples": [
+      {
+        "en": "Trucks transport food to the city.",
+        "ja": "トラックは食料を町へ輸送します。"
+      },
+      {
+        "en": "Public transport is convenient here.",
+        "ja": "ここでは公共交通機関が便利です。"
+      },
+      {
+        "en": "The goods were transported by ship.",
+        "ja": "その商品は船で輸送されました。"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "word": "transform",
+    "meaning": "～を変形する、変化させる",
+    "examples": [
+      {
+        "en": "The new road transformed the town.",
+        "ja": "新しい道路はその町を大きく変えました。"
+      },
+      {
+        "en": "Heat can transform ice into water.",
+        "ja": "熱は氷を水に変えます。"
+      },
+      {
+        "en": "Practice transformed him into a good player.",
+        "ja": "練習が彼を良い選手に変えました。"
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "word": "translate",
+    "meaning": "～を翻訳する",
+    "examples": [
+      {
+        "en": "Please translate this sentence into Japanese.",
+        "ja": "この文を日本語に翻訳してください。"
+      },
+      {
+        "en": "She translates novels for a living.",
+        "ja": "彼女は小説を翻訳して生計を立てています。"
+      },
+      {
+        "en": "The app can translate simple phrases.",
+        "ja": "そのアプリは簡単な表現を翻訳できます。"
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "word": "transplant",
+    "meaning": "～を移植する；移植",
+    "examples": [
+      {
+        "en": "Doctors transplanted a new kidney.",
+        "ja": "医師たちは新しい腎臓を移植しました。"
+      },
+      {
+        "en": "We transplanted the tree to a larger pot.",
+        "ja": "私たちはその木をより大きな鉢に植え替えました。"
+      },
+      {
+        "en": "The patient waited for a heart transplant.",
+        "ja": "その患者は心臓移植を待っていました。"
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "word": "transparent",
+    "meaning": "透明な",
+    "examples": [
+      {
+        "en": "The glass is almost transparent.",
+        "ja": "そのガラスはほとんど透明です。"
+      },
+      {
+        "en": "The company should be transparent about its costs.",
+        "ja": "会社は費用について透明性を持つべきです。"
+      },
+      {
+        "en": "A transparent bag lets you see what is inside.",
+        "ja": "透明な袋なら中に何があるか見えます。"
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "word": "transition",
+    "meaning": "移り変わり、過渡期",
+    "examples": [
+      {
+        "en": "The transition from school to work can be difficult.",
+        "ja": "学校から仕事への移行は難しいことがあります。"
+      },
+      {
+        "en": "The country is in a period of transition.",
+        "ja": "その国は過渡期にあります。"
+      },
+      {
+        "en": "Good design makes the transition smooth.",
+        "ja": "良い設計は移行をスムーズにします。"
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "word": "distribute",
+    "meaning": "～を分配する、配布する",
+    "examples": [
+      {
+        "en": "The teacher distributed the handouts.",
+        "ja": "先生はプリントを配りました。"
+      },
+      {
+        "en": "Food was distributed to the victims.",
+        "ja": "食料が被災者に配られました。"
+      },
+      {
+        "en": "The company distributes products across Japan.",
+        "ja": "その会社は日本中に製品を流通させています。"
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "word": "contribute",
+    "meaning": "貢献する、寄付する",
+    "examples": [
+      {
+        "en": "Everyone can contribute to the project.",
+        "ja": "誰でもそのプロジェクトに貢献できます。"
+      },
+      {
+        "en": "She contributed money to the charity.",
+        "ja": "彼女はその慈善団体にお金を寄付しました。"
+      },
+      {
+        "en": "Sleep contributes to good health.",
+        "ja": "睡眠は健康に役立ちます。"
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "word": "attribute",
+    "meaning": "～の原因を…に帰す；属性、性質",
+    "examples": [
+      {
+        "en": "He attributed his success to hard work.",
+        "ja": "彼は自分の成功を努力のおかげだと考えました。"
+      },
+      {
+        "en": "Kindness is an important attribute of a good leader.",
+        "ja": "親切さは良いリーダーの重要な特性です。"
+      },
+      {
+        "en": "Many people attribute the change to technology.",
+        "ja": "多くの人はその変化を技術のためだと考えています。"
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "word": "assure",
+    "meaning": "～を保証する、確信させる",
+    "examples": [
+      {
+        "en": "I assure you that the data is safe.",
+        "ja": "データは安全だと保証します。"
+      },
+      {
+        "en": "She assured me that everything was fine.",
+        "ja": "彼女はすべて大丈夫だと私に保証しました。"
+      },
+      {
+        "en": "The doctor assured him of a quick recovery.",
+        "ja": "医師は彼にすぐ回復すると確信させました。"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "word": "reassure",
+    "meaning": "～を安心させる",
+    "examples": [
+      {
+        "en": "Her smile reassured the child.",
+        "ja": "彼女の笑顔はその子どもを安心させました。"
+      },
+      {
+        "en": "The teacher reassured us before the exam.",
+        "ja": "先生は試験の前に私たちを安心させてくれました。"
+      },
+      {
+        "en": "He called his parents to reassure them.",
+        "ja": "彼は両親を安心させるために電話しました。"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "word": "ensure",
+    "meaning": "～を保証する、確保する",
+    "examples": [
+      {
+        "en": "Check the door to ensure it is locked.",
+        "ja": "鍵がかかっていることを確認するためにドアを確かめてください。"
+      },
+      {
+        "en": "Good sleep ensures better concentration.",
+        "ja": "十分な睡眠はより良い集中力を確保します。"
+      },
+      {
+        "en": "The rule ensures fair treatment for all students.",
+        "ja": "その規則はすべての生徒への公平な扱いを保証します。"
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "word": "insurance",
+    "meaning": "保険",
+    "examples": [
+      {
+        "en": "Car insurance is required in many places.",
+        "ja": "多くの場所で自動車保険が必要です。"
+      },
+      {
+        "en": "She bought travel insurance before the trip.",
+        "ja": "彼女は旅行前に旅行保険に入りました。"
+      },
+      {
+        "en": "Insurance can protect you from unexpected costs.",
+        "ja": "保険は予期しない費用からあなたを守ることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "word": "influence",
+    "meaning": "影響；～に影響を及ぼす",
+    "examples": [
+      {
+        "en": "Parents have a strong influence on children.",
+        "ja": "親は子どもに強い影響を与えます。"
+      },
+      {
+        "en": "The weather influenced our decision.",
+        "ja": "天気は私たちの決定に影響しました。"
+      },
+      {
+        "en": "Social media can influence public opinion.",
+        "ja": "SNSは世論に影響を与えることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "word": "impact",
+    "meaning": "影響、衝撃",
+    "examples": [
+      {
+        "en": "The new law had a big impact on schools.",
+        "ja": "新しい法律は学校に大きな影響を与えました。"
+      },
+      {
+        "en": "The impact of the crash broke the window.",
+        "ja": "衝突の衝撃で窓が割れました。"
+      },
+      {
+        "en": "Small actions can have a positive impact.",
+        "ja": "小さな行動が良い影響を持つことがあります。"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "word": "affect",
+    "meaning": "～に直接影響・効果を及ぼす",
+    "examples": [
+      {
+        "en": "Lack of sleep affects your memory.",
+        "ja": "睡眠不足は記憶力に影響します。"
+      },
+      {
+        "en": "The news affected him deeply.",
+        "ja": "その知らせは彼に深く影響しました。"
+      },
+      {
+        "en": "Temperature affects battery life.",
+        "ja": "温度はバッテリーの寿命に影響します。"
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "word": "effect",
+    "meaning": "効果、影響",
+    "examples": [
+      {
+        "en": "The medicine had a strong effect.",
+        "ja": "その薬は強い効果がありました。"
+      },
+      {
+        "en": "What is the effect of this change?",
+        "ja": "この変更の影響は何ですか。"
+      },
+      {
+        "en": "Exercise has a good effect on health.",
+        "ja": "運動は健康に良い効果があります。"
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "word": "affection",
+    "meaning": "愛情",
+    "examples": [
+      {
+        "en": "The dog showed affection for its owner.",
+        "ja": "その犬は飼い主への愛情を示しました。"
+      },
+      {
+        "en": "She spoke with great affection about her grandmother.",
+        "ja": "彼女は祖母について深い愛情を込めて話しました。"
+      },
+      {
+        "en": "Children need affection as well as food.",
+        "ja": "子どもには食べ物だけでなく愛情も必要です。"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "word": "dominant",
+    "meaning": "支配的な、優位に立つ",
+    "examples": [
+      {
+        "en": "This company is dominant in the market.",
+        "ja": "この会社は市場で支配的です。"
+      },
+      {
+        "en": "English is a dominant language in science.",
+        "ja": "英語は科学の分野で支配的な言語です。"
+      },
+      {
+        "en": "The dominant color in the picture is blue.",
+        "ja": "その絵で目立つ色は青です。"
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "word": "rule",
+    "meaning": "～を支配する；規則",
+    "examples": [
+      {
+        "en": "The king ruled the country for forty years.",
+        "ja": "その王は40年間その国を支配しました。"
+      },
+      {
+        "en": "You must follow the school rules.",
+        "ja": "校則に従わなければなりません。"
+      },
+      {
+        "en": "One simple rule can prevent many mistakes.",
+        "ja": "1つの単純な規則で多くの間違いを防げます。"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "word": "regulate",
+    "meaning": "～を規制する、調整する",
+    "examples": [
+      {
+        "en": "The law regulates the use of chemicals.",
+        "ja": "法律は化学物質の使用を規制しています。"
+      },
+      {
+        "en": "This device regulates temperature automatically.",
+        "ja": "この装置は温度を自動で調整します。"
+      },
+      {
+        "en": "Governments regulate traffic for safety.",
+        "ja": "政府は安全のために交通を規制します。"
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "word": "control",
+    "meaning": "～を抑制する、支配する、制御する；制御、支配",
+    "examples": [
+      {
+        "en": "You can control the robot with this button.",
+        "ja": "このボタンでロボットを制御できます。"
+      },
+      {
+        "en": "He tried to control his anger.",
+        "ja": "彼は怒りを抑えようとしました。"
+      },
+      {
+        "en": "The company is under foreign control.",
+        "ja": "その会社は外国の支配下にあります。"
+      }
+    ]
+  },
+  {
+    "id": 684,
+    "word": "bind",
+    "meaning": "～を拘束する、縛る",
+    "examples": [
+      {
+        "en": "The contract binds both companies.",
+        "ja": "その契約は両社を拘束します。"
+      },
+      {
+        "en": "She bound the papers with a clip.",
+        "ja": "彼女は書類をクリップで留めました。"
+      },
+      {
+        "en": "Shared memories bind the team together.",
+        "ja": "共有された思い出がチームを結びつけます。"
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "word": "authority",
+    "meaning": "権威、権力、権限；当局",
+    "examples": [
+      {
+        "en": "The teacher has authority in the classroom.",
+        "ja": "先生は教室で権限を持っています。"
+      },
+      {
+        "en": "Local authorities closed the road.",
+        "ja": "地方当局は道路を閉鎖しました。"
+      },
+      {
+        "en": "He is an authority on Japanese history.",
+        "ja": "彼は日本史の権威です。"
+      }
+    ]
+  },
+  {
+    "id": 686,
+    "word": "author",
+    "meaning": "著者",
+    "examples": [
+      {
+        "en": "The author wrote many popular novels.",
+        "ja": "その著者は多くの人気小説を書きました。"
+      },
+      {
+        "en": "Who is the author of this book?",
+        "ja": "この本の著者は誰ですか。"
+      },
+      {
+        "en": "She became a famous author at a young age.",
+        "ja": "彼女は若くして有名な作家になりました。"
+      }
+    ]
+  },
+  {
+    "id": 687,
+    "word": "exert",
+    "meaning": "～を行使する、働かせる",
+    "examples": [
+      {
+        "en": "He exerted great effort to finish the race.",
+        "ja": "彼はレースを終えるために大きな努力を払いました。"
+      },
+      {
+        "en": "The manager exerted pressure on the team.",
+        "ja": "その管理者はチームに圧力をかけました。"
+      },
+      {
+        "en": "You should not exert too much force.",
+        "ja": "力を入れすぎるべきではありません。"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "word": "exercise",
+    "meaning": "練習、運動；～を行使する",
+    "examples": [
+      {
+        "en": "Regular exercise is good for your health.",
+        "ja": "定期的な運動は健康に良いです。"
+      },
+      {
+        "en": "This exercise helps you learn new words.",
+        "ja": "この練習問題は新しい単語を覚える助けになります。"
+      },
+      {
+        "en": "Citizens should exercise their right to vote.",
+        "ja": "市民は投票する権利を行使すべきです。"
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "word": "obey",
+    "meaning": "従う",
+    "examples": [
+      {
+        "en": "Drivers must obey traffic rules.",
+        "ja": "運転手は交通規則に従わなければなりません。"
+      },
+      {
+        "en": "The dog learned to obey simple commands.",
+        "ja": "その犬は簡単な命令に従うことを覚えました。"
+      },
+      {
+        "en": "Children should obey their parents, but parents should listen too.",
+        "ja": "子どもは親に従うべきですが、親も聞くべきです。"
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "word": "resist",
+    "meaning": "～に抵抗する",
+    "examples": [
+      {
+        "en": "She resisted the temptation to check her phone.",
+        "ja": "彼女はスマホを確認したい誘惑に抵抗しました。"
+      },
+      {
+        "en": "The material resists heat well.",
+        "ja": "その材料は熱によく耐えます。"
+      },
+      {
+        "en": "Many people resisted the new policy.",
+        "ja": "多くの人が新しい方針に抵抗しました。"
+      }
+    ]
+  },
+  {
+    "id": 691,
+    "word": "protest",
+    "meaning": "抗議、抗議する",
+    "examples": [
+      {
+        "en": "Students protested against the rule.",
+        "ja": "学生たちはその規則に抗議しました。"
+      },
+      {
+        "en": "The protest was peaceful.",
+        "ja": "その抗議活動は平和的でした。"
+      },
+      {
+        "en": "He wrote a letter of protest.",
+        "ja": "彼は抗議の手紙を書きました。"
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "word": "rebel",
+    "meaning": "反逆者、反逆する",
+    "examples": [
+      {
+        "en": "The rebels fought against the government.",
+        "ja": "反逆者たちは政府と戦いました。"
+      },
+      {
+        "en": "Teenagers sometimes rebel against their parents.",
+        "ja": "十代の若者は時々親に反抗します。"
+      },
+      {
+        "en": "He was seen as a rebel at school.",
+        "ja": "彼は学校で反抗的な人物と見なされていました。"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "word": "conquer",
+    "meaning": "～を征服する、克服する",
+    "examples": [
+      {
+        "en": "The army conquered the city.",
+        "ja": "その軍隊は都市を征服しました。"
+      },
+      {
+        "en": "She conquered her fear of speaking in public.",
+        "ja": "彼女は人前で話す恐怖を克服しました。"
+      },
+      {
+        "en": "No one can conquer nature completely.",
+        "ja": "誰も自然を完全に征服することはできません。"
+      }
+    ]
+  },
+  {
+    "id": 694,
+    "word": "win",
+    "meaning": "勝つ；～を獲得する",
+    "examples": [
+      {
+        "en": "Our team won the game.",
+        "ja": "私たちのチームは試合に勝ちました。"
+      },
+      {
+        "en": "She won first prize in the contest.",
+        "ja": "彼女はコンテストで一等賞を獲得しました。"
+      },
+      {
+        "en": "Hard work can win respect.",
+        "ja": "努力は尊敬を勝ち取ることがあります。"
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "word": "defeat",
+    "meaning": "～を打ち負かす；敗北",
+    "examples": [
+      {
+        "en": "They defeated the strongest team.",
+        "ja": "彼らは最強のチームを打ち負かしました。"
+      },
+      {
+        "en": "The defeat taught us an important lesson.",
+        "ja": "その敗北は私たちに重要な教訓を教えました。"
+      },
+      {
+        "en": "We must defeat this disease.",
+        "ja": "私たちはこの病気に打ち勝たなければなりません。"
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "word": "beat",
+    "meaning": "～を繰り返し叩く、打ち負かす",
+    "examples": [
+      {
+        "en": "He beat the drum loudly.",
+        "ja": "彼は太鼓を大きな音で叩きました。"
+      },
+      {
+        "en": "Our class beat the other class in soccer.",
+        "ja": "私たちのクラスはサッカーで別のクラスに勝ちました。"
+      },
+      {
+        "en": "Her heart began to beat faster.",
+        "ja": "彼女の心臓はより速く打ち始めました。"
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "word": "lose",
+    "meaning": "負ける；～を失う",
+    "examples": [
+      {
+        "en": "I do not want to lose this game.",
+        "ja": "私はこの試合に負けたくありません。"
+      },
+      {
+        "en": "He lost his wallet on the train.",
+        "ja": "彼は電車で財布をなくしました。"
+      },
+      {
+        "en": "If you do not practice, you may lose your skill.",
+        "ja": "練習しないと、その技能を失うかもしれません。"
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "word": "surrender",
+    "meaning": "降伏する、～を明け渡す",
+    "examples": [
+      {
+        "en": "The soldiers finally surrendered.",
+        "ja": "兵士たちはついに降伏しました。"
+      },
+      {
+        "en": "He refused to surrender his dream.",
+        "ja": "彼は自分の夢を諦めることを拒みました。"
+      },
+      {
+        "en": "The thief surrendered to the police.",
+        "ja": "その泥棒は警察に降伏しました。"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "word": "yield",
+    "meaning": "屈する、産出する、譲る",
+    "examples": [
+      {
+        "en": "The farmer's field yielded many vegetables.",
+        "ja": "その農家の畑は多くの野菜を産出しました。"
+      },
+      {
+        "en": "You must yield to traffic on the main road.",
+        "ja": "幹線道路の車に道を譲らなければなりません。"
+      },
+      {
+        "en": "She did not yield to pressure.",
+        "ja": "彼女は圧力に屈しませんでした。"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "word": "depend",
+    "meaning": "依存する；～による、左右される",
+    "examples": [
+      {
+        "en": "Children depend on adults for safety.",
+        "ja": "子どもは安全のために大人に頼ります。"
+      },
+      {
+        "en": "The result depends on your effort.",
+        "ja": "結果はあなたの努力次第です。"
+      },
+      {
+        "en": "We cannot depend on luck alone.",
+        "ja": "私たちは運だけに頼ることはできません。"
+      }
+    ]
+  }
+]
