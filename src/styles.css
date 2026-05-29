@@ -330,6 +330,12 @@ button:active {
   color: var(--warn);
 }
 
+.knownState {
+  background: #eaf5ef;
+  border-color: #b8dfc9;
+  color: var(--ok);
+}
+
 .jumpRow {
   margin-top: 12px;
   display: flex;

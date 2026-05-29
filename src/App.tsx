@@ -217,7 +217,11 @@ export function App() {
 
   const shuffle = () => {
     if (!orderedCardWords.length) return;
-    const shuffled = [...orderedCardWords.map((w) => w.id)].sort(() => Math.random() - 0.5);
+    const shuffled = [...orderedCardWords.map((w) => w.id)];
+    for (let i = shuffled.length - 1; i > 0; i -= 1) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
     setCardOrderIds(shuffled);
     setIndex(0);
     setShowAnswer(false);
@@ -238,7 +242,13 @@ export function App() {
     setOpenedListItems(new Set());
     setAnimToken((t) => t + 1);
   };
-  const markKnown = (id: number) => setKnownIds((prev) => new Set(prev).add(id));
+  const toggleKnown = (id: number) =>
+    setKnownIds((prev) => {
+      const n = new Set(prev);
+      if (n.has(id)) n.delete(id);
+      else n.add(id);
+      return n;
+    });
   const toggleDifficult = (id: number) =>
     setDifficultIds((prev) => {
       const n = new Set(prev);
@@ -284,7 +294,7 @@ export function App() {
       if (k === "a") return e.preventDefault(), speakEnglish(current.word);
       if (k === "s") return e.preventDefault(), shuffle();
       if (k === "d") return e.preventDefault(), toggleDifficult(current.id);
-      if (k === "k") return e.preventDefault(), markKnown(current.id);
+      if (k === "k") return e.preventDefault(), toggleKnown(current.id);
     };
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
@@ -396,7 +406,7 @@ export function App() {
                           </div>
                         ))}
                         <div className="markRow">
-                          <button className="stateBtn" aria-label="確認済み" onClick={(e) => (e.stopPropagation(), markKnown(current.id))}>
+                          <button className={`stateBtn ${knownIds.has(current.id) ? "knownState" : ""}`} aria-label="確認済みトグル" onClick={(e) => (e.stopPropagation(), toggleKnown(current.id))}>
                             <Icon d="M5 13l4 4L19 7" />
                           </button>
                           <button className={`stateBtn ${difficultIds.has(current.id) ? "activeState" : ""}`} aria-label="苦手トグル" onClick={(e) => (e.stopPropagation(), toggleDifficult(current.id))}>
@@ -492,7 +502,7 @@ export function App() {
                           </div>
                         ))}
                         <div className="markRow">
-                          <button className="stateBtn" aria-label="確認済み" onClick={(e) => (e.stopPropagation(), markKnown(w.id))}>
+                          <button className={`stateBtn ${knownIds.has(w.id) ? "knownState" : ""}`} aria-label="確認済みトグル" onClick={(e) => (e.stopPropagation(), toggleKnown(w.id))}>
                             <Icon d="M5 13l4 4L19 7" />
                           </button>
                           <button className={`stateBtn ${difficultIds.has(w.id) ? "activeState" : ""}`} aria-label="苦手トグル" onClick={(e) => (e.stopPropagation(), toggleDifficult(w.id))}>
