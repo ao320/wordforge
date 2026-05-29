@@ -34,6 +34,7 @@ export function App() {
   const [difficultIds, setDifficultIds] = useState<Set<number>>(new Set());
   const [hydrated, setHydrated] = useState(false);
   const [jumpIdText, setJumpIdText] = useState("");
+  const [cardOrderIds, setCardOrderIds] = useState<number[] | null>(null);
 
   useEffect(() => {
     const load = async () => {
@@ -70,6 +71,7 @@ export function App() {
           filterMode?: FilterMode;
           knownIds?: number[];
           difficultIds?: number[];
+          cardOrderIds?: number[] | null;
         };
         setIndex(s.index ?? 0);
         setMode(s.mode ?? "card");
@@ -80,6 +82,7 @@ export function App() {
         setFilterMode(s.filterMode ?? "all");
         setKnownIds(new Set(s.knownIds ?? []));
         setDifficultIds(new Set(s.difficultIds ?? []));
+        setCardOrderIds(s.cardOrderIds ?? null);
       }
     } catch {
       // ignore
@@ -90,21 +93,26 @@ export function App() {
 
   useEffect(() => {
     if (!hydrated) return;
-    localStorage.setItem(
-      STORAGE_KEY,
-      JSON.stringify({
-        index,
-        mode,
-        direction,
-        selectedRange,
-        listPage,
-        search,
-        filterMode,
-        knownIds: [...knownIds],
-        difficultIds: [...difficultIds],
-      }),
-    );
-  }, [hydrated, index, mode, direction, selectedRange, listPage, search, filterMode, knownIds, difficultIds]);
+    try {
+      localStorage.setItem(
+        STORAGE_KEY,
+        JSON.stringify({
+          index,
+          mode,
+          direction,
+          selectedRange,
+          listPage,
+          search,
+          filterMode,
+          knownIds: [...knownIds],
+          difficultIds: [...difficultIds],
+          cardOrderIds,
+        }),
+      );
+    } catch {
+      // ignore persistence errors (private mode, quota, policy)
+    }
+  }, [hydrated, index, mode, direction, selectedRange, listPage, search, filterMode, knownIds, difficultIds, cardOrderIds]);
 
   const speakEnglish = (text: string) => {
     if (!("speechSynthesis" in window)) return;
@@ -150,14 +158,32 @@ export function App() {
     return filteredWords.filter((w) => w.id >= currentRange.start && w.id <= currentRange.end);
   }, [filteredWords, currentRange]);
 
-  useEffect(() => {
-    const target = mode === "card" ? cardWords : filteredWords;
-    if (target.length === 0) setIndex(0);
-    else setIndex((p) => Math.min(p, target.length - 1));
-  }, [mode, filteredWords, cardWords]);
+  const orderedCardWords = useMemo(() => {
+    if (!cardOrderIds) return cardWords;
+    const map = new Map(cardWords.map((w) => [w.id, w]));
+    return cardOrderIds.map((id) => map.get(id)).filter((w): w is WordEntry => Boolean(w));
+  }, [cardWords, cardOrderIds]);
 
-  const current = mode === "card" ? cardWords[index] : filteredWords[index];
-  const activeCardLength = cardWords.length;
+  useEffect(() => {
+    if (!cardOrderIds) return;
+    const visibleIds = new Set(cardWords.map((w) => w.id));
+    const next = cardOrderIds.filter((id) => visibleIds.has(id));
+    const missing = cardWords.map((w) => w.id).filter((id) => !next.includes(id));
+    const merged = [...next, ...missing];
+    if (merged.length !== cardOrderIds.length || merged.some((id, i) => id !== cardOrderIds[i])) {
+      setCardOrderIds(merged);
+    }
+  }, [cardWords, cardOrderIds]);
+
+  useEffect(() => {
+    if (!hydrated || loading) return;
+    const target = mode === "card" ? orderedCardWords : filteredWords;
+    if (target.length === 0) return;
+    setIndex((p) => Math.min(p, target.length - 1));
+  }, [hydrated, loading, mode, filteredWords, orderedCardWords]);
+
+  const current = mode === "card" ? orderedCardWords[index] : filteredWords[index];
+  const activeCardLength = orderedCardWords.length;
   const progress = activeCardLength === 0 ? 0 : ((index + 1) / activeCardLength) * 100;
 
   const nextWord = () => {
@@ -181,7 +207,7 @@ export function App() {
   const jumpToId = () => {
     const id = Number(jumpIdText);
     if (!Number.isFinite(id)) return;
-    const idx = cardWords.findIndex((w) => w.id === id);
+    const idx = orderedCardWords.findIndex((w) => w.id === id);
     if (idx >= 0) {
       setIndex(idx);
       setShowAnswer(false);
@@ -190,8 +216,13 @@ export function App() {
   };
 
   const shuffle = () => {
-    if (!words.length) return;
-    setWords((prev) => [...prev].sort(() => Math.random() - 0.5));
+    if (!orderedCardWords.length) return;
+    const shuffled = [...orderedCardWords.map((w) => w.id)];
+    for (let i = shuffled.length - 1; i > 0; i -= 1) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    setCardOrderIds(shuffled);
     setIndex(0);
     setShowAnswer(false);
     setAnimToken((t) => t + 1);
@@ -211,7 +242,13 @@ export function App() {
     setOpenedListItems(new Set());
     setAnimToken((t) => t + 1);
   };
-  const markKnown = (id: number) => setKnownIds((prev) => new Set(prev).add(id));
+  const toggleKnown = (id: number) =>
+    setKnownIds((prev) => {
+      const n = new Set(prev);
+      if (n.has(id)) n.delete(id);
+      else n.add(id);
+      return n;
+    });
   const toggleDifficult = (id: number) =>
     setDifficultIds((prev) => {
       const n = new Set(prev);
@@ -235,6 +272,12 @@ export function App() {
 
   const ITEMS_PER_PAGE = 100;
   const totalPages = Math.max(1, Math.ceil(filteredWords.length / ITEMS_PER_PAGE));
+  useEffect(() => {
+    setListPage((p) => {
+      const clamped = Math.max(1, Math.min(p, totalPages));
+      return clamped === p ? p : clamped;
+    });
+  }, [totalPages]);
   const safePage = Math.min(listPage, totalPages);
   const pagedWords = filteredWords.slice((safePage - 1) * ITEMS_PER_PAGE, safePage * ITEMS_PER_PAGE);
 
@@ -251,7 +294,7 @@ export function App() {
       if (k === "a") return e.preventDefault(), speakEnglish(current.word);
       if (k === "s") return e.preventDefault(), shuffle();
       if (k === "d") return e.preventDefault(), toggleDifficult(current.id);
-      if (k === "k") return e.preventDefault(), markKnown(current.id);
+      if (k === "k") return e.preventDefault(), toggleKnown(current.id);
     };
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
@@ -320,6 +363,7 @@ export function App() {
                     className="rangeBtn"
                     onClick={() => {
                       setSelectedRange(r.label);
+                      setCardOrderIds(null);
                       setIndex(0);
                       setShowAnswer(false);
                       setAnimToken((t) => t + 1);
@@ -362,7 +406,7 @@ export function App() {
                           </div>
                         ))}
                         <div className="markRow">
-                          <button className="stateBtn" aria-label="確認済み" onClick={(e) => (e.stopPropagation(), markKnown(current.id))}>
+                          <button className={`stateBtn ${knownIds.has(current.id) ? "knownState" : ""}`} aria-label="確認済みトグル" onClick={(e) => (e.stopPropagation(), toggleKnown(current.id))}>
                             <Icon d="M5 13l4 4L19 7" />
                           </button>
                           <button className={`stateBtn ${difficultIds.has(current.id) ? "activeState" : ""}`} aria-label="苦手トグル" onClick={(e) => (e.stopPropagation(), toggleDifficult(current.id))}>
@@ -394,7 +438,7 @@ export function App() {
                 <button className="miniBtn" onClick={() => jumpBy(50)}>
                   +50
                 </button>
-                <button className="miniBtn" onClick={() => (setSelectedRange(null), setIndex(0), setShowAnswer(false))}>
+                <button className="miniBtn" onClick={() => (setSelectedRange(null), setCardOrderIds(null), setIndex(0), setShowAnswer(false))}>
                   範囲変更
                 </button>
               </section>
@@ -458,7 +502,7 @@ export function App() {
                           </div>
                         ))}
                         <div className="markRow">
-                          <button className="stateBtn" aria-label="確認済み" onClick={(e) => (e.stopPropagation(), markKnown(w.id))}>
+                          <button className={`stateBtn ${knownIds.has(w.id) ? "knownState" : ""}`} aria-label="確認済みトグル" onClick={(e) => (e.stopPropagation(), toggleKnown(w.id))}>
                             <Icon d="M5 13l4 4L19 7" />
                           </button>
                           <button className={`stateBtn ${difficultIds.has(w.id) ? "activeState" : ""}`} aria-label="苦手トグル" onClick={(e) => (e.stopPropagation(), toggleDifficult(w.id))}>
